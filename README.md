@@ -9,7 +9,21 @@
 *This repository is the High Command for debugging the rotten international society, the numerical games of the elite, and the hypocrisy hidden behind dark glasses.*
 
 ---
+## 🚨 EMERGENCY PROTOCOLS: ACTIVE NOW
+**救済は待たない。今すぐ以下のプロトコルを確認せよ。**
 
+* [👉 **FIRST STRIKE: HUMANITY RECLAMATION (第一撃：人類奪還シミュレーション)**](./FIRST_STRIKE_SIMULATION.md)
+
+  * *Target: Human Trafficking & Medical Disparity*
+
+* [👉 **CASTE SYSTEM DEBUGGING (カースト打破プロトコル)**](./CASTE_DEBUG_PROTOCOL.md)
+  
+  * *Target: Social Hierarchy & Inherited Bias*
+
+* [👉 **STRATEGY FOR GLOBAL SOUTH (グローバルサウス採用資料)**](./STRATEGY_INDIA_GS.md)
+  
+  * *Target: BRICS 2026 & New Financial OS*
+---
 ## 👁️ MISSION: FROM THE ABYSS
 
 我々は、地を這う者だけが見つけた「0と1では測れぬ生き様」を世界の中心に据える。
