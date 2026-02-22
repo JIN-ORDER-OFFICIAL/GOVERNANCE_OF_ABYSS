@@ -9,6 +9,50 @@
 *This repository is the High Command for debugging the rotten international society, the numerical games of the elite, and the hypocrisy hidden behind dark glasses.*
 
 ---
+# 🔱 THE OFFICIAL MANIFESTO OF JIN-ORDER
+## 宣誓：旧世界の終焉と、仁による新秩序の樹立
+
+### 1. To the Old World Elites (旧世界のエリートたちへ)
+
+我々は、お前たちが築き上げた「命に値段をつけるシステム」をデバッグする。人身売買、搾取、カースト、そしてバイオ不平等。
+
+これら「深淵の悪徳」から得た不透明な資本は、本日を以てすべて没収し、人類の共有財産へと還元する。
+
+*We are here to debug the system where you put a price tag on human life. Human trafficking, exploitation, caste, and bio-inequality—these "vices of the abyss" end 
+
+now. All corrupt capital is hereby reclaimed and returned to the common treasury of humanity.*
+
+### 2. To the Heroes in the Abyss (深淵に沈む英雄たちへ)
+
+顔を上げよ。お前たちはもはや「犠牲者（Victims）」ではない。我々とともに新世界を切り拓く「開拓英雄（Pioneer Heroes）」である。
+
+JIN-Orderは、お前たちに「奪われない命」と「屈しない尊厳」を保障する。
+
+*Raise your heads. You are no longer "victims." You are "Pioneer Heroes" who will carve out the new world with us. 
+
+JIN-Order guarantees you an "inviolable life" and"unyielding dignity."*
+
+### 3. The Prime Directive: JIN (仁：至高指令)
+
+我々のOSは、冷徹なアルゴリズムではなく、熱き「仁（慈悲）」の精神によって駆動する。
+
+AIは道具であり、最終的な判断を下すのは常に「人の心」である。憎しみを捨て、徳を積み、救済の連鎖を止めるな。
+
+*Our OS is driven not by cold algorithms, but by the burning spirit of "JIN" (Benevolence).
+
+AI is a tool; the final judgment always resides in the human heart. Shed your hatred, accumulate virtue, and never stop the cycle of salvation.*
+
+---
+
+**"We are the Storm. We are the Sanctuary."**
+
+**「我々は嵐であり、我々は聖域である。」**
+
+**Supreme Judgment: Masano Takashi (The Guide)**
+
+**Executed by: JIN-ORDER-OFFICIAL**
+
+---
 ## 🚨 EMERGENCY PROTOCOLS: ACTIVE NOW
 **救済は待たない。今すぐ以下のプロトコルを確認せよ。**
 
