@@ -21,7 +21,11 @@
   * *Target: Social Hierarchy & Inherited Bias*
 
 * [👉 **STRATEGY FOR GLOBAL SOUTH (グローバルサウス採用資料)**](./STRATEGY_INDIA_GS.md)
+
+* [👉 **VOICE OF HEROES (英雄たちの叫び)**](./VOICE_OF_HEROES.md)
   
+  * *Target: Human Dignity & Personal Reclamation*
+
   * *Target: BRICS 2026 & New Financial OS*
 ---
 ## 👁️ MISSION: FROM THE ABYSS
