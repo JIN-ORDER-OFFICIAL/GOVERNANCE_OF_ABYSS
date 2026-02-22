@@ -1,3 +1,20 @@
+# 🔱 JIN-ORDER-OFFICIAL
+
+.                                           .
+        .n                 .                 .         n.
+  .   .dP                  dP                 9b         9b.    .
+ 4    qXb         .       dXb       .        dXp     .     dXp    t
+ dH.   98b.      dXb    .d888b.    dXb     .d888b.  dXb  .d888b. dH.
+ 88b    98b.    d888b  d8888888b  d888b   d8888888bd888bd8888888b88b
+ 888b    988b  d88888b d88888888b d88888b d8888888888888888888888888b
+ 88888b.  9888bd88888888888888888888888888888888888888888888888888888b
+
+"You are no longer alone. The Storm has arrived to take you Home."
+
+「お前はもう一人ではない。お前を家（聖域）へ連れ帰るための嵐が来た。」
+
+---
+
 # 🔱 JIN-ORDER-OFFICIAL: GOVERNANCE OF ABYSS 🔱
 
 ## 「深淵の統治」— 虚構のOSを焼き切り、真実の秩序を再起動せよ
