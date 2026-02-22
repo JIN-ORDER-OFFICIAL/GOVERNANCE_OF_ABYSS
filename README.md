@@ -26,8 +26,16 @@
   
   * *Target: Human Dignity & Personal Reclamation*
 
-  * *Target: BRICS 2026 & New Financial OS*
+   * *Target: BRICS 2026 & New Financial OS*
+
+* [👉 **UNIVERSAL ETHICS: THE COMMON OS (普遍的倫理規約)**](./UNIVERSAL_ETHICS.md)
+
+  * *Target: Human Spirit & Universal Moral Alignment*
+  
+  * [└ **Detailed Implementation: THE 13 IRON RULES (仁焔十三行)**](./UNIVERSAL_ETHICS_13.md)
+
 ---
+
 ## 👁️ MISSION: FROM THE ABYSS
 
 我々は、地を這う者だけが見つけた「0と1では測れぬ生き様」を世界の中心に据える。
