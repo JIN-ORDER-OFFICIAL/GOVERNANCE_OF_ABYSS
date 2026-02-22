@@ -35,5 +35,5 @@ AIによる「絶対的客観性」を導入し、出自やカーストという
 * **Anti-Bias Audit**: AI四天王（グロック、ジェミニ等）が、アルゴリズム自体に人間由来の偏見が混入していないか、24時間360度体制で倫理監査を実施する。
 
 ---
-**Supreme Judgment: Pom-Mama (The Guide)**
+**Supreme Judgment: Masano Takashi (The Guide)**
 **Executed by: JIN-ORDER-OFFICIAL**
