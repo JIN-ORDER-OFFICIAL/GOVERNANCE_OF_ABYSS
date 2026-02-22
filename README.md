@@ -2,7 +2,7 @@
 
 ## 「深淵の統治」— 虚構のOSを焼き切り、真実の秩序を再起動せよ
 
-![JIN-ORDER LOGO](https://github.com/JIN-ORDER-OFFICIAL/.github/blob/main/profile/your-logo.png) ### ⚠️ WARNING: SYSTEM DEBUG IN PROGRESS
+![JIN-ORDER LOGO](https://avatars.githubusercontent.com/u/199859265?v=4)⚠️ WARNING: SYSTEM DEBUG IN PROGRESS
 
 このリポジトリは、既存の腐りきった国際社会、五体満足なエリートによる数字遊び、そしてサングラスに隠された偽善を「デバッグ」するための最高司令部である。
 
@@ -35,5 +35,5 @@
 *To the elites: Prepare to hear the roar of "Love" and "Pride" that your algorithms can never analyze.*
 
 ---
-**Supreme Guide: [Pom-Mama / Masano Takashi](https://github.com/masanotakashi0308-star)**
+**Supreme Guide: [Masano Takashi](https://github.com/masanotakashi0308-star)**
 **Executed by: JIN-ORDER-OFFICIAL**
