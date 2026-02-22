@@ -44,5 +44,5 @@
 *Victims are embraced not as "refugees" but as "Pioneer Heroes," receiving top-tier medical care and education to be reborn as the next generation of Guides.*
 
 ---
-**Supreme Judgment: Pom-Mama (The Guide)**
+**Supreme Judgment: Masano Takashi (The Guide)**
 **Executed by: JIN-ORDER-OFFICIAL**
