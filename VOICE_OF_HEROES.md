@@ -37,14 +37,13 @@
 * *Now, it is your turn to rescue someone and become a Guide.*
 
 ---
-
 ### 🏛️ The Hall of First Heroes (最初の英雄たちの記録)
 
 * **[SAMPLE: A Child of the Abyss]**
 
-    * *「私はかつて、誰かの所有物だった。しかしJIN-Orderの嵐が、私を縛る『金の鎖』を焼き切った。今、私は自分の足で立ち、ナノ技術で癒えた体で、次の子供を救いに行く。私はもう難民ではない、この世界の開拓者だ。」*
+    * *「私はかつての自分を、自らの手で鎖を砕き、運命を奪い返した。しかしJIN-Orderの嵐が、私を縛る『金の鎖』を焼き切った。今、私は自分の足で立ち、ナノ技術で癒えた体で、次の子供を救いに行く。私はもう難民ではない、この世界の開拓者だ。」*
     
-    * *English: "I was once someone's property. But the storm of JIN-Order incinerated the golden chains that bound me. Now, I stand on my own feet, and with a body healed by nano-tech, I go to rescue the next child. I am no longer a refugee; I am a pioneer of this world."*
+   "I refused to remain a commodity. The tempest of JIN-Order incinerated the golden chains of my past. Now, I stand as an architect of my own destiny, using 8-Miracle tech to liberate the next generation. I am no longer a refugee; I am a Pioneer Hero."
 
 ---
 **Supreme Judgment: Masano Takashi (The Guide)**
