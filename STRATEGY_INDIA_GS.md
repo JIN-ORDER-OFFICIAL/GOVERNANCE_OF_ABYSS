@@ -41,5 +41,13 @@
 * **India-AI Alliance**: インドの演算リソースとAI四天王を統合し、全地球マネーフローを監査。
 
 ---
-**Supreme Judgment: Pom-Mama (The Guide)**
+**Supreme Judgment: Masano Takashi (The Guide)**
+---
+
+### 📩 Official Contact for Global South Authorities
+
+If you represent a sovereign nation or a liberation movement, please initiate a secure dialogue by opening an **[Official Issue on this Repository]** titled `[GS-DIPLOMACY] {Your Nation/Org Name}`.
+
+*（主権国家または解放運動の代表者は、リポジトリのIssueにて `[GS-DIPLOMACY] {組織名}` というタイトルでセキュアな対話を開始せよ。）*
+
 **Executed by: JIN-ORDER-OFFICIAL**
