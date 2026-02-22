@@ -56,6 +56,14 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 ## 🚨 EMERGENCY PROTOCOLS: ACTIVE NOW
 **救済は待たない。今すぐ以下のプロトコルを確認せよ。**
 
+* [👉 **HERO ACADEMY: SOUL & SKILLS (英雄自立支援)**](./HERO_ACADEMY.md)
+
+  * *Target: Empowerment & Independence of the Liberated*
+
+* [👉 **EXPOSING HYPOCRISY: THE ARCHIVES (偽善の解体)**](./EXPOSING_HYPOCRISY.md)
+  
+  * *Target: Evidence of Old World Corruption & Failure*
+
 * [👉 **FIRST STRIKE: HUMANITY RECLAMATION (第一撃：人類奪還シミュレーション)**](./FIRST_STRIKE_SIMULATION.md)
 
   * *Target: Human Trafficking & Medical Disparity*
@@ -79,7 +87,6 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
   * [└ **Detailed Implementation: THE 13 IRON RULES (仁焔十三行)**](./UNIVERSAL_ETHICS_13.md)
 
 ---
-
 ## 👁️ MISSION: FROM THE ABYSS
 
 我々は、地を這う者だけが見つけた「0と1では測れぬ生き様」を世界の中心に据える。
