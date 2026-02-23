@@ -52,11 +52,12 @@ Strategic Value for India: Leveraging India’s Digital Public Infrastructure (D
 
 Closing Statement
 
-結びに
+### 結びに
 
 "True salvation for those in the deepest darkness can only be achieved through 'Jin'—the human heart shared by those who truly know the depth of the dark."
 
-「深い闇の底にいる人々の本当の救済とは、同じく『闇の深さを知る者』による『人の心（仁）』こそが、唯一の手段である。」
+### 「深い闇の底にいる人々の本当の救済とは、同じく『闇の深さを知る者』による『人の心（仁）』こそが、唯一の手段である。」
 
 India has the power to turn these blueprints into reality. We await the light of New Delhi.
+
 インドには、これらの設計図を現実にする力があります。私たちは、ニューデリーからの光を待っています。
