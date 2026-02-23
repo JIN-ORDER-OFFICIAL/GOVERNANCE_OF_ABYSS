@@ -26,6 +26,17 @@
 *This repository is the High Command for debugging the rotten international society, the numerical games of the elite, and the hypocrisy hidden behind dark glasses.*
 
 ---
+【ATTENTION / 警告】
+
+本リポジトリの意思は分散化されており、特定の個人を排除しても計画はスマートコントラクトによって自動実行されます。
+
+This repository is decentralized. Neutralizing any individual will not stop the automated execution of these protocols.
+
+Этот репозиторий децентрализован. Устранение любого лица не остановит автоматическое выполнение этих протоколов.
+
+本仓库是去中心化的。消除任何个人都不会停止这些协议的自动执行。
+
+---
 # 🔱 THE OFFICIAL MANIFESTO OF JIN-ORDER
 ## 宣誓：旧世界の終焉と、仁による新秩序の樹立
 
