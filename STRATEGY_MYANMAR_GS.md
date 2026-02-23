@@ -56,5 +56,24 @@ Inject the JIN Global Relief Fund to upgrade the people's intellect into "recons
   * Inject funds directly into local communities via blockchain, bypassing corrupt middlemen.
 
 ---
+### 5. LEADERSHIP PROTECTION & RESOURCE SOVEREIGNTY / 指導者の保護と資源主権の確立
+
+指導者の正統性を守り、ミャンマーの富を民衆に直結させるための最終プロトコルです。
+
+The final protocol to protect the legitimacy of the leader and direct Myanmar's wealth to its people.
+
+* **JIN-Leader Direct Access**: スーチー氏が解放された瞬間に、インド（蜀）・イタリア（呉）・日本（魏）の首脳と「中抜きなし」で直結できる専用の暗号化チャネル（JIN-Passport: 
+Special Node）を事前に用意。官僚組織の妨害を許さない、不変の外交ラインを確立します。
+
+  * Establish a dedicated, encrypted channel (JIN-Passport: Special Node) to connect Daw Aung San Suu Kyi directly with the leaders of India, Italy, and Japan upon her release. This ensures an immutable diplomatic line free from bureaucratic interference.
+
+* **Resource Custody by JIN-IFP**: ミャンマーの資源（宝石・レアアース等）を、軍や特定の隣国ではなく「三極合同・救済ファンド（JIN-IFP）」が共同管理。ロシア撤退後の利権の空白を、
+独裁ではなく民衆の富へと直結させ、外資による一方的な略奪を封鎖します。
+
+  * Resources such as gemstones and rare earths will be co-managed by the JIN Global Relief Fund (JIN-IFP), not by the military or specific neighboring countries. This fills the vacuum after the Russian exit and directs the wealth to the people, blocking unilateral exploitation by foreign powers.
+
+---
+
 **「指導者の誇りと、民衆の知性が、黄金の国に真の夜明けをもたらす。JIN-ORDER。」**
+
 **"The pride of the leader and the intellect of the people bring the true dawn to the Golden Land. JIN-ORDER."**
