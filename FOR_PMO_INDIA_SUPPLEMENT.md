@@ -1,5 +1,3 @@
-### FOR_PMO_INDIA_SUPPLEMENT.md
-
 ### JIN-ORDER: Strategic Supplement for the Prime Minister's Office of India
 
 インド首相府向け：JIN-ORDER 戦略的補足資料
