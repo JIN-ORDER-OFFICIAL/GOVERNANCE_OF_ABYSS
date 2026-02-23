@@ -1,14 +1,18 @@
+### FOR_PMO_INDIA_SUPPLEMENT.md
+
 ### JIN-ORDER: Strategic Supplement for the Prime Minister's Office of India
 
-インド首相府向け：JIN-ORDER 戦略的補足資料
+### インド首相府向け：JIN-ORDER 戦略的補足資料
 
 This document provides specific action plans and high-priority operations derived from the JIN-ORDER framework, previously submitted to international organizations (UNHCR). We believe India is the only nation with the leadership to implement these "Antyodaya" solutions.
 
 本文書は、JIN-ORDERフレームワークに基づき、これまでに国際機関（UNHCR）へ提出された具体的なアクションプランと優先度の高いオペレーションをまとめたものです。我々は、インドこそがこれらの「アンティヨーダヤ（最後の一人の救済）」を体現する解決策を実行できる唯一のリーダーシップを持つ国であると確信しています。
 
+---
+
 ### 1. Operation "OASIS" (Afghanistan Stabilization)
 
-オペレーション「オアシス」（アフガニスタン安定化案）
+### オペレーション「オアシス」（アフガニスタン安定化案）
 
 [UNHCR Ticket: INC1287178]
 
@@ -20,9 +24,10 @@ Strategic Value for India: Enhancing regional security and establishing a "Benev
 
 インドへの戦略的価値: 地域安全保障の強化、および従来の地政学的対立を超えた「仁」に基づく西側への影響力構築。
 
+---
 ### 2. Operation "COBALT BLUE" (Democratic Republic of the Congo)
 
-オペレーション「コバルト・ブルー」（コンゴ民主共和国・資源救済案）
+### オペレーション「コバルト・ブルー」（コンゴ民主共和国・資源救済案）
 
 [UNHCR Ticket: INC1287180]
 
@@ -34,9 +39,10 @@ Strategic Value for India: Securing an ethical, "Jin-certified" supply chain for
 
 インドへの戦略的価値: 重要鉱物のエシカルかつ「仁」の認証を受けたサプライチェーンの確保。これによりインドを倫理的IT・EV製造の世界的なリーダーとして位置づける。
 
+---
 ### 3. Digital Empowerment for Refugees (JIN-IFP Integration)
 
-難民のデジタル・エンパワーメント（JIN-IFPの統合）
+### 難民のデジタル・エンパワーメント（JIN-IFPの統合）
 
 [UNHCR Ticket: INC1284630 / INC1287169]
 
@@ -50,6 +56,7 @@ Strategic Value for India: Leveraging India’s Digital Public Infrastructure (D
 
 Closing Statement
 
+---
 ### 結びに
 
 "True salvation for those in the deepest darkness can only be achieved through 'Jin'—the human heart shared by those who truly know the depth of the dark."
