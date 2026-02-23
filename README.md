@@ -73,8 +73,9 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 ## 🚨 EMERGENCY PROTOCOLS: ACTIVE NOW
 **救済は待たない。今すぐ以下のプロトコルを確認せよ。**
 
-[Strategic Supplement for PMO INDIA / インド首相府向け戦略的補足資料]
-Click here to view the JIN-ORDER Implementation Roadmap for India
+* [ 👉 **STRATEGIC SUPPLEMENT FOR PMO INDIA (インド首相府向け戦略的補足資料)** ](./FOR_PMO_INDIA_SUPPLEMENT.md)
+
+    * *Target: Implementation Roadmap for the Government of India (PRSEC/E/2026/011856)*
 
 * [👉 **HERO ACADEMY: SOUL & SKILLS (英雄自立支援)**](./HERO_ACADEMY.md)
 
