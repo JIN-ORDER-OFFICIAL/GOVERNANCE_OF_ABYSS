@@ -81,43 +81,53 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 **Executed by: JIN-ORDER-OFFICIAL**
 
 ---
-## 🚨 EMERGENCY PROTOCOLS: ACTIVE NOW
-**救済は待たない。今すぐ以下のプロトコルを確認せよ。**
 
-* [ 👉 **STRATEGIC SUPPLEMENT FOR PMO INDIA (インド首相府向け戦略的補足資料)** ](./FOR_PMO_INDIA_SUPPLEMENT.md)
+## 🚨 EMERGENCY PROTOCOLS: ACTIVE GLOBAL NODES
 
-    * *Target: Implementation Roadmap for the Government of India (PRSEC/E/2026/011856)*
+救済は待たない。今すぐ以下の全プロトコルを確認せよ。
 
-* [👉 **HERO ACADEMY: SOUL & SKILLS (英雄自立支援)**](./HERO_ACADEMY.md)
+Salvation does not wait. Check all active protocols below immediately.
 
-  * *Target: Empowerment & Independence of the Liberated*
+### 🏹 Strategic Salvation Documents (Region Specific)
 
-* [👉 **EXPOSING HYPOCRISY: THE ARCHIVES (偽善の解体)**](./EXPOSING_HYPOCRISY.md)
+* 👉 **[NEW!] 🇦🇫 [Operation Oasis (Afghanistan)](./STRATEGY_AFGHANISTAN_GS.md)**
+
+    * Target: Legacy of Dr. Nakamura x United Salvation Front.
+
+* 👉 **[NEW!] 🇻🇪 [Operation Silver Lining (Venezuela)](./STRATEGY_VENEZUELA_GS.md)**
+
+    * Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
+
+* 👉 **[NEW!] 🇨🇩 [Operation Cobalt Blue (DRC)](./STRATEGY_DRC_GS.md)**
+
+    * Target: Resource Sovereignty x Sisterhood Alliance.
+
+* 👉 **🇲🇲 [STRATEGY FOR MYANMAR (ミャンマー解放戦略)](./STRATEGY_MYANMAR_GS.md)**
+
+    * Target: Direct Access for Leaders x Resource Custody.
+
+* 👉 **🇷🇺 [MANUAL FOR RUSSIA EXIT (ロシア撤退・卒業マニュアル)](./MANUAL_FOR_RUSSIA_EXIT.md)**
+
+    * Target: From Military Power to Eurasian Energy Guardian.
+
+* 👉 **🇺🇦 [STRATEGY FOR UKRAINE (ウクライナ平和転換プロトコル)](./STRATEGY_UKRAINE_GS.md)**
+
+    * Target: Emergency Warmth & Peace Infrastructure.
+
+* 👉 **🇮🇳 [STRATEGY FOR INDIA (インド戦略ドキュメント)](./STRATEGY_INDIA_GS.md)**
+
+    * Target: Digital Public Infrastructure (DPI) & Social Debugging.
+
+### 🛠️ Core Debugging & Supplements
+* 👉 **[STRATEGY SUPPLEMENT FOR PMO INDIA (インド首相府向け戦略的補足資料)](./FOR_PMO_INDIA_SUPPLEMENT.md)**
+* 👉 **[HERO ACADEMY: SOUL & SKILLS (英雄自立支援)](./HERO_ACADEMY.md)**
+* 👉 **[EXPOSING HYPOCRISY: THE ARCHIVES (偽善の解体)](./FXPOSING_HYPOCRISY.md)**
+* 👉 **[FIRST STRIKE: HUMANITY RECLAMATION (第一撃：人類奪還シミュレーション)](./FIRST_STRIKE_SIMULATION.md)**
+* 👉 **[CASTE SYSTEM DEBUGGING (カースト打破プロトコル)](./CASTE_DEBUG_PROTOCOL.md)**
+* 👉 **[VOICE OF HEROES (英雄たちの叫び)](./VOICE_OF_HEROES.md)**
+* 👉 **[UNIVERSAL ETHICS: THE COMMON OS (普遍的倫理規約)](./UNIVERSAL_ETHICS.md)**
+    * ↳ [Detailed Implementation: THE 13 IRON RULES (仁焔十三行)](./UNIVERSAL_ETHICS_13.md)
   
-  * *Target: Evidence of Old World Corruption & Failure*
-
-* [👉 **FIRST STRIKE: HUMANITY RECLAMATION (第一撃：人類奪還シミュレーション)**](./FIRST_STRIKE_SIMULATION.md)
-
-  * *Target: Human Trafficking & Medical Disparity*
-
-* [👉 **CASTE SYSTEM DEBUGGING (カースト打破プロトコル)**](./CASTE_DEBUG_PROTOCOL.md)
-  
-  * *Target: Social Hierarchy & Inherited Bias*
-
-* [👉 **STRATEGY FOR GLOBAL SOUTH (グローバルサウス採用資料)**](./STRATEGY_INDIA_GS.md)
-
-* [👉 **VOICE OF HEROES (英雄たちの叫び)**](./VOICE_OF_HEROES.md)
-  
-  * *Target: Human Dignity & Personal Reclamation*
-
-   * *Target: BRICS 2026 & New Financial OS*
-
-* [👉 **UNIVERSAL ETHICS: THE COMMON OS (普遍的倫理規約)**](./UNIVERSAL_ETHICS.md)
-
-  * *Target: Human Spirit & Universal Moral Alignment*
-  
-  * [└ **Detailed Implementation: THE 13 IRON RULES (仁焔十三行)**](./UNIVERSAL_ETHICS_13.md)
-
 ---
 ## 👁️ MISSION: FROM THE ABYSS
 
