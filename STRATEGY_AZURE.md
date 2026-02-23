@@ -35,6 +35,8 @@
 
 [EN] Providing an exit strategy to guide informal funds into "Regional Renaissance Bonds," regenerating them into transparent, clean assets over several years.
 
-5. Pure Supply Protocol (純粋供給プロトコル)
+### 5. Pure Supply Protocol (純粋供給プロトコル)
+
 [JP] 次世代の健康と安全を守るため、すべての流入物資に量子ナノ・マーカーによる厳格な品質証明（トレーサビリティ）を求め、不透明な供給源からの依存を排除します。
+
 [EN] To protect the health and safety of the next generation, we require strict quality certification (traceability) via quantum nano-markers for all incoming goods, eliminating dependence on non-transparent supply sources.
