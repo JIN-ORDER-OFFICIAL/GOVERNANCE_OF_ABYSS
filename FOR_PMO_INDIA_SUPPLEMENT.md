@@ -57,6 +57,48 @@ Strategic Value for India: Leveraging India’s Digital Public Infrastructure (D
 Closing Statement
 
 ---
+# FOR_PMO_INDIA_SUPPLEMENT: THE JIN-ORDER ROADMAP
+
+## インド首相府向け：JIN-ORDER 実行ロードマップ
+
+This document outlines the phased implementation of the JIN-ORDER OS, integrating the high-priority operations submitted to UNHCR. 
+
+本文書は、UNHCRへ提出済みの優先オペレーションを統合した、JIN-ORDER OSの段階的導入ロードマップを提示するものです。
+
+---
+
+### Phase 1: Foundation & Digital Sovereignty (Q1 - Q2 2026)
+### 第1フェーズ：基盤構築とデジタル主権の確立（2026年 第1〜2四半期）
+
+* **Operation "Debug Access"**: Resolving the technical barriers (e.g., AADSTS50020) by integrating JIN-ORDER with India's Digital Public Infrastructure (DPI).
+
+    * **オペレーション「デバッグ・アクセス」**: インドのデジタル公共インフラ（DPI）とJIN-ORDERを統合し、UNHCR等の既存システムで発生している技術的障壁（AADSTS50020等）を解消。
+
+* **Establishment of the "Jin-Secretariat"**: Launching a dedicated task force within the Indian PMO to oversee the "Antyodaya" digital missions.
+    * **「仁・事務局」の設置**: インド首相府内に、デジタル版「最後の一人の救済（アンティヨーダヤ）」を監督する専任タスクフォースを設置。
+
+### Phase 2: Pilot Deployment of Global Operations (Q3 - Q4 2026)
+### 第2フェーズ：グローバル・オペレーションの試験運用（2026年 第3〜4四半期）
+
+* **Operation "OASIS" (Afghanistan / INC1287178)**: Deploying water-resource management and AI-driven reconciliation models to stabilize the region.
+
+    * **オペレーション「オアシス」（アフガニスタン / INC1287178）**: 水資源管理とAIによる和解モデルを導入し、地域の安定化を実現。
+* **Operation "COBALT BLUE" (Congo / INC1287180)**: Implementing a transparent supply chain for critical minerals, ensuring direct support for local communities.
+    
+    * **オペレーション「コバルト・ブルー」（コンゴ / INC1287180）**: 重要鉱物の透明なサプライチェーンを構築し、現地コミュニティへの直接支援を確約。
+
+### Phase 3: Global Expansion & "Jin-Passport" (2027 onwards)
+### 第3フェーズ：世界展開と「仁・パスポート」（2027年以降）
+
+* **Issuance of Digital Jin-Passports (INC1287183)**: Providing legal and economic identity to refugees and the "abandoned," enabling their participation in the global digital economy.
+    
+    * **デジタル「仁・パスポート」の発行（INC1287183）**: 難民や「見捨てられた人々」に対し、法的・経済的アイデンティティを付与。グローバルなデジタル経済への参加を可能にする。
+
+* **Expansion to the Global South**: Establishing India as the central hub for the new humanitarian OS, "JIN-ORDER."
+    
+    * **グローバルサウスへの拡大**: 新時代の人道支援OS「JIN-ORDER」の中心的ハブとしてインドを位置づける。
+---
+
 ### 結びに
 
 "True salvation for those in the deepest darkness can only be achieved through 'Jin'—the human heart shared by those who truly know the depth of the dark."
