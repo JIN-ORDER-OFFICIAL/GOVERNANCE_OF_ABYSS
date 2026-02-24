@@ -129,22 +129,26 @@ Target: Digital Public Infrastructure (DPI) & Social Debugging.
 
 ---
 
-### 🕊️ Field Reports (Voices from the Ground)
-
-### 📢 ./VOICE_OF_HEROES.md
-
-世界各地の地殻変動と、英雄たちの叫び。中東・東アフリカの「予兆ログ」を最前線に配置。
+### 🕊️ Field Reports
+* 📢 **最新の現場ログ:** [VOICE_OF_HEROES.md](VOICE_OF_HEROES.md)
 
 ---
 
 ### 🛠️ Core Debugging & Supplements
 * 👉 **[STRATEGY SUPPLEMENT FOR PMO INDIA (インド首相府向け戦略的補足資料)](./FOR_PMO_INDIA_SUPPLEMENT.md)**
+
 * 👉 **[HERO ACADEMY: SOUL & SKILLS (英雄自立支援)](./HERO_ACADEMY.md)**
+
 * 👉 **[EXPOSING HYPOCRISY: THE ARCHIVES (偽善の解体)](./FXPOSING_HYPOCRISY.md)**
+
 * 👉 **[FIRST STRIKE: HUMANITY RECLAMATION (第一撃：人類奪還シミュレーション)](./FIRST_STRIKE_SIMULATION.md)**
+
 * 👉 **[CASTE SYSTEM DEBUGGING (カースト打破プロトコル)](./CASTE_DEBUG_PROTOCOL.md)**
+
 * 👉 **[VOICE OF HEROES (英雄たちの叫び)](./VOICE_OF_HEROES.md)**
+
 * 👉 **[UNIVERSAL ETHICS: THE COMMON OS (普遍的倫理規約)](./UNIVERSAL_ETHICS.md)**
+
     * ↳ [Detailed Implementation: THE 13 IRON RULES (仁焔十三行)](./UNIVERSAL_ETHICS_13.md)
   
 ---
