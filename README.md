@@ -85,49 +85,50 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 ### （世界戦略救済インデックス - 2026 最終更新版）
 
 ### 📑 Strategic Salvation Documents (Region Specific)
-### 各地域のバグを修正し、平穏をデプロイするための極秘戦略書一覧
+各地域のバグを修正し、平穏をデプロイするための極秘戦略書一覧
 
-### 🆕 [NEW!] 🌍 ./STRATEGY_MIDDLE_EAST.md
+* 🆕 **[NEW!] 中東戦略:** [STRATEGY_MIDDLE_EAST.md](STRATEGY_MIDDLE_EAST.md)
 
 Target: The Zakat Spiral & WPO Renaissance.
 
-Focus: 米露共同保証（WPO）による「平等分配」の実装と、中東全域の「仁」の統治。
+Focus: 米露共同保証（WPO）による「平等分配」の実装と、中東全域の「仁」の統治
 
-### 🆕 [NEW!] 🇪🇹 ./STRATEGY_EAST_AF_RICA.md
+* 🆕 **[NEW!] 東アフリカ戦略:** [STRATEGY_EAST_AFRICA.md](STRATEGY_EAST_AFRICA.md)
 
 Target: Nile Renaissance Protocol.
 
 Focus: 対中債務の相殺と、アフガン・ティグレ統合ガードによる「ナイルの螺旋」計画。
 
-### 🆕 [NEW!] 🇦🇫 ./Operation Oasis (Afghanistan)
+* 🆕 **[NEW!] アフガニスタン:** [STRATEGY_AFGHANISTAN_GS.md](STRATEGY_AFGHANISTAN_GS.md)
 
 Target: Legacy of Dr. Nakamura x United Salvation Front.
 
-### 🆕 [NEW!] 🇻🇪 ./Operation Silver Lining (Venezuela)
+* 🆕 **[NEW!] ベネズエラ:** [STRATEGY_AZURE.md](STRATEGY_AZURE.md)
 
 Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
 
-### 🆕 [NEW!] 🇨🇩 ./Operation Cobalt Blue (DRC)
+* 🆕 **[NEW!] コンゴ民主共和国:** [STRATEGY_DRC_GS.md](STRATEGY_DRC_GS.md)
 
 Target: Resource Sovereignty x Sisterhood Alliance.
 
-### 🇲🇲 ./STRATEGY FOR MYANMAR (ミャンマー解放戦略)
+* 🇲🇲 **ミャンマー:** [STRATEGY_MYANMAR_GS.md](STRATEGY_MYANMAR_GS.md)
 
 Target: Direct Access for Leaders x Resource Custody.
 
-### 🇷🇺 ./MANUAL FOR RUSSIA EXIT (ロシア撤退・卒業マニュアル)
+* 🇷🇺 **ロシア卒業:** [MANUAL_FOR_RUSSIA_EXIT.md](MANUAL_FOR_RUSSIA_EXIT.md)
 
 Target: From Military Power to Eurasian Energy Guardian.
 
-### 🇺🇦 ./STRATEGY FOR UKRAINE (ウクライナ平和転換プロトコル)
+* 🇺🇦 **ウクライナ:** [STRATEGY_UKRAINE_GS.md](STRATEGY_UKRAINE_GS.md)
 
 Target: Emergency Warmth & Peace Infrastructure.
 
-### 🇮🇳 ./STRATEGY FOR INDIA (インド戦略ドキュメント)
+* 🇮🇳 **インド:** [STRATEGY_INDIA_GS.md](STRATEGY_INDIA_GS.md)
 
 Target: Digital Public Infrastructure (DPI) & Social Debugging.
 
 ---
+
 ### 🕊️ Field Reports (Voices from the Ground)
 
 ### 📢 ./VOICE_OF_HEROES.md
