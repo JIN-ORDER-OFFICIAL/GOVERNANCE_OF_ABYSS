@@ -87,48 +87,49 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 📑 Strategic Salvation Documents (Region Specific)
 各地域のバグを修正し、平穏をデプロイするための極秘戦略書一覧
 
-🆕 [NEW!] 🌍 STRATEGY_MIDDLE_EAST.md
+🆕 [NEW!] 🌍 ./STRATEGY_MIDDLE_EAST.md
 
 Target: The Zakat Spiral & WPO Renaissance.
 
 Focus: 米露共同保証（WPO）による「平等分配」の実装と、中東全域の「仁」の統治。
 
-🆕 [NEW!] 🇪🇹 STRATEGY_EAST_AFRICA.md
+🆕 [NEW!] 🇪🇹 ./STRATEGY_EAST_AFRICA.md
 
 Target: Nile Renaissance Protocol.
 
 Focus: 対中債務の相殺と、アフガン・ティグレ統合ガードによる「ナイルの螺旋」計画。
 
-🆕 [NEW!] 🇦🇫 Operation Oasis (Afghanistan)
+🆕 [NEW!] 🇦🇫 ./Operation Oasis (Afghanistan)
 
 Target: Legacy of Dr. Nakamura x United Salvation Front.
 
-🆕 [NEW!] 🇻🇪 Operation Silver Lining (Venezuela)
+🆕 [NEW!] 🇻🇪 ./Operation Silver Lining (Venezuela)
 
 Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
 
-🆕 [NEW!] 🇨🇩 Operation Cobalt Blue (DRC)
+🆕 [NEW!] 🇨🇩 ./Operation Cobalt Blue (DRC)
 
 Target: Resource Sovereignty x Sisterhood Alliance.
 
-🇲🇲 STRATEGY FOR MYANMAR (ミャンマー解放戦略)
+🇲🇲 ./STRATEGY FOR MYANMAR (ミャンマー解放戦略)
 
 Target: Direct Access for Leaders x Resource Custody.
 
-🇷🇺 MANUAL FOR RUSSIA EXIT (ロシア撤退・卒業マニュアル)
+🇷🇺 ./MANUAL FOR RUSSIA EXIT (ロシア撤退・卒業マニュアル)
 
 Target: From Military Power to Eurasian Energy Guardian.
 
-🇺🇦 STRATEGY FOR UKRAINE (ウクライナ平和転換プロトコル)
+🇺🇦 ./STRATEGY FOR UKRAINE (ウクライナ平和転換プロトコル)
 
 Target: Emergency Warmth & Peace Infrastructure.
 
-🇮🇳 STRATEGY FOR INDIA (インド戦略ドキュメント)
+🇮🇳 ./STRATEGY FOR INDIA (インド戦略ドキュメント)
 
 Target: Digital Public Infrastructure (DPI) & Social Debugging.
 
 🕊️ Field Reports (Voices from the Ground)
-📢 VOICE_OF_HEROES.md
+
+📢 ./VOICE_OF_HEROES.md
 
 世界各地の地殻変動と、英雄たちの叫び。中東・東アフリカの「予兆ログ」を最前線に配置。
 
