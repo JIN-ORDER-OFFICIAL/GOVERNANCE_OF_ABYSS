@@ -89,49 +89,49 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 
 * 🆕 **[NEW!] 中東戦略:** [STRATEGY_MIDDLE_EAST.md](STRATEGY_MIDDLE_EAST.md)
 
-Target: The Zakat Spiral & WPO Renaissance.
+　　Target: The Zakat Spiral & WPO Renaissance.
 
-Focus: 米露共同保証（WPO）による「平等分配」の実装と、中東全域の「仁」の統治
+　　Focus: 米露共同保証（WPO）による「平等分配」の実装と、中東全域の「仁」の統治
 
 * 🆕 **[NEW!] 東アフリカ戦略:** [STRATEGY_EAST_AFRICA.md](STRATEGY_EAST_AFRICA.md)
 
-Target: Nile Renaissance Protocol.
+　　Target: Nile Renaissance Protocol.
 
-Focus: 対中債務の相殺と、アフガン・ティグレ統合ガードによる「ナイルの螺旋」計画。
+　　Focus: 対中債務の相殺と、アフガン・ティグレ統合ガードによる「ナイルの螺旋」計画。
 
 * 🆕 **[NEW!] アフガニスタン:** [STRATEGY_AFGHANISTAN_GS.md](STRATEGY_AFGHANISTAN_GS.md)
 
-Target: Legacy of Dr. Nakamura x United Salvation Front.
+　　Target: Legacy of Dr. Nakamura x United Salvation Front.
 
-🆕 **[NEW!] 中国戦略: :** [STRATEGY_CHINA_HARMONY.md](STRATEGY_CHINA_HARMONY.md)
+* 🆕 **[NEW!] 中国戦略: :** [STRATEGY_CHINA_HARMONY.md](STRATEGY_CHINA_HARMONY.md)
 
-Target: The True "She-Ji" (Harmony of Soil and People).
+　　Target: The True "She-Ji" (Harmony of Soil and People).
 
-Focus: 自治区の自治権承認と闇の断絶、台湾との平和的共生。徳による統治（大同世界）の復興と、14億の民草を豊かにする「真の社稷」のデプロイ。
+　　Focus: 自治区の自治権承認と闇の断絶、台湾との平和的共生。徳による統治（大同世界）の復興と、14億の民草を豊かにする「真の社稷」のデプロイ。
 
 * 🆕 **[NEW!] ベネズエラ:** [STRATEGY_AZURE.md](STRATEGY_AZURE.md)
 
-Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
+　　Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
 
 * 🆕 **[NEW!] コンゴ民主共和国:** [STRATEGY_DRC_GS.md](STRATEGY_DRC_GS.md)
 
-Target: Resource Sovereignty x Sisterhood Alliance.
+　　Target: Resource Sovereignty x Sisterhood Alliance.
 
 * 🇲🇲 **ミャンマー:** [STRATEGY_MYANMAR_GS.md](STRATEGY_MYANMAR_GS.md)
 
-Target: Direct Access for Leaders x Resource Custody.
+　　Target: Direct Access for Leaders x Resource Custody.
 
 * 🇷🇺 **ロシア卒業:** [MANUAL_FOR_RUSSIA_EXIT.md](MANUAL_FOR_RUSSIA_EXIT.md)
 
-Target: From Military Power to Eurasian Energy Guardian.
+　　Target: From Military Power to Eurasian Energy Guardian.
 
 * 🇺🇦 **ウクライナ:** [STRATEGY_UKRAINE_GS.md](STRATEGY_UKRAINE_GS.md)
 
-Target: Emergency Warmth & Peace Infrastructure.
+　　Target: Emergency Warmth & Peace Infrastructure.
 
 * 🇮🇳 **インド:** [STRATEGY_INDIA_GS.md](STRATEGY_INDIA_GS.md)
 
-Target: Digital Public Infrastructure (DPI) & Social Debugging.
+　　Target: Digital Public Infrastructure (DPI) & Social Debugging.
 
 ---
 
