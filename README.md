@@ -81,42 +81,58 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 **Executed by: JIN-ORDER-OFFICIAL**
 
 ---
+🌐 JIN-ORDER: Global Strategic Salvation Index
+（世界戦略救済インデックス - 2026 最終更新版）
 
-## 🚨 EMERGENCY PROTOCOLS: ACTIVE GLOBAL NODES
+📑 Strategic Salvation Documents (Region Specific)
+各地域のバグを修正し、平穏をデプロイするための極秘戦略書一覧
 
-救済は待たない。今すぐ以下の全プロトコルを確認せよ。
+🆕 [NEW!] 🌍 STRATEGY_MIDDLE_EAST.md
 
-Salvation does not wait. Check all active protocols below immediately.
+Target: The Zakat Spiral & WPO Renaissance.
 
-### 🏹 Strategic Salvation Documents (Region Specific)
+Focus: 米露共同保証（WPO）による「平等分配」の実装と、中東全域の「仁」の統治。
 
-* 👉 **[NEW!] 🇦🇫 [Operation Oasis (Afghanistan)](./STRATEGY_AFGHANISTAN_GS.md)**
+🆕 [NEW!] 🇪🇹 STRATEGY_EAST_AFRICA.md
 
-    * Target: Legacy of Dr. Nakamura x United Salvation Front.
+Target: Nile Renaissance Protocol.
 
-* 👉 **[NEW!] 🇻🇪 [Operation Silver Lining (Venezuela)](./STRATEGY_VENEZUELA_GS.md)**
+Focus: 対中債務の相殺と、アフガン・ティグレ統合ガードによる「ナイルの螺旋」計画。
 
-    * Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
+🆕 [NEW!] 🇦🇫 Operation Oasis (Afghanistan)
 
-* 👉 **[NEW!] 🇨🇩 [Operation Cobalt Blue (DRC)](./STRATEGY_DRC_GS.md)**
+Target: Legacy of Dr. Nakamura x United Salvation Front.
 
-    * Target: Resource Sovereignty x Sisterhood Alliance.
+🆕 [NEW!] 🇻🇪 Operation Silver Lining (Venezuela)
 
-* 👉 **🇲🇲 [STRATEGY FOR MYANMAR (ミャンマー解放戦略)](./STRATEGY_MYANMAR_GS.md)**
+Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
 
-    * Target: Direct Access for Leaders x Resource Custody.
+🆕 [NEW!] 🇨🇩 Operation Cobalt Blue (DRC)
 
-* 👉 **🇷🇺 [MANUAL FOR RUSSIA EXIT (ロシア撤退・卒業マニュアル)](./MANUAL_FOR_RUSSIA_EXIT.md)**
+Target: Resource Sovereignty x Sisterhood Alliance.
 
-    * Target: From Military Power to Eurasian Energy Guardian.
+🇲🇲 STRATEGY FOR MYANMAR (ミャンマー解放戦略)
 
-* 👉 **🇺🇦 [STRATEGY FOR UKRAINE (ウクライナ平和転換プロトコル)](./STRATEGY_UKRAINE_GS.md)**
+Target: Direct Access for Leaders x Resource Custody.
 
-    * Target: Emergency Warmth & Peace Infrastructure.
+🇷🇺 MANUAL FOR RUSSIA EXIT (ロシア撤退・卒業マニュアル)
 
-* 👉 **🇮🇳 [STRATEGY FOR INDIA (インド戦略ドキュメント)](./STRATEGY_INDIA_GS.md)**
+Target: From Military Power to Eurasian Energy Guardian.
 
-    * Target: Digital Public Infrastructure (DPI) & Social Debugging.
+🇺🇦 STRATEGY FOR UKRAINE (ウクライナ平和転換プロトコル)
+
+Target: Emergency Warmth & Peace Infrastructure.
+
+🇮🇳 STRATEGY FOR INDIA (インド戦略ドキュメント)
+
+Target: Digital Public Infrastructure (DPI) & Social Debugging.
+
+🕊️ Field Reports (Voices from the Ground)
+📢 VOICE_OF_HEROES.md
+
+世界各地の地殻変動と、英雄たちの叫び。中東・東アフリカの「予兆ログ」を最前線に配置。
+
+---
 
 ### 🛠️ Core Debugging & Supplements
 * 👉 **[STRATEGY SUPPLEMENT FOR PMO INDIA (インド首相府向け戦略的補足資料)](./FOR_PMO_INDIA_SUPPLEMENT.md)**
