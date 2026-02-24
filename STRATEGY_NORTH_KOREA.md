@@ -78,4 +78,4 @@ This document outlines the transition of the Democratic People's Republic of Kor
 ---
 **Status:** [DRAFTING]
 **Priorities:** High (Immediate Deployment to WPK 9th Congress)
-**Contact:** POMEMAMA (JIN-ORDER GLOBAL)
+**Contact:** Masano Takashi (JIN-ORDER GLOBAL)
