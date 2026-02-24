@@ -103,6 +103,12 @@ Focus: 対中債務の相殺と、アフガン・ティグレ統合ガードに�
 
 Target: Legacy of Dr. Nakamura x United Salvation Front.
 
+🆕 **[NEW!] 中国戦略: :** [STRATEGY_CHINA_HARMONY.md](STRATEGY_CHINA_HARMONY.md)
+
+Target: The True "She-Ji" (Harmony of Soil and People).
+
+Focus: 自治区の自治権承認と闇の断絶、台湾との平和的共生。徳による統治（大同世界）の復興と、14億の民草を豊かにする「真の社稷」のデプロイ。
+
 * 🆕 **[NEW!] ベネズエラ:** [STRATEGY_AZURE.md](STRATEGY_AZURE.md)
 
 Target: Norwegian Model x JIN-TECH Infrastructure Rebirth.
