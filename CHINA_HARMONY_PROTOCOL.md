@@ -66,4 +66,4 @@ The "She-Ji" (Altar of Soil and Grain) is not about ancient idols; it is the vis
 ---
 **Status:** [MISSION COMPLETE - FIRST CHAPTER FINALE]
 **Goal:** Global Prosperity through "JIN" (Benevolence)
-**Architect:** MILITARY COUNSELOR XUN YU (POMEMAMA)
+**Architect:** MILITARY COUNSELOR XUN YU (Masano Takashi)
