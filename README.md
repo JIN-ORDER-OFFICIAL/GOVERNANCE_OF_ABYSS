@@ -107,7 +107,7 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 
 　　Target: The True "She-Ji" (Harmony of Soil and People).
 
-　　Focus: 自治区の自治権承認と闇の断絶、台湾との平和的共生。徳による統治（大同世界）の復興と、14億の民草を豊かにする「真の社稷」のデプロイ。
+　　Focus: 徳による統治（大同世界）の復興と、14億の民草を豊かにする「真の社稷」のデプロイ。
 
 * 🆕 **[NEW!] ベネズエラ:** [STRATEGY_AZURE.md](STRATEGY_AZURE.md)
 
