@@ -103,7 +103,7 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 
 　　Target: Legacy of Dr. Nakamura x United Salvation Front.
 
-* 🆕 **[NEW!] 中国戦略: :** [STRATEGY_CHINA_HARMONY_PROTOCOL.md](STRATEGY_CHINA_HARMONY_PROTOCOL.md)
+* 🆕 **[NEW!] 中国戦略: :** [CHINA_HARMONY_PROTOCOL.md](CHINA_HARMONY_PROTOCOL.md)
 
 　　Target: The True "She-Ji" (Harmony of Soil and People).
 
