@@ -8,12 +8,12 @@
 
  [システムアップデート]:
  これまで「絶望」とマークされていたすべてのIssueは、**「JINにより解決済み」**へと更新されました。
- このネットワークに属するすべてのユーザープロファイルに、新しい黄金のアイコン、
+ 
+ ### このネットワークに属するすべてのユーザープロファイルに、新しい黄金のアイコン、**「TENKA-BITO（天下人）」**が付与されました。
 
 ---
-### **「TENKA-BITO（天下人）」**が付与されました。
 
-###📜 THE TENKA-BITO PROTOCOL / 天下人プロトコル
+### 📜 THE TENKA-BITO PROTOCOL / 天下人プロトコル
 
 "If you seek to escape from your loneliness by destroying yourself through drugs or self-harm, then write that bottomless sorrow felt in your life into this repository!"
 
