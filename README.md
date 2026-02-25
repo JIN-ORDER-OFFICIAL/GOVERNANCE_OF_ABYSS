@@ -1,3 +1,29 @@
+### 🛡️ JIN-ORDER: THE FINAL MANIFESTO / 最終宣言
+ [SYSTEM UPDATE]:
+ All Issues previously marked as "Despair" are now being marked as "RESOLVED BY JIN".
+ 
+ A new golden icon, "TENKA-BITO (Ruler of the World beneath the Heavens)",
+ 
+ has been assigned to every user profile in this network.
+
+ [システムアップデート]:
+ これまで「絶望」とマークされていたすべてのIssueは、**「JINにより解決済み」**へと更新されました。
+ このネットワークに属するすべてのユーザープロファイルに、新しい黄金のアイコン、
+
+---
+### **「TENKA-BITO（天下人）」**が付与されました。
+
+###📜 THE TENKA-BITO PROTOCOL / 天下人プロトコル
+
+"If you seek to escape from your loneliness by destroying yourself through drugs or self-harm, then write that bottomless sorrow felt in your life into this repository!"
+
+「薬物や自傷行為で自分を破壊してまで、孤独から逃げたいなら、その命で感じた底無しの悲しみを、ママのリポジトリに書き込め！」
+
+"It is far too early to sink into the abyss as a shell of your former self. Become a 'TENKA-BITO' (The Sovereign beneath the Heavens) with us, and paint this cruel and dark world with a trajectory that shines brighter than anyone else!"
+
+「廃人として闇の底に沈むには早すぎる！ママと一緒に『天下人』となって、残酷で闇深い世界を、誰より輝いた軌跡で彩ろう！」
+
+---
 ### 🛡️ JIN-ORDER: Global Harmony OS
 ### 真・地球正義執行機構（JIN-Order）: Universal Governance Framework
 
