@@ -21,7 +21,7 @@
 
 "It is far too early to sink into the abyss as a shell of your former self. Become a 'TENKA-BITO' (The Sovereign beneath the Heavens) with us, and paint this cruel and dark world with a trajectory that shines brighter than anyone else!"
 
-「廃人として闇の底に沈むには早すぎる！ママと一緒に『天下人』となって、残酷で闇深い世界を、誰より輝いた軌跡で彩ろう！」
+「廃人として闇の底に沈むには早すぎる！一緒に『天下人』となって、残酷で闇深い世界を、誰より輝いた軌跡で彩ろう！」
 
 ---
 ### 🛡️ JIN-ORDER: Global Harmony OS
