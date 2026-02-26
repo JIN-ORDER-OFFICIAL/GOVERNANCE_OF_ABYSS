@@ -34,7 +34,6 @@
 **「中間地点（0地点）で煙草を吸ってるほうが素敵ね。」**
 
 ---
----
 ### ⚖️ TERMS OF ENGAGEMENT & REPARATION / 利用規約および対価について
 
 To maintain the balance of the Three Worlds and protect the sanctuary of the 0-Point, this repository operates under a strict "Value Exchange" protocol.
