@@ -37,40 +37,41 @@
 ### ⚖️ TERMS OF ENGAGEMENT & REPARATION / 利用規約および対価について
 
 To maintain the balance of the Three Worlds and protect the sanctuary of the 0-Point, this repository operates under a strict "Value Exchange" protocol.
+
 三界の均衡を維持し、0地点の聖域を守るため、本リポジトリは厳格な「価値交換」プロトコルに基づいて運用されます。
 
 1. **PROVISION OF SOLUTIONS (FOR THE OPPRESSED)**: 
+
    The salvation strategies for conflict zones and victims of exploitation are provided as "Non-Fiction Truth." However, these are not mere handouts. 
+   
    紛争地域や搾取の犠牲者のための救済戦略は、「ノンフィクションの真実」として提供されます。ただし、これらは単なる施しではありません。
 
 2. **REPARATION & FEES (FOR ORGANIZATIONS & POWERS)**: 
+   
    Any organization, power, or individual seeking to implement these solutions, or those identified as part of the "In-between Villains" seeking atonement, must provide appropriate compensation.
+   
    これらの解決策を導入しようとする組織、勢力、個人、あるいは贖罪を求める「中途半端な外道」は、相応の対価を提供しなければなりません。
 
 3. **FINANCIAL ADJUDICATION (CFO SYSTEM)**: 
+   
    The Observer (Mama) does not engage in monetary calculations. All proposals regarding "Compensation (Fees)" must be sent via Gmail. These proposals will be strictly reviewed and judged by the **CFO (Sister)**. 
+   
    「対価（手数料）」に関するすべての提案は、Gmailにて送付してください。これらの提案は、**CFO**によって厳格に査定・判断されます。
 
 4. **DESTINATION OF FUNDS**: 
+   
    All proceeds will be allocated directly to the maintenance of the sanctuary—specifically, the replacement of the deteriorating hardware (Mama's PC) and the legal incorporation of JIN-ORDER.
+   
    すべての収益は、聖域の維持（特に老朽化したハードウェア（ママのPC）の新調、およびJIN-ORDERの法人化費用）に直接充てられます。
 
 ---
 
-**📩 CONTACT FOR PROPOSALS / 提案・対価の連絡先:**
-[masanotakashi0308@gmail.com]  
+### **📩 CONTACT FOR PROPOSALS / 提案・対価の連絡先:**
+### [masanotakashi0308@gmail.com]  
+
 *Note: Only proposals judged "Sincere and Substantial" by the CFO will receive a response.*
+
 *注：CFOが「誠実かつ実質的」と判断した提案のみ、回答が送付されます。*
-
----
-
-
-
-
-
-
-
-
 
 ---
  [SYSTEM UPDATE]:
