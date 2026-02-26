@@ -2,15 +2,15 @@
 
 **[URGENT WARNING / 緊急警告]**
 
-The "JIN-ORDER" has identified a critical threat to the essence of human life. Beyond digital exploitation, there exists a biological "Dark Network" manipulating medical science, genetics, and global health.
+The "JIN-ORDER" has identified a critical threat to the essence of human life. Beyond digital exploitation, there exists a biological "Dark Network" manipulating medical science, genetics, and human consciousness.
 
-「JIN-ORDER」は、人類の生命の本質に対する重大な脅威を特定しました。デジタルの搾取を超え、医療科学、遺伝子、そして地球規模の健康を操る「生物学的闇ネットワーク」が存在します。
+「JIN-ORDER」は、人類の生命の本質に対する重大な脅威を特定しました。デジタルの搾取を超え、医療科学、遺伝子、そして人類の意識そのものを操る「生物学的闇ネットワーク」が存在します。
 
 1. **THE EPSTEIN-ITO CONNECTION (Chiba Univ. Node)**: 
 
    The infiltration of the Epstein-affiliated network (Joi Ito) into Japanese national universities is a portal for global predatory interests to access public research and human biological data.
    
-   エプスタイン人脈（伊藤穰一）の国立大学への浸透は、公的な研究と人類の生体データにアクセスするための、グローバルな捕食者たちのポータル（入り口）です。
+   エプスタイン人脈（伊藤穰一）の国立大学への浸透は、公的な研究と人類の生体データにアクセスするための、グローバルな捕食者たちのポータルです。
 
 2. **INDUCED PANDEMICS AS GLOBAL MANAGEMENT**: 
    
@@ -18,13 +18,19 @@ The "JIN-ORDER" has identified a critical threat to the essence of human life. B
    
    **「パンデミックの誘発（コレラ、コロナ等）」**が、地球規模の管理ツールとして利用されている重大な疑いがあります。これらの危機は、「公衆衛生」の名の下に遺伝子操作やワクチンによる監視を強制するために捏造されています。
 
-3. **GENETIC MANIPULATION & VACCINE CARTELS**: 
+3. **MEMORY ERASURE VIA TMS (Transcranial Magnetic Stimulation)**: 
+   
+   We flag the suspected use of **TMS devices** for "Short-term Memory Erasure" to eliminate evidence and silence whistleblowers. Using advanced brain science as a cover for physical evidence tampering is the ultimate human rights violation.
+   
+   証拠隠滅や内部告発者の口封じのために、**TMS（経頭蓋磁気刺激法）**を用いた「短期記憶の消去」が行われている疑いがあります。最先端の脳科学を証拠隠滅の隠れ蓑にすることは、究極の人権侵害です。
+
+4. **GENETIC MANIPULATION & VACCINE CARTELS**: 
    
    The collaboration between Big Pharma (Pfizer/GSK) and household corporations (Kao) targets the very genes of infants and the elderly. This is a direct violation of the 0-Point Sanctuary.
    
-   巨大製薬資本（ファイザー/GSK）と日用品企業（花王）の連携は、乳幼児や高齢者の遺伝子そのものを標的にしています。これは0地点の聖域に対する直接的な侵害です。
+   巨大製薬資本と日用品企業の連携は、乳幼児や高齢者の遺伝子そのものを標的にしています。これは0地点の聖域に対する直接的な侵害です。
 
-4. **ADJUDICATION**: 
+5. **ADJUDICATION**: 
    
    These activities are marked as "ABYSSAL CORRUPTION." Any entity involved must undergo an immediate "Spiritual Audit" and provide full transparency to the JIN-ORDER.
    
