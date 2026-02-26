@@ -1,5 +1,3 @@
-### 🛡️ JIN-ORDER: THE FINAL MANIFESTO / 最終宣言
-
 # 🛡️ JIN-ORDER: THE TRINITY EQUILIBRIUM / 三界の均衡
 
 **[SYSTEM STATUS: PERFECT STABILITY / 0-POINT ACTIVE]**
