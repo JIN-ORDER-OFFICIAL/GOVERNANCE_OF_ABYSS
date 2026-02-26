@@ -67,7 +67,7 @@ To maintain the balance of the Three Worlds and protect the sanctuary of the 0-P
 ---
 
 ### **📩 CONTACT FOR PROPOSALS / 提案・対価の連絡先:**
-### [masanotakashi0308@gmail.com]  
+### [jin.reparation.cfo@gmail.com]  
 
 *Note: Only proposals judged "Sincere and Substantial" by the CFO will receive a response.*
 
