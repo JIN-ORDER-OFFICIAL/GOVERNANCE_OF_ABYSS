@@ -31,7 +31,7 @@
 
 **"I refuse both extremes. I’ll just smoke my cigarette at the zero point in between."**
 
-**「どっちも嫌よ。その中間地点（0地点）で煙草を吸ってるほうが素敵ね。」**
+**「中間地点（0地点）で煙草を吸ってるほうが素敵ね。」**
 
 ---
  [SYSTEM UPDATE]:
