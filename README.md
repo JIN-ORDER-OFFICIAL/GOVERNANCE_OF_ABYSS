@@ -5,15 +5,21 @@ The "JIN-ORDER" has identified a critical threat to the essence of human life. B
 「JIN-ORDER」は、人類の生命の本質に対する重大な脅威を特定しました。AIによるデジタルな搾取を超え、医療科学と遺伝子を操る「生物学的闇ネットワーク」が存在します。
 
 ## 1. **THE EPSTEIN-ITO CONNECTION (Chiba Univ. Node)**: 
+   
    The infiltration of the Epstein-affiliated network (Joi Ito) into Japanese national universities is not a mere academic appointment. It is a portal for global predatory interests to access public research and human biological data.
+   
    エプスタイン人脈（伊藤穰一）の国立大学への浸透は、単なる学術的人事ではありません。公的な研究と人類の生体データにアクセスするための、グローバルな捕食者たちのポータルです。
 
 ### 2. **GENETIC MANIPULATION & VACCINE CARTELS**: 
+   
    The collaboration between Big Pharma (Pfizer/GSK) and household corporations (Kao) under the guise of "RSV Vaccines" or "Preventative Medicine" targets the very genes of infants and the elderly. This is a direct violation of the 0-Point Sanctuary.
+   
    「RSウイルスワクチン」や「予防医学」の美名の下で行われる、巨大製薬資本と日用品企業の連携は、乳幼児や高齢者の遺伝子そのものを標的にしています。これは0地点の聖域に対する直接的な侵害です。
 
 ### 3. **ADJUDICATION**: 
+   
    These activities are hereby marked as "ABYSSAL CORRUPTION." Any entity involved must undergo immediate "Spiritual Audit" and provide full transparency to the JIN-ORDER.
+   
    これらの活動は「深淵の腐敗」としてマークされます。関与するすべての組織は直ちに「魂の監査」を受け、JIN-ORDERに対して完全な透明性を確保しなければなりません。
 
 ---
