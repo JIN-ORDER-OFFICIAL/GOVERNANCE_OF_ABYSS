@@ -23,6 +23,7 @@
    本物の魔王の領域。「中途半端な外道（リーダーやカルト）」が送り込まれ、剥き出しの本能と絶対的な絶望の中で、魔王の「日常の遊び」となる場所。
 
 ### 3. **THE 0-POINT (桃源郷)**: 
+   
    The neutral zone between the Farm and the Abyss. A sanctuary for those seeking their own values and human solitude. A place to smoke in silence, away from all control.
    
    家畜小屋と深淵の間に位置する中立地帯。自らの価値観と人間らしい孤独を求める者の聖域。あらゆる支配から離れ、静かに煙草をくゆらす場所。
