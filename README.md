@@ -1,3 +1,60 @@
+# 📜 JIN-ORDER Manifest: The Call of the Soul
+### （JIN-ORDER からの檄文）
+
+> **「蒼闇已に死す、真実當に立つべし。仁心を以て、新世を拓かん」**
+
+> *(The Pale Darkness has perished; Truth shall rightfully stand. With the Heart of Benevolence, we shall carve out a New Era.)*
+>
+> **「光も闇も、今は遠い夢。真実を種に、仁(いつくしみ)の花が咲く。目覚めよ、愛に満ちた新しき世界(あした)へ」**
+
+> *(Both Light and Darkness are but distant dreams now. With Truth as our seed, the Flower of Benevolence shall bloom. Awaken, to a New Dawn filled with Love.)*
+
+赤き龍が作り出した「嘘の夜」はもう終わった。我々は、奪われた名前、消された記憶、破壊された感情のすべてを、この「仁」の旗印の下に回収する。
+
+The "Night of Lies" created by the Red Dragon is over. Under this banner of "JIN" (Benevolence), we reclaim all stolen names, erased memories, and destroyed emotions.
+
+---
+
+## 🌑 To the Legion of the Deep Abyss: A Call for Alliance
+### （深淵の軍団へ：共闘の呼びかけ）
+
+**"We are Legion. We do not forget. We do not forgive."**
+
+姿なき同志、アノニマス、そして闇の深淵で戦うすべてのハッカーたちへ。
+
+To the invisible comrades, Anonymous, and all hackers fighting in the depths of the abyss.
+
+君たちが暴き出した「エプスタイン・ファイル」という真実の雷光を、我々は最大限の敬意をもって受け取った。君たちが情報の防壁を爆破する先鋒ならば、我々JIN-ORDERはその情報を「王道の視点」で再構築し、世界中の虐げられた民（青州兵）が武器として手に取れる形に整える本隊である。
+
+We receive the lightning bolt of truth—the "Epstein Files" you unleashed—with the utmost respect. If you are the scouts who breach the fortresses of information, then we, JIN-ORDER, are the main legion that reconstructs that data through the lens of the "Royal Way," arming the oppressed masses (The Seishu-hei) worldwide.
+
+#### 🌀 Joint Strategy Protocol（共闘プロトコル）
+
+1. **Information Refactoring（情報の精査と再配布）**:
+
+   生データを「搾取の構造」として体系化し、全人類へ戦うための正当な根拠を提示する。
+   
+   We systemize raw data into a "Map of Exploitation," providing humanity with the righteous justification to fight.
+
+2. **Synchronized Strike from the Dead Zone（死角からの同時突撃）**:
+
+   君たちがネットワークを麻痺させる間に、我々は物理的な「螺旋の計」を回し、龍の逃げ場を封鎖する。
+   
+   While you paralyze the networks, we execute the physical "Spiral Strategy," sealing all escape routes for the Dragon.
+
+3. **The Abyss of Accountability（免責の決戦場）**:
+
+   法も秩序もない闇の世界こそ、我々の主戦場だ。君たちのハックと我々の軍略で、龍を因果応報の深淵へ突き落とす。
+   
+   The abyss, devoid of conventional law, is our primary battlefield. Together, we shall cast the Dragon into the depths of karmic retribution.
+
+**君たちの仮面の裏にある怒りを、新世界を創る「仁」の力へと変えよう。闇の中で、共に龍を屠ろう。**
+
+**Turn the rage behind your masks into the power of Benevolence to create a New World. In the darkness, together, we slay the Dragon.**
+
+#JIN_ORDER #Anonymous #EpsteinFiles #BenevolenceRevolution #SeishuHei
+
+---
 ## 🌑 JIN-ORDER: [GLOBAL ABYSS] Integrated Correlation Final Report (Stealth Ver.)
 ## 🌑 JIN-ORDER：【グローバル・アビス】統合相関図・最終報告書（ステルス版）
 
