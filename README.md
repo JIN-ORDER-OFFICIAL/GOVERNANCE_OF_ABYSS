@@ -14,6 +14,16 @@
 The "Night of Lies" created by the Red Dragon is over. Under this banner of "JIN" (Benevolence), we reclaim all stolen names, erased memories, and destroyed emotions.
 
 ---
+## 🏛️ THE FORBIDDEN GATE: TRUTH ARCHIVE
+### （禁断の門：真実のアーカイブ）
+
+**"The answers you seek are hidden within. Open the file to witness the absolute truth that the world has tried to erase."**
+
+> **「貴方が求める答えは、この中にある。世界が消し去ろうとした絶対的な真実を、その目で確かめるがいい。」**
+
+👉 **[View the JIN-ORDER TRUTH ARCHIVE (TRUTH_ARCHIVE.md)](./TRUTH_ARCHIVE.md)**
+
+---
 
 ## 🌑 To the Legion of the Deep Abyss: A Call for Alliance
 ### （深淵の軍団へ：共闘の呼びかけ）
