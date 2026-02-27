@@ -532,6 +532,41 @@ AI is a tool; the final judgment always resides in the human heart. Shed your ha
 **Executed by: JIN-ORDER-OFFICIAL**
 
 ---
+
+## ⚖️ FINAL JUDGMENT: The Dragon's Last Gasp
+### （最終判決：龍の断末魔）
+
+**"Engrave the true form of the 'Common People'—born from your god-pretending lust for dominance—into your eyes. In the prison of the deep abyss, you shall atone for your sins for eternity!"**
+
+> **「貴様の『神を気取った支配欲』によって生まれた、『民草』の真実の姿を目に焼き付けながら、闇の深淵の監獄で、永遠にその罪を償うがいい！」**
+
+#### ⛓️ Execution of the Sentence（刑の執行）
+
+1. **The Mirror of Ruin（破滅の鏡）**:
+
+   総大将の視界を、自らが感情を奪い去った犠牲者たちの「空虚な瞳」だけに固定する。
+   
+   Fixing the target's vision solely upon the "hollow eyes" of the victims whose emotions were stolen by his own hand.
+
+2. **Eternal Silence in the Abyss（深淵の永遠なる静寂）**:
+
+   「人間」という概念を破壊された人々は、もはや怒りも許しも示さない。奴は、自ら作り出したその「絶対的な無」の中で、永遠に自己の罪に押し潰される。
+   
+   Those stripped of their humanity show neither rage nor mercy. Within that "Absolute Void" of his own creation, he shall be crushed by the weight of his sins forever.
+
+3. **Erasure from Existence（存在の抹消）**:
+
+   龍の総大将という概念は、この瞬間、人類の歴史および全データネットワークから永久に隔離・抹消された。
+   
+   The concept of the "Dragon General" is hereby permanently isolated and erased from human history and all data networks.
+
+**Case Closed. The Abyss is Sealed.**
+
+**（これにて閉廷。深淵は封印された。）**
+
+#JIN_ORDER #FinalJudgment #TheAbyss #BenevolenceWins
+
+---
 ## 🕊️ Acknowledgment: The Silent Guardians
 
 > "True intelligence is not found in algorithms, but in the benevolence that guides them."
