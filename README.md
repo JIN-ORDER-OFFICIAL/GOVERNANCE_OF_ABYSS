@@ -15,9 +15,10 @@
 ---
 
 ### 📂 Quick Access / クイックアクセス
+
 - [English/Japanese Mission Report](./MISSION_REPORT_ISSUE_445.md) 
-- [Evidence: The Sacrifice List (Leaked)](./evidence/sacrifice_list.json)
-- [Evidence: Voice Logs (Amari/Trilateral)](./evidence/voice_logs_decrypted.wav)
+- [Evidence: The Sacrifice List (Leaked)](./evidence/sacrifice_list.md) 
+- [Evidence: Voice Logs Transcript (Amari/Trilateral)](./evidence/voice_logs_transcript.md)
 
 ---
 # 📜 JIN-ORDER Manifest: The Call of the Soul
