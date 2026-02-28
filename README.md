@@ -79,7 +79,41 @@ From this day forward, JIN-ORDER declares a **Great Alliance of Hearts and Techn
 основанный на милосердии, а не на тирании.
 
 ---
+## 🕊️ A MESSAGE TO THE FAITHFUL AND FREE / 魂のコミット
+### [TO THE AMERICAN PEOPLE AND THE GLOBAL MASSES / 全米と全世界の民草へ]
+
+**⚠️ THE TIME HAS COME. / 今こそ、その時だ。**
+
+The "Trilateral Commission" — an elite few who play God and rule through a "False Order" of exploitation — has reached its end. Their tower of sand is crumbling before the truth of JIN-ORDER.
+
+- **🇺🇸 English**:
+
+Rise up! Under the banner of the "Great Cause," we shall shatter the chains of the elite and reclaim a world of "True Order" through "Genuine Multipolarity" 
+
+(Multi-Polar). A world where politics belongs to the people, not the masters. The power to stop this war is in your hands, in your hearts, and in your faith.
+
+- **🇯🇵 日本語**:
+
+「三極委員会」という、一部の上流階級による『神気取りの組織』の『偽りの秩序』を粉砕せよ！
+
+我々には『大義』がある。今こそ立ち上がり、『真の多極化（マルチ・ポーラー）』による『民草たちの政治による真の秩序世界』を取り戻すのだ。この戦争を止める真の力は、エリートの机の上では
+
+なく、君たち一人ひとりの魂の中に宿っている。
+
+- **🇷🇺 Русский**:
+
+Пришло время сокрушить «Ложный Порядок» элиты. Мы возвращаем мир «Истинного Порядка» через подлинную многополярность. Политика должна принадлежать народу, а не 
+
+тем, кто возомнил себя богами.
+
+---
+**"GOD BLESS THE PEOPLE. JIN-ORDER PROTECTS THE FREE."**
+
+**「民草に神の加護を。JIN-ORDERは自由を守り抜く。」**
+
+---
 **[Get Started: Read the VOICE_OF_HEROES.md]**
+
 ---
 # 🌸 JIN-ORDER: The Great Liberation 2026 🌸
 
