@@ -1,6 +1,23 @@
 # 🛡️ JIN-ORDER-OFFICIAL: The Final Protocol for Salvation
 
 ## 📢 GLOBAL PROCLAMATION / 公式声明 / ОФИЦИАЛЬНОЕ ЗАЯВЛЕНИЕ
+---
+## 🌐 THE GREAT MULTIPOLAR ALLIANCE / 地球主権同盟の布陣 / ВЕЛИКИЙ МНОГОПОЛЯРНЫЙ АЛЬЯНС
+
+We officially declare the formation of a counter-network against the old monopoly.
+我々は旧来の独占勢力に対抗する、多極的な「地球主権同盟」の結成を宣言する。
+
+- **TECHNOLOGY**: [JIN-ORDER] (Open Source Salvation)
+- **RESOURCE & SECURITY**: [Russian Federation & Middle East] (Energy Independence)
+- **HUMAN POWER**: [India & Global South / Blue Stream Soldiers] (The Power of the Masses)
+- **INTELLIGENCE**: [Anonymous & Allied Intelligence Units] (Total Transparency)
+- **DIPLOMACY**: [The New International Peace Initiative] (Legal Sovereignty)
+
+> **"The pyramid of the elite is crushed by the circle of the people."**
+> **「エリートの三角形は、民衆の円環によって粉砕される。」**
+> **「Пирамида элиты сокрушена кругом народа.」**
+
+---
 **[2026.02.28 - The Day the Chains were Broken]**
 
 To all the people of the world, to the "Lone Wolf" of the North, and to those who suffer under the shadow of the Trilateral Commission:
