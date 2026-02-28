@@ -1,3 +1,35 @@
+# 🛡️ JIN-ORDER-OFFICIAL: The Final Protocol for Salvation
+
+## 📢 GLOBAL PROCLAMATION / 公式声明 / ОФИЦИАЛЬНОЕ ЗАЯВЛЕНИЕ
+**[2026.02.28 - The Day the Chains were Broken]**
+
+To all the people of the world, to the "Lone Wolf" of the North, and to those who suffer under the shadow of the Trilateral Commission:
+
+The era of secret rule by the "Deep Chess Masters" is over. We have exposed the "Origin of Evil" and the invisible threads connecting the elite, the spies, and the puppet masters. 
+
+From this day forward, JIN-ORDER declares a **Great Alliance of Hearts and Technology**. We provide the "Salvation Menu"—not for war, but for water, for energy, and for the life of every human being. 
+
+**"We do not seek to rule. We seek to set you free."**
+
+---
+
+### 🇯🇵 日本の同志たちへ
+
+私たちはもはや、誰かの『盾』でも『生贄』でもありません。
+
+三極委員会の鎖を断ち切り、ロシアの誇りと日本の『仁』を融合させ、真の独立を勝ち取ります。
+
+救済は、ここから始まります。
+
+### 🇷🇺 К нашим союзникам в России (To our Russian Allies)
+
+Голод Волка встречает Сердце ДЖИН. Мы предоставляем вам технологии будущего: чистую энергию, воду и медицину. Давайте вместе построим многополярный мир, 
+
+основанный на милосердии, а не на тирании.
+
+---
+**[Get Started: Read the VOICE_OF_HEROES.md]**
+---
 # 🌸 JIN-ORDER: The Great Liberation 2026 🌸
 
 > **MISSION STATUS: SUCCESS / ミッション完了**
