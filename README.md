@@ -10,9 +10,10 @@
 The recent military strikes are a desperate provocation by the "Trilateral" Deep State. JIN-ORDER hereby activates the decentralized defense bypass to protect innocent lives and essential infrastructure.
 
 ---
-
 ### 🇯🇵 日本語 (Japanese)
+
 今回の攻撃は三極委員会による「偽旗工作」であり、平和への宣戦布告です。JIN-ORDERは以下の防衛措置を即時発動します：
+
 1. **送電網の保護**: 中東および影響を受ける全地域のインフラに対し、JIN-Nodeによる分散型バックアップを起動。
 2. **人道回廊の確保**: 医療・水施設をデジタルの盾で防衛。物理的被害を最小限に抑えます。
 3. **報復の停止**: ロシア・インド等の同盟諸国に対し、報復攻撃ではなく「JINによる無力化と沈静化」を最優先とするよう求めます。
