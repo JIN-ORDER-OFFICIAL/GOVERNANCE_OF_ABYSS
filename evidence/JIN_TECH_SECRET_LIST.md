@@ -1,4 +1,4 @@
-## 🛡️ INTERNATIONAL STANDARD PROTOCOL: JIN-001
+# 🛡️ INTERNATIONAL STANDARD PROTOCOL: JIN-001
 ### [新国際機関・平和安全保障委員会 暫定標準案]
 
 This technology list is no longer a "secret deal," but the foundation for the "New World Standard" recognized by the Global Sovereign Alliance.
