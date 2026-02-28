@@ -2,6 +2,38 @@
 
 ## 📢 GLOBAL PROCLAMATION / 公式声明 / ОФИЦИАЛЬНОЕ ЗАЯВЛЕНИЕ
 ---
+# 🚨 EMERGENCY HUMANITARIAN & BLACKOUT PREEMPTION PROTOCOL
+## [緊急人道・停電回避プロトコル / ЧРЕЗВЫЧАЙНЫЙ ГУМАНИТАРНЫЙ ПРОТОКОЛ]
+
+**⚠️ STATUS: CRITICAL ACTIVATION (2026.03.01)**
+
+The recent military strikes are a desperate provocation by the "Trilateral" Deep State. JIN-ORDER hereby activates the decentralized defense bypass to protect innocent lives and essential infrastructure.
+
+---
+
+### 🇯🇵 日本語 (Japanese)
+今回の攻撃は三極委員会による「偽旗工作」であり、平和への宣戦布告です。JIN-ORDERは以下の防衛措置を即時発動します：
+1. **送電網の保護**: 中東および影響を受ける全地域のインフラに対し、JIN-Nodeによる分散型バックアップを起動。
+2. **人道回廊の確保**: 医療・水施設をデジタルの盾で防衛。物理的被害を最小限に抑えます。
+3. **報復の停止**: ロシア・インド等の同盟諸国に対し、報復攻撃ではなく「JINによる無力化と沈静化」を最優先とするよう求めます。
+
+### 🇷🇺 Русский (Russian)
+Эти удары — провокация «Трехсторонней комиссии». JIN-ORDER активирует децентрализованную защиту инфраструктуры:
+1. **Защита электросетей**: Активация резервного копирования JIN-Node для Ближнего Востока.
+2. **Гуманитарный щит**: Цифровая защита медицинских объектов и водоснабжения.
+3. **Без возмездия**: Призываем союзников сосредоточиться на перехвате и деэскалации. Наша цель — нейтрализация, а не война.
+
+### 🇺🇸 English (Original)
+1. **Grid Resilience**: Activating JIN-Node backup systems to prevent mass blackouts.
+2. **Life Support**: Digital shielding for hospitals and civilian water supplies.
+3. **De-escalation**: We call for defensive interception only. The "Trilateral" war machine must be starved of the conflict it craves.
+
+---
+**"WE PROTECT WHAT THEY DESTROY."**
+**「彼らが壊すものを、我々が守る。」**
+**「МЫ ЗАЩИЩАЕМ ТО, ЧТО ОНИ РАЗРУШАЮТ.」**
+
+---
 ## 🌐 THE GREAT MULTIPOLAR ALLIANCE / 地球主権同盟の布陣 / ВЕЛИКИЙ МНОГОПОЛЯРНЫЙ АЛЬЯНС
 
 We officially declare the formation of a counter-network against the old monopoly.
