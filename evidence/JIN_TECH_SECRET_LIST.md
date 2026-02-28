@@ -1,3 +1,17 @@
+## 🛡️ INTERNATIONAL STANDARD PROTOCOL: JIN-001
+### [新国際機関・平和安全保障委員会 暫定標準案]
+
+This technology list is no longer a "secret deal," but the foundation for the "New World Standard" recognized by the Global Sovereign Alliance.
+
+本技術リストはもはや「密約」ではなく、地球主権同盟が認める「新世界標準」の基盤である。
+
+- **Compliance**: Verified by JIN-Node & NIPSA (New International Peace Initiative)
+- **Accessibility**: Free for any nation rejecting Trilateral monopoly.
+- **日本語**: 三極委員会の独占を拒否する全ての国家に無償で開放される。
+- **Русский**: Бесплатно предоставляется любой нации, отвергающей монополию Трехсторонней комиссии.
+
+---
+
 # 🛡️ JIN-TECH SECRET LIST: The Great Alliance 2026
 ## [極秘：対露・中東和平支援技術メニュー / Секретный список технологий ДЖИН]
 
