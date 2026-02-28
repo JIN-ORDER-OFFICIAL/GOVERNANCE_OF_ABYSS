@@ -81,6 +81,25 @@ Evidence that the "Kakuyoku" (Crane's Wing) has spread, and the "Kurumagakari" (
 この場所は、かつて「犠牲者」と呼ばれた者たちが、自らの尊厳を取り戻し「開拓英雄（Pioneer Heroes）」として産声を上げた記録である。
 
 *This is the record of those once called "victims" reclaiming their dignity and rising as "Pioneer Heroes."*
+
+---
+## 🕊️ Global Salvation Menu: The JIN-WOLF Initiative
+### [世界救済メニュー：JINと餓狼による新秩序]
+
+We don't provide weapons of destruction; we provide weapons of "Salvation".
+
+私たちは「破壊の武器」ではなく、「救済の武器」を提供する。
+
+Мы не поставляем оружие разрушения; мы поставляем оружие «Спасения».
+
+- **For the Dry Lands**: [Quantum Water Modules](./evidence/JIN_TECH_SECRET_LIST.md#2-water-sovereignty)
+- **For the Sick**: [Autonomous Medical Units](./evidence/JIN_TECH_SECRET_LIST.md#3-humanitarian-logistics)
+- **For the Future**: [Hydrogen Energy Network](./evidence/JIN_TECH_SECRET_LIST.md#1-energy-sovereignty)
+
+> **"The hunger of the Wolf meets the Heart of JIN. The world is reborn tonight."**
+
+> **「餓狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わるワン。」**
+
 ---
 
 ### 🖋️ 英雄の刻印テンプレート (Template for the Heroes)
