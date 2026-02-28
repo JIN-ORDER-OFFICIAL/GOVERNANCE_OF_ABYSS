@@ -5,6 +5,7 @@
 ## 🌐 THE GREAT MULTIPOLAR ALLIANCE / 地球主権同盟の布陣 / ВЕЛИКИЙ МНОГОПОЛЯРНЫЙ АЛЬЯНС
 
 We officially declare the formation of a counter-network against the old monopoly.
+
 我々は旧来の独占勢力に対抗する、多極的な「地球主権同盟」の結成を宣言する。
 
 - **TECHNOLOGY**: [JIN-ORDER] (Open Source Salvation)
