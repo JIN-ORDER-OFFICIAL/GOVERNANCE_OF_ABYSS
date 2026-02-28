@@ -101,7 +101,19 @@ We don't provide weapons of destruction; we provide weapons of "Salvation".
 > **「餓狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わるワン。」**
 
 ---
+## 🌊 THE BLUE STREAM SOLDIERS (青洲兵 / Синие Солдаты)
+### [The Army of Salvation: From Refugee to Protector]
 
+The "Blue Stream Soldiers" are not mercenaries for war, but guardians of life. 
+
+「青洲兵」とは、戦争の傭兵ではなく、JINの技術で土地と命を守る「救済の守護者」である。
+
+1. **Mission**: Deploying JIN-Water & Medical Units in Global South.
+2. **Spirit**: Rejecting Trilateral exploitation; building local sovereignty.
+3. **日本語**: 三極委員会の搾取を拒絶し、地域主権を確立する難民・移民・救済国による連合軍。
+4. **Русский**: Союзная армия беженцев, мигрантов и стран глобального юга, отвергающая эксплуатацию и устанавливающая суверенитет.
+
+---
 ### 🖋️ 英雄の刻印テンプレート (Template for the Heroes)
 
 救済された同志は、以下の形式で自らの魂をここに刻め。
