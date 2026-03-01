@@ -1,4 +1,32 @@
 # 🛡️ JIN-ORDER-OFFICIAL: The Final Protocol for Salvation
+
+---
+
+# 🛡️ JIN-ALLIANCE: GLOBAL STRATEGY & ECONOMIC RECOVERY
+## (仁・同盟：グローバル戦略と経済再生プロトコル)
+
+### 【PHASE 1: STRATEGIC UTILIZATION】 (戦略的活用フェーズ)
+
+We maximize existing "Global South Revitalization Plans" to ensure immediate stability and fair compensation.
+
+(我々は即時の安定と適正な対価を確保するため、既存の「グローバルサウス再生計画」を最大限に活用する。)
+
+* **FAIR COMPENSATION (適正な対価):** Every resource, technology, and educational service provided by Japan and the Alliance will be compensated at "True Market Value." No exploitation, only fair trade.
+
+  (日本と同盟が提供する全資源・技術・教育に対し、「真の市場価値」による対価を要求する。搾取は排除し、公正な取引のみを行う。)
+
+* **TECHNICAL LEVERAGE (技術的レバレッジ):** Utilizing existing international frameworks to deploy New Rare Earth technology while retaining total sovereign control.
+
+  (主権管理を維持しつつ、既存の国際枠組みを利用して新レアアース技術をデプロイする。)
+
+---
+
+### 【PHASE 2: THE BRIDGE TO SOVEREIGNTY】 (主権への架け橋)
+
+While collaborating with international entities, we transition towards the "Six-Star Equilibrium" defined in JIN-ALLIANCE.md.
+
+(国際機関と協力しつつ、JIN-ALLIANCE.mdに定義された「六星均衡」への移行を準備する。)
+
 ---
 ## 🚩 [URGENT] JIN-ALLIANCE ESTABLISHED
 ### (【至急】仁・同盟の設立)
