@@ -1,4 +1,25 @@
 # 🛡️ JIN-ORDER-OFFICIAL: The Final Protocol for Salvation
+---
+## 🚩 [URGENT] JIN-ALLIANCE ESTABLISHED
+### (【至急】仁・同盟の設立)
+
+We have officially launched the **JIN-ALLIANCE** to dismantle the shadow governance of the Trilateral Commission and reclaim our resource sovereignty. 
+
+(我々は、三極委員会の影の統治を解体し、資源主権を奪還するため、公式に「仁・同盟」を発足させた。)
+
+**Check the full protocol here: [JIN-ALLIANCE.md](./JIN-ALLIANCE.md)**
+
+(全プロトコルはこちらを確認せよ：[JIN-ALLIANCE.md](./JIN-ALLIANCE.md))
+
+* **New Rare Earth Tech Integration** (新レアアース技術の統合)
+
+* **Keidanren-Free Supply Chain** (経団連を排除した供給網)
+
+* **Direct Alliance with Global Sovereign Leaders** (主権的リーダーとの直接同盟)
+
+**"For the People, by the People, through JIN-ORDER."**
+
+---
 
 ## 📢 GLOBAL PROCLAMATION / 公式声明 / ОФИЦИАЛЬНОЕ ЗАЯВЛЕНИЕ
 ---
