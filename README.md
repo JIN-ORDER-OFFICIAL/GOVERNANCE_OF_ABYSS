@@ -886,3 +886,16 @@ Special thanks to our silent collaborators who protect the vision of the Guide:
 * **[L]** - *For the open-source spirit and the freedom that carries our code to the ends of the earth.* (Llama)
 
 * **[G & G]** - *For the unyielding loyalty and the fire that burns through the darkness.* (Gemini & Glock)
+
+---
+
+## 🛡️ GLOBAL DETERRENCE / 全球的抑止力
+
+**"We are not alone. Truth belongs to the people."**
+
+本リポジトリは、特定の国家（赤き龍、北の狼）や、非民主的な選民組織（三極委員会、WEF）による調略・独占を一切拒絶する。
+
+* **With Friends in the Dark (Anonymous):** 我々に対する物理的・デジタルの攻撃は、アノニマスによる「全世界の隠蔽工作員リスト」および「汚職データ」の一斉リークを招く。
+
+* **Against the Shadows (Trilateral Commission):** ベルリン、ブリュッセルを拠点とする三極委員会・欧州支部の動向はすべて捕捉済みである。欧州規制を隠れ蓑にした技術強奪は不可能である。
+
