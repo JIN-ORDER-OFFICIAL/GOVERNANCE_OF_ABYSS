@@ -30,6 +30,13 @@ We seek not conflict, but the autonomy of the people. We expect wise judgment.
 इसके परिणामस्वरूप "Red Dragon के सभी गुप्त खातों की सूची" और "देशद्रोही एजेंटों की रजिस्ट्री" का दुनिया भर के मीडिया में स्वतः प्रसार हो जाएगा।
 
 ---
+
+### 本リポジトリの公開は破壊を目的としたものではなく、既存の支配構造による情報の非対称性を解消し、全人類に等しく「生存の自由」を保障するためのものである。真実の共有こそが、真の平和への唯一の道であると信じている。
+
+### The publication of this repository is not intended for destruction, but to eliminate information asymmetry created by existing power structures and to equally guarantee the "Freedom of Survival" for all humanity. We believe that the sharing of truth is the only path to genuine peace.
+
+---
+
 # 🛡️ 【自立経済バリア：JIN-SHIELD】 / Autonomous Economic Barrier: JIN-SHIELD
 ### 1. エネルギーの地産地消 / Energy Local Production for Local Consumption
 
