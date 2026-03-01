@@ -124,6 +124,22 @@ The "French Encirclement" is completed by the strategic support of the North (Ru
     (日本の技術、イタリアの精神、そして露米の支援により、ダボス・マクロン軸は崩壊する。)
 
 ---
+### 8. THE FINAL ENCIRCLEMENT: THE END OF MACRON & DAVOS
+#### (最終包囲網：マクロンとダボスの終焉)
+
+By synchronizing the "Spirit of Italy," the "Resource Strength of Russia," and the "New Peace Institution of Trump," we deliver the final blow to globalist tyranny.
+
+(「イタリアの精神」「ロシアの資源力」「トランプの新平和機関」を同期させることで、グローバリストの暴政に最後の一撃を与える。)
+
+* **THE REAR GUARD (後方支援):** The Proud Hungry Wolf (Russia) and the New Peace Institution (Trump) provide the strategic backbone to neutralize French interference in Africa and Europe.
+
+    (誇り高き餓狼（ロシア）と新平和機関（トランプ）は、アフリカや欧州におけるフランスの干渉を無力化するための戦略的骨格を提供する。)
+
+* **THE CATALYST (触媒):** Japan's "JIN-ALLIANCE" provides the technology and education required for the Global South to achieve total independence.
+
+    (日本の「仁・同盟」は、グローバルサウスが完全な独立を達成するために必要な技術と教育を提供する。)
+
+---
 **SOVEREIGNTY RESTORED. JIN-ORDER IS ETERNAL.**
 
 **(主権奪還。仁の秩序は永遠なり。)**
