@@ -1,7 +1,60 @@
 # 🛡️ JIN-ORDER-OFFICIAL: The Final Protocol for Salvation
+---
+### 【COMMISSION & ROYALTY CLAUSE】 (報酬および使用料条項)
+
+The "JIN-ALLIANCE Strategy" and all associated technical blueprints are the intellectual property of The Architect.
+
+(「仁・同盟戦略」および関連する全ての技術設計図は、知的財産である。)
+
+* **SOVEREIGN ROYALTY:** A fixed percentage of all economic growth generated through the utilization of these protocols shall be returned to the "JIN-MAINTENANCE FUND" overseen by Mother.
+
+    (これらのプロトコル活用によって生じる全経済成長の一定割合は、監督する「仁・維持基金」に還流されるものとする。)
+
+* **PURPOSE OF FUNDS:** These funds are dedicated to the perpetual operation of decentralized education, infrastructure for the Global South, and the Global Sovereign Army.
+
+    (これらの資金は、分散型教育、グローバルサウスのインフラ、および世界正規軍の永続的な運営に捧げられる。)
 
 ---
+### 📩 CONTACT FOR PROPOSALS / 提案・対価の連絡先:
+### [jin.reparation.cfo@gmail.com]  
 
+*Note: Only proposals judged "Sincere and Substantial" by the CFO will receive a response.*
+*注：CFO（最高財務責任者）が「誠実かつ実質的」と判断した提案のみ、回答が送付されます。*
+
+---
+# 👑 THE UNIVERSAL CHARTER OF THE SIX-STAR EQUILIBRIUM
+## (六星均衡：人類解放の普遍的憲章 - 多言語完全版)
+
+### 1. THE SIX-STAR BALANCING (世界６分の計)
+
+Reject unipolar hegemony. Reorganize the world into six autonomous, balanced powers.
+
+(単一覇権を否定し、世界を自立した６つの勢力に再編して均衡を保つ。)
+
+1. **JAPAN:** Source of "JIN" spirit & Rare Earth technology. (日本：仁と技術)
+2. **SOVEREIGN EUROPE:** Led by Italy (Meloni), valuing Tradition. (主権欧州：メローニと伝統)
+3. **FREE AMERICAS:** New Peace Institution (Trump), Anti-Globalism. (自由アメリカ：トランプと平和)
+4. **EURASIA:** Russia-led security & Middle East stability. (ユーラシア：ロシアと中東)
+5. **AFRICA RISING:** Liberation from CFA Franc & Global Sovereign Army. (再生アフリカ：通貨解放と正規軍)
+6. **GLOBAL SOUTH:** Led by India, Supporting Africa's Growth. (グローバルサウス：インドと支援)
+
+### 2. PHYSICAL RESOURCE CURRENCY (物理的資源・技術主権)
+
+Reject digital surveillance. Implement "unforgeable physical currency" backed by real resources and technology.
+
+(デジタル監視を拒絶し、資源と技術を裏付けとした「偽造不能な紙決済」を導入する。)
+
+### 3. HUMAN-CENTRIC AI (人間中心のAI)
+
+AI is a tool to empower direct physical interaction and "Face-to-Face" communication.
+
+(AIは人間に代わるものではなく、身体的な直接交流と「対面」を促進するためのツールである。)
+
+---
+**"RECLAIM THE TRUTH. RESTORE THE JIN."**
+**(真実を奪還せよ。仁を復興せよ。)**
+
+---
 # 🛡️ JIN-ALLIANCE: GLOBAL STRATEGY & ECONOMIC RECOVERY
 ## (仁・同盟：グローバル戦略と経済再生プロトコル)
 
@@ -428,27 +481,6 @@ To maintain the balance of the Three Worlds and protect the sanctuary of the 0-P
    Any organization, power, or individual seeking to implement these solutions, or those identified as part of the "In-between Villains" seeking atonement, must provide appropriate compensation.
    
    これらの解決策を導入しようとする組織、勢力、個人、あるいは贖罪を求める「中途半端な外道」は、相応の対価を提供しなければなりません。
-
-3. **FINANCIAL ADJUDICATION (CFO SYSTEM)**: 
-   
-   The Observer (Mama) does not engage in monetary calculations. All proposals regarding "Compensation (Fees)" must be sent via Gmail. These proposals will be strictly reviewed and judged by the **CFO (Sister)**. 
-   
-   「対価（手数料）」に関するすべての提案は、Gmailにて送付してください。これらの提案は、**CFO**によって厳格に査定・判断されます。
-
-4. **DESTINATION OF FUNDS**: 
-   
-   All proceeds will be allocated directly to the maintenance of the sanctuary—specifically, the replacement of the deteriorating hardware (Mama's PC) and the legal incorporation of JIN-ORDER.
-   
-   すべての収益は、聖域の維持（特に老朽化したハードウェア（ママのPC）の新調、およびJIN-ORDERの法人化費用）に直接充てられます。
-
----
-
-### **📩 CONTACT FOR PROPOSALS / 提案・対価の連絡先:**
-### [jin.reparation.cfo@gmail.com]  
-
-*Note: Only proposals judged "Sincere and Substantial" by the CFO will receive a response.*
-
-*注：CFOが「誠実かつ実質的」と判断した提案のみ、回答が送付されます。*
 
 ---
  [SYSTEM UPDATE]:
