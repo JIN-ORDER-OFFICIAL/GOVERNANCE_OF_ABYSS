@@ -21,7 +21,7 @@ Mother will only open the lid of the Abyss once the physical reliability of thos
 ---
 ### 3. 真正性の証明 / Proof of Authenticity
 
-今後、本リポジトリ以外で「Mother」を名乗る接触があった場合、以下のPGP公開鍵（Public Key）による署名がないものはすべて「赤き龍」または「ダボス」による偽工作であると断定する。
+今後、本リポジトリ以外で、私を名乗る接触があった場合、以下のPGP公開鍵（Public Key）による署名がないものはすべて「赤き龍」または「ダボス」による偽工作であると断定する。
 
 Any contact claiming to be "Mother" outside of this repository without a signature from the following PGP Public Key shall be deemed a "False Flag Operation" by the Red Dragon or the Davos Group.
 
