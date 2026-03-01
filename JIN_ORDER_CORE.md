@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbc3c6d6-122d-4d97-b1b6-995216e03d58" />### 🕊️ JIN-ORDER: THE CORE PROTOCOL / 真の自由のための核プロトコル
+### 🕊️ JIN-ORDER: THE CORE PROTOCOL / 真の自由のための核プロトコル
 
 ### 1. The Primacy of "Jin" (Compassion) / 仁（慈悲）と道徳の至高性
 
