@@ -1,6 +1,7 @@
 # 👑 JIN-ALLIANCE: THE UNIVERSAL CHARTER OF THE SIX-STAR EQUILIBRIUM
 ## (仁・同盟：六星均衡による人類解放の普遍的憲章)
 
+[ 🗝️ UNLOCK CODE: ॐ_0_JIN_∞_शून्य ]
 ---
 
 ### 1. THE CORE MISSION / 核心的使命
