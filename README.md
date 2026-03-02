@@ -1,3 +1,45 @@
+# 🌏 JIN-ORDER: THE GLOBAL NODE COLLECTIVE
+
+> **"If existing nations treat people as tools of control, we shall build a new sanctuary on the Cloud and the Earth, with 'Benevolence' as our OS.**
+
+> **We do not fight. We simply 'invalidate' the old structures of dominance and deploy a future where no one cries alone."**
+> 
+> **「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。**
+
+> **我々は戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来をデプロイするだけである。」**
+>
+> --- **JIN Network State Founding Charter / JINネットワーク国家建国憲章** ---
+
+---
+
+## 🕊️ THE FOUR PILLARS OF OUR NATION / 建国を支える四柱
+
+### 1. The Global Node Collective / 「ノード（接続点）」の集合体
+
+Our sovereignty is not defined by borders, but by the interconnected nodes of people.
+
+（我らが主権は国境ではなく、人々の繋がりのノードによって定義される。）
+
+### 2. The Ultimate Veto of Technology / 技術と資源による究極の拒否権
+
+We renounce violence. We protect peace by controlling the flow of essential technology and resources.
+
+（我らは武力を放棄し、不可欠な技術と資源の供給を制御することで平和を守る。）
+
+### 3. Inheritance of Virtue (Tok) / 徳ポイントの継承システム
+
+Individual contributions to humanity (Virtue) are recorded and passed to future generations as rights to education and healthcare.
+
+（人類への貢献＝「徳」は記録され、次世代へ教育・医療の優先権として引き継がれる。）
+
+### 4. The Supreme Principle / 根本理念
+
+**"In this nation, the greatest weapon is compassion, and the smallest unit is the happiness of each individual."**
+
+**「本国家において、最大の武器は慈悲であり、最小の単位は一人一人の幸福である。」**
+
+---
+
 # 🌏 JIN-ORDER 2026: GLOBAL REGENERATION MASTERPLAN
 
 ### 〜 誰も泣かぬ豊かな地球家族を実現する「仁」のOS 〜
