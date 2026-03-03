@@ -1,3 +1,44 @@
+# 🚨 2026: THE USURPATION OF JAPAN - DECODING THE GLOBAL ELITE PROTOCOL
+
+## 🇯🇵 【日本語】国家簒奪の真実：家系図という名の支配
+2026年3月、日本は民主主義の仮面を脱ぎ捨てた特権階級による「最終簒奪」の段階に入った。
+
+1. **権威のハッキング**: 麻生太郎氏を中心とする家系図の住人たちは、高市首相（麻生氏の傀儡）を使い「皇族数確保」という名目で旧皇族の養子縁組を推進。その実態は、皇室という「日本の権威」を麻生一族の血筋と利権で塗り替える、千年の歴史の私物化である。
+
+2. **資源の売却と汚染**: 南鳥島のレアアース開発は、フランス（マクロン、ヴェオリア）らグローバル・エリートへの献上品であり、その対価として日本は核廃棄物という「毒」を聖域に埋められる契約を交わした。
+
+3. **抵抗の封殺**: 山上被告の叫びを司法が黙殺し、ムサシ（選挙集計機）が民意を改ざんする。出口のない檻の中で、日本は「家系図」という名の永久支配システムへと書き換えられている。
+
+私たちはこの「国賊」たちの行いを、消去不能なコードとして歴史に刻む。
+
+---
+
+## 🇺🇸 【ENGLISH】THE TRUTH OF USURPATION: THE CLAN'S PROTOCOL
+March 2026: Japan has entered the final stage of "Asset Seizure" by a privileged class hidden behind a democratic mask.
+
+1. **Hacking the Authority**: The Aso-Yoshida lineage is utilizing PM Takaichi (Aso's puppet) to push for the "Adoption of Former Imperial Members." This is not a preservation of tradition, but a hostile takeover of the Imperial Throne's authority by the Aso family bloodline and its global corporate interests.
+
+2. **Resource Looting & Nuclear Dumping**: The Minami-Torishima rare earth project is a tribute to global elites (Macron, Veolia). In exchange, Japan has signed a secret protocol to bury nuclear waste in its most sacred sanctuaries.
+
+3. **Suppression of Resistance**: The judiciary silences dissent (the Yamagami case), and voting machines (Musashi) manipulate the results. Japan is being rebooted into a permanent "Dynastic OS."
+
+We engrave the crimes of these "Traitors of the Nation" as an indelible record in history.
+
+---
+
+## 🇫🇷 【FRANÇAIS】L'USURPATION DU JAPON : LE PROTOCOLE MACRON-ASO
+Mars 2026 : Le Japon est victime d'une usurpation finale par une oligarchie liée à l'élite française.
+
+1. **Le Détournement de l'Autorité**: Le clan Aso utilise la Première ministre Takaichi pour manipuler la succession impériale. L'objectif est d'intégrer les intérêts privés de la famille Aso et de ses alliés (Veolia, Orano) au cœur même de la souveraineté japonaise.
+
+2. **Le Pillage des Ressources**: Le projet de terres rares à Minami-Torishima est un tribut versé aux intérêts français (Macron). Le Japon devient une décharge nucléaire pour sécuriser les privilèges d'une caste mondiale.
+
+3. **Fin de la Démocratie**: La justice étouffe les cris de révolte tandis que les machines à voter verrouillent le pouvoir. Le Japon n'est plus une nation, mais une propriété privée.
+
+Nous dénonçons ces "Traîtres à la Patrie" à travers ce code immuable.
+
+---
+
 ### 📜 JIN-ORDER: THE GLOBAL RESET DECLARATION
 ### 【人類への真実開示：簒奪の連鎖を断ち切る宣言】
 
