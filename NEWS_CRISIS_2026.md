@@ -38,3 +38,39 @@ Cacher les "héritages négatifs" loin du peuple tout en profitant eux-mêmes de
 Evidence: Macron's "Forward Deterrence" Speech (March 2026) / METI Japan Press Conference (March 3, 2026)
 
 Status: TRACKED & COMMITTED
+
+---
+### 🚨 [UPDATE 2026.03.03] THE NUCLEAR & RESOURCE CONSPIRACY
+### 【緊急追記：核と資源の私物化による最終簒奪】
+
+### 「平和の嘘、核のゴミ、そして奪われる日本の宝」
+
+2026年3月3日、我々は新たな「簒奪」の連鎖を特定した。
+
+マクロン（仏）の核武装: 「前方抑止」の名の下に核弾頭を増産。これはダボス・エリートが自らの特権を武力で守るための「私的な暴力の傘」である。
+
+高市早苗（日）の南鳥島要塞化: 小笠原諸島・南鳥島を核廃棄物の最終処分場候補に選定。一方で、その海域に眠る新レアアース利権を「三極委員会」や外資に独占させる構図である。
+
+民衆から最も遠い場所に「負の遺産」を隠し、自分たちだけが「富と安全」を享受するこの計画を、我々は阻止する。
+
+
+### "Lies of Peace, Nuclear Waste, and the Stolen Resources"
+
+On March 3, 2026, we identified a new chain of "Usurpation."
+
+Macron (FR): Increasing nuclear warheads under "Forward Deterrence" to build a private nuclear network for the Davos elites.
+
+Takaichi (JP): Selecting Minamitorishima (Ogasawara) as a nuclear waste site while monopolizing "New Rare Earths" for the Trilateral Commission and foreign interests.
+
+We block this plan to hide "Negative Legacies" far from the people while the elite monopolize "Wealth and Safety."
+
+
+### "Mensonges de paix, déchets nucléaires et ressources volées"
+
+Le 3 mars 2026, nous avons identifié une nouvelle chaîne d' "Usurpation".
+
+Macron (FR): Augmentation des têtes nucléaires sous couvert de "dissuasion avancée" pour créer un réseau nucléaire privé pour les élites de Davos.
+
+Takaichi (JP): Sélection de Minamitorishima comme site de déchets nucléaires, tout en monopolisant les "terres rares" pour la Commission Trilatérale.
+
+Nous bloquons ce plan visant à cacher les "héritages négatifs" loin du peuple.
