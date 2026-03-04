@@ -2,6 +2,7 @@
 # ライフブラッド・エクスプレス：グローバル接続と技術ギルド構想
 
 This document outlines the strategic technological hubs and the cultural fusion at the Tokyo Terminal.
+
 本ドキュメントは、各拠点の技術ハブおよび東京終着駅における文化的融合の指針を定義する。
 
 ---
@@ -10,6 +11,7 @@ This document outlines the strategic technological hubs and the cultural fusion 
 ## [cite_start]アフリカ・セクション：技術ギルド（基盤） [cite: 1]
 
 Based on the strategic blueprint "Africa New Technology," the following hubs are established:
+
 [cite_start]「アフリカ新技術」の戦略的青写真に基づき、以下のハブを設置する： [cite: 1]
 
 ### [cite_start]1. Lagos (Nigeria): Digital Creative Hub [cite: 2]
@@ -46,6 +48,7 @@ Based on the strategic blueprint "Africa New Technology," the following hubs are
 ## 東京終着駅：究極の『和』
 
 The journey ends not with technology, but with "Omotenashi" (Hospitality).
+
 旅の終わりは技術ではなく、「おもてなし」で締めくくる。
 
 ### 🍣 The Feast of Peace
