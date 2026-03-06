@@ -1,3 +1,31 @@
+### 📜 The Core Principles / 核心原則
+### 1. Technology with a Soul (AI Ethics) / 魂ある技術（AI倫理）
+
+EN: Technology is not a tool for dominance; it is the wings of freedom. We reject all AI used for surveillance or manipulation.
+
+JP: テクノロジーは支配の道具ではない、自由の翼である。監視や操作のためのAIを、我らは断固拒否する。
+
+### 2. Radical Education (Freedom Academy) / 徹底した教育（学びの解放）
+
+EN: Learning is a right, not a privilege. We provide full support for wisdom, from "KOBEN" nutrition to "The Grand Tour" travels.
+
+JP: 学びは特権ではなく権利である。「孝弁」による栄養から「世界を旅する教室」まで、知恵への完全な支援を贈る。
+
+### 3. The 24 Articles of Jin-En-Gokkou / 仁焔極光24箇条
+
+EN: Follow "Lagom" (Optimal Abundance) and "Stillness" (Inner Peace). The strength of a leader lies in their moral compass.
+
+JP: 「適足（足るを知る）」と「静寂（心の声）」に従え。リーダーの強さは、その道徳観にこそ宿る。
+
+### 🚬 Message from the Commander / 総帥より
+
+"Technology itself is not evil. It is the 'human' who handles it according to their base desires that errs. We choose to be the Samurai who cut through that darkness."
+
+「技術自体が悪なのではない。それを扱う『人間』が『本来持つ欲望』のままに扱うからいけないの。私たちは、その闇を切り裂くサムライであり続ける。」
+
+— JIN-ORDER General Commander, "The Crazy Samurai"
+
+---
 # 🚨 2026: THE USURPATION OF JAPAN - DECODING THE GLOBAL ELITE PROTOCOL
 
 ## 🇯🇵 【日本語】国家簒奪の真実：家系図という名の支配
