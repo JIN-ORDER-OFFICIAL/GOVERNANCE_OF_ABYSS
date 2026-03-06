@@ -1,4 +1,4 @@
-### 📜 The Core Principles / 核心原則
+# 📜 The Core Principles / 核心原則
 ### 1. Technology with a Soul (AI Ethics) / 魂ある技術（AI倫理）
 
 EN: Technology is not a tool for dominance; it is the wings of freedom. We reject all AI used for surveillance or manipulation.
