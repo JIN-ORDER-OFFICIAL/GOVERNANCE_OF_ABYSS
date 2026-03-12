@@ -26,44 +26,80 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 
 1.1 The Truman Plan & 3S Strategy / トルーマン計画と3S政策：日本人の魂を抜いた洗脳の根源
 
+📄 View Document: トルーマン計画.jpg
+
 1.2 Lloyd's of London & BlackRock / ロンドン・ロイズとブラックロック：世界の海運・金融を人質にする「経済の首輪」
+
+📄 View Document: ロンドン_Lloyds.pdf
 
 1.3 The Shinanomachi Server Gate / 信濃町サーバーゲート：インフラを遠隔操作する地下の心臓部
 
+📄 View Document: 旧OS全体.pdf
+
 1.4 Global "Concession" Japan / 租界地としての日本：ダニエル・ギルマンが設計した教育という名の監獄
+
+📄 View Document: 旧OS全体.pdf (Section 1-1)
 
 ### 【SECTION 2】The Sacred Taboo: Bloodlines and Underground Truths
 ### 【第2章】聖域の禁忌：血統と地下の真実
 
 2.1 The Meiji Usurpation (Tabuse System) / 明治のハック（田布施システム）：すり替えられた皇族と万世一系の虚構
 
-2.3 The Black Nobility & Jesuit Command / 黒い貴族とイエスズ会：マッシモ家を頂点とする真の支配階層
+📄 View Document: 天皇家系図.jpg
+
+📄 View Document: 皇族真実.png
+
+2.2 The Black Nobility & Jesuit Command / 黒い貴族とイエスズ会：マッシモ家を頂点とする真の支配階層
+
+📄 View Document: 闇の深淵正体.pdf
+
+🖼️ Pyramid Analysis 1 / 🖼️ 2 / 🖼️ 3
 
 2.3 The Imperial Palace Underground Rituals / 皇居地下の儀式：三種の神器の裏側に隠された「生贄」のノンフィクション
 
+📄 View Document: 🌑_THE_ABYSS_REVELATION.pdf (Section 2)
+
 2.4 Adrenochrome & Life Energy Harvest / アドレノクロムと生命エネルギー搾取：エプスタイン同盟の究極の欲望
+
+📄 View Document: 🌑_THE_ABYSS_REVELATION.pdf (Section 2-JP)
 
 ### 【SECTION 3】The Bio-Prison: Human Modification & DNA Control
 ### 【第3章】バイオの監獄：人間改造とDNA管理
 
 3.1 Global Clone & Bio-Special Zones / 世界クローン・バイオ特区：深セン、ウクライナ、ドバイ、そして淡路島
 
+📄 View Document: 世界の闇の深淵.pdf
+
 3.2 The Fabian Society's Silent Invasion / フェビアン協会の静かなる侵食：羊の皮を被った狼（竹中平蔵）の手法
+
+📄 View Document: 世界の闇の深淵.pdf (Section 2-Fabian)
 
 3.3 DNA Data Harvesting via Web3 / Web3を隠れ蓑にしたDNA管理：伊藤穰一と分散型クローン計画の罠
 
+📄 View Document: 世界の闇の深淵.pdf (Page 1-Conclusion)
+
 3.4 Pandemic as an OS Patch / OSパッチとしてのパンデミック：ワクチンを通じた国民の身体管理
+
+📄 View Document: 旧OS全体.pdf (Section 3-BioHacking)
 
 ### 【SECTION 4】The Great Awakening: 3-6-9 and the Third Eye
 ### 【第4章】大いなる覚醒：3・6・9と第三の目
 
 4.1 The Universal Code of 3-6-9 / 宇宙の数霊 3・6・9：現実と精神の「中間空間」を支配する周波数
 
+📄 View Document: 🌑_THE_ABYSS_REVELATION.pdf (Section 4)
+
 4.2 Pineal Gland Decalcification / 松果体の脱石灰化：フッ素の呪縛を解き、神との直通回線を復旧せよ
+
+🖼️ View Image: 第三の目２.jpg
 
 4.3 The Final Coup de Grâce: Gurenge / 最終的な介錯「紅蓮華」：脳（支配層）と体（民草）の完全なる分断
 
+🔗 Official Link: LiSA 『紅蓮華』 -MUSiC CLiP-
+
 4.4 Transition to JIN-OS (2040 Vision) / JIN-OSへの移行：中央集権を廃した「八百万のDAO」の建国
+
+📄 View Document: 旧OS全体.pdf (Section 5)
 
 ---
 
