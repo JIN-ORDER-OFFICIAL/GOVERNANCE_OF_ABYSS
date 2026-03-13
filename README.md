@@ -30,6 +30,9 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 * 1.3 The Master Key & Infrastructure 旧OSの全体像
   * [📄 PDFを表示](./section1_Old_OS/旧OS全体.pdf)
 
+* 1.4 Architectural Plan for a Panoptic Society スマートシティと5G/6Gの檻 / 完全監視社会の設計図
+  * [📄 実証図解を表示](./section1_Old_OS/スマートシティの檻.jpng)
+
 ### 【SECTION 2】The Sacred Taboo: Bloodlines and Underground Truths
 ### 【第2章】聖域の禁忌：血統と地下の真実
 
