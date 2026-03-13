@@ -51,7 +51,11 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 ### 【SECTION 3】The Bio-Prison: Human Modification & DNA Control
 ### 【第3章】バイオの監獄：人間改造とDNA管理
 
+* 3.1 The profound darkness of the world 世界の闇の深淵
  * [📄 PDFを表示](./section3_Bio_Prison/世界の闇の深淵.pdf)
+
+* 3.2 The Blueprint for a Biopolitical Control Society 合成肉・昆虫食とナノテクノロジー / 身体から始まる完全管理社会
+   * [🖼️ 実証図解を表示](./section3_Bio_Prison/食のハック_ナノテクノロジー.jpg)
 
 ### 【SECTION 4】The Great Awakening: 3-6-9 and the Third Eye
 ### 【第4章】大いなる覚醒：3・6・9と第三の目
