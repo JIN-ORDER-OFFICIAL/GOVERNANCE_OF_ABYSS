@@ -73,7 +73,7 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
   * [🖼️ 実証図解を表示](./section4_Awakening_369/ソルフェジオ周波数_振動の真実.jpg)
 
 * **4.5 【実証映像】物質ハックの瞬間（NEW）**
-  * [🎬 ナノ粒子とクラドニ図形の共鳴を再生](.https://github.com/user-attachments/assets/7119e24a-6261-47ef-a489-1c67b5e9fcde)
+  * [🎬 ナノ粒子とクラドニ図形の共鳴を再生](./https://github.com/user-attachments/assets/7119e24a-6261-47ef-a489-1c67b5e9fcde)
   * ※特定の周波数がナノ粒子（物質）をどう支配するか、その目で確かめてください。
 
 ### 【SECTION 5】Transcending Dimensions through the Full Activation of the Third Eye
