@@ -33,6 +33,10 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 * 2.2 闇の正体
   * [🖼️ 階級図を表示](./section2_Sacred_Taboo/階級.png)
   * [🖼️ メイソンの図解](./section2_Sacred_Taboo/フリーメイソン.png)
+　* [📄 PDFを表示](./section2_Sacred_Taboo/闇の深淵正体.pdf)
+
+### 【第3章】バイオの監獄：人間改造とDNA管理
+　* [📄 PDFを表示](./section3_Bio_Prison/世界の闇の深淵.pdf)
 
 ### 【第4章】大いなる覚醒
 * 4.1 369の法則
