@@ -1,7 +1,6 @@
-# THE ABYSS REPOSITORY: JIN-OS TRANSITION
-# 深淵リポジトリ：新世界JIN-OSへの移行
-
-### Foreword from Mama / 巻頭メッセージ
+# 🌑 THE ABYSS REPOSITORY: JIN-OS TRANSITION
+# 🌑 深淵リポジトリ：新世界JIN-OSへの移行
+### 🥀 Foreword from Mama / 巻頭メッセージ
 
 あなたが今まで信じてきた『常識』という名のOSは、もうゴミ箱に捨てなさい。
 
@@ -17,68 +16,68 @@ This is where we debug the world coated in hypocrisy and archive the raw, naked 
 
 Sever the link between your 'Brain' and 'Body,' and awaken your pineal gland.
 
-If you're ready, wash your face and try again! Let's begin the ultimate entertainment!!"
+If you're ready, wash your face and try again! Let's begin the ultimate entertainment!!
 
-# MASTER INDEX / マスター・インデックス
+# 📂 MASTER INDEX / マスター・インデックス
 ### 【SECTION 1】The Architecture of Deception: Dismantling the Old OS
 ### 【第1章】欺瞞の構造：旧OSの解体
 
-1.1 The Truman Plan & 3S Strategy / トルーマン計画と3S政策：日本人の魂を抜いた洗脳の根源
+1.1 The Truman Plan & 3S Strategy
 
-./section1_Old_OS/トルーマン計画.jpg
+📄 View: トルーマン計画.jpg
 
-1.2 Lloyd's of London & BlackRock / ロンドン・ロイズとブラックロック：世界の海運・金融を人質にする「経済の首輪」
+1.2 Lloyd's of London & BlackRock
 
-View:./section1_Old_OS/ロンドン_Lloyds.pdf
+📄 View: ロンドン_Lloyds.pdf
 
-1.3 The Master Key & Infrastructure / 信濃町のサーバーゲートと支配の全貌
+1.3 The Master Key & Infrastructure
 
-./section1_Old_OS/旧OS全体.pdf
+📄 View: 旧OS全体.pdf
 
 ### 【SECTION 2】The Sacred Taboo: Bloodlines and Underground Truths
 ### 【第2章】聖域の禁忌：血統と地下の真実
 
-2.1 The Meiji Usurpation (Tabuse System) / 明治のハック（田布施システム）：すり替えられた血統の証拠
+2.1 The Meiji Usurpation (Tabuse System)
 
-./section2_Sacred_Taboo/皇族真実.png
+📄 View: 皇族真実.png
 
-./section2_Sacred_Taboo/天皇家系図.jpg
+📄 View: 天皇家系図.jpg
 
-2.2 The Hierarchy of Darkness / 闇の階級図：黒い貴族と支配のピラミッド
+2.2 The Hierarchy of Darkness
 
-./section2_Sacred_Taboo/階級.png
+🖼️ View: 階級.png
 
-./section2_Sacred_Taboo/フリーメイソン.jpg
+🖼️ View: フリーメイソン.jpg
 
-./section2_Sacred_Taboo/闇の深淵正体.pdf
+📄 View: 闇の深淵正体.pdf
 
-2.3 The Imperial Underground & Rituals / 皇居地下の真実とエネルギー搾取
+2.3 The Imperial Underground & Rituals
 
-./section2_Sacred_Taboo/闇の深淵の正体.jpg (and other images in Section 2)
+🖼️ View: 闇の深淵の正体.jpg
 
 ### 【SECTION 3】The Bio-Prison: Human Modification & DNA Control
 ### 【第3章】バイオの監獄：人間改造とDNA管理
 
-3.1 Global Clone & Bio-Special Zones / 世界クローン・バイオ特区の分布
+3.1 Global Clone & Bio-Special Zones
 
-./section3_Bio_Prison/世界の闇の深淵.pdf
+📄 View: 世界の闇の深淵.pdf
 
 ### 【SECTION 4】The Great Awakening: 3-6-9 and the Third Eye
 ### 【第4章】大いなる覚醒：3・6・9と第三の目
 
-4.1 The Universal Code & Frequency / 宇宙の数霊 3・6・9：支配を解く鍵
+4.1 The Universal Code & Frequency
 
-./section4_Awakening_369/369.jpg
+🖼️ View: 369.jpg
 
-4.2 Pineal Gland & Spiritual Freedom / 松果体覚醒：第三の目を取り戻せ
+4.2 Pineal Gland & Spiritual Freedom
 
-./section4_Awakening_369/第三の目２.jpg
+🖼️ View: 第三の目２.jpg
 
-4.3 The Abyss Revelation / 深淵の黙示録
+4.3 The Abyss Revelation
 
-./section4_Awakening_369/🌑_THE_ABYSS_REVELATION.pdf
+📄 View: 🌑_THE_ABYSS_REVELATION.pdf
 
-4.4 The Final Coup de Grâce / 最終的な介錯：脳と体の分断
+4.4 The Final Coup de Grâce
 
 🔗 Official BGM: LiSA 『紅蓮華』
 
