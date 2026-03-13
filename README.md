@@ -20,30 +20,27 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 
 ### 【第1章】欺瞞の構造
 * 1.1 トルーマン計画と3S政策
-  * [📄 画像を表示](./section1_Old_OS/トルーマン計画.jpg)
+  * [📄 画像を表示](./section1_Old_OS/トルーマン計画.png)
 * 1.2 ロンドン・ロイズの支配
-  * [📄 PDFを表示](./section1_Old_OS/ロンドン%20Lloyd's.pdf)
+  * [📄 PDFを表示](./section1_Old_OS/ロンドン_Lloyd's.pdf)
 * 1.3 旧OSの全体像
   * [📄 PDFを表示](./section1_Old_OS/旧OS全体.pdf)
 
 ### 【第2章】聖域の禁忌
 * 2.1 皇族の真実
   * [📄 画像を表示](./section2_Sacred_Taboo/皇族真実.png)
-  * [📄 家系図を表示](./section2_Sacred_Taboo/天皇家系図.jpg)
+  * [📄 家系図を表示](./section2_Sacred_Taboo/天皇家系図.png)
 * 2.2 闇の正体
   * [🖼️ 階級図を表示](./section2_Sacred_Taboo/階級.png)
-  * [🖼️ メイソンの図解](./section2_Sacred_Taboo/フリーメイソン.jpg)
+  * [🖼️ メイソンの図解](./section2_Sacred_Taboo/フリーメイソン.png)
 
 ### 【第4章】大いなる覚醒
 * 4.1 369の法則
-  * [🖼️ 369の図解](./section4_Awakening_369/369.jpg)
+  * [🖼️ 369の図解](./section4_Awakening_369/369.png)
 * 4.2 第三の目
-  * [🖼️ 画像を表示](./section4_Awakening_369/第三の目２.jpg)
+  * [🖼️ 画像を表示](./section4_Awakening_369/第三の目２.png)
 * 4.3 深淵の黙示録
   * [📄 PDFを表示](./section4_Awakening_369/🌑%20THE%20ABYSS%20REVELATION.pdf)
-
-
-
 
 ---
 
