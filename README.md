@@ -69,6 +69,9 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 * 4.3 The Abyss Revelation 深淵の黙示録
   * [📄 PDFを表示](./section4_Awakening_369/🌑%20THE%20ABYSS%20REVELATION.pdf)
 
+* 4.2 Sacred Solfeggio Frequencies and Lost Ancient Tones　ソルフェジオ周波数と古代の音律 / 振動の檻 vs. 解放の鍵
+  * [🖼️ 実証図解を表示](./section4_Awakening_369/ソルフェジオ周波数_振動の真実.jpg)
+
 ---
 
 # 📜 The Core Principles / 核心原則
