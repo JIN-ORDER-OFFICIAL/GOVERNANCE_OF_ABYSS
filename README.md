@@ -22,29 +22,29 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 
 * 1.1 トルーマン計画と3S政策
 
-  * [📄 画像を表示する](./section1_Old_OS/トルーマン計画.jpg)
+  * [📄画像を表示する](./section1_Old_OS/トルーマン計画.jpg)
 
 ### 【第2章】聖域の禁忌
 
 * 2.1 天皇家系図の真実
 
-  * [📄 画像を表示する](./section2_Sacred_Taboo/天皇家系図.jpg)
+  * [📄画像を表示する](./section2_Sacred_Taboo/天皇家系図.jpg)
 
 * 2.2 支配の階級図
   
-  * [🖼️ 階級図を表示](./section2_Sacred_Taboo/階級.png)
+  * [🖼️階級図を表示](./section2_Sacred_Taboo/階級.png)
   
-  * [🖼️ フリーメイソン構成図](./section2_Sacred_Taboo/フリーメイソン.jpg)
+  * [🖼️フリーメイソン構成図](./section2_Sacred_Taboo/フリーメイソン.jpg)
 
 ### 【第4章】大いなる覚醒
 
 * 4.1 369の法則
 
-  * [🖼️ 369の図解を表示](./section4_Awakening_369/369.jpg)
+  * [🖼️369の図解を表示](./section4_Awakening_369/369.jpg)
 
 * 4.3 深淵の黙示録
 
-  * [📄 PDFを開く](./section4_Awakening_369/🌑_THE_ABYSS_REVELATION.pdf)
+  * [📄PDFを開く](./section4_Awakening_369/🌑_THE_ABYSS_REVELATION.pdf)
 
 ---
 
