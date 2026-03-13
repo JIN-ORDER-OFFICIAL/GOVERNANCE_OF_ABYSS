@@ -20,11 +20,11 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 
 ### 【第1章】欺瞞の構造
 * 1.1 トルーマン計画と3S政策
-  * [📄 画像を表示](./section1_Old_OS/トルーマン計画.jpg)
+  * [📄 画像を表示](./section1_Old_OS%20/トルーマン計画.jpg)
 * 1.2 ロンドン・ロイズの支配
-  * [📄 PDFを表示](./section1_Old_OS/ロンドン%20Lloyd's.pdf)
+  * [📄 PDFを表示](./section1_Old_OS%20/ロンドン%20Lloyd's.pdf)
 * 1.3 旧OSの全体像
-  * [📄 PDFを表示](./section1_Old_OS/旧OS全体.pdf)
+  * [📄 PDFを表示](./section1_Old_OS%20/旧OS全体.pdf)
 
 ### 【第2章】聖域の禁忌
 * 2.1 皇族の真実
