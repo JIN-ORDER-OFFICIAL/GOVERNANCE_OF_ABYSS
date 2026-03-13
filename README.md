@@ -69,8 +69,14 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 * 4.3 The Abyss Revelation 深淵の黙示録
   * [📄 PDFを表示](./section4_Awakening_369/🌑%20THE%20ABYSS%20REVELATION.pdf)
 
-* 4.4 Sacred Solfeggio Frequencies and Lost Ancient Tones　ソルフェジオ周波数と古代の音律 / 振動の檻 vs. 解放の鍵
+* 4.4 Sacred Solfeggio Frequencies and Lost Ancient Tones ソルフェジオ周波数と古代の音律 / 振動の檻 vs. 解放の鍵
   * [🖼️ 実証図解を表示](./section4_Awakening_369/ソルフェジオ周波数_振動の真実.jpg)
+
+### 【SECTION 5】Transcending Dimensions through the Full Activation of the Third Eye
+### 【第5章】次元のハックと松果体（サードアイ）の完全覚醒
+
+* 5.1 Bypassing the 3D Control Network for Dimensional Ascension 次元のハックと松果体の完全覚醒 / 3次元監視網のハックとアセンション
+  * [🖼️ 超次元図解を表示](./section5_Awakening_Dimension/次元のハック_松果体覚醒.jpg)
 
 ---
 
