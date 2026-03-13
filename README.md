@@ -72,6 +72,10 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
 * 4.4 Sacred Solfeggio Frequencies and Lost Ancient Tones ソルフェジオ周波数と古代の音律 / 振動の檻 vs. 解放の鍵
   * [🖼️ 実証図解を表示](./section4_Awakening_369/ソルフェジオ周波数_振動の真実.jpg)
 
+* **4.5 【実証映像】物質ハックの瞬間（NEW）**
+  * [🎬 ナノ粒子とクラドニ図形の共鳴を再生](./section4_Awakening_369/周波数とナノ粒子の共鳴.mp4)
+  * ※特定の周波数がナノ粒子（物質）をどう支配するか、その目で確かめてください。
+
 ### 【SECTION 5】Transcending Dimensions through the Full Activation of the Third Eye
 ### 【第5章】次元のハックと松果体（サードアイ）の完全覚醒
 
