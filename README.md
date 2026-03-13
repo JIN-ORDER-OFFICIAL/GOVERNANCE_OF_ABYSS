@@ -18,68 +18,35 @@ Sever the link between your 'Brain' and 'Body,' and awaken your pineal gland.
 
 If you're ready, wash your face and try again! Let's begin the ultimate entertainment!!
 
-# 📂 MASTER INDEX / マスター・インデックス
-### 【SECTION 1】The Architecture of Deception: Dismantling the Old OS
-### 【第1章】欺瞞の構造：旧OSの解体
+# 🌑 THE ABYSS REPOSITORY: JIN-OS TRANSITION
 
-1.1 The Truman Plan & 3S Strategy
+### 【第1章】欺瞞の構造
 
-📄 View: トルーマン計画.jpg
+* 1.1 トルーマン計画と3S政策
 
-1.2 Lloyd's of London & BlackRock
+  * [📄 画像を表示する](./section1_Old_OS/トルーマン計画.jpg)
 
-📄 View: ロンドン_Lloyds.pdf
+### 【第2章】聖域の禁忌
 
-1.3 The Master Key & Infrastructure
+* 2.1 天皇家系図の真実
 
-📄 View: 旧OS全体.pdf
+  * [📄 画像を表示する](./section2_Sacred_Taboo/天皇家系図.jpg)
 
-### 【SECTION 2】The Sacred Taboo: Bloodlines and Underground Truths
-### 【第2章】聖域の禁忌：血統と地下の真実
+* 2.2 支配の階級図
+  
+  * [🖼️ 階級図を表示](./section2_Sacred_Taboo/階級.png)
+  
+  * [🖼️ フリーメイソン構成図](./section2_Sacred_Taboo/フリーメイソン.jpg)
 
-2.1 The Meiji Usurpation (Tabuse System)
+### 【第4章】大いなる覚醒
 
-📄 View: 皇族真実.png
+* 4.1 369の法則
 
-📄 View: 天皇家系図.jpg
+  * [🖼️ 369の図解を表示](./section4_Awakening_369/369.jpg)
 
-2.2 The Hierarchy of Darkness
+* 4.3 深淵の黙示録
 
-🖼️ View: 階級.png
-
-🖼️ View: フリーメイソン.jpg
-
-📄 View: 闇の深淵正体.pdf
-
-2.3 The Imperial Underground & Rituals
-
-🖼️ View: 闇の深淵の正体.jpg
-
-### 【SECTION 3】The Bio-Prison: Human Modification & DNA Control
-### 【第3章】バイオの監獄：人間改造とDNA管理
-
-3.1 Global Clone & Bio-Special Zones
-
-📄 View: 世界の闇の深淵.pdf
-
-### 【SECTION 4】The Great Awakening: 3-6-9 and the Third Eye
-### 【第4章】大いなる覚醒：3・6・9と第三の目
-
-4.1 The Universal Code & Frequency
-
-🖼️ View: 369.jpg
-
-4.2 Pineal Gland & Spiritual Freedom
-
-🖼️ View: 第三の目２.jpg
-
-4.3 The Abyss Revelation
-
-📄 View: 🌑_THE_ABYSS_REVELATION.pdf
-
-4.4 The Final Coup de Grâce
-
-🔗 Official BGM: LiSA 『紅蓮華』
+  * [📄 PDFを開く](./section4_Awakening_369/🌑_THE_ABYSS_REVELATION.pdf)
 
 ---
 
