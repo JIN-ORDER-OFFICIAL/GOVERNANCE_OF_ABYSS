@@ -18,8 +18,6 @@ Sever the link between your 'Brain' and 'Body,' and awaken your pineal gland.
 
 If you're ready, wash your face and try again! Let's begin the ultimate entertainment!!
 
-# 🌑 THE ABYSS REPOSITORY: JIN-OS TRANSITION
-
 ### 【第1章】欺瞞の構造
 
 * 1.1 トルーマン計画と3S政策
