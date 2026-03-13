@@ -45,6 +45,9 @@ If you're ready, wash your face and try again! Let's begin the ultimate entertai
   * [🖼️ メイソンの図解](./section2_Sacred_Taboo/フリーメイソン.png)
   * [📄 PDFを表示](./section2_Sacred_Taboo/闇の深淵正体.pdf)
 
+* 2.3 British Royal and Japanese Imperial Relations during the Meiji Restoration 明治維新と英国王室の蜜月 / 日本ハックの金融・儀式ルート
+  * [📄 相関図を表示](./section2_Sacred_Taboo/明治維新と英国ハック.jpg)
+
 ### 【SECTION 3】The Bio-Prison: Human Modification & DNA Control
 ### 【第3章】バイオの監獄：人間改造とDNA管理
 
