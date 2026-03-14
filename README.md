@@ -90,21 +90,21 @@ https://github.com/user-attachments/assets/7119e24a-6261-47ef-a489-1c67b5e9fcde
 * 6.1 The Deep History of the Red Dragon & Satomi Agency 里見家と赤き龍の系譜 / アヘン資金による戦後OSの起動
   * [📄 真実を閲覧 (View the Raw Truth)](./section6_Origins/The_Deep_History.pdf)
   * [📄 赤き龍の系譜とアヘン (View the Raw Truth)](./section6_Origins/上海三大亨.pdf)
-  * [📄 現在版アヘン「フェンタニル」 (View the Raw Truth)](./section6_Origins/フェンタニル.pdf)
+  * [📄 現在版アヘン「フェンタニル」 (View the Raw Truth)](./section6_Origins/フェンタニル.png)
 
 ### 【SECTION 7】The Next Generation OS: The New Executioners
 ### 【第7章】次世代OS：新たな執行官たち
 
 * 7.1 The New Executioners: Shinba & The Global Strategy 諜報員の微笑みと次世代OS / イスラエル流リロード計画
-  * [📄 真実を閲覧する (View the Raw Truth)](./section7_NextOS/The_New_Executioners.pdf)
-  * [🖼️ 執行官の眼光 (Executive Insight)](./section7_NextOS/榛葉_諜報の眼光.png)
+  * [📄 真実を閲覧 (View the Raw Truth)](./section7_NextOS/The_New_Executioners.pdf)
+  * [🖼️ 執行官の眼光 (Executive Insight)](./section7_NextOS/榛葉+20%加津也.png)
 
 ### 【SECTION 8】The Final Process: New Great Reset & Golden Dome
 ### 【第8章】最終工程：新グレートリセットと黄金のドーム
 
 * 8.1 The Final Protocol: Bio-Hacking & Global Panopticon 黄金のドームと人類最終リセット / 逃げ場なき檻の完成
-  * [📄 真実を閲覧する (View the Raw Truth)](./section8_Final/The_Final_Protocol.pdf)
-  * [📄 真実を閲覧する (View the Raw Truth)](./section8_Final/GoldenDome.pdf)
+  * [📄 真実を閲覧 (View the Raw Truth)](./section8_Final/The_Final_Protocol.pdf)
+  * [📄 Golden Dome詳細 (View the Raw Truth)](./section8_Final/GoldenDome.pdf)
 
 ---
 
