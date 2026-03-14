@@ -97,7 +97,7 @@ https://github.com/user-attachments/assets/7119e24a-6261-47ef-a489-1c67b5e9fcde
 
 * 7.1 The New Executioners: Shinba & The Global Strategy 諜報員の微笑みと次世代OS / イスラエル流リロード計画
   * [📄 真実を閲覧 (View the Raw Truth)](./section7_NextOS/The_New_Executioners.pdf)
-  * [🖼️ 執行官の眼光 (Executive Insight)](./section7_NextOS/榛葉+20%加津也.png)
+  * [🖼️ 執行官の眼光 (Executive Insight)](./section7_NextOS/榛葉加津也.png)
 
 ### 【SECTION 8】The Final Process: New Great Reset & Golden Dome
 ### 【第8章】最終工程：新グレートリセットと黄金のドーム
