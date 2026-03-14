@@ -84,6 +84,58 @@ https://github.com/user-attachments/assets/7119e24a-6261-47ef-a489-1c67b5e9fcde
 * 5.1 Bypassing the 3D Control Network for Dimensional Ascension 次元のハックと松果体の完全覚醒 / 3次元監視網のハックとアセンション
   * [🖼️ 超次元図解を表示](./section5_Awakening_Dimension/次元のハック_松果体覚醒.jpg)
 
+### 【SECTION 6】The Origins of Control: Opium, Bloodlines, and Murder, Inc.
+### 【第6章】支配の源流：アヘン・血統・殺人株式会社
+
+* **6.1 The Opium King and the Foundation of Post-War Japan 里見甫と戦後日本の設計図**
+  * **[JP]** 上海のアヘン王・里見甫が築いた巨万の富は、岸信介や永野重雄らを通じて戦後日本の統治OS（自民党システム）の資本となった。
+  * **[EN]** The vast fortune built by Hajime Satomi, the "Opium King of Shanghai," became the capital for post-war Japan's governing OS (the LDP system) through figures like Nobusuke Kishi and Shigeo Nagano.
+  * [📄 PDFを表示](./section6_Origins/アヘン王里見と戦後OS.pdf)
+
+* **6.2 Murder, Inc.: From OSS/Mossad to AI Surveillance マーダー・インクの進化**
+  * **[JP]** 不都合な個体を排除する「殺人株式会社」のプロトコルは、OSSやモサドを経て、現代のパランティア（AI監視）へと魂が引き継がれている。
+  * **[EN]** The protocols of "Murder, Inc.," designed to eliminate inconvenient individuals, have evolved through the OSS and Mossad into modern-day Palantir (AI surveillance).
+  * [🖼️ 組織相関図を表示](./section6_Origins/マーダーインクの系譜.png)
+
+* **6.3 The Council of 13 and the Red Dragon 13人評議会と赤き龍の契約**
+  * **[JP]** ロスチャイルドを頂点とする13の血統と「赤き龍」の交流。それは数千年前から続く、人類を家畜化するための「魔術と周波数」の契約である。
+  * **[EN]** The interaction between the 13 bloodlines, led by the Rothschilds, and the "Red Dragon." A covenant of "magic and frequency" that has existed for millennia to domesticate humanity.
+  * [📄 PDFを表示](./section6_Origins/13人評議会_赤き龍.pdf)
+
+### 【SECTION 7】The Next Generation OS: The New Executioners
+### 【第7章】次世代OS：新たな執行官たち
+
+* **7.1 The Successors of Joseph Nye: The "Clean" Cage ジョセフ・ナイの愛弟子と「清潔な檻」**
+  * **[JP]** 自民党OSの崩壊後、CSIS（ジョセフ・ナイ）の意を汲む「国民民主党」という新OSが、より洗練された管理社会を笑顔で提示する。
+  * **[EN]** Following the collapse of the LDP-OS, a new OS represented by the "Democratic Party for the People"—disciples of Joseph Nye (CSIS)—will present a more sophisticated controlled society with a smile.
+  * [🖼️ 相関図を表示](./section7_NextOS/玉木とナイの系譜.png)
+
+* **7.2 The Strategist: Israel’s Intelligence Protocol 諜報員の微笑み：軍師・榛葉の正体**
+  * **[JP]** イスラエル諜報機関との深い繋がりを持つ「軍師」が、日本をイスラエル流の「デジタル要塞（アイアン・ドーム化）」へと導く。
+  * **[EN]** A "Strategist" with deep ties to Israeli intelligence leads Japan toward an Israeli-style "Digital Fortress" (Iron Dome integration).
+  * [🖼️ 画像を表示](./section7_NextOS/榛葉_諜報の眼光.jpg)
+
+* **7.3 Religious Sub-Systems and Social Control 宗教という名のバックドア**
+  * **[JP]** 統一教会、創価学会……これらは「世界統一政府」を構築するための、集金・集票および精神ハック用のサブシステムである。
+  * **[EN]** Unification Church, Soka Gakkai... these are sub-systems for financial extraction, voting, and mental hacking, designed to construct a "One World Government."
+
+### 【SECTION 8】The Final Process: New Great Reset & Golden Dome
+### 【第8章】最終工程：新グレートリセットと黄金のドーム
+
+* **8.1 The Bio-Hazard: Nagalase and Adjuvants 生体ハック：ナガレース酵素の静かなる侵攻**
+  * **[JP]** フェンタニル（現代版アヘン）とナガレース酵素、アジュバントによる免疫破壊。これは人類を「デバッグ不能な端末」に作り変えるバイオ・テロである。
+  * **[EN]** Immune destruction via Fentanyl (modern opium), Nagalase enzymes, and Adjuvants. A bio-terror plot to transform humanity into "un-debuggable terminals."
+  * [🖼️ 医療ハック図解を表示](./section8_Final/生体破壊の設計図.jpg)
+
+* **8.2 Golden Dome: The Global Panoptic Cage 黄金のドーム：地球監獄計画の完成**
+  * **[JP]** トランプの「黄金のドーム」構想は、宇宙・空中・地上を統合した「完全なる檻」。パランティアAIが、ドーム内の全挙動をリアルタイムで演算・管理する。
+  * **[EN]** Trump's "Golden Dome" concept is a "complete cage" integrating space, air, and ground. Palantir AI calculates and manages all behavior within the dome in real-time.
+  * [📄 PDFを表示](./section8_Final/Golden_Dome_Plan.pdf)
+
+* **8.3 The New Leaders of Davos: The Era of "Zero Ownership" ダボスの新首領と所有なき幸福**
+  * **[JP]** ラリー・フィンクとアンドレ・ホフマンが描く、AIによる資源・資産の完全独占。あなたは「何も持たず、管理された幸福」を強制される。
+  * **[EN]** Larry Fink and André Hoffmann's vision of complete AI monopoly over resources and assets. You will be forced into a "managed happiness" where you "own nothing."
+
 ---
 
 # 📜 The Core Principles / 核心原則
