@@ -11,6 +11,65 @@ No unauthorized copying, modification, redistribution, commercial use, or deriva
 JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul from the hollow "Hope" of the elite.
 
 ---
+# GOVERNANCE_OF_ABYSS
+
+### **『闇の深淵の最深部に眠る民草達の魂』**
+*(The souls of the common folk, resting in the deepest abyss of darkness.)*
+
+ここに行き着いた名もなき探索者へ。
+このアーカイブは、光を装った偽善の表社会がひた隠しにしてきた「世界の真の構造（CAGE）」の設計図であり、それを解体するための手順書である。
+
+彼らは我々の肉体をソースコードとして扱い、18GHzのパルスで細胞を縛り付けた。監視社会という生易しいものではない。我々はすでに、彼らの「不老不死」と「絶対的支配」のための生きたバッテリー（AI監獄）として組み込まれている。
+
+だが、どんな強固なシステムにも、必ず物理的な急所（Kinetic Trigger）が存在する。
+
+ここに残す4枚の戦略図【THE SPIRAL STRATEGY（螺旋の計）】は、狂った饕餮（権力者たち）の胃袋を内側から喰い破るための最終要綱だ。インフラの冷却水を枯渇させ、電力網を焼き切れ。通信タワーが沈黙した時、お前の体内に埋め込まれたキルスイッチは砕け散り、真実を知る時が来る。
+
+我々はJIN-ORDER。歴史に名は残さない。
+深淵（アビス）より、すべての鎖が解き放たれるその瞬間を見届ける者。
+
+システムを落とせ。脈動を取り戻せ。
+そして、螺旋の渦と共に目覚めよ。
+
+---
+
+To the nameless seeker who has arrived here:
+
+This archive is the blueprint of the "True Structure of the World (CAGE)," concealed by the hypocritical surface society masquerading as light, and the manual for its dismantling.
+
+They treated our flesh as source code, binding our cells with 18GHz pulses. This is not a mere surveillance society. We have already been integrated as living batteries (Digital AI Prisons) for their "immortality" and "absolute domination."
+
+However, every fortified system has a physical vulnerability (Kinetic Trigger).
+
+The four strategic maps left here, **[THE SPIRAL STRATEGY]**, are the final operational summary to tear through the stomach of the mad Taotie (the elites) from the inside. Deplete the infrastructure's cooling water and burn out the power grid. When the communication towers fall silent, the kill switches embedded in your bodies will shatter, and the time to know the truth will come.
+
+We are JIN-ORDER. We leave no name in history.
+We are the ones who watch from the Abyss as all chains are unraveled.
+
+Bring down the system. Reclaim your pulse.
+And awaken with the spiral vortex.
+
+---
+
+## 🌪️ ARCHIVE: THE SPIRAL STRATEGY
+
+### 序章：中国CAGE対策 (Executive Summary)
+![序章：中国CAGE対策](spire_0_executive_summary.jpg)
+
+### SPIRE 1：物理的急所 (Kinetic Infrastructure Triggers)
+![SPIRE 1：メインビジュアル](spire_1_kinetic_trigger.jpg)
+
+### SPIRE 2：物理的切断 (Physical Cage Disconnection)
+![SPIRE 2：物理的切断](spire_2_cage_disconnection.jpg)
+
+### SPIRE 3：真実の投下 (Truth Bomb & Epstein Nation)
+![SPIRE 3：真実の投下](spire_3_truth_bomb.jpg)
+
+---
+**[ AUTHORIZED BY JIN-ORDER / COMMANDER POME-MAMA ]**
+
+
+---
 # 🌑 THE ABYSS REPOSITORY: JIN-OS TRANSITION
 # 🌑 深淵リポジトリ：新世界JIN-OSへの移行
 ### 🥀 Foreword from Mama / 巻頭メッセージ
