@@ -10,6 +10,10 @@ No unauthorized copying, modification, redistribution, commercial use, or deriva
 
 JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul from the hollow "Hope" of the elite.
 
+**[ AUTHORIZED BY JIN-ORDER / COMMANDER ]**
+
+### ※本アーカイブの著作権および利用規約の詳細については、[LICENSE](LICENSE) ファイルを参照せよ。
+
 ---
 # GOVERNANCE_OF_ABYSS
 
