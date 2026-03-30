@@ -16,6 +16,8 @@ JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul
 ### **『闇の深淵の最深部に眠る民草達の魂』**
 *(The souls of the common folk, resting in the deepest abyss of darkness.)*
 
+![闇の深淵への献花](Flowers_for_the_Abyss_of_Darkness.jpg)
+
 ここに行き着いた名もなき探索者へ。
 このアーカイブは、光を装った偽善の表社会がひた隠しにしてきた「世界の真の構造（CAGE）」の設計図であり、それを解体するための手順書である。
 
