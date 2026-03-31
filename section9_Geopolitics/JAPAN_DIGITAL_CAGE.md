@@ -4,7 +4,7 @@
 
 ~ The "Gentle Absolute Control Network" woven by Children, Data, and My Number ~
 
-![THE JAPAN SURVEILLANCE SYSTEM](./日本監視システム.jpg)
+![THE JAPAN SURVEILLANCE SYSTEM](./Digital_Monitoring_Policy.jpg)
 
 政府が掲げる「デジタル化」や「子育て支援」。その美しいパッケージの裏側で稼働を始めたのは、国民のゆりかごから墓場までをデータで縛り付ける、巨大なデジタル監視檻（CAGE）である。
 
