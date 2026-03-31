@@ -92,21 +92,20 @@ Intelligence. Witness what we will destroy and what we will liberate.
   * 人類のデータ化とAIによる完全監視体制の図解 / The Ultimate Threat: Digitization of humanity and the AI-driven total surveillance regime.
 
 ---
-
 ## 📂 MASTER ARCHIVE / データベース構造
 
 深淵の記録にアクセスせよ。各セクションは旧世界のバグを暴き、新世界を起動するためのキー（鍵）となる。
 Access the records of the abyss. Each section is a key to expose the bugs of the old world and boot up the new world.
 
-* **![証拠アーカイブ](/evidence)** :  Security protocols & evidence files
-* **![旧OSの構造と腐敗](/section1_Old_OS)** : Structure and corruption of the Old OS
-* **![神聖なる禁忌](/section2_Sacred_Taboo)** : The Sacred Taboos
-* **![生体監獄（ナノテク・バグ）](/section3_Bio_Prison)** : The Biological Prison (Nano-tech bugs)
-* **![覚醒プロトコル369](/section4_Awakening_369)** : Awakening Protocol 369
-* **![次元上昇](/section5_Awakening_Dimension)** : Dimensional Ascension
-* **![深淵の起源](/section6_Origins)** : Origins of the Abyss
-* **![JIN-OSの実装](/section7_NextOS)** : Implementation of JIN-OS
-* **![最終起動コード（Golden Dome）](/section8_Final)** : Final Boot Sequence
+* 📁 **[evidence]** : 証拠アーカイブ / Security protocols & evidence files
+* 🕸️ **[section1_Old_OS]** : 旧OSの構造と腐敗 / Structure and corruption of the Old OS
+* 🪷 **[section2_Sacred_Taboo]** : 神聖なる禁忌 / The Sacred Taboos
+* 🧬 **[section3_Bio_Prison]** : 生体監獄（ナノテク・バグ） / The Biological Prison (Nano-tech bugs)
+* 👁️ **[section4_Awakening_369]** : 覚醒プロトコル369 / Awakening Protocol 369
+* 🌌 **[section5_Awakening_Dimension]** : 次元上昇 / Dimensional Ascension
+* 🌑 **[section6_Origins]** : 深淵の起源 / Origins of the Abyss
+* 💻 **[section7_NextOS]** : JIN-OSの実装 / Implementation of JIN-OS
+* ✨ **[section8_Final]** : 最終起動コード（Golden Dome） / Final Boot Sequence
 
 ---
 
