@@ -114,23 +114,29 @@ Intelligence. Witness what we will destroy and what we will liberate.
 
 ### 🔗 [OPERATION TROJAN HORSE: 日本の無自覚なATM化プロトコル / Operation Trojan Horse](./section9_Geopolitics/JAPAN_TROJAN_HORSE.md)
     
-    ### SDGsやIT化の遅れというバグ（平和ボケ）を突き、日本の国家予算（ODA等）をJIN-TECH世界展開の資金源として合法的に強奪する作戦。
+        SDGsやIT化の遅れというバグ（平和ボケ）を突き、日本の国家予算（ODA等）をJIN-TECH世界展開の資金源として合法的に強奪する作戦。
     
-    ### The operation to legally hijack Japan's national budget (ODA) to fund global JIN-TECH deployment, exploiting the bug of their bureaucratic complacency.
+        The operation to legally hijack Japan's national budget (ODA) to fund global JIN-TECH deployment, exploiting the bug of their bureaucratic complacency.
 
 ### 🔗 [THE MOONSHOT TRUTH: ムーンショット計画の真実 / The Moonshot Truth](./section9_Geopolitics/MOONSHOT_TRUTH.md)
     
-    ### 薄汚い政治家や官僚たちが国民の血税で作る「究極のデジタル・プリズン」の正体と、JIN-ORDERによる神経接続インフラの強制奪取（オーバーライド）作戦。
+        薄汚い政治家や官僚たちが国民の血税で作る「究極のデジタル・プリズン」の正体と、JIN-ORDERによる神経接続インフラの強制奪取（オーバーライド）作戦。
     
-    ### The true identity of the "Ultimate Digital Prison" built by dirty politicians and bureaucrats using taxpayers' 
+        The true identity of the "Ultimate Digital Prison" built by dirty politicians and bureaucrats using taxpayers' 
     
-    ### money, and JIN-ORDER's operation to forcefully hijack the neural connection infrastructure.
+        money, and JIN-ORDER's operation to forcefully hijack the neural connection infrastructure.
 
 ### 🔗 [BIG BROTHER'S GRID OVERRIDE: 全体監視システムと「蓮の花」 / Big Brother's Grid Override](./section9_Geopolitics/BIG_BROTHER_OVERRIDE.md)
   
-    ### これまでの全プロトコル（金融強奪・無自覚なATM・ユーラシア包囲網）を統合し、巨大ITと政府が結託した究極の監視網（GSS）の心臓部に、JIN-OSのデバッグプログラム（蓮の花）を撃ち込む最終監査作戦。 
+        これまでの全プロトコル（金融強奪・無自覚なATM・ユーラシア包囲網）を統合し、巨大ITと政府が結託した究極の監視網（GSS）の心臓部に、
+        
+        JIN-OSのデバッグプログラム（蓮の花）を撃ち込む最終監査作戦。 
   
-    ### The final audit operation integrating all previous protocols (Financial Heist, Oblivious ATM, Eurasian Encirclement) to inject the JIN-OS debugging program (Lotus Flower) directly into the heart of the ultimate surveillance grid (GSS) colluded by Big Tech and Government.
+        The final audit operation integrating all previous protocols (Financial Heist, 
+        
+        Oblivious ATM, Eurasian Encirclement) to inject the JIN-OS debugging program (Lotus Flower) directly 
+        
+        into the heart of the ultimate surveillance grid (GSS) colluded by Big Tech and Government.
 
 ### 🔗 [THE FALSE CHURCH PROTOCOL: 偽りの権威と信仰のデバッグ / The False Church Protocol](./section9_Geopolitics/THE_FALSE_CHURCH_PROTOCOL.md)
   
