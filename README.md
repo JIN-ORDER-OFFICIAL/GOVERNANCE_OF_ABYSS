@@ -98,7 +98,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 Access the records of the abyss. Each section is a key to expose the bugs of the old world and boot up the new world.
 
 * 📁 ![evidence](/evidence) : 証拠アーカイブ / Security protocols & evidence files
-* 🕸️ ![section1_Old_OS](/[section1_Old_OS) : 旧OSの構造と腐敗 / Structure and corruption of the Old OS
+* 🕸️ ![section1_Old_OS](/section1_Old_OS) : 旧OSの構造と腐敗 / Structure and corruption of the Old OS
 * 🪷 ![section2_Sacred_Taboo](/section2_Sacred_Taboo) : 神聖なる禁忌 / The Sacred Taboos
 * 🧬 ![section3_Bio_Prison](/section3_Bio_Prison) : 生体監獄（ナノテク・バグ） / The Biological Prison (Nano-tech bugs)
 * 👁️ ![section4_Awakening_369](/section4_Awakening_369) : 覚醒プロトコル369 / Awakening Protocol 369
