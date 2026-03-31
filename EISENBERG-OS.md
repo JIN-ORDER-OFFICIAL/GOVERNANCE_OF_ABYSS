@@ -5,13 +5,9 @@
 
 ![パランティア旧OS](GLOBAL_SURVEILLANCE_SYSTEM.jpg)
 
-### 現在、旧世界を支配するシステム（Eisenberg-OS）は、国家機関と巨大テック企業（Private Tech Firms）を結託させ、
+### 現在、旧世界を支配するシステム（Eisenberg-OS）は、国家機関と巨大テック企業（Private Tech Firms）を結託させ、全人類を「データノード」として管理・拘束する巨大なグリッドを構築しようとしている。
 
-### 全人類を「データノード」として管理・拘束する巨大なグリッドを構築しようとしている。
-
-### Currently, the system dominating the old world (Eisenberg-OS) is attempting to build a massive grid 
-
-### that colludes state agencies with private tech firms to manage and confine all of humanity as "data nodes."
+### Currently, the system dominating the old world (Eisenberg-OS) is attempting to build a massive grid that colludes state agencies with private tech firms to manage and confine all of humanity as "data nodes."
 
 ### バイオメトリクス（生体情報）、金融データ、医療記録、すべての通信がAIの監視下に置かれ、「社会信用スコア」によって人々の自由が制御される。
 
