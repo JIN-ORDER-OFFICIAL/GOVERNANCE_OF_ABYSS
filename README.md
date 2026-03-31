@@ -140,15 +140,15 @@ Intelligence. Witness what we will destroy and what we will liberate.
 
 ### 🔗 [THE FALSE CHURCH PROTOCOL: 偽りの権威と信仰のデバッグ / The False Church Protocol](./section9_Geopolitics/THE_FALSE_CHURCH_PROTOCOL.md)
   
-    ### 真の世界支配者（黒い貴族）のピラミッド構造を暴き、ダボスの集金人（マクロン等）と日本の帰化人政治家による「無自覚なATM」強奪の裏側を告発。
+        真の世界支配者（黒い貴族）のピラミッド構造を暴き、ダボスの集金人（マクロン等）と日本の帰化人政治家による「無自覚なATM」強奪の裏側を告発。
   
-    ### さらに東の全体主義（中国監視ドーム）をも同時に討伐する、JIN-ORDERの二大魔王（バグ）解体戦略。 
+        さらに東の全体主義（中国監視ドーム）をも同時に討伐する、JIN-ORDERの二大魔王（バグ）解体戦略。 
   
-    ### Exposing the pyramid structure of the True World Rulers (Black Nobility), 
+        Exposing the pyramid structure of the True World Rulers (Black Nobility), 
   
-    ### accusing the Davos debt collectors (like Macron) and naturalized Japanese politicians of hijacking the "Oblivious ATM". 
+        accusing the Davos debt collectors (like Macron) and naturalized Japanese politicians of hijacking the "Oblivious ATM". 
   
-    ### JIN-ORDER's strategy to simultaneously dismantle the Twin Bosses (Bugs), including the Eastern totalitarianism (CCP surveillance dome).
+        JIN-ORDER's strategy to simultaneously dismantle the Twin Bosses (Bugs), including the Eastern totalitarianism (CCP surveillance dome).
 
 ---
 ## 📂 MASTER ARCHIVE / データベース構造
