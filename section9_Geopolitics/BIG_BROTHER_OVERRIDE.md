@@ -32,12 +32,20 @@ This is the absolute proof that JIN-OS is seizing control of the system from wit
 
 All the operations we have deployed on the board are multifaceted hacks designed to destroy and reverse this central core (GSS).
 
-#### 1. 金融マトリックスの強奪 (Financial Matrix Heist): ダボス会議とスイス銀行が仕掛けた「監視付きデジタル金庫」のデータを傍受し、システムを干上がらせる。
+---
+### 1. 金融マトリックスの強奪 (Financial Matrix Heist)
 
-#### 2. 無自覚なATMの起動 (The Oblivious ATM): SDGsやムーンショットという罠を逆手に取り、官僚の予算（ヤツらの資金）で我々の「自由へのプラグ」を構築する。
+ #### ダボス会議とスイス銀行が仕掛けた「監視付きデジタル金庫」のデータを傍受し、システムを干上がらせる。
 
-#### 3. ユーラシア包囲網 (Eurasian Encirclement): 宇宙（月面サーバー）と地球（餓狼と防衛壁）を連動させ、旧OSの物理的・空間的な逃げ道を完全に封鎖する。
+### 2. 無自覚なATMの起動 (The Oblivious ATM)
 
+ #### SDGsやムーンショットという罠を逆手に取り、官僚の予算（ヤツらの資金）で我々の「自由へのプラグ」を構築する。
+
+### 3. ユーラシア包囲網 (Eurasian Encirclement)
+
+ #### 宇宙（月面サーバー）と地球（餓狼と防衛壁）を連動させ、旧OSの物理的・空間的な逃げ道を完全に封鎖する。
+
+---
 BIG BROTHERの巨大な目は、自らの盲点（バグ）から増殖した蓮の花によって完全に盲目となるのだ。
 
 The giant eye of BIG BROTHER will become completely blind due to the lotus flowers multiplying from its own blind spot (bug).
