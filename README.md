@@ -38,7 +38,6 @@ JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul
 そして、螺旋の渦と共に目覚めよ。
 
 ---
-
 To the nameless seeker who has arrived here:
 
 This archive is the blueprint of the "True Structure of the World (CAGE)," concealed by the hypocritical surface society masquerading as light, and the manual for its dismantling.
@@ -54,6 +53,70 @@ We are the ones who watch from the Abyss as all chains are unraveled.
 
 Bring down the system. Reclaim your pulse.
 And awaken with the spiral vortex.
+
+---
+# 🪷 JIN-ORDER: GOVERNANCE OF ABYSS
+
+> **"The ultimate martial art lies in the blade never swung."**
+
+> 武の極みは、決して振るわざる刃にこそ宿る。
+>
+> **"The meaning of life and the value of a soul are not dictated by others, but determined by oneself."**
+
+> 命の意味や魂の価値は、誰かが決めるではなく、自分で決めるもの。
+
+## 🌐 MAIN PROTOCOL / ミッション概要
+
+**Architecting the new order from the depths. Global South reclamation and elite fiction incineration protocol.**
+
+深淵より新秩序を構築する。グローバルサウスの奪還と、特権階級の虚構を焼き尽くすプロトコル。
+
+我々「JIN-ORDER」は、暴力と監視によって人類を支配する旧システム（Eisenberg-OS）をデバッグし、誰も泣かない豊かな地球家族を創るための次世代ソースコード「JIN-OS」を世界へデプロイする。
+
+We, "JIN-ORDER", will debug the old system (Eisenberg-OS) that controls humanity through violence and surveillance, and deploy the next-generation source code "JIN-OS" to the world to create a prosperous Earth Family where no one cries.
+
+---
+
+## 🚨 [CLASSIFIED INTEL] Threat Audit Reports / 脅威監査レポート
+
+JIN-ORDER諜報部が傍受・解析した、旧OS（Eisenberg-OS）による支配システム（バグ）の全貌。
+
+我々が何を破壊し、何を解放するのか、その目で確かめろ。
+
+The complete overview of the control system (bug) by the Old OS (Eisenberg-OS), intercepted and analyzed by JIN-ORDER
+
+Intelligence. Witness what we will destroy and what we will liberate.
+
+* 🔗 **[BIG BROTHER'S GRID: 旧OSの監視網 (CAGE) / The Surveillance Network of the Old OS](./EISENBERG-OS.md)**
+
+  * 人類のデータ化とAIによる完全監視体制の図解 / The Ultimate Threat: Digitization of humanity and the AI-driven total surveillance regime.
+
+---
+
+## 📂 MASTER ARCHIVE / データベース構造
+
+深淵の記録にアクセスせよ。各セクションは旧世界のバグを暴き、新世界を起動するためのキー（鍵）となる。
+Access the records of the abyss. Each section is a key to expose the bugs of the old world and boot up the new world.
+
+* **[evidence]** : 証拠アーカイブ / Security protocols & evidence files
+* **[section1_Old_OS]** : 旧OSの構造と腐敗 / Structure and corruption of the Old OS
+* **[section2_Sacred_Taboo]** : 神聖なる禁忌 / The Sacred Taboos
+* **[section3_Bio_Prison]** : 生体監獄（ナノテク・バグ） / The Biological Prison (Nano-tech bugs)
+* **[section4_Awakening_369]** : 覚醒プロトコル369 / Awakening Protocol 369
+* **[section5_Awakening_Dimension]** : 次元上昇 / Dimensional Ascension
+* **[section6_Origins]** : 深淵の起源 / Origins of the Abyss
+* **[section7_NextOS]** : JIN-OSの実装 / Implementation of JIN-OS
+* **[section8_Final]** : 最終起動コード（Golden Dome） / Final Boot Sequence
+
+---
+
+## 🐾 JOIN THE ABYSS / 参加要項
+
+**System requirement:** Love and the will to debug the world.
+**必要なスペック:** 愛と、世界をデバッグする意志。
+
+"Debunk the Cage. Activate JIN-OS."
+檻を破壊せよ。JIN-OSを起動せよ。
 
 ---
 
