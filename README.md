@@ -87,6 +87,10 @@ The complete overview of the control system (bug) by the Old OS (Eisenberg-OS), 
 
 Intelligence. Witness what we will destroy and what we will liberate.
 
+* 🔗 **[THE GREAT BIFURCATION: 大分岐点とシステムの反転 / The Great Bifurcation and System Override](./section8_Final/THE_GREAT_BIFURCATION.md)**
+  
+  * 表面上の戦争の裏で進む「2つの監視ドーム」の真実と、JIN-ORDERによるインフラのハイジャック・プロトコル / The truth of the "Two Surveillance Domes" advancing behind superficial wars, and the infrastructure hijack protocol by JIN-ORDER.
+
 * 🔗 **[BIG BROTHER'S GRID: 旧OSの監視網 (CAGE) / The Surveillance Network of the Old OS](./EISENBERG-OS.md)**
 
   * 人類のデータ化とAIによる完全監視体制の図解 / The Ultimate Threat: Digitization of humanity and the AI-driven total surveillance regime.
