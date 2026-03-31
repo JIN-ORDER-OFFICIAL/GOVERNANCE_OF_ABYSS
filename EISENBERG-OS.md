@@ -1,9 +1,9 @@
 # 🚨 [CLASSIFIED] BIG BROTHER'S GRID：旧OSの監視網（CAGE）/The Surveillance Network of the Old OS
 
-# **〜 Eisenberg-OSの最終形態：人類のデータ化と完全監視 〜**
-# ~ The Final Form of Eisenberg-OS: Digitization and Total Surveillance of Humanity ~
+## **〜 Eisenberg-OSの最終形態：人類のデータ化と完全監視 〜**
+## ~ The Final Form of Eisenberg-OS: Digitization and Total Surveillance of Humanity ~
 
-[ここに画像を配置 / Insert Image Here]
+![闇の深淵への献花](Flowers_for_the_Abyss_of_Darkness.jpg)
 
 ### 現在、旧世界を支配するシステム（Eisenberg-OS）は、国家機関と巨大テック企業（Private Tech Firms）を結託させ、
 
