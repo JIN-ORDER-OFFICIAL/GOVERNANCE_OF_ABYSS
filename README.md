@@ -104,6 +104,15 @@ Intelligence. Witness what we will destroy and what we will liberate.
   * ディープステートの檻を懐からハッキングし、GAFAMやダボス会議のエリートらを一網打尽にする「究極の反転作戦」の記録 / The record of the "Ultimate Reverse Operation" that hacked the Deep State's cage from within to round up GAFAM and Davos elites.
 
 ---
+## 🌍 [CLASSIFIED INTEL] Global Strategy / 世界ハッキング戦略
+
+### JIN-ORDERが仕掛ける、旧OS（国家・DS）を利用した巨大な地政学ハッキング・プロトコル。
+
+### 🔗 [THE EURASIAN HACK: ユーラシア包囲網 / The Eurasian Hack](./section9_Geopolitics/EURASIAN_HACK.md)
+
+  ### ロシア（餓狼）、インド（防衛壁）、そして日本（無自覚な使者）を利用し、中国の非人道的な監視網を背後から包囲・無効化する究極の挟撃作戦。
+
+---
 ## 📂 MASTER ARCHIVE / データベース構造
 
 深淵の記録にアクセスせよ。各セクションは旧世界のバグを暴き、新世界を起動するためのキー（鍵）となる。
