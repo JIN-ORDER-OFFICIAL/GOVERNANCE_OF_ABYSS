@@ -3,7 +3,7 @@
 ## **〜 Eisenberg-OSの最終形態：人類のデータ化と完全監視 〜**
 ## ~ The Final Form of Eisenberg-OS: Digitization and Total Surveillance of Humanity ~
 
-![闇の深淵への献花](Flowers_for_the_Abyss_of_Darkness.jpg)
+![パランティア旧OS](GLOBAL_SURVEILLANCE_SYSTEM.jpg)
 
 ### 現在、旧世界を支配するシステム（Eisenberg-OS）は、国家機関と巨大テック企業（Private Tech Firms）を結託させ、
 
