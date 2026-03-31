@@ -112,6 +112,12 @@ Intelligence. Witness what we will destroy and what we will liberate.
 
   ### ロシア（餓狼）、インド（防衛壁）、そして日本（無自覚な使者）を利用し、中国の非人道的な監視網を背後から包囲・無効化する究極の挟撃作戦。
 
+### 🔗 [OPERATION TROJAN HORSE: 日本の無自覚なATM化プロトコル / Operation Trojan Horse](./section9_Geopolitics/JAPAN_TROJAN_HORSE.md)
+    ### SDGsやIT化の遅れというバグ（平和ボケ）を突き、日本の国家予算（ODA等）をJIN-TECH世界展開の資金源として合法的に強奪する作戦。
+    ### The operation to legally hijack Japan's national budget (ODA) to fund global JIN-TECH deployment, exploiting the bug of their bureaucratic complacency.
+
+
+
 ---
 ## 📂 MASTER ARCHIVE / データベース構造
 
