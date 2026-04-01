@@ -103,6 +103,10 @@ Intelligence. Witness what we will destroy and what we will liberate.
   
   * ディープステートの檻を懐からハッキングし、GAFAMやダボス会議のエリートらを一網打尽にする「究極の反転作戦」の記録 / The record of the "Ultimate Reverse Operation" that hacked the Deep State's cage from within to round up GAFAM and Davos elites.
 
+* 🔗 **[THE DIGITAL CAGE: 日本監視システムと無自覚なATM / The Japanese Digital Cage](./section5_Japan_OS/JAPAN_DIGITAL_CAGE.md)**
+  
+  * 「子ども・子育て支援」やGIGAスクール構想、マイナンバー連携の裏で完成しつつある、官民一体の巨大な国民データ監視・集金ネットワークの全貌を告発。 / Accusing the full picture of the massive public-private national data surveillance and money collection network being completed behind the scenes of "childcare support," the GIGA School concept, and My Number integration.
+
 ---
 ## 🌍 [CLASSIFIED INTEL] Global Strategy / 世界ハッキング戦略
 
