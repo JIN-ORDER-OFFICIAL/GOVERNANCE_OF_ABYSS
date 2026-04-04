@@ -25,6 +25,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 * **SKYNET Surveillance**: KDDI, docomo, SoftBank, LINE等の通信網を通じた、リアルタイムの生体・行動監視。
 * **Social Credit Scoring**: 中国モデルを踏襲した、行動に基づく「信用スコア」による社会的分断と制約。
 * **Population Confinement (CAGE)**: 銀行（MUFG, SMBC, Mizuho, ゆうちょ）を「人質」として機能させ、資産を凍結・押収するシステム。
+* **Infrastructure Interface**: The AI Eye utilizes the global grid infrastructure detailed in [Section 3: Bio_Prison (5G/6G Frequency Cage)](../section3_Bio_Prison/README.md) for total population confinement.
 
 ### 2. The Quantum Core (Baal OS)
 * **Coordinates: 35.681, 139.718**: 日本橋・日銀本店の地下に鎮座する、量子計算による「AI Eye」。
