@@ -1,6 +1,6 @@
 # 💀 System Core 39: The Rothschild Bloodline (The Central Kernel)
 
-![Central Kernel Map](./assets/ROTHSCHILD_CENTRAL_KERNEL_MAP.jpg)
+![Central Kernel Map](./assets/assets/ROTHSCHILD_CENTRAL_KERNEL_MAP.jpg)
 
 ## 🧬 金融カーネルの階層構造
 - **Five Arrows**: 1812年の家訓「結束・誠実・勤勉」に基づき、世界各国の中央銀行を統括する最上位OS。
