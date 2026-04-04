@@ -26,6 +26,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ### 1. The Execution Node (実行ノード)
 * **5G/6G & THz Communication**: テラヘルツ波を用いた、DNAレベルでの共鳴と干渉。
 * **Holographic MIMO / RIS**: 空間そのものをアンテナ化し、特定の個人をピンポイントで追跡・照射。
+* **Targeting Logic**: Real-time bio-tracking data is synchronized with the harvesting list found in [Section 2: Sacred Taboo (08-Protocol)](../section2_Sacred_Taboo/README.md) for automated collection.
 
 ### 2. Moonshot Goals & DARPA DNA
 * **Target 2050**: 身体、脳、空間、時間の制約からの解放（＝個人の肉体と意識の完全なデジタル管理）。
