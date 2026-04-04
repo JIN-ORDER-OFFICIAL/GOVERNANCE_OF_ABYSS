@@ -1,7 +1,7 @@
 # 📂 Section 1: Old_OS - The Architect Core
 
 ## 🏛️ 旧支配構造のピラミッド (The Global Power Structure)
-
+　
 ![Global Power Structure](./Global_Power_Structure_Architect.jpg)
 
 > **"The complete digital enslavement of human Jin (Spirit)."**
