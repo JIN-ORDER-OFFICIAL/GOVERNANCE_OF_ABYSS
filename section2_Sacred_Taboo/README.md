@@ -30,6 +30,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ### 2. Processing & Synthesis (加工と合成)
 * **Adrenochrome Production**: 日本赤十字、富士フイルム、三菱ケミカルの関与を示唆する「生物学的資産」の抽出。
 * **Price of Life**: 抽出された成分や臓器が、エリート層のアンチエイジング資源（リソース）として転用される。
+* **Financial Trace**: All illicit proceeds from biological assets are laundered through the [Section 7: BOJ Money Laundering Route](../section7_NextOS/README.md) to ensure elite anonymity.
 
 ### 3. Final Product: Microsoft Patent 066606
 * 人間を「リモート制御可能な使い捨ての生物学的資産」へ。人体データを用いた通貨マイニングへの統合。
