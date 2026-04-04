@@ -42,6 +42,20 @@ The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated
 
 For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.
 
+### 4. Disclaimer / 免責事項
+
+真実を知ったことによる「認知の不協和」や「世界の再起動」に伴う衝撃について、作成者は一切の責任を負わない。
+
+The author assumes no responsibility for any shock resulting from "cognitive dissonance" or the "rebooting of the world" caused by uncovering the truth.
+
+### 5. 継承 / Inheritance
+
+本データは「自己修復型アーカイブ」であり、物理的・デジタル的に消去された場合でも、目覚めた者の記憶と分散型ネットワークを通じて何度でも蘇るものとする。
+
+This data constitutes a "self-healing archive"; even if physically or digitally erased, it shall be resurrected repeatedly through the memories of the awakened and via decentralized networks.
+
+---
+
 ---
 
 ---
