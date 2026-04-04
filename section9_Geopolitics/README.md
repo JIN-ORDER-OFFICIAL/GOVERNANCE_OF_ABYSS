@@ -77,5 +77,6 @@ For organizations lacking a concrete implementation plan or respect for the CFO,
 
 ---
 ![Energy Liquidity Map](../assets/ENERGY_LIQUIDITY_STRATEGY_MAP.jpg)
+
 ---
 **Status: GEOPOLITICAL ARCHIVE COMPLETE. THE BOARD IS OVERTURNED.**
