@@ -1,3 +1,13 @@
+### ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
+
+本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
+
+ただし、**JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。
+
+If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
+
+📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+---
 # 📂 Section 1: Old_OS - The Architect Core
 
 ## 🏛️ 旧支配構造のピラミッド (The Global Power Structure)
