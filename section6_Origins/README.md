@@ -10,6 +10,11 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ---
 # 📂 Section 6: Origins - The Root of Abyss
 
+## 「鎖国・出島」という名のサンドボックスの真実を視覚化します。
+
+![Dejima Sandbox Vision](../assets/DEJIMA_SANDBOX_PROTOCOL_VISION.jpg)
+
+---
 ## 🚀 支配の起源：アポロ計画からムーンショットへ (Origins - Architect Core)
 
 ![Origins of Moonshot](./hZADS.jpg)
