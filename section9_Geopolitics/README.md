@@ -48,10 +48,15 @@ For organizations lacking a concrete implementation plan or respect for the CFO,
 ## 🌍 地政学的支配のチェスボード (The Geopolitical Chessboard)
 
 > **"Politics is the shadow cast by high finance over society."**
+
 > 国境は幻想であり、その裏で糸を引く「地政学的OS」の力学を解明する。
 
 ---
+##  「イラン戦争とレポ市場の真実」を視覚的に証明します。
 
+![Energy Liquidity Map](../assets/ENERGY_LIQUIDITY_STRATEGY_MAP.jpg)
+
+---
 ## 🏛️ 三極構造と日本の役割 (The Tri-Polar Structure)
 
 ### 1. The Atlantic Node (大西洋ノード)
