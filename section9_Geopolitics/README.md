@@ -7,7 +7,6 @@
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
-
 ---
 
 ### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
@@ -76,5 +75,7 @@ For organizations lacking a concrete implementation plan or respect for the CFO,
 * **National Sovereignty**: 国境を守るのではなく、個々の「JIN（精神）」の主権を確立する。
 * **Resource Equilibrium**: 独占から共有へ。エネルギーと食料の自律分散型インフラへの移行。
 
+---
+![Energy Liquidity Map](../assets/ENERGY_LIQUIDITY_STRATEGY_MAP.jpg)
 ---
 **Status: GEOPOLITICAL ARCHIVE COMPLETE. THE BOARD IS OVERTURNED.**
