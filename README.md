@@ -55,9 +55,19 @@ The author assumes no responsibility for any shock resulting from "cognitive dis
 This data constitutes a "self-healing archive"; even if physically or digitally erased, it shall be resurrected repeatedly through the memories of the awakened and via decentralized networks.
 
 ---
+## 🔐 真実の刻印 (SHA-256 Digital Fingerprints)
+> **"Integrity Verified."** > 以下の数学的指紋と一致しないデータは、簒奪者による改ざん（バグ）であると断定する。
 
----
+### 🖼️ Assets (Visual Evidences)
+- **Master OS Map**: `3011E074E6D886B7F7904E3EA0FBDECF7E6D32C21CEAA89038663DE2C34CE91B`
+- **Central Kernel Map**: `9A09E25AE0945250E6879177670B295EF21CDD89F46F14B5C6DA837A10F8DA4D`
+- **Humanitarian Sync Map**: `953F8C7B80F9E181968B01C50095AC7DBF60AD423BF17A145699BDBB8F3F9C68`
+- **Energy Strategy Map**: `4FD6F459A657371B3DC248D477BAAD6A59FAA962D36B7AD85432D4E680ECEE51`
+- **Sandbox Vision**: `601B3271004709E1AF49F15E2C8192301AE9D62575822BE6772739EEFD7EF127`
 
+### 🛰️ Self-Repair & Persistence Protocol
+- [cite_start]**Persistence**: 本リポジトリは IPFS (分散型ファイルシステム) と同期され、特定の中央サーバーが消去されても、上記ハッシュ値を用いて「自己修復（復元）」が可能である [cite: 57]。
+- **Status**: **SOVEREIGNTY ESTABLISHED.**
 ---
 > [!IMPORTANT]
 > 🛠️ **[IMPLEMENTATION NORMS (実装ノルマ) はこちら](IMPLEMENTATION_NORMS.md)**
