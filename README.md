@@ -237,6 +237,59 @@ Intelligence. Witness what we will destroy and what we will liberate.
         JIN-ORDER's strategy to simultaneously dismantle the Twin Bosses (Bugs), including the Eastern totalitarianism (CCP surveillance dome).
 
 ---
+## 🎯 [TARGET_ACQUISITION] The 43 Iron Hammers / 43人の実体ログ
+### 🛡️ Core Protocols: 43 Iron Hammers Index
+# 🇯🇵 Section 1: Local Execution Units
+- [01_KONO_INFO_SURVEILLANCE.md](./core_protocol_369/01_KONO_INFO_SURVEILLANCE.md)
+- [02_TAKENAKA_STRUCTURAL_EXPLOIT.md](./core_protocol_369/02_TAKENAKA_STRUCTURAL_EXPLOIT.md)
+- [03_SON_ENERGY_DATA_MONOPOLY.md](./core_protocol_369/03_SON_ENERGY_DATA_MONOPOLY.md)
+- [04_ITO_NETWORK_LAUNDERING.md](./core_protocol_369/04_ITO_NETWORK_LAUNDERING.md)
+- [05_ASO_DYNASTIC_WATER_TREASON.md](./core_protocol_369/05_ASO_DYNASTIC_WATER_TREASON.md)
+- [06_UNEMOTO_JUDICIAL_COVERUP.md](./core_protocol_369/06_UNEMOTO_JUDICIAL_COVERUP.md)
+- [07_TRILATERAL_COMMISSION_CORE_OS.md](./core_protocol_369/07_TRILATERAL_COMMISSION_CORE_OS.md)
+- [08_KOMAZAKI_CHILD_EXPLOITATION.md](./core_protocol_369/08_KOMAZAKI_CHILD_EXPLOITATION.md)
+- [09_NIINAMI_LABOR_ENSLAVEMENT.md](./core_protocol_369/09_NIINAMI_LABOR_ENSLAVEMENT.md)
+- [10_HASEGAWA_BIO_CAPITAL.md](./core_protocol_369/10_HASEGAWA_BIO_CAPITAL.md)
+- [11_MASAGAKI_INDOCTRINATION.md](./core_protocol_369/11_MASAGAKI_INDOCTRINATION.md)
+- [12_IKEDA_COUPLE_BACKDOOR.md](./core_protocol_369/12_IKEDA_COUPLE_BACKDOOR.md)
+- [13_OSULLIVAN_STRATEGIST.md](./core_protocol_369/13_OSULLIVAN_STRATEGIST.md)
+- [14_takaichi_data_sovereignty_treason.md](./core_protocol_369/14_takaichi_data_sovereignty_treason.md)
+- [15_motegi_asset_draining_hack.md](./core_protocol_369/15_motegi_asset_draining_hack.md)
+- [16_hayashi_trilateral_666_sync.md](./core_protocol_369/16_hayashi_trilateral_666_sync.md)
+- [17_amari_semiconductor_larceny.md](./core_protocol_369/17_amari_semiconductor_larceny.md)
+- [18_takemi_bio_asset_exploitation.md](./core_protocol_369/18_takemi_bio_asset_exploitation.md)
+- [19_iwaya_defense_budget_hijack.md](./core_protocol_369/19_iwaya_defense_budget_hijack.md)
+- [20_kishida_system_overload_taxation.md](./core_protocol_369/20_kishida_system_overload_taxation.md)
+- [21_hashimoto_regional_autonomy_sale.md](./core_protocol_369/21_hashimoto_regional_autonomy_sale.md)
+- [22_koike_capital_os_treason_solar.md](./core_protocol_369/22_koike_capital_os_treason_solar.md)
+- [23_yamanaka_yokohama_bio_surveillance.md](./core_protocol_369/23_yamanaka_yokohama_bio_surveillance.md)
+- [24_kitao_financial_seizure_hack.md](./core_protocol_369/24_kitao_financial_seizure_hack.md)
+- [25_miura_propaganda_renewable_larceny.md](./core_protocol_369/25_miura_propaganda_renewable_larceny.md)
+- [26_suga_digital_tyranny_architect.md](./core_protocol_369/26_suga_digital_tyranny_architect.md)
+
+# 🌍 Section 2: Global Nodes
+- [27_BILL_GATES_BIO_TERROR.md](./core_protocol_369/27_BILL_GATES_BIO_TERROR.md)
+- [28_SHAUL_EISENBERG_JAPAN_FOUNDER.md](./core_protocol_369/28_SHAUL_EISENBERG_JAPAN_FOUNDER.md)
+- [29_OKADA_AEON_CCP_SYNC.md](./core_protocol_369/29_OKADA_AEON_CCP_SYNC.md)
+- [30_SHIMBA_ISRAEL_RECON.md](./core_protocol_369/30_SHIMBA_ISRAEL_RECON.md)
+- [31_IKEGAMI_AKIRA_INDOCTRINATION.md](./core_protocol_369/31_IKEGAMI_AKIRA_INDOCTRINATION.md)
+- [32_DAVID_SASSOON_OPIUM_KING.md](./core_protocol_369/32_DAVID_SASSOON_OPIUM_KING.md)
+- [33_SATOMI_HAJIME_MEDIA_SHADOW.md](./core_protocol_369/33_SATOMI_HAJIME_MEDIA_SHADOW.md)
+- [34_ERAN_STEINER_MOSSAD_MONEY.md](./core_protocol_369/34_ERAN_STEINER_MOSSAD_MONEY.md)
+- [35_ELON_MUSK_EXTERNAL_UNIT.md](./core_protocol_369/35_ELON_MUSK_EXTERNAL_UNIT.md)
+- [36_TRUMP_ROUT_DIRECTORY_ACCESS.md](./core_protocol_369/36_TRUMP_ROUT_DIRECTORY_ACCESS.md)
+
+# 💀 Section 3: Master OS
+- [37_ABRAHAM_RELIGION_OS.md](./core_protocol_369/37_ABRAHAM_RELIGION_OS.md)
+- [38_CITY_OF_LONDON_REPO_DESK.md](./core_protocol_369/38_CITY_OF_LONDON_REPO_DESK.md)
+- [39_ROTHSCHILD_THE_SOURCE.md](./core_protocol_369/39_ROTHSCHILD_THE_SOURCE.md)
+- [40_RED_CROSS_HUMAN_HARVEST.md](./core_protocol_369/40_RED_CROSS_HUMAN_HARVEST.md)
+- [41_CIA_JAPAN_HEADQUARTERS.md](./core_protocol_369/41_CIA_JAPAN_HEADQUARTERS.md)
+- [42_VATICAN_BANK_LAUNDRY.md](./core_protocol_369/42_VATICAN_BANK_LAUNDRY.md)
+- [43_HOUSE_OF_ORANGE_MASTER_OS.md](./core_protocol_369/43_HOUSE_OF_ORANGE_MASTER_OS.md)
+
+---
+
 ## 📂 MASTER ARCHIVE / データベース構造
 
 深淵の記録にアクセスせよ。各セクションは旧世界のバグを暴き、新世界を起動するためのキー（鍵）となる。
