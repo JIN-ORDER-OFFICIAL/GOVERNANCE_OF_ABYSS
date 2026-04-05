@@ -7,7 +7,8 @@
 
 ---
 ## 🎯 証拠の提示 (Evidence Link)
-![EVIDENCE_IMAGE](./assets/Global_Power_Structure_Architect.jpg)
+
+![EVIDENCE_IMAGE](../assets/Global_Power_Structure_Architect.jpg)
 
 ### 📄 執行ログ
 **ママのオリジナル説明：**  
