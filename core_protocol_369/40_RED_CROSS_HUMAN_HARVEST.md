@@ -1,3 +1,9 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 💀 System Core 40: The Red Cross (The Blood Extraction Protocol)
 
 ![GLOBAL_HUMANITARIAN_SYNC_MAP](https://github.com/user-attachments/assets/28cff289-be1b-4587-9a10-aa21e7b711e8)
