@@ -1,3 +1,9 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 💀 System Core 39: The Rothschild Bloodline (The Central Kernel)
 
 ![ROTHSCHILD_CENTRAL_KERNEL_MAP](https://github.com/user-attachments/assets/6383a5cf-6d0c-4737-b7cb-1144947cd352)
