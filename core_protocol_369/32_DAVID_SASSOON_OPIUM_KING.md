@@ -2,3 +2,5 @@
 
 ## ⚖️ 具体的罪状
 * **アヘン支配の源流**: イラン・バグダッドを拠点としたアヘン利権。ロスチャイルド家と婚姻関係。
+
+![Satellite Grid Control](../assets/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
