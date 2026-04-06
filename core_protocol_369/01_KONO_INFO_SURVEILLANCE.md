@@ -1,5 +1,10 @@
-# 🛡️ 01_KONO_INFO_SURVEILLANCE
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
+---
+# 🛡️ 01_KONO_INFO_SURVEILLANCE
 ## 📋 簒奪者プロファイル：河野
 - **STATUS:** ACTIVE / MONITORING
 - **PROTOCOL:** INFO SURVEILLANCE
