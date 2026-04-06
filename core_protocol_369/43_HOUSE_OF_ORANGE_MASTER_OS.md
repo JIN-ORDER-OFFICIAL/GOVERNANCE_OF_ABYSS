@@ -1,3 +1,9 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 💀 System Core 43: House of Orange-Nassau (The Grand Master OS)
 
 ![HOUSE_OF_ORANGE_MASTER_OS_MAP](https://github.com/user-attachments/assets/dbd3ffc6-0107-4cde-80bb-cea9504e6c05)
