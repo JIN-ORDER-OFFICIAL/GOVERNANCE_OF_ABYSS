@@ -5,12 +5,11 @@
 - **PROTOCOL:** INFO SURVEILLANCE
 
 ---
-
 ## 🏛️ [CRIME_LOG] 罪状：情報統制およびデジタル監視
 > **"Information is the first weapon they seize."**
 
 ### 🎯 証拠の提示 (Evidence Link)
-![EVIDENCE_01_KONO_SURVEILLANCE](../assets/evidence_01_kono_surveillance.jpg)
+![河野太郎](../assets/evidence_01_kono_surveillance.jpg)
 
 ### 📄 執行ログ
 1. デジタル庁を通じた国民監視システムの構築
