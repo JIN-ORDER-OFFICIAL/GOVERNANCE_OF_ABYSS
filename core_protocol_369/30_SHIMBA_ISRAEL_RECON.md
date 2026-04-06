@@ -2,3 +2,5 @@
 
 ## ⚖️ 具体的罪状
 * **イスラエル・ロビー同期**: 日本の「隔離病棟」を維持するための資金ルート確保。
+
+![Satellite Grid Control](../assets/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
