@@ -11,6 +11,8 @@
 ### 2. AIインフラ「スターゲイト」による演算能力独占
 - **Action**: [Section 3: 5G/6G Bio-Prison](../section3_Bio_Prison/README.md) の神経系となるAIコンピューティング基盤を構築。国民の思考ログをリアルタイムで演算し、未来を先制支配する。
 
+![孫正義](../assets/evidence_03_son_stargate_monopoly.jpg)
+
 ### 3.情報の監獄とデジタル・グリッドの全貌
 孫正義によるLINE/Yahooデータ流出の「蛇口」と、Palantir、JSC（Japan Smart Chain）を通じた監視システムの構造図。
 
