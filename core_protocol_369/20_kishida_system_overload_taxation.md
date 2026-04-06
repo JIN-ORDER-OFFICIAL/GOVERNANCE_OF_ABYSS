@@ -1,3 +1,9 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](./LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
 # 💀 Target 20: Fumio Kishida (The Prime Minister of System Overload)
 
 ## ⚖️ 罪状: 国民OSへの「物理的搾取」の実行
