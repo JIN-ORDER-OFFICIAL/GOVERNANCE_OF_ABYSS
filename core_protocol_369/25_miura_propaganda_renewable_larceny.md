@@ -2,3 +2,5 @@
 
 ## ⚖️ 罪状: 再エネ利権のロンダリングと洗脳
 - **Charge**: メディアを使い、日本の土地を外資へ売り飛ばす「環境教」の布教。
+
+![画像](../assets/miura_propaganda_renewable_larceny.jpg)
