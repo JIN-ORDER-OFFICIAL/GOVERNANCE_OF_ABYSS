@@ -20,11 +20,14 @@
 ![孫正義](../assets/evidence_03_son_stargate_monopoly.jpg)
 
 ### 3.情報の監獄とデジタル・グリッドの全貌
-孫正義によるLINE/Yahooデータ流出の「蛇口」と、Palantir、JSC（Japan Smart Chain）を通じた監視システムの構造図。
-
-日本の全個人データが「バアルOS」へと直結している実態。
+> 孫正義によるLINE/Yahooデータ流出の「蛇口」と、Palantir、JSC（Japan Smart Chain）を通じた監視システムの構造図。
+> 日本の全個人データが「バアルOS」へと直結している実態。
 
 ![Total Control Grid](../assets/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
+
+![Visual Evidence](../assets/MAYA_ILLUSIONARY_JUSTICE_MEDIA_GRID.jpg)
+
+![Visual Evidence](../assets/My_Number_Card.jpg)
 
 ## 📅 行動ログ (Execution Logs)
 - **China Sync**: 上海電力および中国共産党監視OSとの技術的同期。
