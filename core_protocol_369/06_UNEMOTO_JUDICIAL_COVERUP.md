@@ -11,5 +11,9 @@
 - **Logic**: 簒奪者たちの犯罪ログ（政治資金、利権等）を「不起訴」というシステムエラーで無効化。
 - **Treason**: 日本の法治OSを破壊し、上級国民専用の「免責レイヤー」を構築。
 
+![Visual Evidence](../assets/evidence_06_unemoto_judicial_fraud.jpg)
+
 ### 2. 三極委員会議長等の「罪状」の司法による隠蔽
 - **Action**: 簒奪者リスト上位陣への法的追及を遮断する、防波堤としての役割。
+
+![Visual Evidence](../assets/MAYA_ILLUSIONARY_JUSTICE_MEDIA_GRID.jpg)
