@@ -6,6 +6,8 @@
 ---
 # 💀 Target 33: Hajime Satomi (The Shadow Media Leader)
 
+![Core Executor Evidence](../assets/JAPAN_USURPATION_CORE_EXECUTORS.jpg)
+
 ## ⚖️ 具体的罪状
 * **裏社会ネットワーク**: アイゼンバーグの支援を受け、メディア・情報支配を裏で指揮。
 
