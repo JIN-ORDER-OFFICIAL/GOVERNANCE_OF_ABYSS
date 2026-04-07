@@ -6,5 +6,12 @@
 ---
 # 💀 Target 21: Toru Hashimoto (The Regional Autonomy Salesman)
 
-## ⚖️ 罪状: 大阪リージョンの「外資簒奪OS」化
-- **Charge**: 上海電力導入、IRカジノ等による土地主権の解体。
+## 📜 罪状：地方 OS の売却と外資インフラの合法的固定
+
+大阪リージョンをテストベッドにし、上海電力や IR カジノといった「外資簒奪 OS」を導入。
+
+地方自治法改正による「指示権」を悪用し、住民の反対を無視してこれらを永久固定しようとした罪。
+
+### 🖼️ 証拠ログ：地方 OS 売却の実行図
+
+![画像](../assets/hashimoto_regional_autonomy_sale.jpg)
