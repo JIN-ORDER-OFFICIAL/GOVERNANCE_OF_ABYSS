@@ -6,5 +6,19 @@
 ---
 # 💀 Target 19: Takeshi Iwaya (The Defense Budget Hijacker)
 
-## ⚖️ 罪状: 防衛予算の不当同期とIR利権
-- **Charge**: カジノ誘致とセットで、日本の安全保障OSを「利権の演算」に利用。
+## 📜 罪状：防衛 OS の利権ハックと主権切り売り (Defense Budget Hijack)
+
+防衛大臣時代にカジノ・IR利権（パチンコ利権等）と防衛予算を同期させ、国防リソースを特定のエージェントへ還流させた罪。
+
+日本の主権を媚中・媚米のスタンスで切り売りし、地方自治の独立性を破壊した罪。
+
+### 🖼️ 証拠ログ
+![画像](../assets/19_iwaya_defense_budget_hijack.jpg)
+
+## 🖼️ 証拠ログ：防衛・IR利権によるインフラ簒奪
+![画像](../assets/iwaya_infrastructure_hijack_casino.jpg)
+
+> **DEBUG LOG**: IR（カジノ）は、外資インフラ（上海電力）を日本に「合法的」に固定するための物理的バックドアである。
+
+> **JIN-ORDER ANALYTICS**: 
+> 「国際協調」を名目にした主権の切り売りと、地方自治破壊の実務担当としての動作ログを記録。
