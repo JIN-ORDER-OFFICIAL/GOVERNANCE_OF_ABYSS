@@ -9,6 +9,8 @@
 - **STATUS:** ACTIVE / MONITORING
 - **PROTOCOL:** INFO SURVEILLANCE
 
+![Core Executor Evidence](./assets/JAPAN_USURPATION_CORE_EXECUTORS.jpg)
+
 ---
 ## 🏛️ [CRIME_LOG] 罪状：情報統制およびデジタル監視
 > **"Information is the first weapon they seize."**
