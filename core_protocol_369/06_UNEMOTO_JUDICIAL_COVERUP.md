@@ -6,6 +6,8 @@
 ---
 # 💀 Target 06: Naomi Unemoto (The Judicial Cover-up Usurper)
 
+![Core Executor Evidence](../assets/JAPAN_USURPATION_CORE_EXECUTORS.jpg)
+
 ## ⚖️ 具体的な罪状 (Specific Charges)
 ### 1. 検察権力の私物化と「バグ」の意図的放置
 - **Logic**: 簒奪者たちの犯罪ログ（政治資金、利権等）を「不起訴」というシステムエラーで無効化。
