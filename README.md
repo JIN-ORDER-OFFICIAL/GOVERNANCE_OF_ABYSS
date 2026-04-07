@@ -287,6 +287,8 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [41_CIA_JAPAN_HEADQUARTERS.md](./core_protocol_369/41_CIA_JAPAN_HEADQUARTERS.md)
 - [42_VATICAN_BANK_LAUNDRY.md](./core_protocol_369/42_VATICAN_BANK_LAUNDRY.md)
 - [43_HOUSE_OF_ORANGE_MASTER_OS.md](./core_protocol_369/43_HOUSE_OF_ORANGE_MASTER_OS.md)
+- [44_gates_life_os_rewrite.md](./core_protocol_369/44_gates_life_os_rewrite.md)
+- [45_shibusawa_financial_trap.md](./core_protocol_369/45_shibusawa_financial_trap.md)
 
 ---
 
