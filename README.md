@@ -6,7 +6,7 @@
 
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+#### 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
 
 ---
 
