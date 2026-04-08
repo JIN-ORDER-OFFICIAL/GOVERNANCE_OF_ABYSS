@@ -316,7 +316,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [43_HOUSE_OF_ORANGE_MASTER_OS.md](./core_protocol_369/43_HOUSE_OF_ORANGE_MASTER_OS.md)
 - [44_gates_life_os_rewrite.md](./core_protocol_369/44_gates_life_os_rewrite.md)
 - [45_shibusawa_financial_trap.md](./core_protocol_369/45_shibusawa_financial_trap.md)
-- [46_HIRAI_DIGITAL_TYRANNY_WIRING.md](./core_protocol_369/46_HIRAI_DIGITAL_TYRANNY_WIRING.md)
+- [46_HIRAI_DIGITAL_TYRANNY_WIRING.md](./core_protocol_369/46_ITO_NETWORK_LAUNDERING.md)
 
 ---
 
