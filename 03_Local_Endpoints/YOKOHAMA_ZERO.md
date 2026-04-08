@@ -11,7 +11,7 @@ Level 1（中枢）とLevel 2（プロトコル）で設計された「支配の
 
 新市庁舎は、その略奪を管理するための中枢サーバーに過ぎない。
 
-![Grand Zero Land Grab](../01_grand_zero_land_grab.jpg)
+![Grand Zero Land Grab](./01_grand_zero_land_grab.jpg)
 
 ## 2. 利権の自己増殖と監視網（Surveillance & Profit Recycling）
 元技監・高瀬氏の天下り先（YKIP）や「ハマのドン」を通じた不正なキャッシュフロー。
@@ -20,9 +20,9 @@ Level 1（中枢）とLevel 2（プロトコル）で設計された「支配の
 
 データサイエンティスト市長が推進するスマートシティの正体は、完璧な「デジタル監獄」である。
 
-![Profit Recycling Mechanism](../02_profit_recycling_mechanism.jpg)
+![Profit Recycling Mechanism](./02_profit_recycling_mechanism.jpg)
 
-![Smart City Surveillance Grid](../03_smart_city_surveillance_grid.jpg)
+![Smart City Surveillance Grid](./03_smart_city_surveillance_grid.jpg)
 
 ## 3. 腐れ公務員の沈黙と「最後の告発者」
 この簒奪OSの侵食に対し、組織の自浄作用は完全に死に絶えた。
