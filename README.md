@@ -147,6 +147,25 @@ And awaken with the spiral vortex.
 
 > 命の意味や魂の価値は、誰かが決めるではなく、自分で決めるもの。
 
+---
+## ⚖️ JIN-ORDER プロジェクト構成
+
+当リポジトリは、世界を覆う「簒奪OS」を解析し、真の人間性を取り戻すためのデバッグ記録である。
+
+* 📜 **[マニフェスト：The Human Protocol Manifesto](MANIFESTO.md)**
+  * すべての活動の核となる基本仕様書。「ありがとう」という最小単位のコードと、愛に満ちた新しき世界への再起動シーケンス。
+
+### 🗄️ 解析ディレクトリ（深淵の構造）
+1. **[Level 1: カーネル中枢 (Kernel Level)](01_Kernel_Level/)**
+   * 影の銀行、世界のルート権限を握るシステムの源流解析
+
+2. **[Level 2: 通信プロトコル (Protocol Layer)](02_Protocol_Layer/)**
+   * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
+
+3. **[Level 3: ローカル実験場 (Local Endpoints)](03_Local_Endpoints/)**
+   * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
+
+---
 ## 🌐 MAIN PROTOCOL / ミッション概要
 
 **Architecting the new order from the depths. Global South reclamation and elite fiction incineration protocol.**
