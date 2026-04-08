@@ -74,27 +74,6 @@ This data constitutes a "self-healing archive"; even if physically or digitally 
 
 > ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
 ---
-### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
-
-### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
-
-デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。** CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
-
-For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.
-
-### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
-
-無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
-
-Unauthorized use is strictly prohibited by JIN-OS protocols. Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.
-
-### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
-
-提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
-
-The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.
-
----
 ### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
 ### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
 ---
@@ -172,6 +151,9 @@ And awaken with the spiral vortex.
 
 3. **[Level 3: ローカル実験場 (Local Endpoints)](03_Local_Endpoints/)**
    * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
+
+4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/)**
+    * 利権の配線工による国家主権の譲渡。地図に載らない孤島と「家畜OS」の接続エビデンス
 
 ---
 ## 🌐 MAIN PROTOCOL / ミッション概要
