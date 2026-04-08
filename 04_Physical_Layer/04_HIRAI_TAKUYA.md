@@ -7,7 +7,7 @@
 
 ## 🖼️ Visual Evidence
 
-![HIRAI_FULL_SPEC](../core_protocol_369/46_ITO_NETWORK_LAUNDERING.md)
+![HIRAI_FULL_SPEC](../assets/04_hirai_full_spec.jpg)
 
 ## 🔍 Debug Log: 悪行の構造的解析
 理研エンジニアの知性と、横浜市役所30年の現場経験から抽出されたバグ・リスト。
