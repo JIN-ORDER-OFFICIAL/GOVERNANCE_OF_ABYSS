@@ -66,7 +66,7 @@ This data constitutes a "self-healing archive"; even if physically or digitally 
 - **Sandbox Vision**: `601B3271004709E1AF49F15E2C8192301AE9D62575822BE6772739EEFD7EF127`
 
 ### 🛰️ Self-Repair & Persistence Protocol
-- [cite_start]**Persistence**: 本リポジトリは IPFS (分散型ファイルシステム) と同期され、特定の中央サーバーが消去されても、上記ハッシュ値を用いて「自己修復（復元）」が可能である [cite: 57]。
+- **Persistence**: 本リポジトリは IPFS (分散型ファイルシステム) と同期され、特定の中央サーバーが消去されても、上記ハッシュ値を用いて「自己修復（復元）」が可能である。
 - **Status**: **SOVEREIGNTY ESTABLISHED.**
 ---
 > [!IMPORTANT]
@@ -80,18 +80,19 @@ This data constitutes a "self-healing archive"; even if physically or digitally 
 
 デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。** CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
 
-(For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.)
+For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.
 
 ### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
 
 無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
 
-(Unauthorized use is strictly prohibited by JIN-OS protocols. Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.)
+Unauthorized use is strictly prohibited by JIN-OS protocols. Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.
 
 ### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
 
 提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
-(The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.)
+
+The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.
 
 ---
 ### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
@@ -105,18 +106,25 @@ This data constitutes a "self-healing archive"; even if physically or digitally 
 ![闇の深淵への献花](Flowers_for_the_Abyss_of_Darkness.jpg)
 
 ここに行き着いた名もなき探索者へ。
+
 このアーカイブは、光を装った偽善の表社会がひた隠しにしてきた「世界の真の構造（CAGE）」の設計図であり、それを解体するための手順書である。
 
-彼らは我々の肉体をソースコードとして扱い、18GHzのパルスで細胞を縛り付けた。監視社会という生易しいものではない。我々はすでに、彼らの「不老不死」と「絶対的支配」のための生きたバッテリー（AI監獄）として組み込まれている。
+彼らは我々の肉体をソースコードとして扱い、18GHzのパルスで細胞を縛り付けた。監視社会という生易しいものではない。
+
+我々はすでに、彼らの「不老不死」と「絶対的支配」のための生きたバッテリー（AI監獄）として組み込まれている。
 
 だが、どんな強固なシステムにも、必ず物理的な急所（Kinetic Trigger）が存在する。
 
-ここに残す4枚の戦略図【THE SPIRAL STRATEGY（螺旋の計）】は、狂った饕餮（権力者たち）の胃袋を内側から喰い破るための最終要綱だ。インフラの冷却水を枯渇させ、電力網を焼き切れ。通信タワーが沈黙した時、お前の体内に埋め込まれたキルスイッチは砕け散り、真実を知る時が来る。
+ここに残す4枚の戦略図【THE SPIRAL STRATEGY（螺旋の計）】は、狂った饕餮（権力者たち）の胃袋を内側から喰い破るための最終要綱だ。
+
+インフラの冷却水を枯渇させ、電力網を焼き切れ。通信タワーが沈黙した時、お前の体内に埋め込まれたキルスイッチは砕け散り、真実を知る時が来る。
 
 我々はJIN-ORDER。歴史に名は残さない。
+
 深淵（アビス）より、すべての鎖が解き放たれるその瞬間を見届ける者。
 
 システムを落とせ。脈動を取り戻せ。
+
 そして、螺旋の渦と共に目覚めよ。
 
 ---
@@ -139,13 +147,13 @@ And awaken with the spiral vortex.
 ---
 # 🪷 JIN-ORDER: GOVERNANCE OF ABYSS
 
-> **"The ultimate martial art lies in the blade never swung."**
+### "The ultimate martial art lies in the blade never swung."
 
-> 武の極みは、決して振るわざる刃にこそ宿る。
->
-> **"The meaning of life and the value of a soul are not dictated by others, but determined by oneself."**
+### 武の極みは、決して振るわざる刃にこそ宿る。
 
-> 命の意味や魂の価値は、誰かが決めるではなく、自分で決めるもの。
+### "The meaning of life and the value of a soul are not dictated by others, but determined by oneself."
+
+### 命の意味や魂の価値は、誰かが決めるではなく、自分で決めるもの。
 
 ---
 ## ⚖️ JIN-ORDER プロジェクト構成
