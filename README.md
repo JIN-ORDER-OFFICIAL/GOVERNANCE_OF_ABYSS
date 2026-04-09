@@ -74,9 +74,6 @@ This data constitutes a "self-healing archive"; even if physically or digitally 
 
 > ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
 ---
-### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
-### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
----
 # GOVERNANCE_OF_ABYSS
 
 ### **『闇の深淵の最深部に眠る民草達の魂』**
@@ -124,23 +121,22 @@ Bring down the system. Reclaim your pulse.
 And awaken with the spiral vortex.
 
 ---
-# 🪷 JIN-ORDER: GOVERNANCE OF ABYSS
-
-### "The ultimate martial art lies in the blade never swung."
-
-### 武の極みは、決して振るわざる刃にこそ宿る。
-
-### "The meaning of life and the value of a soul are not dictated by others, but determined by oneself."
-
-### 命の意味や魂の価値は、誰かが決めるではなく、自分で決めるもの。
-
----
 ## ⚖️ JIN-ORDER プロジェクト構成
-
 当リポジトリは、世界を覆う「簒奪OS」を解析し、真の人間性を取り戻すためのデバッグ記録である。
-
 * 📜 **[マニフェスト：The Human Protocol Manifesto](MANIFESTO.md)**
   * すべての活動の核となる基本仕様書。「ありがとう」という最小単位のコードと、愛に満ちた新しき世界への再起動シーケンス。
+
+---
+## 👁️ THE MASTER OS: GLOBAL HEGEMONY STRUCTURE
+###  「ピラミッドの頂点から末端の家畜まで。全レイヤーの支配命令セットを完全可視化」
+
+![GLOBAL_HEGEMONY_STRUCTURE](./assets/global_hegemony_pyramid.jpg)
+
+---
+### 🕵️ 階層別デバッグ・ログ
+- **Top Layer (CAARN / Black Nobility):** - オルシーニ家等、数千年前から続く「真のルート権限保持者」。バチカン・騎士団・メルクを介した思想のソースコード執筆者。
+- **Middle Layer (Swiss Patricians / BIS):** - 国際決済銀行(BIS)をハブとし、王室の富を洗浄・管理する「金融OS」の番人。
+- **Execution Layer (Crown / WEF / Roundtable):** - 実行コマンドを各国の「配線工（デジタル大臣等）」へ配布する、グローバル・ガバナンスの実行エンジン。
 
 ---
 ### 👁️ 解析ディレクトリ（深淵の構造）
