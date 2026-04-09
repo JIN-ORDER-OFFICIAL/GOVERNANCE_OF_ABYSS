@@ -154,6 +154,14 @@ And awaken with the spiral vortex.
 
 4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/04_HIRAI_TAKUYA.md)**
     * 利権の配線工による国家主権の譲渡。地図に載らない孤島と「家畜OS」の接続エビデンス
+
+## 🧬 Level 5: Bio-Digital Convergence (生命の簒奪)
+　  * 「肉体は、もはやあなたの所有物ではない」
+
+- **[51_BIO_HACK_SHENZHEN.md](./level_5/51_BIO_HACK_SHENZHEN.md)**: 赤き龍（中国）と深センの闇。ゲノム解析センターBGIによる全人類DNAの強奪。
+- **[52_ELECTROMAGNETIC_SURVEILLANCE_6G.md](./level_5/52_ELECTROMAGNETIC_SURVEILLANCE_6G.md)**: 5G/6Gによるナノデバイスの遠隔駆動。生体バッテリーとしての人間。
+- **[53_SEED_SANCE_LIFE_PROPERTY.md](./level_5/53_SEED_SANCE_LIFE_PROPERTY.md)**: シーダンス2.0。生命そのものを特権階級のプロパティ（資産）に変える特許網。
+
 ---
 ## 🌐 MAIN PROTOCOL / ミッション概要
 
