@@ -119,7 +119,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
     
 2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md)**
     * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
-    * **[Target 47: アグスティン・カルステンスと5階層支配システム](./level_2/47_AGUSTIN_CARSTENS_BIS.md)** 
+    * **[Target 47: アグスティン・カルステンスと5階層支配システム](../level_2/47_AGUSTIN_CARSTENS_BIS.md)** 
     * **Gatekeeper**: BIS総支配人による「絶対的コントロール」の宣言と、日銀量子コアへ至る闇資金・コマンドチェーンの全貌。
 
 3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/YOKOHAMA_ZERO.md)**
