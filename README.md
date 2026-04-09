@@ -284,7 +284,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [44_gates_life_os_rewrite.md](./core_protocol_369/44_gates_life_os_rewrite.md)
 - [45_shibusawa_financial_trap.md](./core_protocol_369/45_shibusawa_financial_trap.md)
 - [46_HIRAI_DIGITAL_TYRANNY_WIRING.md](./core_protocol_369/46_ITO_NETWORK_LAUNDERING.md)
-
+- [47_AGUSTIN_CARSTENS_BIS.md](./core_protocol_369/47_Agustin_Carstens_Bis.md)
 ---
 
 ## 📂 MASTER ARCHIVE / データベース構造
