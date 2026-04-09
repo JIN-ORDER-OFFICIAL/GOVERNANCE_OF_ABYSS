@@ -167,7 +167,7 @@ And awaken with the spiral vortex.
 
 * **[物理防御プロトコル: Physical Shielding](./defense/physical_shielding.md)**
     * 監視OSを焼き切り、人間性を復元させる最強のデバッグOS「JIN」の実装プロトコル。
-    * ![JIN_DEBUG_OS](./assets/images/jin_debug_os.jpg)
+    * ![JIN_DEBUG_OS](./assets/jin_debug_os.jpg)
 
 ---
 ## 🌐 MAIN PROTOCOL / ミッション概要
