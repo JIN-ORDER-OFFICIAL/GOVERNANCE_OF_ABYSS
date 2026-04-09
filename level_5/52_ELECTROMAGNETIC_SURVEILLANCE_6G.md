@@ -1,6 +1,5 @@
 # Target Analysis: 52_ELECTROMAGNETIC_SURVEILLANCE_6G 
 ## 電磁波監視と生体バッテリー
-
 ## 📌 Status
 - **Target ID:** 52_6G_BIO_RESONANCE
 - **Risk Level:** TOP-CRITICAL (Level 5: Bio-Digital Convergence)
@@ -8,6 +7,10 @@
 
 ## 🕵️ Analysis Summary
 5Gおよび次世代6Gネットワークの真の目的は、高速通信（超低遅延・多接続）ではない。それは、体内に注入されたナノデバイス（脂質ナノ粒子/LNP等）と共鳴し、個人の生体情報をリアルタイムで抽出し、さらには外部から「感情」や「肉体」を遠隔操作するための物理的インフラである。
+
+### 👁️ Big Brother's Grid: Global Surveillance System (全地球監視グリッド)
+![GLOBAL_SURVEILLANCE_GRID](../assets/global_surveillance_grid.jpg)
+> **エビデンス:** 生体データ(Biometrics)、mRNA、次世代通信(5G/6G)、金融(CBDC)を統合し、AIによる「社会信用スコア(Social Credit Score)」で人間を家畜として管理・統制するGSSの全貌。AWSやGoogle Cloud等の民間テックインフラが、このデジタル監獄の物理的フェンスを構築している。
 
 ![5G_Infrastructure](../assets/5G.jpg)
 
