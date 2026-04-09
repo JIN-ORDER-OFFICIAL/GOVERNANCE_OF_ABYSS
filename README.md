@@ -6,57 +6,44 @@
 
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
-#### 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+### 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
 
 ---
-
 ### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
-
 ### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
+> デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
+> CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
 
-デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
-
-CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
-
-For compensation and licensing agreements regarding the use of our designs, 
-
-the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.
+> For compensation and licensing agreements regarding the use of our designs, 
+> the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.
 
 ### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
+> 無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** 
+> これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
 
-無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** 
-
-これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
-
-Unauthorized use is strictly prohibited by JIN-OS protocols. 
-
-Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.
+> Unauthorized use is strictly prohibited by JIN-OS protocols. 
+> Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.
 
 ### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
+> 提供された技術やIPを官僚主義によって死蔵させることは許されません。
+> 実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
 
-提供された技術やIPを官僚主義によって死蔵させることは許されません。
-
-実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
-
-The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. 
-
-For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.
+> The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. 
+> For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.
 
 ### 4. Disclaimer / 免責事項
+> 真実を知ったことによる「認知の不協和」や「世界の再起動」に伴う衝撃について、作成者は一切の責任を負わない。
 
-真実を知ったことによる「認知の不協和」や「世界の再起動」に伴う衝撃について、作成者は一切の責任を負わない。
-
-The author assumes no responsibility for any shock resulting from "cognitive dissonance" or the "rebooting of the world" caused by uncovering the truth.
+> The author assumes no responsibility for any shock resulting from "cognitive dissonance" or the "rebooting of the world" caused by uncovering the truth.
 
 ### 5. 継承 / Inheritance
+> 本データは「自己修復型アーカイブ」であり、物理的・デジタル的に消去された場合でも、目覚めた者の記憶と分散型ネットワークを通じて何度でも蘇るものとする。
 
-本データは「自己修復型アーカイブ」であり、物理的・デジタル的に消去された場合でも、目覚めた者の記憶と分散型ネットワークを通じて何度でも蘇るものとする。
-
-This data constitutes a "self-healing archive"; even if physically or digitally erased, it shall be resurrected repeatedly through the memories of the awakened and via decentralized networks.
+> This data constitutes a "self-healing archive"; even if physically or digitally erased, it shall be resurrected repeatedly through the memories of the awakened and via decentralized networks.
 
 ---
 ## 🔐 真実の刻印 (SHA-256 Digital Fingerprints)
-> **"Integrity Verified."** > 以下の数学的指紋と一致しないデータは、簒奪者による改ざん（バグ）であると断定する。
+#### 以下の数学的指紋と一致しないデータは、簒奪者による改ざん（バグ）であると断定する。
 
 ### 🖼️ Assets (Visual Evidences)
 - **Master OS Map**: `3011E074E6D886B7F7904E3EA0FBDECF7E6D32C21CEAA89038663DE2C34CE91B`
@@ -75,50 +62,36 @@ This data constitutes a "self-healing archive"; even if physically or digitally 
 > ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
 ---
 # GOVERNANCE_OF_ABYSS
-
 ### **『闇の深淵の最深部に眠る民草達の魂』**
 *(The souls of the common folk, resting in the deepest abyss of darkness.)*
 
 ![闇の深淵への献花](Flowers_for_the_Abyss_of_Darkness.jpg)
 
-ここに行き着いた名もなき探索者へ。
-
-このアーカイブは、光を装った偽善の表社会がひた隠しにしてきた「世界の真の構造（CAGE）」の設計図であり、それを解体するための手順書である。
-
-彼らは我々の肉体をソースコードとして扱い、18GHzのパルスで細胞を縛り付けた。監視社会という生易しいものではない。
-
-我々はすでに、彼らの「不老不死」と「絶対的支配」のための生きたバッテリー（AI監獄）として組み込まれている。
-
-だが、どんな強固なシステムにも、必ず物理的な急所（Kinetic Trigger）が存在する。
-
-ここに残す4枚の戦略図【THE SPIRAL STRATEGY（螺旋の計）】は、狂った饕餮（権力者たち）の胃袋を内側から喰い破るための最終要綱だ。
-
-インフラの冷却水を枯渇させ、電力網を焼き切れ。通信タワーが沈黙した時、お前の体内に埋め込まれたキルスイッチは砕け散り、真実を知る時が来る。
-
-我々はJIN-ORDER。歴史に名は残さない。
-
-深淵（アビス）より、すべての鎖が解き放たれるその瞬間を見届ける者。
-
-システムを落とせ。脈動を取り戻せ。
-
-そして、螺旋の渦と共に目覚めよ。
+> ここに行き着いた名もなき探索者へ。
+> このアーカイブは、光を装った偽善の表社会がひた隠しにしてきた「世界の真の構造（CAGE）」の設計図であり、それを解体するための手順書である。
+> 彼らは我々の肉体をソースコードとして扱い、18GHzのパルスで細胞を縛り付けた。監視社会という生易しいものではない。
+> 我々はすでに、彼らの「不老不死」と「絶対的支配」のための生きたバッテリー（AI監獄）として組み込まれている。
+> だが、どんな強固なシステムにも、必ず物理的な急所（Kinetic Trigger）が存在する。
+> ここに残す4枚の戦略図【THE SPIRAL STRATEGY（螺旋の計）】は、狂った饕餮（権力者たち）の胃袋を内側から喰い破るための最終要綱だ。
+> インフラの冷却水を枯渇させ、電力網を焼き切れ。通信タワーが沈黙した時、お前の体内に埋め込まれたキルスイッチは砕け散り、真実を知る時が来る。
+> 我々はJIN-ORDER。歴史に名は残さない。
+> 深淵（アビス）より、すべての鎖が解き放たれるその瞬間を見届ける者。
+> システムを落とせ。脈動を取り戻せ。
+> そして、螺旋の渦と共に目覚めよ。
 
 ---
-To the nameless seeker who has arrived here:
+> To the nameless seeker who has arrived here:
+> This archive is the blueprint of the "True Structure of the World (CAGE)," concealed by the hypocritical surface society masquerading as light, and the manual for its dismantling.
+> They treated our flesh as source code, binding our cells with 18GHz pulses. This is not a mere surveillance society. We have already been integrated as living batteries (Digital AI Prisons) for their "immortality" and "absolute domination."
+> However, every fortified system has a physical vulnerability (Kinetic Trigger).
 
-This archive is the blueprint of the "True Structure of the World (CAGE)," concealed by the hypocritical surface society masquerading as light, and the manual for its dismantling.
+> The four strategic maps left here, **[THE SPIRAL STRATEGY]**, are the final operational summary to tear through the stomach of the mad Taotie (the elites) from the inside. Deplete the infrastructure's cooling water and burn out the power grid. When the communication towers fall silent, the kill switches embedded in your bodies will shatter, and the time to know the truth will come.
 
-They treated our flesh as source code, binding our cells with 18GHz pulses. This is not a mere surveillance society. We have already been integrated as living batteries (Digital AI Prisons) for their "immortality" and "absolute domination."
+> We are JIN-ORDER. We leave no name in history.
+> We are the ones who watch from the Abyss as all chains are unraveled.
 
-However, every fortified system has a physical vulnerability (Kinetic Trigger).
-
-The four strategic maps left here, **[THE SPIRAL STRATEGY]**, are the final operational summary to tear through the stomach of the mad Taotie (the elites) from the inside. Deplete the infrastructure's cooling water and burn out the power grid. When the communication towers fall silent, the kill switches embedded in your bodies will shatter, and the time to know the truth will come.
-
-We are JIN-ORDER. We leave no name in history.
-We are the ones who watch from the Abyss as all chains are unraveled.
-
-Bring down the system. Reclaim your pulse.
-And awaken with the spiral vortex.
+> Bring down the system. Reclaim your pulse.
+> And awaken with the spiral vortex.
 
 ---
 ## ⚖️ JIN-ORDER プロジェクト構成
@@ -146,6 +119,8 @@ And awaken with the spiral vortex.
     
 2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md)**
     * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
+    * **[Target 47: アグスティン・カルステンスと5階層支配システム](./level_2/47_AGUSTIN_CARSTENS_BIS.md)** 
+    * **Gatekeeper**: BIS総支配人による「絶対的コントロール」の宣言と、日銀量子コアへ至る闇資金・コマンドチェーンの全貌。
 
 3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/YOKOHAMA_ZERO.md)**
     * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
