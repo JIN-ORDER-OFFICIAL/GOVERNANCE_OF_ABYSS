@@ -140,8 +140,9 @@ And awaken with the spiral vortex.
 
 ---
 ### 👁️ 解析ディレクトリ（深淵の構造）
-
-1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/ISRAEL_CORE.md)**
+1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/)**
+    * **[01: オランダの残響と出島のバックドア](./level_1/01_DUTCH_BACKDOOR_ORIGIN.md)** 
+    * **Origin Analysis**: 400年前の「出島」から始まった日本隔離リージョン管理。オラニエ家による独占的アクセス権と現代簒奪OSの源流。
     * 影の銀行、世界のルート権限を握るシステムの源流解析
 
 2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md)**
