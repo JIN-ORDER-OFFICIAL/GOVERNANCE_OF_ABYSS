@@ -145,13 +145,13 @@ And awaken with the spiral vortex.
 ---
 ### 👁️ 解析ディレクトリ（深淵の構造）
 
-1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/)**
+1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/ISRAEL_CORE.md)**
     * 影の銀行、世界のルート権限を握るシステムの源流解析
 
-2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/)**
+2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md)**
     * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
 
-3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/)**
+3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/YOKOHAMA_ZERO.md)**
     * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
 
 4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/46_HIRAI_DIGITAL_TYRANNY_WIRING.md)**
