@@ -154,7 +154,7 @@ And awaken with the spiral vortex.
 3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/YOKOHAMA_ZERO.md)**
     * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
 
-4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/46_HIRAI_DIGITAL_TYRANNY_WIRING.md)**
+4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/46_HIRAI_TAKUYA.md)**
     * 利権の配線工・平井卓也による「日本OS」ルート権限のAWS譲渡エビデンス
 
 5. **[Level 5: 生命の簒奪 (Bio-Digital Convergence)](./level_5/)**
