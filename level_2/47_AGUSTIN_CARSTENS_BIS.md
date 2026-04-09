@@ -6,7 +6,8 @@
 - **Sector:** Level 2 (通信プロトコル層 / 国際決済銀行)
 
 ## 👁️ The Global Usurpation OS (5階層支配システムと闇資金ルート)
-![GLOBAL_COMMAND_CHAIN](./assets/global_command_chain_gss.jpg)
+
+![GLOBAL_COMMAND_CHAIN](../assets/global_command_chain_gss.jpg)
 
 ## 🕵️ デバッグ・ログ：絶対的支配のゲートキーパー
 > アグスティン・カルステンスは、スイス・バーゼルに本拠を置く「中央銀行の中央銀行」であるBIS（国際決済銀行）の実務トップである。
