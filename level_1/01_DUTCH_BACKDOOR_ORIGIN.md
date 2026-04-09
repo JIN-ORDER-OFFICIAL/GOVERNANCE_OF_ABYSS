@@ -5,7 +5,20 @@
 - **Doc ID:** ORIGIN-JP-DUTCH
 - **Risk Level:** ARCHIVE-CRITICAL (Master OS Root)
 - **Sector:** Historical Deep State / Intelligence Origin / Bloodline Sovereignty
+---
+### 🕵️ 蘭学（RANGAKU）：支配パッチの配布メカニズム
+提供資料『蘭学.jpg』の解析に基づき、400年前の「日本OSハック」の実態を詳述する。
 
+![RANGAKU_SYSTEM](../assets/rangaku_dutch_patch_system.jpg)
+
+- **管理者権限 (Admin):** オラニエ家（House of Orange）およびブラックノービリティ。
+- **配布ハブ (Distribution Hub):** 出島（Dejima）。日本隔離リージョン唯一のI/Oポート。
+- **インストール内容 (Payload):**
+    - **医学・科学:** 生体管理および社会インフラ制御のための初期コード。
+    - **思想OS:** 既存の日本精神OSを上書きし、グローバル統制（NWO）へ適合させるための精神的パッチ。
+- **目的:** 鎖国による「サンドボックス化」を維持しながら、支配層に都合の良い情報（パッチ）だけを流し込み、明治維新という名の「システム・アップデート」に備えること。
+
+---
 ## 🕵️ Analysis Summary
 日本のグローバル支配は、1600年代の「出島」から始まっている。
 
