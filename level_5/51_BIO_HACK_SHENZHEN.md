@@ -1,5 +1,5 @@
 # Target Analysis: 51_BIO_HACK_SHENZHEN 
-## ~ 赤き龍とバイオハック ~
+## 赤き龍とバイオハック
 
 ## 📌 Status
 - **Target ID:** 51_SHENZHEN_GENOME_HEIST
