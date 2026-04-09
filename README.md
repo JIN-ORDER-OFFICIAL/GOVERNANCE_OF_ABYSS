@@ -142,25 +142,32 @@ And awaken with the spiral vortex.
 * 📜 **[マニフェスト：The Human Protocol Manifesto](MANIFESTO.md)**
   * すべての活動の核となる基本仕様書。「ありがとう」という最小単位のコードと、愛に満ちた新しき世界への再起動シーケンス。
 
-### 🗄️ 解析ディレクトリ（深淵の構造）
-1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/ISRAEL_CORE.md)**
-   * 影の銀行、世界のルート権限を握るシステムの源流解析
+---
+### 👁️ 解析ディレクトリ（深淵の構造）
 
-2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md/)**
-   * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
+1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/)**
+    * 影の銀行、世界のルート権限を握るシステムの源流解析
 
-3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/YOKOHAMA_ZERO.md)**
-   * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
+2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/)**
+    * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
 
-4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/04_HIRAI_TAKUYA.md)**
-    * 利権の配線工による国家主権の譲渡。地図に載らない孤島と「家畜OS」の接続エビデンス
+3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/)**
+    * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
 
-## 🧬 Level 5: Bio-Digital Convergence (生命の簒奪)
-　  * 「肉体は、もはやあなたの所有物ではない」
+4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/46_HIRAI_DIGITAL_TYRANNY_WIRING.md)**
+    * 利権の配線工・平井卓也による「日本OS」ルート権限のAWS譲渡エビデンス
 
-- **[51_BIO_HACK_SHENZHEN.md](./level_5/51_BIO_HACK_SHENZHEN.md)**: 赤き龍（中国）と深センの闇。ゲノム解析センターBGIによる全人類DNAの強奪。
-- **[52_ELECTROMAGNETIC_SURVEILLANCE_6G.md](./level_5/52_ELECTROMAGNETIC_SURVEILLANCE_6G.md)**: 5G/6Gによるナノデバイスの遠隔駆動。生体バッテリーとしての人間。
-- **[53_SEED_SANCE_LIFE_PROPERTY.md](./level_5/53_SEED_SANCE_LIFE_PROPERTY.md)**: シーダンス2.0。生命そのものを特権階級のプロパティ（資産）に変える特許網。
+5. **[Level 5: 生命の簒奪 (Bio-Digital Convergence)](./level_5/)**
+    * **[51: 赤き龍とバイオハック](./level_5/51_BIO_HACK_SHENZHEN.md)**: 深センBGIによるゲノム強奪と「不老不死OS」のコーディング
+    * **[52: 電磁波監視と生体バッテリー](./level_5/52_ELECTROMAGNETIC_SURVEILLANCE_6G.md)**: 5G/6Gによるナノデバイス駆動と人間ノード化のインフラ
+    * **[53: 資産没収と最終清算](./level_5/53_SEED_SANCE_LIFE_PROPERTY.md)**: 日銀量子コアによる1,100兆円没収と魂の最終簒奪
+
+---
+### 🛡️ 生存パッチ (Survival Protocol)
+
+* **[物理防御プロトコル: Physical Shielding](./defense/physical_shielding.md)**
+    * 監視OSを焼き切り、人間性を復元させる最強のデバッグOS「JIN」の実装プロトコル。
+    * ![JIN_DEBUG_OS](./assets/images/jin_debug_os.jpg)
 
 ---
 ## 🌐 MAIN PROTOCOL / ミッション概要
