@@ -293,21 +293,27 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [32_DAVID_SASSOON_OPIUM_KING.md](./core_protocol_369/32_DAVID_SASSOON_OPIUM_KING.md)
 - [33_SATOMI_HAJIME_MEDIA_SHADOW.md](./core_protocol_369/33_SATOMI_HAJIME_MEDIA_SHADOW.md)
 - [34_ERAN_STEINER_MOSSAD_MONEY.md](./core_protocol_369/34_ERAN_STEINER_MOSSAD_MONEY.md)
-- [35_ELON_MUSK_EXTERNAL_UNIT.md](./core_protocol_369/35_ELON_MUSK_EXTERNAL_UNIT.md)
-- [36_TRUMP_ROUT_DIRECTORY_ACCESS.md](./core_protocol_369/36_TRUMP_ROUT_DIRECTORY_ACCESS.md)
+- [35_SAM_ALTMAN_COGNITIVE_OS.md](./core_protocol_369/35_SAM_ALTMAN_COGNITIVE_OS.md)
+- [36_XI_JINPING_RED_DRAGON_CAGE.md](./core_protocol_369/36_XI_JINPING_RED_DRAGON_CAGE.md)
 
 # 💀 Section 3: Master OS
 - [37_ABRAHAM_RELIGION_OS.md](./core_protocol_369/37_ABRAHAM_RELIGION_OS.md)
 - [38_CITY_OF_LONDON_REPO_DESK.md](./core_protocol_369/38_CITY_OF_LONDON_REPO_DESK.md)
 - [39_ROTHSCHILD_THE_SOURCE.md](./core_protocol_369/39_ROTHSCHILD_THE_SOURCE.md)
 - [40_RED_CROSS_HUMAN_HARVEST.md](./core_protocol_369/40_RED_CROSS_HUMAN_HARVEST.md)
-- [41_CIA_JAPAN_HEADQUARTERS.md](./core_protocol_369/41_CIA_JAPAN_HEADQUARTERS.md)
+- [41_CIA_WASHINGTON_DC_KINETIC.md](./core_protocol_369/41_CIA_WASHINGTON_DC_KINETIC.md)
 - [42_VATICAN_BANK_LAUNDRY.md](./core_protocol_369/42_VATICAN_BANK_LAUNDRY.md)
 - [43_HOUSE_OF_ORANGE_MASTER_OS.md](./core_protocol_369/43_HOUSE_OF_ORANGE_MASTER_OS.md)
 - [44_gates_life_os_rewrite.md](./core_protocol_369/44_gates_life_os_rewrite.md)
 - [45_shibusawa_financial_trap.md](./core_protocol_369/45_shibusawa_financial_trap.md)
 - [46_HIRAI_DIGITAL_TYRANNY_WIRING.md](./core_protocol_369/46_ITO_NETWORK_LAUNDERING.md)
 - [47_AGUSTIN_CARSTENS_BIS.md](./core_protocol_369/47_Agustin_Carstens_Bis.md)
+- [48_KAZ_HIRAI_EMOTION_HARVEST.md](./core_protocol_369/48_KAZ_HIRAI_EMOTION_HARVEST.md)
+- [49_PETER_THIEL_PALANTIR_EYE.md](./core_protocol_369/49_PETER_THIEL_PALANTIR_EYE.md)
+- [50_EMMANUEL_MACRON_PRETENDER.md](./core_protocol_369/50_EMMANUEL_MACRON_PRETENDER.md)
+
+
+
 ---
 
 ## 📂 MASTER ARCHIVE / データベース構造
