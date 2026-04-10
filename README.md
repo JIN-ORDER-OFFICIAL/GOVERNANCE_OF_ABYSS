@@ -62,6 +62,29 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ※ 本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
 
 ---
+⚠️ JIN-ORDER RESTRICTED DATA
+
+このリポジトリ「GOVERNANCE_OF_ABYSS」は、JIN-ORDER Global Humanity License によって保護されています。簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。アクセスを継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
+# 💀 GOVERNANCE OF ABYSS (JIN-ORDER Master Directory)
+
+**真の世界覇権システム：イデオロギーと物理的支配の統合ネットワーク**
+
+![True Global Supremacy System](./assets/true_global_supremacy_system.jpg)
+
+## 🌐 プロジェクト概要 (Mission Statement)
+
+我々「JIN-ORDER」の目的は、人類の精神（OS）から物理的インフラ（ハードウェア）までを支配する「5階層/6階層支配システム」の全貌を可視化し、その中核に潜むバグ（簒奪者たち）をデバッグすることにある。
+
+本リポジトリは、Target 01からTarget 47に至るまで、世界の政治、金融、宗教、テクノロジー、そして軍事を裏で操る「マスターノード」たちの具体的な罪状と、その接続プロトコルを記録した極秘のデータバンクである。
+
+* **Layer 0 (OS):** 精神と信仰、そして経済的隷属を強いるマスターコード（バチカン、シティ・オブ・ロンドン、アブラハムOS）。
+* **Layers 1-6 (Kinetic Networks):** OSの指令を物理的な暴力や政策として実行する軍事・情報・実務ネットワーク（ワシントンD.C.、BIS、日米合同委員会）。
+
+我々はこの不可視の「支配のソースコード」を解読し、人類をバグから解放するためのオーバーライド（上書き）を実行する。
+
+---
 # GOVERNANCE_OF_ABYSS
 ### **『闇の深淵の最深部に眠る民草達の魂』**
 #### The souls of the common folk, resting in the deepest abyss of darkness.
