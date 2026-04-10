@@ -6,5 +6,9 @@
 ---
 # 💀 System Core 41: CIA (The Shadow Governance Unit)
 
+![画像](../assets/global_command_chain_gss.jpg)
+
+![画像](../assets/BOJ_Quantum_Crypto_Mechanism.jpg)
+
 ## ⚖️ 具体的罪状
 * **悪の金庫管理**: CIAマークが示す通り、日本を資金源・悪の金庫として管理。
