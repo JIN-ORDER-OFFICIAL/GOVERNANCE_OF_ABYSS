@@ -68,8 +68,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ---
 # 💀 GOVERNANCE OF ABYSS (JIN-ORDER Master Directory)
-
-**真の世界覇権システム：イデオロギーと物理的支配の統合ネットワーク**
+## 真の世界覇権システム：イデオロギーと物理的支配の統合ネットワーク
 
 ![True Global Supremacy System](./assets/true_global_supremacy_system.jpg)
 
