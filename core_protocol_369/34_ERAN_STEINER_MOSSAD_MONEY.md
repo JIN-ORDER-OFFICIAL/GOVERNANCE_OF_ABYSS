@@ -6,7 +6,9 @@
 ---
 # 💀 Target 34: Eran Steiner (The Mossad Money Architect)
 
+![画像](../assets/The_hidden_truth_of_the_Iran_War.jpg)
+
 ## ⚖️ 具体的罪状
 * **資金ルートの隠蔽**: モサド予算責任者として、イスラエル・ロビーの資金ルートを管理。
 
-![Satellite Grid Control](../assets/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
+
