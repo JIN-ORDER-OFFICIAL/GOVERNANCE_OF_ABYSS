@@ -4,11 +4,10 @@
 閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
-![Gates Foundation Life OS Rewrite](../assets/GATES_FOUNDATION_LIFE_OS_REWRITE.jpg)
-
----
 # 💀 System Core 44: The Gates Foundation (Life OS Rewrite Protocol)
 ## ゲイツ財団：「生命OS」書き換えプロトコル / 人家畜化計画 (Human Cattle Program)
+
+![Gates Foundation Life OS Rewrite](../assets/gates_foundation_life_os_rewrite.jpg)
 
 ## 🔗 具体的罪状 (Identified Bugs & Exploits)
 ## Global Biological Reprogramming (地球規模の生態系ハッキング)
