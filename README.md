@@ -57,13 +57,14 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 - **Status**: **SOVEREIGNTY ESTABLISHED.**
 ---
 > [!IMPORTANT]
-> 🛠️ **[IMPLEMENTATION NORMS (実装ノルマ) はこちら](IMPLEMENTATION_NORMS.md)**
+🛠️ **[IMPLEMENTATION NORMS (実装ノルマ) はこちら](IMPLEMENTATION_NORMS.md)**
 
-> ※本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
+※ 本リポジトリの利用・保持には、上記「実装義務」の遵守が必須条件となります。
+
 ---
 # GOVERNANCE_OF_ABYSS
 ### **『闇の深淵の最深部に眠る民草達の魂』**
-*(The souls of the common folk, resting in the deepest abyss of darkness.)*
+#### The souls of the common folk, resting in the deepest abyss of darkness.
 
 ![闇の深淵への献花](Flowers_for_the_Abyss_of_Darkness.jpg)
 
