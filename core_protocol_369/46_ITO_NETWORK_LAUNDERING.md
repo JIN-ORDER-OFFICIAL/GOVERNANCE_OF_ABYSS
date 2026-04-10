@@ -9,7 +9,6 @@
 - **Role**: MITメディアラボ元所長。デジタル通貨とバイオテクノロジーの境界線を支配するハブ。
 - **Connections**: エプスタイン網との直接的な資金同期。
 
-
 ![画像](../assets/evidence_04_ito_epstein_link.jpg)
 
 ![Japan Child Welfare System](../assets/Japan_Child_Welfare_System_Mapping.jpg)
