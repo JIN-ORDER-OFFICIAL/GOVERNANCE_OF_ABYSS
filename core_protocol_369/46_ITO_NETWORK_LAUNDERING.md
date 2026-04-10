@@ -5,12 +5,14 @@
 
 ---
 # 💀 Target 04: Joi Ito (The Network Launderer)
-
 ## 🧬 血のパッチ (Blood Patch Mapping)
 - **Role**: MITメディアラボ元所長。デジタル通貨とバイオテクノロジーの境界線を支配するハブ。
 - **Connections**: エプスタイン網との直接的な資金同期。
 
-![HIRAI_FULL_SPEC](../assets/04_hirai_full_spec.jpg)
+
+![画像](../assets/evidence_04_ito_epstein_link.jpg)
+
+![Japan Child Welfare System](../assets/Japan_Child_Welfare_System_Mapping.jpg)
 
 ## ⚖️ 具体的な罪状 (Specific Charges)
 ### 1. エプスタイン資金のロンダリングと隠蔽
