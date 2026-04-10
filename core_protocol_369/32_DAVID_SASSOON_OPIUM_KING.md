@@ -8,7 +8,7 @@
 
 ## 💀 Target 32: David Sassoon (The Grand Opium Usurper)
 
-![画像](../assets/The_hidden_truth of_the_Iran_War.jpg)
+![画像](../assets/The_hidden_truth_of_the_Iran_War.jpg)
 
 ![Satellite Grid Control](../assets/TOTAL_CONTROL_GRID_INFORMATION_FINANCIAL_SLAVERY.jpg)
 
