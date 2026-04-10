@@ -4,10 +4,6 @@
 閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
-![画像](../assets/world_truth.jpg)
-![画像](../assets/global_command_chain_gss.jpg)
-
----
 # 💀 System Core 42: Vatican Bank (The Divine Laundry Node)
 ## バチカン銀行（IOR）：神聖資金洗浄ノード / 信仰の隠れ蓑
 
