@@ -5,10 +5,11 @@
 
 ---
 # 💀 System Core 07: The Trilateral Commission (The Shadow OS)
-
 ## 🏛️ アルゴリズムの全貌
 - **Origin**: ロックフェラー直系。北米・欧州・アジアの三極で世界を演算する「影の政府」。
 - **Mechanism**: [Section 1: Old_OS](../section1_Old_OS/README.md) の設計思想を日本にパッチする中央司令部。
+
+![世界構造](../assets/global_hegemony_pyramid.jpg)
 
 ## ⚠️ 罪状: すべてのバグの親玉
 - **Action**: エプスタイン網と同期し、日本の政治家・財界人を「コマンド実行ユニット」として配置。
