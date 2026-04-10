@@ -5,10 +5,16 @@
 
 ---
 # 💀 Target 05: Taro Aso (The Dynastic & Water Usurper)
-
 ## 🧬 血のパッチ (Blood Patch Mapping)
 - **Lineage**: 皇室との姻戚関係を利用した「麻生一族」による日本永久支配OS。
 - **Corporate**: 麻生セメント、およびヴェオリア（フランス水メジャー）との利権同期。
+
+![画像](../assets/evidence_05_aso_water_privatization.jpg)  
+
+![画像](../assets/Aso_family_tree.jpg)  
+
+
+
 
 ## ⚖️ 具体的な罪状 (Specific Charges)
 ### 1. 命のインフラ（水道）の売却
