@@ -11,6 +11,8 @@
 
 ![画像](../assets/evidence_04_ito_epstein_link.jpg)
 
+![画像](../assets/crypto_backdoor.jpg)
+
 ![Japan Child Welfare System](../assets/Japan_Child_Welfare_System_Mapping.jpg)
 
 ## ⚖️ 具体的な罪状 (Specific Charges)
