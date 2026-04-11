@@ -315,7 +315,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [52_KLAUS_SCHWAB_GREAT_RESET.md](./core_protocol_369/52_KLAUS_SCHWAB_GREAT_RESET.md)
 - [53_TEDROS_ADHANOM_BIO_OS.md](./core_protocol_369/53_TEDROS_ADHANOM_BIO_OS.md)
 
-
+- [55_AGUSTIN_CARSTENS_BIS.md](./core_protocol_369/55_AGUSTIN_CARSTENS_BIS.md)
 
 
 
