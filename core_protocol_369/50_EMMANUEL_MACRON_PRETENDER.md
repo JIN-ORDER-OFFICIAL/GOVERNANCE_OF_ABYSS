@@ -7,7 +7,7 @@
 # 💀 System Core 50: Emmanuel Macron (The Pretender / CFA Franc Shadow)
 ## エマニュエル・マクロン：僭称皇帝 / CFAフランによる金融的植民地支配
 
-![Macron CFA Franc Blueprint](./assets/50_macron_cfa_franc.jpg)
+![Macron CFA Franc Blueprint](../assets/50_macron_cfa_franc.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 
