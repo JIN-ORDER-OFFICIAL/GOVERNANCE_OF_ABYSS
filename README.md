@@ -312,11 +312,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [49_PETER_THIEL_PALANTIR_EYE.md](./core_protocol_369/49_PETER_THIEL_PALANTIR_EYE.md)
 - [50_EMMANUEL_MACRON_PRETENDER.md](./core_protocol_369/50_EMMANUEL_MACRON_PRETENDER.md)
 - [51_LARRY_FINK_LEVIATHAN.md](./core_protocol_369/51_LARRY_FINK_LEVIATHAN.md)
-
-
-
-
-
+- [52_KLAUS_SCHWAB_GREAT_RESET.md](./core_protocol_369/52_KLAUS_SCHWAB_GREAT_RESET.md)
 
 
 ---
