@@ -7,7 +7,7 @@
 # 💀 System Core 52: Klaus Schwab (WEF / The Great Reset Architect)
 ## クラウス・シュワブ：WEF / 「グレート・リセット」の設計者とダボス同期サーバー
 
-![Klaus Schwab WEF Blueprint](./assets/52_klaus_schwab_reset.jpg)
+![Klaus Schwab WEF Blueprint](../assets/52_klaus_schwab_reset.jpg)
 
 ## 🔗 最終デバッグ解析：核心的なバグと脅威 (Identified Bugs & Exploits)
 
