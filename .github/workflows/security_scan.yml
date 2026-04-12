@@ -13,13 +13,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fix Path and Verify Purity
+      - name: Verify File Purity
         run: |
-          echo "Converting paths and scanning for impurities..."
-          # ママのPC住所（C:\Users\...）を消して、ファイル名だけにする魔法
-          sed -i 's|C:.*\\||g' SECURITY_AUDIT_LOG.txt
-          # バックスラッシュをスラッシュに変換する魔法
-          sed -i 's|\\|/|g' SECURITY_AUDIT_LOG.txt
+          # 1. 住所をファイル名だけにする（より強力な魔法）
+          sed -i 's/.*\\//' SECURITY_AUDIT_LOG.txt
           
-          # 修正されたリストでチェック開始！
+          # 2. 中身を表示して確認（ロボットのログに残す）
+          cat SECURITY_AUDIT_LOG.txt
+          
+          # 3. チェック実行
           sha256sum -c SECURITY_AUDIT_LOG.txt
