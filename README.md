@@ -78,11 +78,20 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 | :--- | :--- | :--- |
 | [📜 Technical Blueprint](./JIN-ORDER_TECHNICAL_BLUEPRINT.md) | JIN-OS / ZONE 1-3 / 8大奇跡技術の統合設計図 | **Verified** ✅ |
 
----
 ### 🚀 Technical Overview
 - **Governance:** JIN-AURORA 24 (倫理ハードコードプロトコル)
 - **Infrastructure:** Zone-based Self-Sovereign System
 - **Global Support:** 8 Miracle Techs for Global South
+
+---
+### 🌍 Africa Tech-Guilds Implementation
+アフリカ各拠点の具体的な技術実装と独立のビジョン。
+
+![JIN-ORDER Africa Tech-Guilds Blueprint](./assets/jin-africa-tech-guilds.jpg)
+
+* **Kinshasa Guild (DRC):** 豊富な地下資源を「極低環境負荷・精錬技術」で世界最高効率の電池に変換し、経済的自立を達成する。
+* **Addis Ababa Guild (Ethiopia):** 標高の高さと多様な植生を活かし、「Kouben・オート・ファーム」による次世代・高地農業技術で世界の食糧ハブとなる。
+
 ---
 # 💀 GOVERNANCE OF ABYSS (JIN-ORDER Master Directory)
 ## 真の世界覇権システム：イデオロギーと物理的支配の統合ネットワーク
