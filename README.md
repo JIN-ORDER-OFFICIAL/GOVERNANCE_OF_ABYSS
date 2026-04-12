@@ -84,6 +84,11 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 - **Global Support:** 8 Miracle Techs for Global South
 
 ---
+### 🎬 Vision: The Moving Lifeblood
+未来を走る「生命線の特急」の動的なビジョン。
+
+<video src="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/raw/main/assets/jin-lifeblood-express-vision.mp4" width="100%" controls></video>
+
 ### 🌍 Africa Tech-Guilds Implementation
 アフリカ各拠点の具体的な技術実装と独立のビジョン。
 
