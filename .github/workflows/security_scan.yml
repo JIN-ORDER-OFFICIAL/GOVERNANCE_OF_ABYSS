@@ -1,0 +1,20 @@
+name: Purity Security Scan
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Verify File Purity (Hash Check)
+        run: |
+          echo "Scanning for impurities..."
+          # 以前採取した指紋リストを使ってチェックを実行
+          sha256sum -c SECURITY_AUDIT_LOG.txt
