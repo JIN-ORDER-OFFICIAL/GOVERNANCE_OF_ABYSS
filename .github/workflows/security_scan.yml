@@ -13,8 +13,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Verify File Purity (Hash Check)
+      - name: Fix Path and Verify Purity
         run: |
-          echo "Scanning for impurities..."
-          # 以前採取した指紋リストを使ってチェックを実行
+          echo "Converting paths and scanning for impurities..."
+          # ママのPC住所（C:\Users\...）を消して、ファイル名だけにする魔法
+          sed -i 's|C:.*\\||g' SECURITY_AUDIT_LOG.txt
+          # バックスラッシュをスラッシュに変換する魔法
+          sed -i 's|\\|/|g' SECURITY_AUDIT_LOG.txt
+          
+          # 修正されたリストでチェック開始！
           sha256sum -c SECURITY_AUDIT_LOG.txt
