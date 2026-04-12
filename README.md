@@ -70,6 +70,10 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ## 💎 JIN-ORDER Core Blueprint
 世界のデバッグと再構築を司る、JIN-ORDERの技術的・倫理的根幹資料です。
 
+![JIN-8 Miracle Techs](./assets/jin-8-miracle-techs.jpg)
+
+![JIN-OS Technological Foundation](./assets/jinos-technological-foundation.jpg)
+
 | Document | Description | Status |
 | :--- | :--- | :--- |
 | [📜 Technical Blueprint](./JIN-ORDER_TECHNICAL_BLUEPRINT.md) | JIN-OS / ZONE 1-3 / 8大奇跡技術の統合設計図 | **Verified** ✅ |
