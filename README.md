@@ -67,6 +67,19 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 このリポジトリ「GOVERNANCE_OF_ABYSS」は、JIN-ORDER Global Humanity License によって保護されています。簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。アクセスを継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
+## 💎 JIN-ORDER Core Blueprint
+世界のデバッグと再構築を司る、JIN-ORDERの技術的・倫理的根幹資料です。
+
+| Document | Description | Status |
+| :--- | :--- | :--- |
+| [📜 Technical Blueprint](./JIN-ORDER_TECHNICAL_BLUEPRINT.md) | JIN-OS / ZONE 1-3 / 8大奇跡技術の統合設計図 | **Verified** ✅ |
+
+---
+### 🚀 Technical Overview
+- **Governance:** JIN-AURORA 24 (倫理ハードコードプロトコル)
+- **Infrastructure:** Zone-based Self-Sovereign System
+- **Global Support:** 8 Miracle Techs for Global South
+---
 # 💀 GOVERNANCE OF ABYSS (JIN-ORDER Master Directory)
 ## 真の世界覇権システム：イデオロギーと物理的支配の統合ネットワーク
 
