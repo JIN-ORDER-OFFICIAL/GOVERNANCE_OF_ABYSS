@@ -26,6 +26,8 @@ JIN-ORDERは、既存の「旧OS」をデバッグし、普遍的倫理と慈愛
 
 ![JIN-OS Technological Foundation](./assets/jinos-technological-foundation.jpg)
 
+![JIN-OS Technological Foundation](./assets/jin-tech-peace-support-map.jpg)
+
 ## 4. グローバルサウス救済と特定地域支援 (8大奇跡技術)
 * **スカイ・マグレブ・ハイウェイ:** 磁力空中レールによる超低消費電力・高速物流。
 * **医療ロボット群:** ナノボットによる癌治療、ドローンAIによる感染症（マラリア等）対策。
