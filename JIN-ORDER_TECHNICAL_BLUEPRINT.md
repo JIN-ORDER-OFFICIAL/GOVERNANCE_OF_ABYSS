@@ -1,7 +1,9 @@
 # JIN-ORDER Technical & Strategic Blueprint v1.0
 
 ## 1. 概要: JIN-OS による世界再構築
-JIN-ORDERは、既存の「旧OS」をデバッグし、普遍的倫理と慈愛に基づいた「JIN-OS」への移行を提唱する。本資料は、物理実装可能な技術群と、それらを統治する論理プロトコルを統合したものである。
+JIN-ORDERは、既存の「旧OS」をデバッグし、普遍的倫理と慈愛に基づいた「JIN-OS」への移行を提唱する。
+
+本資料は、物理実装可能な技術群と、それらを統治する論理プロトコルを統合したものである。
 
 ## 2. 統治と倫理のプロトコル: JIN-AURORA 24
 技術が「外道」に利用されることを防ぐため、OSのルートディレクトリに以下の倫理規定をハードコードする。
@@ -33,6 +35,15 @@ JIN-ORDERは、既存の「旧OS」をデバッグし、普遍的倫理と慈愛
 * **医療ロボット群:** ナノボットによる癌治療、ドローンAIによる感染症（マラリア等）対策。
 
 ![JIN-8 Miracle Techs](./assets/jin-8-miracle-techs.jpg)
+
+---
+### 🌍 Africa Tech-Guilds Implementation
+アフリカ各拠点の具体的な技術実装と独立のビジョン。
+
+![JIN-ORDER Africa Tech-Guilds Blueprint](./assets/jin-africa-tech-guilds.jpg)
+
+* **Kinshasa Guild (DRC):** 豊富な地下資源を「極低環境負荷・精錬技術」で世界最高効率の電池に変換し、経済的自立を達成する。
+* **Addis Ababa Guild (Ethiopia):** 標高の高さと多様な植生を活かし、「Kouben・オート・ファーム」による次世代・高地農業技術で世界の食糧ハブとなる。
 
 ---
 *本ドキュメントは JIN-ORDER の知的財産であり、GitHub デジタル署名によりその純粋性が保証されている。*
