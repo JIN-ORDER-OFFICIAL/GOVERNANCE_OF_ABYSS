@@ -85,12 +85,11 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ---
 ### 🎬 Vision: The Moving Lifeblood
-未来を走る「生命線の特急」の動的なビジョン。
+#### 未来を走る「生命線の特急」の動的なビジョン。
 
-https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/jin-lifeblood-express-vision.mp4
+https://github.com/user-attachments/assets/f7451360-31b8-422a-ab7d-429de0c6222f
 
-### 🌍 Africa Tech-Guilds Implementation
-アフリカ各拠点の具体的な技術実装と独立のビジョン。
+#### アフリカ各拠点の具体的な技術実装と独立のビジョン。
 
 ![JIN-ORDER Africa Tech-Guilds Blueprint](./assets/jin-africa-tech-guilds.jpg)
 
