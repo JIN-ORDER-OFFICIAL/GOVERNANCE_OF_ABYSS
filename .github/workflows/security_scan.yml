@@ -15,11 +15,16 @@ jobs:
 
       - name: Verify File Purity
         run: |
-          # 1. 住所をファイル名だけにする（より強力な魔法）
+          # 1. Windowsの変な改行（CRLF）を掃除する
+          sed -i 's/\r//g' SECURITY_AUDIT_LOG.txt
+          
+          # 2. ママのPC住所を消してファイル名だけにする
           sed -i 's/.*\\//' SECURITY_AUDIT_LOG.txt
           
-          # 2. 中身を表示して確認（ロボットのログに残す）
-          cat SECURITY_AUDIT_LOG.txt
+          # 3. リストにあるファイルだけをチェックする魔法
+          cut -d' ' -f1 SECURITY_AUDIT_LOG.txt > hashes.txt
+          cut -d' ' -f3 SECURITY_AUDIT_LOG.txt > files.txt
+          paste -d' ' hashes.txt files.txt > final_audit.txt
           
-          # 3. チェック実行
-          sha256sum -c SECURITY_AUDIT_LOG.txt
+          # 4. 実行！
+          sha256sum -c final_audit.txt
