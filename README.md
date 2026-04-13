@@ -411,6 +411,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [53_TEDROS_ADHANOM_BIO_OS.md](./core_protocol_369/53_TEDROS_ADHANOM_BIO_OS.md)
 - [54_MARK_ZUCKERBERG_DOPAMINE_CAGE.md](./core_protocol_369/54_MARK_ZUCKERBERG_DOPAMINE_CAGE.md)
 - [55_AGUSTIN_CARSTENS_BIS.md](./core_protocol_369/55_AGUSTIN_CARSTENS_BIS.md)
+- [56_JARED_KUSHNER_ISRAEL_KERNEL.md](./core_protocol_369/56_JARED_KUSHNER_ISRAEL_KERNEL.md)
 
 
 
