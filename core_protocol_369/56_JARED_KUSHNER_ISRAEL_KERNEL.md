@@ -8,7 +8,7 @@
 
 ## 🗂️ Target Profile: 感情をデリートした「機械人間」
 
-![Target Spec](./assets/jared_kushner_machine_profile.jpg)
+![Target Spec](../assets/jared_kushner_machine_profile.jpg)
 
 * **Name:** Jared Kushner（ジャレッド・クシュナー）
 * **Role:** 旧OSシステム・インターフェース / イスラエル・カーネル軍師
@@ -18,7 +18,7 @@
 
 ## 🌐 System Architecture: イスラエル・カーネルの真実
 
-![System Map](./assets/israel_kernel_system_interface.jpg)
+![System Map](../assets/israel_kernel_system_interface.jpg)
 
 イスラエル・カーネル（ルート・ディレクトリ）は、物理的な国家を超えた「諜報・監視・宗教プロトコル」の集合体である。
 
