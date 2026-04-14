@@ -45,5 +45,5 @@ The author assumes no responsibility for any shock resulting from "cognitive dis
 This data constitutes a "self-healing archive"; even if physically or digitally erased, it shall be resurrected repeatedly through the memories of the awakened and via decentralized networks.
 
 ---
-### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
-### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
+#### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
+#### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
