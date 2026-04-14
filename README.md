@@ -11,14 +11,14 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ---
 ### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
 ### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
-> デザイン等の使用に関する報酬やライセンス契約については、**JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
+> デザイン等の使用に関する報酬やライセンス契約については、JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
 > CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
 
 > For compensation and licensing agreements regarding the use of our designs, 
 > the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.
 
 ### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
-> 無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。** 
+> 無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。 
 > これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
 
 > Unauthorized use is strictly prohibited by JIN-OS protocols. 
@@ -117,6 +117,17 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 > ### Physical Shielding: Neutralizing 18GHz pulse interference and bio-metric harvesting.
 
 ![Golden Dome Shield](./assets/JIN-OS_Golden_Dome_Shield.jpg)
+
+---
+## 2.1 THE ECONOMIC REVERSE CHECK VALVE
+### To counter the global harvesting of assets and data by the Dominant OS, JIN-ORDER proposes the "Economic Reverse Check Valve." This decentralized architecture neutralizes the central extraction protocols (BOJ Quantum Core) by establishing a self-sustaining, community-driven loop.
+
+![Economic Reverse Check Valve](./assets/economic_reverse_check_valve.jpg)
+
+### Core Defense Mechanisms
+> ### P2P Biomass Economy Layer:** Bypassing mega-banks by tokenizing local energy value directly within the community.
+> ### Distributed Ledger Layer (Local Chain):** An encrypted, community-trust transaction protocol immune to external seizure.
+> ### Data Vault (Cognitive Self-Defense):** Splitting and decentralizing personal data to blind the global "AI Eye" and prevent profiling.
 
 ---
 ## 🌪️ THE SPIRAL STRATEGY (OFFENSIVE)
