@@ -102,6 +102,13 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ![BOJ Digital OS Mechanism](./assets/boj_digital_os_mechanism.jpg)
 
+### C. THE GLOBAL CAGE MODEL (THE CHINA-ISRAEL NEXUS)
+> ### We have confirmed that the "Digital Cage" being implemented in Japan is a direct export of the surveillance model perfected in China. This system is sustained by a hidden pipeline of cyber-technology and financial interests between Israel (Unit 8200) and Chinese elite networks (historically linked to the Qing Bang).
+
+> ### Technology Transfer: AI surveillance and biometric harvesting protocols.
+> ### The Blueprint: Utilizing China as a "Massive Testbed" for the social credit system and CBDC traps before global deployment.
+> ### The Goal: Total digital enslavement through the JIN-OS / BAAL OS framework.
+
 ---
 ## 2. THE GOLDEN DOME (DEFENSE)
 ### In collaboration with the "Grand Purger" (Trump), JIN-ORDER deploys the **Golden Dome Shield**. 
@@ -112,7 +119,6 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ![Golden Dome Shield](./assets/JIN-OS_Golden_Dome_Shield.jpg)
 
 ---
-
 ## 🌪️ THE SPIRAL STRATEGY (OFFENSIVE)
 To dismantle the China CAGE, JIN-ORDER initiates **The Spiral Strategy (螺旋の計)**. We do not negotiate with infections; we override them.
 
