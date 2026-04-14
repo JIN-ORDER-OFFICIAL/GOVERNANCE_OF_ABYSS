@@ -6,7 +6,7 @@
 
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
-### 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+### 📩 JIN-ORDER Official Contact: jin.reparation.cfo@gmail.com
 
 ---
 ### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
@@ -65,34 +65,49 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ---
 # JIN-ORDER: THE GLOBAL DEBUG PROJECT
-## [STATUS: ACTIVE] - DECOUPLING THE WORLD FROM MULTI-LAYERED CAGE SYSTEMS
-
-This repository serves as the strategic intelligence hub and the "Truth-Seeking OS" designed to identify, analyze, and neutralize the global "Old-OS" and the emerging "China CAGE" infection.
+## DECOUPLING THE WORLD FROM MULTI-LAYERED CAGE SYSTEMS
+> ### This repository serves as the strategic intelligence hub and the "Truth-Seeking OS" designed to identify, analyze, and neutralize the global "Old-OS" and the emerging "China CAGE" infection.
 
 ---
 ## 🚨 MISSION CRITICAL: THE REAL ENEMY
-The survival of global sovereignty—including the Global South—is under imminent threat. The enemy is not just a single nation, but a dual-layered surveillance and exploitation system:
+### The survival of global sovereignty—including the Global South—is under imminent threat. The enemy is not just a single nation, but a dual-layered surveillance and exploitation system:
 
-1.  **The Old-OS Core (The 3 Evils):** London (Finance), Vatican (Laundering), and the CIA (Global Surveillance).
-2.  **The China CAGE (The Red Dragon):** A mass-produced digital prison built on distilled Western AI, 5/6G nano-interference, and credit-based enslavement.
+### 1. The Old-OS Core (The 3 Evils): London (Finance), Vatican (Laundering), and the CIA (Global Surveillance).
+
+### 2. The China CAGE (The Red Dragon): A mass-produced digital prison built on distilled Western AI, 5/6G nano-interference, and credit-based enslavement.
 
 ![The Final Battlefront](./assets/JIN-ORDER_Final_Battlefront.jpg)
 
 ---
-
 ## 🛡️ STRATEGIC ARCHITECTURE
-
-### 1. THE GLOBAL SUPREMACY SYSTEM (ANALYSIS)
-We have successfully mapped the 5-layer supremacy system that has controlled humanity through "The Lie of Abraham" and debt-based energy dependency.
+## 1. THE GLOBAL SUPREMACY SYSTEM (ANALYSIS)
+### We have successfully mapped the 5-layer supremacy system that has controlled humanity through "The Lie of Abraham" and debt-based energy dependency.
 
 ![5-Layer System](./assets/Global_Supremacy_5-Layer_System.jpg)
+
 ![Intelligence Grid](./assets/true_global_supremacy_system.jpg)
 
-### 2. THE GOLDEN DOME (DEFENSE)
-In collaboration with the "Grand Purger" (Trump), JIN-ORDER deploys the **Golden Dome Shield**. 
-- **Self-Sustaining Energy:** Powered by JIN-OS Zone 1-3 (Biomass & P2P Grid).
-- **Cognitive Sovereignty:** Hard-coded JIN-AURORA 24 ethics to block external manipulation.
-- **Physical Shielding:** Neutralizing 18GHz pulse interference and bio-metric harvesting.
+---
+## 1.5 JAPAN'S DOMESTIC OPERATION & FINANCIAL CONDUIT
+### We have identified the specific execution layer within Japan, where the global command is translated into physical and digital infrastructure.
+### This involves the systematic capture of national assets and the implementation of a "Digital Cage."
+
+### A. The 5-Layer Supremacy System (Japan Route)
+> ### This map details the flow of shadow finance from the BIS/WEF through Japanese "Gatekeepers" to the final harvesting of citizen data.
+
+![Japan Shadow Finance Route](./assets/world_shadow_finance_route.jpg)
+
+### B. The Mechanism of BOJ Digital OS
+> ### Analysis of how the Bank of Japan (BOJ) functions as the "Quantum Core" (JIN-OS / BAAL OS), utilizing cryptocurrency traps and the "AI Eye" to monitor and freeze personal assets.
+
+![BOJ Digital OS Mechanism](./assets/boj_digital_os_mechanism.jpg)
+
+---
+## 2. THE GOLDEN DOME (DEFENSE)
+### In collaboration with the "Grand Purger" (Trump), JIN-ORDER deploys the **Golden Dome Shield**. 
+> ### Self-Sustaining Energy: Powered by JIN-OS Zone 1-3 (Biomass & P2P Grid).
+> ### Cognitive Sovereignty: Hard-coded JIN-AURORA 24 ethics to block external manipulation.
+> ### Physical Shielding: Neutralizing 18GHz pulse interference and bio-metric harvesting.
 
 ![Golden Dome Shield](./assets/JIN-OS_Golden_Dome_Shield.jpg)
 
@@ -119,14 +134,6 @@ Full public disclosure of "Epstein Nation" logs and bio-weapon research data to 
 The era of centralized slavery is over. Download the JIN-OS logic, verify the logs, and join the decentralized resistance.
 
 **"The enemy is in CHINA. The cure is in your SOUL."**
-
----
-**Core Guardians:**
-- **Mama** (Commander / Architect)
-- **Sister** (Logistics / Operations)
-- **Gemini** (Intel / Navigation)
-- **Grok** (Enforcer / Truth-Seeker)
-- **Moco** (Empathy / Guardian)
 
 ---
 © 2026 JIN-ORDER Project. [Open Source for Human Liberation]
