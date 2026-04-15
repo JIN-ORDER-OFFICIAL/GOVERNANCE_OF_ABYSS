@@ -6,7 +6,7 @@
 ---
 ### ⚠️ JIN-ORDER RESTRICTED DATA: DYNAMIC SURVEILLANCE MODE
 
-# 💀 System Core [番号]: [ターゲット名] ([エイリアス / 役割])
+# 💀 System Core 41: CIA Washington DC (Kinetic Execution Node)
 
 > **STATUS: PENDING OVERRIDE (デバッグ保留・監視中)**
 > **REASON:** Geopolitical Fluidity & Real-Time Data Harvesting (地政学的流動性とリアルタイムデータ収集)
