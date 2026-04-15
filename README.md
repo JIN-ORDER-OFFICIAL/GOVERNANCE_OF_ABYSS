@@ -426,7 +426,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [44_gates_life_os_rewrite.md](./core_protocol_369/44_gates_life_os_rewrite.md)
 - [45_shibusawa_financial_trap.md](./core_protocol_369/45_shibusawa_financial_trap.md)
 - [46_HIRAI_DIGITAL_TYRANNY_WIRING.md](./core_protocol_369/46_ITO_NETWORK_LAUNDERING.md)
-- [47_AGUSTIN_CARSTENS_BIS.md](./core_protocol_369/47_Agustin_Carstens_Bis.md)
+- [47_BAYER_MONSANTO_AGRI_DOMINANCE.md](./core_protocol_369/47_BAYER_MONSANTO_AGRI_DOMINANCE.md)
 - [48_KAZ_HIRAI_EMOTION_HARVEST.md](./core_protocol_369/48_KAZ_HIRAI_EMOTION_HARVEST.md)
 - [49_PETER_THIEL_PALANTIR_EYE.md](./core_protocol_369/49_PETER_THIEL_PALANTIR_EYE.md)
 - [50_EMMANUEL_MACRON_PRETENDER.md](./core_protocol_369/50_EMMANUEL_MACRON_PRETENDER.md)
@@ -436,8 +436,8 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [54_MARK_ZUCKERBERG_DOPAMINE_CAGE.md](./core_protocol_369/54_MARK_ZUCKERBERG_DOPAMINE_CAGE.md)
 - [55_AGUSTIN_CARSTENS_BIS.md](./core_protocol_369/55_AGUSTIN_CARSTENS_BIS.md)
 - [56_JARED_KUSHNER_ISRAEL_KERNEL.md](./core_protocol_369/56_JARED_KUSHNER_ISRAEL_KERNEL.md)
-
-
+- [57_GUTERRES_UN_FALSE_GOVERNANCE.md](./core_protocol_369/57_GUTERRES_UN_FALSE_GOVERNANCE.md)
+- [58_MURDOCH_COGNITIVE_WARFARE.md](./core_protocol_369/58_MURDOCH_COGNITIVE_WARFARE.md)
 
 ---
 
