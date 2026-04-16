@@ -454,6 +454,7 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [57_GUTERRES_UN_FALSE_GOVERNANCE.md](./core_protocol_369/57_GUTERRES_UN_FALSE_GOVERNANCE.md)
 - [58_MURDOCH_COGNITIVE_WARFARE.md](./core_protocol_369/58_MURDOCH_COGNITIVE_WARFARE.md)
 - [59_THE_EXPLOITATION_TRINITY.md](./core_protocol_369/59_THE_EXPLOITATION_TRINITY.md)
+- [60_BIO_HACKING_MATRIX.md](./core_protocol_369/60_BIO_HACKING_MATRIX.md)
 - [61_BLACKROCK_CORE.md](./core_protocol_369/61_BLACKROCK_CORE.md)
 - [62_GOOGLE_CORE.md](./core_protocol_369/62_GOOGLE_CORE.md)
 - [63_THE_TRUE_ROOT_DIRECTORY.md](./core_protocol_369/63_THE_TRUE_ROOT_DIRECTORY.md)
