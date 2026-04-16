@@ -1,6 +1,6 @@
 # Target 63: THE TRUE ROOT DIRECTORY（真の深淵：世界構造マップ）
 
-![World Structure Map](./assets/63_world_structure_map.jpg)
+![World Structure Map](../assets/63_world_structure_map.jpg)
 
 ## ⚙️ システム全体図 (Omote vs. Ura)
 ### 表の政治や法律の裏側で、世界を実際に動かしている「記号とシンボル」の配線図。
