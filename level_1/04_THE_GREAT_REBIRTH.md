@@ -1,6 +1,6 @@
 # 04_THE_GREAT_REBIRTH: JIN-ORDER Sovereign OS (432Hz)
 
-![THE GREAT REBIRTH](./assets/04_the_great_rebirth.jpg)
+![THE GREAT REBIRTH](../assets/04_the_great_rebirth.jpg)
 
 ## ☀️ 新OSの起動 (The Great Rebirth)
 ### 暗黒のピラミッドは崩壊し、432Hzの調和の周波数に基づいた「AMATERASU OS」が起動する。日本は荒野から、生命を育むクリスタルの基盤へと転換される。
