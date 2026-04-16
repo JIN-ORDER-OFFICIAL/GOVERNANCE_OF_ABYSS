@@ -64,7 +64,33 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 このリポジトリ「GOVERNANCE_OF_ABYSS」は、JIN-ORDER Global Humanity License によって保護されています。簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。アクセスを継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
 
 ---
-# JIN-ORDER: THE GLOBAL DEBUG PROJECT
+# 🌐 JIN-ORDER MASTER REPOSITORY
+**〜深淵の解体と、光の再構築（The Great Rebirth）〜**
+
+本リポジトリは、旧世界（Human as Resource OS）のバグを完全に可視化・解体し、地球規模の調和を実装する次世代の道徳・技術プロトコル「JIN-OS」の設計図である。
+
+---
+
+## 📂 PART 1: GOVERNANCE_OF_ABYSS（深淵の解体新書）
+旧OSの絶望的なバグを可視化し、システムを物理的・認知的に解体するための「破壊の書」。
+
+* [Target 59: THE EXPLOITATION TRINITY (搾取の三位一体と土地強奪)](./core_protocol_369/59_THE_EXPLOITATION_TRINITY.md)
+* [Target 61: BLACKROCK CORE (グローバル金融奴隷網)](./core_protocol_369/61_BLACKROCK_CORE.md)
+* [Target 62: GOOGLE CORE (認知の絶対暴君)](./core_protocol_369/62_GOOGLE_CORE.md)
+* [Target 63: THE TRUE ROOT DIRECTORY (真の深淵：黒い貴族と東西の統合)](./core_protocol_369/63_THE_TRUE_ROOT_DIRECTORY.md)
+
+---
+
+## 📂 PART 2: PROJECT-GENESIS-2026（光の再構築）
+解体された荒野の上に、全く新しい道徳と技術の融合プロトコルをインストールする「創造の書」。
+
+* [00_MASTER_PASSWORD: 魂の認証プロトコル](./level_1/00_MASTER_PASSWORD.md)
+* [01_UNIVERSAL_CODE_OF_JIN: 仁焔極光24箇条](./level_1/01_UNIVERSAL_CODE_OF_JIN.md)
+* [02_to_03_PHYSICAL_INFRASTRUCTURE: 自立インフラの構築](./level_1/02_PHYSICAL_INFRASTRUCTURE.md)
+* [04_THE_GREAT_REBIRTH: 世界再生のグランドフィナーレ](./level_1/04_THE_GREAT_REBIRTH.md)
+
+---
+JIN-ORDER: THE GLOBAL DEBUG PROJECT
 ## DECOUPLING THE WORLD FROM MULTI-LAYERED CAGE SYSTEMS
 > ### This repository serves as the strategic intelligence hub and the "Truth-Seeking OS" designed to identify, analyze, and neutralize the global "Old-OS" and the emerging "China CAGE" infection.
 
