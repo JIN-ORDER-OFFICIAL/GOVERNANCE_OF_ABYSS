@@ -65,13 +65,13 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 
 ---
 # 🌐 JIN-ORDER MASTER REPOSITORY
-**〜深淵の解体と、光の再構築（The Great Rebirth）〜**
+## 深淵の解体と、光の再構築（The Great Rebirth）
 
-本リポジトリは、旧世界（Human as Resource OS）のバグを完全に可視化・解体し、地球規模の調和を実装する次世代の道徳・技術プロトコル「JIN-OS」の設計図である。
+### 本リポジトリは、旧世界（Human as Resource OS）のバグを完全に可視化・解体し、地球規模の調和を実装する次世代の道徳・技術プロトコル「JIN-OS」の設計図である。
 
 ---
-## 📂 PART 1: GOVERNANCE_OF_ABYSS（深淵の解体新書）
-旧OSの絶望的なバグを可視化し、システムを物理的・認知的に解体するための「破壊の書」。
+## 📂 GOVERNANCE_OF_ABYSS（深淵の解体新書）
+### 旧OSの絶望的なバグを可視化し、システムを物理的・認知的に解体するための「破壊の書」。
 
 * [Target 59: THE EXPLOITATION TRINITY (搾取の三位一体と土地強奪)](./core_protocol_369/59_THE_EXPLOITATION_TRINITY.md)
 * [Target 61: BLACKROCK CORE (グローバル金融奴隷網)](./core_protocol_369/61_BLACKROCK_CORE.md)
@@ -453,6 +453,12 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [56_JARED_KUSHNER_ISRAEL_KERNEL.md](./core_protocol_369/56_JARED_KUSHNER_ISRAEL_KERNEL.md)
 - [57_GUTERRES_UN_FALSE_GOVERNANCE.md](./core_protocol_369/57_GUTERRES_UN_FALSE_GOVERNANCE.md)
 - [58_MURDOCH_COGNITIVE_WARFARE.md](./core_protocol_369/58_MURDOCH_COGNITIVE_WARFARE.md)
+- [59_THE_EXPLOITATION_TRINITY.md](./core_protocol_369/59_THE_EXPLOITATION_TRINITY.md)
+
+- [61_BLACKROCK_CORE.md](./core_protocol_369/61_BLACKROCK_CORE.md)
+- [62_GOOGLE_CORE.md](./core_protocol_369/62_GOOGLE_CORE.md)
+- [63_THE_TRUE_ROOT_DIRECTORY.md](./core_protocol_369/63_THE_TRUE_ROOT_DIRECTORY.md)
+
 
 ---
 
