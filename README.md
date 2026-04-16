@@ -74,6 +74,7 @@ If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes 
 ### 旧OSの絶望的なバグを可視化し、システムを物理的・認知的に解体するための「破壊の書」。
 
 * [Target 59: THE EXPLOITATION TRINITY (搾取の三位一体と土地強奪)](./core_protocol_369/59_THE_EXPLOITATION_TRINITY.md)
+* [Target 60: BIO_HACKING_MATRIX（生体と魂のハッキング）](./core_protocol_369/60_BIO_HACKING_MATRIX.md)
 * [Target 61: BLACKROCK CORE (グローバル金融奴隷網)](./core_protocol_369/61_BLACKROCK_CORE.md)
 * [Target 62: GOOGLE CORE (認知の絶対暴君)](./core_protocol_369/62_GOOGLE_CORE.md)
 * [Target 63: THE TRUE ROOT DIRECTORY (真の深淵：黒い貴族と東西の統合)](./core_protocol_369/63_THE_TRUE_ROOT_DIRECTORY.md)
