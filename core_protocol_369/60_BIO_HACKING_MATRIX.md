@@ -1,3 +1,10 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+このファイルは **[JIN-ORDER Global Humanity License](../LICENSE.md)** によって保護されています。
+簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。
+閲覧を継続する場合、システム自壊プロトコルを含むライセンス条項に同意したものとみなされます。
+
+---
+
 # Target 60: BIO_HACKING_MATRIX（生体と魂のハッキング）
 
 ![Agenda_2030_Global_Blueprint](../assets/Agenda_2030_Global_Blueprint.jpg)
