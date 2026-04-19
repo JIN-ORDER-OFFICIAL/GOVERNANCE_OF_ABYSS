@@ -8,7 +8,7 @@
 ## 🔴 NO. 65: 坂中 英徳 (Hidenori Sakanaka)
 ### 日本人口置換プログラム・実効アーキテクト 元法務省入国管理局長 / 移民政策研究所所長
 
-![THE_GREAT_REPLACEMENT_OS](./assets/TRUMAN_SAKANAKA_REPLACEMENT_OS_GRID.jpg)
+![THE_GREAT_REPLACEMENT_OS](../assets/TRUMAN_SAKANAKA_REPLACEMENT_OS_GRID.jpg)
 
 ## 罪状およびデバッグ解析
 ### 1.特権階級の固定：在日特権の法的グリッド構築
