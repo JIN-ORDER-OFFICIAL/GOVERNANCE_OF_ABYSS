@@ -528,6 +528,8 @@ Intelligence. Witness what we will destroy and what we will liberate.
 - [61_BLACKROCK_CORE.md](./core_protocol_369/61_BLACKROCK_CORE.md)
 - [62_GOOGLE_CORE.md](./core_protocol_369/62_GOOGLE_CORE.md)
 - [63_THE_TRUE_ROOT_DIRECTORY.md](./core_protocol_369/63_THE_TRUE_ROOT_DIRECTORY.md)
+- [64_HARRY_S_TRUMAN_3S_SPIRITUAL_DESTRUCTION.md](./core_protocol_369/64_HARRY_S_TRUMAN_3S_SPIRITUAL_DESTRUCTION.md)
+- [65_PEOPLE_AND_ORGANIZATIONS_DATABASE.md](./core_protocol_369/65_PEOPLE_AND_ORGANIZATIONS_DATABASE.md)
 
 ---
 
