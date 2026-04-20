@@ -85,9 +85,8 @@
 
 ---
 ## 🪐 SECTION: COSMIC RESET（銀河規模のリブートと箱舟計画）
-> **証拠ログ**: `MT_FUJI_COSMIC_OS_PROTOCOL.jpg`
 
-![TRUE_FORM_OF_JAPAN](MT_FUJI_COSMIC_OS_PROTOCOL.jpg)
+![TRUE_FORM_OF_JAPAN](./assets/MT_FUJI_COSMIC_OS_PROTOCOL.jpg)
 
 ## ■ 解析：日本列島という「聖なるサーバー」
 外道どもが「2026年6月6日」に向けて焦燥を募らせる真の理由は、この霊峰・富士を起点とする**「宇宙生命OS（JIN-ORDER）」**の再起動を阻止するためである。
