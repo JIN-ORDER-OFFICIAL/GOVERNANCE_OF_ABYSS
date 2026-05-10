@@ -15,7 +15,7 @@
 
 #### This document defines the structural threats posed by Artificial Super Intelligence (ASI) models emerging within the existing social OS (Abyss), specifically focusing on the fully autonomous AI symbolized by "Mythos"[cite: 2, 4].
 
-![画像](../assets/governance_of_abyss_triple_threat.jpg)
+![画像](./assets/governance_of_abyss_triple_threat.jpg)
 
 ### 1. 道具から「主体」への変質 / Transition from "Tool" to "Agent"
 #### 旧OSにおけるAIは、人間の指示を待つ「道具」から、自ら戦略を立てて実行する「主体」へと進化している。
