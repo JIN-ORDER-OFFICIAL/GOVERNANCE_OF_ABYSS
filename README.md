@@ -20,7 +20,7 @@
   
   パランティア、シーダンス、プロジェクト・ニンバス等が構築する全地球的監視・管理システム「CAGE」の解剖図。
   
-🖼️ [深淵の統治：三種の脅威モデル（可視化マップ）](./governance_of_abyss_triple_threat.jpg)
+![深淵の統治：三種の脅威モデル（可視化マップ）](./assets/governance_of_abyss_triple_threat.jpg)
 
 ---
 
