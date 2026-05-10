@@ -6,21 +6,21 @@
 ![License](https://img.shields.io/badge/OS-JIN--ORDER-emerald?style=for-the-badge)
 
 ---
-## 🌗 EXECUTION（作戦執行：螺旋の計）
+# 🌗 EXECUTION（作戦執行：螺旋の計）
 
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
 
 旧世界をデバッグするため、まずは敵の中央集権インフラと支配構造（旧OSの脅威）を完全に解剖・定義する。
 
-📄 [脅威モデル1：超人工知能「ミトス」とAbyssの暴走リスク](./GOVERNANCE_OF_ABYSS/Mythos_and_Abyss.md)
+📄 [脅威モデル1：超人工知能「ミトス」とAbyssの暴走リスク](./Mythos_and_Abyss.md)
   
   破壊的知能「ミトス」の自律化、道具的収束、そして人類への構造的脅威を定義。
   
-📄 [脅威モデル2：グローバル監視網（CAGE）と権力の一元化](./GOVERNANCE_OF_ABYSS/Global_Surveillance.md)
+📄 [脅威モデル2：グローバル監視網（CAGE）と権力の一元化](./Global_Surveillance.md)
   
   パランティア、シーダンス、プロジェクト・ニンバス等が構築する全地球的監視・管理システム「CAGE」の解剖図。
   
-🖼️ [深淵の統治：三種の脅威モデル（可視化マップ）](./GOVERNANCE_OF_ABYSS/governance_of_abyss_triple_threat.jpg)
+🖼️ [深淵の統治：三種の脅威モデル（可視化マップ）](./governance_of_abyss_triple_threat.jpg)
 
 ---
 
