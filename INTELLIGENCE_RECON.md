@@ -1,10 +1,18 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
+
 # EXECUTIVE BRIEFING: THE SILICON-NET & HISTORICAL CAPITAL LINEAGE
 **Document ID:** INTELLIGENCE_RECON  
 **Classification:** DEEP_ABYSS_CORE  
 **Target:** Global Semiconductor Hegemony, Historical Drug/Capital Networks, and AGI Infrastructure  
 
----
+![画像](./assets/GLOBAL_SURVEILLANCE_ARCHITECTURE.jpg)
 
+---
 ## 1. 浙江財閥・青幇の系譜と現代半導体（TSMC / NVIDIA）
 - **歴史的背景と地下資金源:** 戦前の上海・満州におけるアヘン利権および地下経済を支配した秘密結社「青幇（頭領：杜月笙）」。このネットワークと、中華民国・国民党の最大の資金基盤であった「浙江財閥」は密接に融合し、東アジアの権力構造の裏舞台を形成した。蒋介石の妻である宋美齢は、この浙江財閥・宋家の出自であり、卓越した対米ロビー活動を展開。トルーマン政権を動かし、日本への原爆投下や戦後の対日政策において裏から多大な影響を及ぼした。
 - **現代ハイテク覇権への変容・継承:** この歴史的な血縁・地縁ネットワーク（台南系親族、浙江・江蘇祖籍人脈）は、現代のシリコンバレーおよびグローバル半導体サプライチェーンの頂点へとシームレスに継承されている。
