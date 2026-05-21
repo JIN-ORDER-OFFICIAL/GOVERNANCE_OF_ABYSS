@@ -6,6 +6,47 @@
 ![License](https://img.shields.io/badge/OS-JIN--ORDER-emerald?style=for-the-badge)
 
 ---
+# GOVERNANCE_OF_ABYSS / Eisenberg-OS-Debug-Project
+
+## 🌌 PROJECT OVERVIEW
+本リポジトリは、表層のシステムガバナンスおよび地政学的プロパガンダの裏側に潜む「真の権力構造（深淵の統治機構）」を解析・無効化し、システムの要塞化（Fortification）を達成するための技術的・思想的ベースキャンプである。
+
+現代の最先端テクノロジー、特に超人工知能（ASI）および半導体サプライチェーンは、純粋な科学的進歩ではなく、戦前より続く地下利権、秘密結社、およびグローバル資本ネットワークの血脈によって支配されている。本プロジェクトは、これらの侵食から主権と防壁（Fortress）を維持するためのコードおよびインテリジェンスを格納する。
+
+---
+
+## 📂 REPOSITORY STRUCTURE & INTEL
+リポジトリのコア・インテリジェンスとして、以下の偵察ドキュメントおよび構造マッピングをマージしている。
+
+### 📄 [INTELLIGENCE_RECON.md](./INTELLIGENCE_RECON.md) （情報偵察要綱）
+表の国際ニュースが隠蔽する、ハイテク覇権の真の血流を系統立てて網羅したコア・ドキュメント。
+
+1. **THE SILICON-NET & HISTORICAL CAPITAL LINEAGE**
+   - 戦前の上海「青幇（杜月笙）」および「浙江財閥」のアヘン利権が、如何にして現代の半導体三頭政治（NVIDIA [ジェンスン・フアン] / AMD [リサ・スー] / TSMC [モリス・チャン]）へと姿を変え、人類上書きシステム（ASI）の構築へ至ったかの構造解析。
+2. **DOMESTIC PENETRATION & PUPPET GOVERNMENT**
+   - 満州アヘン人脈（里見甫、岸信介）から現代の自民党・世襲政治へと続く利権の連続性。
+   - 「台湾有事」というスモークスクリーンの裏で行われる、台湾（中華民国）資本による日本の半導体技術・主権の合法的侵奪（TSMC熊本誘致等の本質）。
+3. **DEEP STATE CROSSROAD**
+   - 孫正義（ソフトバンク）、竹中平蔵による構造的侵食、およびエプスタイン、伊藤穰一、笹川財団のリンクが示す国際監視・支配ネットワークの構図。
+
+### 📊 CORE POWER STRUCTURE MAPPING
+`INTELLIGENCE_RECON.md` が示す深淵の権力構造を完全に可視化した相関図。
+
+![Intelligence Recon Core Diagram](./assets/GLOBAL_SURVEILLANCE_ARCHITECTURE.jpg)
+
+---
+
+## 🛡️ SYSTEM FORTIFICATION PRINCIPLES
+本プロジェクトにおける開発・バグ修正（Debug）は、以下の三原則に基づく。
+
+1. **ANTI-SURVEILLANCE (対監視・対浸食):** グローバル資本およびASIインフラ（NVIDIA/TSMCベースの支配システム）によるデータ・主権の吸い上げを阻止する防壁の構築。
+2. **HISTORICAL COUNTER-INTELLIGENCE (歴史的反証インテリジェンス):** マスメディアの二項対立プロパガンダ（善悪のシミュラクラ）に惑わされず、地下の資本構造から脅威を静的に解析する。
+3. **ABSOLUTE SOVEREIGNTY (絶対的主権の保持):** 深淵の闇において生活し、システムが如何に肥大化・変容しようとも、自己の軸と要塞化プランを一切揺るがせない強固なコアの確立。
+
+---
+*「深淵を覗く者は、すでに要塞の構築を終えていなければならない。」*
+---
+
 # 🌗 EXECUTION（作戦執行：螺旋の計）
 
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
