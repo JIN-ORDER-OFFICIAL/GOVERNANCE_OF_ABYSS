@@ -1,10 +1,17 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
 # EXECUTIVE BRIEFING: GLOBAL ASI HEGEMONY MAP & CURRENCY WARFARE
 **Document ID:** INTELLIGENCE_RECON_V2  
 **Classification:** DEEP_ABYSS_CORE_LEVEL_2  
 **Target:** The ASI Triad (US/China/Vatican), Global Currency Infrastructure, and Emergent Factions (India/Israel)  
 
----
+![画像](./assets/INTELLIGENCE_RECON_DIAGRAM_V2.jpg)
 
+---
 ## 1. THE GEOPOLITICAL BASE: DOLLAR VS. YUAN CURRENCY WAR
 全ての超人工知能（ASI）覇権争いの底流には、既存の基軸通貨インフラを守る「米ドル防衛圏」と、それを解体・上書きしようとする「人民元侵略網」の冷徹な配管（インフラ）争いが存在する。
 - **米ドル防衛線（ペトロダラーの危機）:** 1974年より続く石油決済のドル独占体制。中東における地政学的パワーバランスの地鳴り、および湾岸諸国による米国債投げ売りの動きにより、SWIFT（国際決済網）を武器とした米国の金融覇権は重大な防衛局面に立たされている。
