@@ -7,6 +7,8 @@
 # GLOBAL ASI HEGEMONY MAP V4 (INTELLIGENCE AUDIT LOG)
 ## 全球超人工知能覇権マップ V4 (インテリジェンス監査ログ)
 
+![画像](./assets/INTELLIGENCE_RECON_DIAGRAM_V4.jpg)
+
 ## 1. OVERVIEW & EMERGENT AXIS / 概要と新たなる中心軸
 This document serves as the V4 configuration log for the Global Artificial Superintelligence (ASI) power grid. The defining architecture of V4 is the physical and sovereign emergence of Europe's central bulwark—**CÉLESTE AI (Data Centre National Francé)**—positioning itself at the very heart of the global currency and data stream war between the U.S. Dollar (Petrodollar Defense) and the Chinese Yuan.
 
