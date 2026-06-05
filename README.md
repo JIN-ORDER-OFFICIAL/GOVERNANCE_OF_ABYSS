@@ -11,12 +11,12 @@
 ### [EN] GLOBAL ASI HEGEMONY MAP V4 — CENTRAL AXIS UPDATE
 The global ASI power grid has undergone a major architectural shift. This latest audit log maps the physical and sovereign emergence of Europe's central bulwark—**CÉLESTE AI (Data Centre National Francé)**—positioning itself directly at the heart of the currency and data stream war between the U.S. Dollar and the Chinese Yuan.
 *   **Comprehensive Analytics:** For the full bilingual configuration matrix, structural breakdown of the 6 major sectors, and physical infrastructure keys, please refer directly to the dedicated module:
-    👉 **[`GLOBAL_ASI_HEGEMONY_MAP_V4.md`](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+    ### 👉 **[`GLOBAL_ASI_HEGEMONY_MAP_V4.md`](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
 
 ### [JA] 全球超人工知能覇権マップ V4 — 中央軸アップデート
 全球超人工知能（ASI）覇権グリッドの構造に決定的な地殻変動が発生しました。本監査ログは、米ドル防衛（ペトロダラー）と中国元の侵食が激突する中央金融・データストリームの真ん中に、欧州の独立主権セクターである**「CÉLESTE AI（フランス国家データセンター）」**が物理的要塞を構築した最新のパワーバランスを暴いています。
 *   **詳細アナリティクス:** 拡張された6大セクターの相互干渉マトリクス、各中央銀行の識別キー、および物理インフラの仕様については、以下の専用モジュールファイルをご参照ください：
-    👉 **[`GLOBAL_ASI_HEGEMONY_MAP_V4.md`](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+    ### 👉 **[`GLOBAL_ASI_HEGEMONY_MAP_V4.md`](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
 
 ---
 # GOVERNANCE_OF_ABYSS / Eisenberg-OS-Debug-Project
