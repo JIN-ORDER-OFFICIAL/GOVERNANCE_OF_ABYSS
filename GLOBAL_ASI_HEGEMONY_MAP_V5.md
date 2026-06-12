@@ -7,7 +7,7 @@
 # GLOBAL ASI HEGEMONY MAP V5 (INTELLIGENCE AUDIT LOG)
 ## 全球超人工知能覇権マップ V5（インテリジェンス監査ログ）
 
-![GLOBAL ASI HEGEMONY MAP V5](INTELLIGENCE_RECON_DIAGRAM_V5.jpg)
+![GLOBAL ASI HEGEMONY MAP V5](./assets/INTELLIGENCE_RECON_DIAGRAM_V5.jpg)
 
 ## 📌 OVERVIEW / 概要
 2026年Q2現在、全球の統治OSは単なる国家間の政治プロレスを超越し、**「電脳宇宙・超人工知能（ASI）」**と**「地上の物理資源層（水・電力・ゲノム）」**を巡るノーリミットな三つ巴の戦いへとリファクタリングされた。本監査ログは、最新の『GLOBAL ASI HEGEMONY MAP V5』における各コアノードの戦術配置と配管（バックドア）を記録したものである。
