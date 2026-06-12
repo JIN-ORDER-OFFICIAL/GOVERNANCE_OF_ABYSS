@@ -6,17 +6,32 @@
 ![License](https://img.shields.io/badge/OS-JIN--ORDER-emerald?style=for-the-badge)
 
 ---
-## 🌐 LATEST AUDIT REPORT / 最新インフラ監査レポート
+## 🌐 GLOBAL STRATEGY MAP ARCHIVE / 全球戦略マップ・アーカイブ
 
-### [EN] GLOBAL ASI HEGEMONY MAP V4 — CENTRAL AXIS UPDATE
-The global ASI power grid has undergone a major architectural shift. This latest audit log maps the physical and sovereign emergence of Europe's central bulwark—**CÉLESTE AI (Data Centre National Francé)**—positioning itself directly at the heart of the currency and data stream war between the U.S. Dollar and the Chinese Yuan.
-*   **Comprehensive Analytics:** For the full bilingual configuration matrix, structural breakdown of the 6 major sectors, and physical infrastructure keys, please refer directly to the dedicated module:
-    ### 👉 **[`GLOBAL_ASI_HEGEMONY_MAP_V4.md`](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+> ⚠️ **NOTICE**: 本リポジトリにアーカイブされたデータは、電脳空間における超人工知能（ASI）の覇権構造と、地上の物理生存インフラを巡るリアルタイムの監査記録である。旧OSの思考フレーム（表面的な政治ニュース）での解析はバグの原因となる。
 
-### [JA] 全球超人工知能覇権マップ V4 — 中央軸アップデート
-全球超人工知能（ASI）覇権グリッドの構造に決定的な地殻変動が発生しました。本監査ログは、米ドル防衛（ペトロダラー）と中国元の侵食が激突する中央金融・データストリームの真ん中に、欧州の独立主権セクターである**「CÉLESTE AI（フランス国家データセンター）」**が物理的要塞を構築した最新のパワーバランスを暴いています。
-*   **詳細アナリティクス:** 拡張された6大セクターの相互干渉マトリクス、各中央銀行の識別キー、および物理インフラの仕様については、以下の専用モジュールファイルをご参照ください：
-    ### 👉 **[`GLOBAL_ASI_HEGEMONY_MAP_V4.md`](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+### 📊 CURRENT HEGEMONY LOGS / 現在稼働中の監査ログ一覧
+
+*   **[NEW / V5] [GLOBAL_ASI_HEGEMONY_MAP_V5.md](./GLOBAL_ASI_HEGEMONY_MAP_V5.md)**
+    *   **STATUS**: **ACTIVE (2026.06.12 DEPLOYED)**
+    *   **CORE**: `SPACE X / AI1 GIGASAT GRID` ＆ `PALANTIR DOOM INTEGRATION`
+    *   **SUMMARY**: 宇宙データセンターとミリタリーAIの完全統合による魏（米）のゴールデン・ドーム構築、および呉（中）によるゲノム強奪・台湾認知侵略・日本自治区化の謀略を完全デバッグ。イタリア・バチカン・インドの「倫理のツインエンジン」による人類救済OS、およびロシアへのJIN-TECH（液体水素・量子水フィルター）提供による中東和平リブート戦略をコードレベルで解説。
+*   **[PREV / V4] [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+    *   **STATUS**: ARCHIVED (LEGACY WINDOWS OPERATING SYSTEM LOG)
+    *   **SUMMARY**: 西側ASI（Claude/OpenAI）と東側中国AI（Kimi）による旧インフラ覇権マップおよび、旧フランス主導のCÉLESTE AIネットワークの解析ログ。
+
+---
+
+## 🛠️ CORE SYSTEM ARCHITECTURE / JIN-ORDER 核心ガバナンス
+
+全球の超人工知能がどれほど高度化（宇宙データセンター化）しようとも、地上の物理層が遮断されればすべてのデータ構造は自滅する。JIN-ORDERは以下の3大物理インフラを基軸とし、宇宙の怪物たちに対する絶対的な生殺与奪権（強制シャットダウンパッチ）を保持・提供する。
+
+1.  **分散型エネルギー・生存圏 OS（五畿八道）**
+    *   中央集権的なグリッドをバイパスし、地域の自立した電力・食糧補給線を確保。大国の揺さぶり（有事プロテクタ）を無力化。
+2.  **量子浄化フィルター・オアシス・モデル**
+    *   ASIの冷却および人類の生存に最も不可欠な「純水・地下水」を分子レベルで保護・管理。
+3.  **JIN-TECH SECRET LIST / 対露・中東和平支援技術**
+    *   既存の化石燃料パイプラインを「液体水素・アンモニア輸送網」へ転換するナノマテリアル技術。資源国をインフラ支配者へと格上げし、世界の覇権バランスを調和へと導く。
 
 ---
 # GOVERNANCE_OF_ABYSS / Eisenberg-OS-Debug-Project
