@@ -12,7 +12,7 @@ This document archives the strategic macro-analysis of the global landscape unde
 ## 🗺️ Visual Asset: Intelligence Recon Diagram V6
 Below is the definitive global distribution mapping of the reigning machine dominions and systemic compliance enforcement zones.
 
-![GLOBAL ASI HEGEMONY MAP V6](../assets/INTELLIGENCE_RECON_DIAGRAM_V6_2.jpg)
+![GLOBAL ASI HEGEMONY MAP V6](./assets/INTELLIGENCE_RECON_DIAGRAM_V6.jpg)
 
 ---
 
