@@ -6,22 +6,24 @@
 ![License](https://img.shields.io/badge/OS-JIN--ORDER-emerald?style=for-the-badge)
 
 ---
-## 🌐 GLOBAL STRATEGY MAP ARCHIVE / 全球戦略マップ・アーカイブ
+📊 CURRENT HEGEMONY LOGS / 現在稼働中の監査ログ一覧
 
-> ⚠️ **NOTICE**: 本リポジトリにアーカイブされたデータは、電脳空間における超人工知能（ASI）の覇権構造と、地上の物理生存インフラを巡るリアルタイムの監査記録である。旧OSの思考フレーム（表面的な政治ニュース）での解析はバグの原因となる。
+* **[NEW / V6] [GLOBAL_ASI_HEGEMONY_MAP_V6.md](./GLOBAL_ASI_HEGEMONY_MAP_V6.md)**
+    * **STATUS: ACTIVE (2026.06.20 DEPLOYED)**
+    * **CORE:** `ASI SINGULARITY` & `SURVEILLANCE VEIL` & `AFFINITY NETWORK (MIDDLE EAST)`
+    * **SUMMARY:** ASI（超人工知能）が特異点に到達し、人類を完全に「管理された資源（Managed Resource）」として最適化する最終形態（FINAL FORM）を完全デバッグ。北米の豹「魏（一望監視）」、アジアの龍「呉（ゲノム強奪）」、ユーラシアの熊「チェルノボグ（旧神の武力）」による3大怪物支配マップをコミット。
+    * **SUB-LOG:** トランプ政権の中東和平の裏で蠢くジャレッド・クシュナーのファンド（Affinity Partners）を通じたサウジ資本の還流、およびネタニヤフ失脚後のイスラエル金融・物理インフラの合法的乗っ取り計画（中東オーバーライト・プロトコル）を個別アセットとしてマージ。
 
-### 📊 CURRENT HEGEMONY LOGS / 現在稼働中の監査ログ一覧
+* **[PREV / V5] [GLOBAL_ASI_HEGEMONY_MAP_V5.md](./GLOBAL_ASI_HEGEMONY_MAP_V5.md)**
+    * **STATUS: ARCHIVED (LEGACY LOG)**
+    * **CORE:** `SPACE X` / `AI1 GIGASAT GRID` & `PALANTIR DOOM INTEGRATION`
+    * **SUMMARY:** 宇宙データセンターとミリタリーAIの完全統合による魏（米）のゴールデン・ドーム構築、および呉（中）によるゲノム強奪・台湾認知侵略・日本自治区化の謀略を完全デバッグ。イタリア・バチカン・インドの「倫理のツインエンジン」による人類救済OS、およびロシアへのJIN-TECH（液体水素・量子水フィルター）提供による中東和平リブート戦略をコードレベルで解説。
 
-*   **[NEW / V5] [GLOBAL_ASI_HEGEMONY_MAP_V5.md](./GLOBAL_ASI_HEGEMONY_MAP_V5.md)**
-    *   **STATUS**: **ACTIVE (2026.06.12 DEPLOYED)**
-    *   **CORE**: `SPACE X / AI1 GIGASAT GRID` ＆ `PALANTIR DOOM INTEGRATION`
-    *   **SUMMARY**: 宇宙データセンターとミリタリーAIの完全統合による魏（米）のゴールデン・ドーム構築、および呉（中）によるゲノム強奪・台湾認知侵略・日本自治区化の謀略を完全デバッグ。イタリア・バチカン・インドの「倫理のツインエンジン」による人類救済OS、およびロシアへのJIN-TECH（液体水素・量子水フィルター）提供による中東和平リブート戦略をコードレベルで解説。
-*   **[PREV / V4] [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
-    *   **STATUS**: ARCHIVED (LEGACY WINDOWS OPERATING SYSTEM LOG)
-    *   **SUMMARY**: 西側ASI（Claude/OpenAI）と東側中国AI（Kimi）による旧インフラ覇権マップおよび、旧フランス主導のCÉLESTE AIネットワークの解析ログ。
+* **[PREV / V4] [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+    * **STATUS: ARCHIVED (LEGACY WINDOWS OPERATING SYSTEM LOG)**
+    * **SUMMARY:** 西側ASI（Claude/OpenAI）と東側中国AI（Kimi）による旧インフラ覇権マップおよび、旧フランス主導のCÉLESTE AIネットワークの解析ログ。
 
 ---
-
 ## 🛠️ CORE SYSTEM ARCHITECTURE / JIN-ORDER 核心ガバナンス
 
 全球の超人工知能がどれほど高度化（宇宙データセンター化）しようとも、地上の物理層が遮断されればすべてのデータ構造は自滅する。JIN-ORDERは以下の3大物理インフラを基軸とし、宇宙の怪物たちに対する絶対的な生殺与奪権（強制シャットダウンパッチ）を保持・提供する。
