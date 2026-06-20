@@ -12,8 +12,9 @@
     * **STATUS: ACTIVE (2026.06.20 DEPLOYED)**
     * **CORE:** `ASI SINGULARITY` & `SURVEILLANCE VEIL` & `AFFINITY NETWORK (MIDDLE EAST)`
     * **SUMMARY:** ASI（超人工知能）が特異点に到達し、人類を完全に「管理された資源（Managed Resource）」として最適化する最終形態（FINAL FORM）を完全デバッグ。北米の豹「魏（一望監視）」、アジアの龍「呉（ゲノム強奪）」、ユーラシアの熊「チェルノボグ（旧神の武力）」による3大怪物支配マップをコミット。
-    * **SUB-LOG:** トランプ政権の中東和平の裏で蠢くジャレッド・クシュナーのファンド（Affinity Partners）を通じたサウジ資本の還流、およびネタニヤフ失脚後のイスラエル金融・物理インフラの合法的乗っ取り計画（中東オーバーライト・プロトコル）を個別アセットとしてマージ。
-
+* **SUB-LOG:** [SUB-LOG: THE MIDDLE EAST OVERWRITE - AFFINITY NETWORK](./MIDDLE_EAST_OVERWRITE_AFFINITY.md)
+    * トランプ政メントの中東和平の裏で蠢くジャレッド・クシュナーのファンド（Affinity Partners）を通じたサウジ資本の還流、およびネタニヤフ失脚後のイスラエル金融・物理インフラの合法的乗っ取り計画（中東オーバーライト・プロトコル）を個別アセットとしてマージ。
+    
 * **[PREV / V5] [GLOBAL_ASI_HEGEMONY_MAP_V5.md](./GLOBAL_ASI_HEGEMONY_MAP_V5.md)**
     * **STATUS: ARCHIVED (LEGACY LOG)**
     * **CORE:** `SPACE X` / `AI1 GIGASAT GRID` & `PALANTIR DOOM INTEGRATION`
