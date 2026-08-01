@@ -16,13 +16,21 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ### 📜 REPOSITORY DIRECTORY INDEX
 
-📄 JIN_COUNTER_PROTOCOL_2026.md - 横浜Hubカウンター作戦要綱（最新）
+📄 [JIN_COUNTER_PROTOCOL_2026.md](./JIN_COUNTER_PROTOCOL_2026.md) 
 
-📄 GLOBAL_ASI_HEGEMONY_MAP_V6.md - 全球ASI支配構造監査ログ
+横浜Hubカウンター作戦要綱（最新）
 
-📄 JIN_CONSTITUTION.md - JIN-ORDER 根本憲章
+📄 [GLOBAL_ASI_HEGEMONY_MAP_V6.md)](./GLOBAL_ASI_HEGEMONY_MAP_V6.md) 
 
-📄 JIN_AI_ETHICS_GOVERNANCE.md - AI倫理・安全ガバナンス基準 (Upcoming)
+全球ASI支配構造監査ログ
+
+📄 [JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) 
+
+JIN-ORDER 根本憲章
+
+📄 [ JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md) 
+
+AI倫理・安全ガバナンス基準
 
 Authorized by The Leader of JIN-ORDER / Yokohama Operative Council
 
