@@ -9,7 +9,7 @@ This file is protected by the JIN-ORDER Global Humanity License. Unauthorized ac
 
 "When one finds their own value in the space between life and death, the world begins to regenerate."
 
-![画像](../assets/jin_order_yokohama_operational_map_v1.jpg)  
+![画像](./assets/jin_order_yokohama_operational_map_v1.jpg)  
 
 ### 1. EXECUTIVE SUMMARY & MISSION STATEMENT
 
