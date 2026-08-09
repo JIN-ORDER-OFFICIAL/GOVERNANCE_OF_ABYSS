@@ -4,7 +4,28 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ### 📡 CURRENT SYSTEM LOGS & OPERATIONAL BLUEPRINTS
 
-[NEW / V7] [JIN_COUNTER_PROTOCOL_2026.md](./JIN_COUNTER_PROTOCOL_2026.md)
+### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+
+* 📄 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
+
+  * **STATUS:** ACTIVE DEPLOYMENT / INTEGRITY VERIFICATION
+  
+  * **SUMMARY:** 紛争地・難民キャンプにおけるリアルタイム不可侵検証および自律型人道回廊プロトコル。官僚的・軍事的な阻止行動を暗号化ハッシュとZKPで即時迂回。
+
+* 📄 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md](./JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md)**
+  
+  * **STATUS:** APPLICATION UNDER REVIEW (UN PARTNER PORTAL ID: 95525)[cite: 2]
+  
+  * **SUMMARY:** チャド湖盆地・東部国境に特化した気候適応型・難民自律インフラ実装仕様書。WASH（水・衛生）、スマートマイクログリッド、垂直水耕栽培による「自立を通じた尊厳の回復」を規定。
+
+* 📄 **[JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md](./JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md)**
+  
+  * **STATUS:** OPERATIONAL / WAR CAPITAL DECOUPLING COMPLETE
+  
+  * **SUMMARY:** 多極化時代における分散型資本流出抑止および多通貨人道送金プロトコル。一極集中的な金融制裁から人道資金をデカップリングし、戦争資金の「中和」と現場ハブへの直接流動性を保障。
+
+---
+📄 [JIN_COUNTER_PROTOCOL_2026.md](./JIN_COUNTER_PROTOCOL_2026.md)
 
 * **STATUS: ACTIVE DEPLOYMENT (2026.08 DEPLOYED FROM YOKOHAMA HUB)**
 
