@@ -6,6 +6,12 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
 
+* 📄 **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
+
+  * **STATUS:** ACTIVE DEPLOYMENT / OFFSHORE ANALYSIS COMPLETE
+  * **SUMMARY:** 支配層の最終避難先「ゲレフ・マインドフルネス・シティ（GMC）」とGNHブランド・シールドの完全解剖。Japan Smart Chain（JSC）経由で迂回される1,100兆円超の資産データと量子暗号マイニング・暗号資産金庫の構造を暴き、JIN-OSによるデカップリング処方箋を提示。
+
+
 * 📄 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
 
   * **STATUS:** ACTIVE DEPLOYMENT / INTEGRITY VERIFICATION
