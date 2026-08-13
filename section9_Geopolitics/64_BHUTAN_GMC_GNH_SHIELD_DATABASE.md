@@ -1,5 +1,11 @@
-# 📄 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md
+## ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
 
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
 ## 📍 ARCHIVE INDEX: Target 64 - BHUTAN GMC & THE GNH SHIELD
 
 **[CLASSIFIED INTEL] Gelephu Mindfulness City (GMC) as the Ultimate Offshore Safe Haven & Asset Extraction Destination**
@@ -8,7 +14,7 @@
 
 ---
 
-![画像](./assets/bhutan_gmc_elite_escape_route.jpg)
+![画像](../assets/bhutan_gmc_elite_escape_route.jpg)
 
 ---
 ### 🌐 EXECUTIVE SUMMARY / 概要
