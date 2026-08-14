@@ -6,26 +6,25 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
+# 📄 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md
+
 ## 📍 ARCHIVE INDEX: Target 64 - BHUTAN GMC & THE GNH SHIELD
 
-**[CLASSIFIED INTEL] Gelephu Mindfulness City (GMC) as the Ultimate Offshore Safe Haven & Asset Extraction Destination**
+**[CLASSIFIED INTEL] Gelephu Mindfulness City (GMC) as the Ultimate Offshore Safe Haven, Cross-Border Elite Nexus & Asset Extraction Destination**
 
-**【最高機密情報】ゲレフ・マインドフルネス・シティ（GMC）：支配層の最終避難先（オフショア聖域）と資産吸い上げ構造の解剖**
-
----
+**【最高機密情報】ゲレフ・マインドフルネス・シティ（GMC）：支配層の最終避難先（オフショア聖域）、越境エリート結節点、および資産吸い上げ構造の解剖**
 
 ![画像](../assets/bhutan_gmc_elite_escape_route.jpg)
 
 ---
+
 ### 🌐 EXECUTIVE SUMMARY / 概要
 
 > **English:**
-
-> The "Gelephu Mindfulness City (GMC)" project in Bhutan, operating under the guise of "Gross National Happiness (GNH)" and "Buddhist Mindfulness," constitutes the newly designated offshore safe haven for global elites. As traditional financial secrecy in Switzerland and Western jurisdictions faces systemic vulnerability, GMC leverages Bhutan’s carbon-negative hydropower infrastructure to execute massive sovereign Bitcoin mining and quantum-encrypted digital asset storage. Under the leadership of key actors connected to the Epstein network, Japan Smart Chain (JSC), and the Japanese political establishment, GMC serves as the terminal destination for extracted Japanese national savings and biometric surveillance logs, establishing a dual-tier framework: absolute containment for the public (MIN-GUSA) and absolute anonymity for the ruling class.
+> The "Gelephu Mindfulness City (GMC)" project in Bhutan, operating under the guise of "Gross National Happiness (GNH)" and "Buddhist Mindfulness," constitutes the newly designated offshore safe haven for global elites. As traditional financial secrecy in Switzerland and Western jurisdictions faces systemic vulnerability, GMC leverages Bhutan’s carbon-negative hydropower infrastructure to execute massive sovereign Bitcoin mining and quantum-encrypted digital asset storage. Orchestrated by key actors linked to the Epstein network, Japan Smart Chain (JSC), the Japanese political establishment, and cross-border Asian/British elite alliances, GMC serves as the terminal destination for extracted Japanese national savings and biometric surveillance logs, establishing a dual-tier framework: absolute containment for the public (MIN-GUSA) and absolute anonymity for the ruling class.
 
 > **日本語:**
-
-> ブータン王国の「ゲレフ・マインドフルネス・シティ（GMC）」構想は、「国民総幸福量（GNH）」や「仏教的マインドフルネス」という認知防衛スクリーンの裏で進められる、グローバル支配層の新たな「最終オフショア避難先（デジタル聖域）」である。スイス等の伝統的オフショアや欧米金融圏の透明化が進む中、ブータン豊富な水力発電による大規模な国家ビットコインマイニングと量子暗号化ストレージを活用。エプスタイン・ネットワークやJapan Smart Chain（JSC）、日本政財界の中枢が結託し、日本国民（民草）から吸い上げた1,100兆円超の資産データと生体ログを管理・退避させる「支配層専用の逃げ道」として機能している。
+> ブータン王国の「ゲレフ・マインドフルネス・シティ（GMC）」構想は、「国民総幸福量（GNH）」や「仏教的マインドフルネス」という認知防衛スクリーンの裏で進められる、グローバル支配層の新たな「最終オフショア避難先（デジタル聖域）」である。スイス等の伝統的オフショアや欧米金融圏の透明化が進む中、ブータン豊富な水力発電による大規模な国家ビットコインマイニングと量子暗号化ストレージを活用。エプスタイン・ネットワーク、Japan Smart Chain（JSC）、日本政財界の中枢、そして中英越境エリート同盟が結託し、日本国民（民草）から吸い上げた1,100兆円超の資産データと生体ログを管理・退避させる「支配層専用の逃げ道」として機能している。
 
 ---
 
@@ -50,7 +49,7 @@
   * **1,100 Trillion Yen Extraction:** Directing Japanese citizen savings (MUFG, SMBC, Mizuho, Japan Post Bank) into quantum-encrypted digital ledger formats via non-public blockchain architectures ("Japan Smart Chain").
   * **Shinonomachi Underground Gate:** Syncing Japanese surveillance logs, biometric data, and financial transactions from the "Shinonomachi Underground Server Gate" directly into the GMC offshore processing node.
 * **日本語:**
-  * **1,100兆円個人預金の変換:** 日本のメガバンク・ゆうチョに蓄積された1,100兆円超の個人預金を、非公開ブロックチェーン（Japan Smart Chain）を通じて量子暗号化デジタル台帳へ変換・吸い上げ。
+  * **1,100兆円個人預金の変換:** 日本のメガバンク・ゆうちょに蓄積された1,100兆円超の個人預金を、非公開ブロックチェーン（Japan Smart Chain）を通じて量子暗号化デジタル台帳へ変換・吸い上げ。
   * **信濃町地下ゲート連動:** 「信濃町地下サーバーゲート」で処理された日本人の行動・生体・金融監視ログを、GMCのオフショア処理ノードへダイレクトに同期。
 
 ---
@@ -67,22 +66,37 @@
 
 ---
 
-### 4. THE NETWORK: Elite Escape Route & Master Key Holders
-**【ネットワーク】支配層の避難ルートとマスターキーホルダー**
+### 4. THE NETWORK: Elite Escape Route & Cross-Border Operational Nodes
+**【ネットワーク】支配層の避難ルートと越境オペレーション・ノード群**
 
 * **English:**
-  * **Strategic Key Players:** Interconnecting Japanese political heavyweights, former Digital Agency heads, MIT Media Lab legacy networks, and Davos elites to manage the GMC board and investment development entities (GIDC).
-  * **The Ultimate Dual System:** Enforcing "CAGE" (AI surveillance, CBDC confinement, and social credit scoring) on ordinary citizens (MIN-GUSA) while guaranteeing 100% anonymous, untraceable asset escape routes for ruling elites.
+  * **Master Key Holders & Strategy Command:** Interconnecting Japanese political heavyweights, former Digital Ministers, MIT Media Lab legacy networks, and Davos elites to manage the GMC board and investment development entities (GIDC).
+  * **Daum Kim (Creative & Cognitive Gateway Node):**
+    * Project Director at Henkaku Center (Chiba Institute of Technology) / Creative Content Director of GMC Special Administrative Region.
+    * Fellow of the Hong Kong/China-based think tank "Bai Xian Asia Institute (BXAI)," structurally backed and funded by Aso Cement / Aso Group capital.
+    * Operates as the central conduit bridging East Asian elite education networks, digital branding, and the cognitive narrative shield of GMC.
+  * **Fei-Fei Hu (British-Chinese Capital & Special Zone Node):**
+    * CEO of Clarence Education Asia (CEA Group) / Founder of Rugby School Japan.
+    * Former Assistant to Director of Charities at the Royal Household of the Prince of Wales (King Charles III) and Executive Director of The Prince’s Foundation (China).
+    * Spearheads massive land acquisition and enclave campus developments across Hokkaido (Niseko/Hidaka/Kyowa), serving as the physical real estate and aristocratic education blueprint for GMC’s autonomous enclave.
 * **日本語:**
-  * **核心的関係者:** 日本の主要政治家、旧デジタル庁関係者、MITメディアラボ旧人脈（エプスタイン資金流用者）、ダボス会議エリートが結託し、GMC理事会および投資開発公社（GIDC）を統括。
-  * **完全なる二重構造:** 一般民草に対しては「CAGE（AI監視・CBDC閉じ込め・信用スコア）」を強制する一方、支配層には100%匿名かつ追跡不可能な資産逃避ルート（GMC）を保証。
+  * **マスターキーホルダーと戦略指令網:** 日本の主要政治家、旧デジタル大臣、MITメディアラボ旧人脈（エプスタイン資金流用層）、ダボス会議エリートが結託し、GMC理事会および投資開発公社（GIDC）を統括。
+  * **キム・ダウミ（認知・コンテンツ統括ノード）:**
+    * 千葉工業大学変革センター（Henkaku Center）プロジェクトディレクター兼GMC特別行政区クリエイティブコンテンツディレクター。
+    * 麻生セメント（麻生グループ資本）が深く資金支援を行う中国・香港の教育シンクタンク「百賢亜州研究院（BXAI）」修了生。
+    * 東アジアのエリート育成ネットワークとブータンGMCのデジタルブランディング・認知シールドを直結させる中継ノードとして機能。
+  * **フェイ・フェイ・フー（英中資本・特区開発ノード）:**
+    * Clarence Education Asia（CEA Group）代表兼ラグビー・スクール・ジャパン創設者。
+    * 英国王室（現チャールズ国王）の慈善事業補佐官および皇太子財団（中国）事務局長を歴任した英中実業家。
+    * 北海道（ニセコ・日高・共和町）での広大な水源地・土地開発と富裕層向け全寮制教育を展開し、GMCにおける「貴族特区・治外法権コミュニティ」の物理モデルを構築。
 
 ---
-
 ## 🖼️ SYSTEM INFOGRAPHIC / システム構造相関図
-### BHUTAN: THE LAST SECURE DESTINATION (GMC DATABASE)
+
+BHUTAN: THE LAST SECURE DESTINATION (GMC DATABASE)
 
 [ THE FACADE ]                                          [ THE NEW CORE ]
+
 GNH Brand Shield: 'Mindfulness' Screen                  Gelephu Mindfulness City (GMC) Quantum Core
 
 Buddhist Heritage & Pristine Nature                   - Hydro-Powered Bitcoin Mining (10,000+ BTC)
@@ -91,30 +105,35 @@ Regulatory Insulation / SAR Status                    - Quantum Encryption Safe 
 │                                                        ▲
 │ (Cognitive Screen)                                     │ (Encrypted Data & Value Flow)
 ▼                                                        │
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                              BHUTAN GMC SPECIAL ADMINISTRATIVE REGION                          │
+│                                                                                                 │
+│  [ OPERATIONAL CONDUITS ]                                                                       │
+│  ├─ Daum Kim (GMC Content Director / Henkaku Center / BXAI - Aso Cement Capital Link)          │
+│  └─ Fei-Fei Hu (CEA Group / British Royal Nexus / Hokkaido Niseko Enclave Prototype)            │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
 ▲                                                        ▲
-│ (Backdoor Tunnel)                                      │ (Offshore Transfer)
+│ (Backdoor Tunnel)                                      │ (Offshore Transfer & Real Estate)
 │                                                        │
 [ THE HARVESTING ]                                      [ THE NETWORK ]
 Japan Smart Chain (JSC) Protocol                        Master Key Holders & Elite Nexus
 
-1,100 Trillion Yen Savings Extraction                  - Political Elite / Former Digital Ministers
+1,100 Trillion Yen Savings Extraction                  - Political Elite (Aso / Kishida / Kono)
 
 Shinonomachi Underground Gate Node                    - MIT Media Lab / Epstein-Linked Entities
 
-Citizen Biometric & Financial Confinement (CAGE)      - Swiss-UBS Private Banking Redirection
+Citizen Biometric & Financial Confinement (CAGE)      - Swiss-UBS Private Banking & CEA Enclaves
 
 ---
-
 ## 🛡️ JIN-OS DECOUPLING PROTOCOL / JIN-OSによる無効化処方箋
 
 > **English:**
-> 1. **Cognitive Liberation:** Expose the "Mindfulness/GNH" narrative screen to awaken the public (MIN-GUSA) from regulatory deception.
+> 1. **Cognitive Liberation:** Expose the "Mindfulness/GNH" narrative screen and elite education conduits (Henkaku/BXAI/CEA) to awaken the public (MIN-GUSA) from regulatory deception.
 > 2. **Financial Sovereignty:** Transition local value streams from centralized BOJ Digital OS/JSC backdoors into P2P Biomass Economy Layers and decentralized Gold-backed physical nodes (GOLDEN DOME).
 > 3. **Data Shielding:** Activate the 432Hz Protection Shield & Anti-AI Profiling Filters to sever real-time biometric synchronization with the Shinonomachi-Bhutan server pipeline.
 
 > **日本語:**
-> 1. **認知の解放:** 「マインドフルネス／GNH」の物語的スクリーンを解剖し、民草を「安全な聖域」という幻想から目覚めさせる。
+> 1. **認知の解放:** 「マインドフルネス／GNH」の物語的スクリーンおよび特権エリート教育・開発ノード（変革センター／百賢亜州／CEA）の実態を暴き、民草を「安全な聖域」という幻想から目覚めさせる。
 > 2. **金融主権の奪還:** 日銀デジタルOS／JSCのバックドアからローカルな価値流通を切り離し、P2Pバイオマス経済層および自律分散型コモディティノード（GOLDEN DOME）へ移行する。
 > 3. **データ遮断:** 432Hzプロテクションシールドおよび対AIプロファイリングフィルターを起動し、信濃町—ブータン間の生体・資産データ同期パイプラインを物理的・論理的に切断する。
 
