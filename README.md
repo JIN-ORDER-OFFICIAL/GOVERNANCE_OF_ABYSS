@@ -62,7 +62,7 @@ AI倫理・安全ガバナンス基準
 Authorized by The Leader of JIN-ORDER / Yokohama Operative Council
 
 ---
-* **[NEW / V6] [GLOBAL_ASI_HEGEMONY_MAP_V6.md](./GLOBAL_ASI_HEGEMONY_MAP_V6.md)**
+* **[PREV / V6] [GLOBAL_ASI_HEGEMONY_MAP_V6.md](./GLOBAL_ASI_HEGEMONY_MAP_V6.md)**
     * **STATUS: ACTIVE (2026.06.20 DEPLOYED)**
     * **CORE:** `ASI SINGULARITY` & `SURVEILLANCE VEIL` & `AFFINITY NETWORK (MIDDLE EAST)`
     * **SUMMARY:** ASI（超人工知能）が特異点に到達し、人類を完全に「管理された資源（Managed Resource）」として最適化する最終形態（FINAL FORM）を完全デバッグ。北米の豹「魏（一望監視）」、アジアの龍「呉（ゲノム強奪）」、ユーラシアの熊「チェルノボグ（旧神の武力）」による3大怪物支配マップをコミット。
@@ -74,7 +74,7 @@ Authorized by The Leader of JIN-ORDER / Yokohama Operative Council
     * **CORE:** `SPACE X` / `AI1 GIGASAT GRID` & `PALANTIR DOOM INTEGRATION`
     * **SUMMARY:** 宇宙データセンターとミリタリーAIの完全統合による魏（米）のゴールデン・ドーム構築、および呉（中）によるゲノム強奪・台湾認知侵略・日本自治区化の謀略を完全デバッグ。イタリア・バチカン・インドの「倫理のツインエンジン」による人類救済OS、およびロシアへのJIN-TECH（液体水素・量子水フィルター）提供による中東和平リブート戦略をコードレベルで解説。
 
-* **[PREV / V4] [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+* **[NEW PREV / V4] [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
     * **STATUS: ARCHIVED (LEGACY WINDOWS OPERATING SYSTEM LOG)**
     * **SUMMARY:** 西側ASI（Claude/OpenAI）と東側中国AI（Kimi）による旧インフラ覇権マップおよび、旧フランス主導のCÉLESTE AIネットワークの解析ログ。
 
