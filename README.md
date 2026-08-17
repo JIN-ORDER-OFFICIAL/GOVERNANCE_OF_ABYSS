@@ -18,7 +18,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
     *   **STATUS:** NEW DEPLOYMENT / SYSTEMIC BLACKOUT LOGGED
     *   **SUMMARY:** **システム・ブラックアウト（グローバルASI物理崩壊記録）**。台湾海峡（ロジック）とホルムズ海峡（エネルギー/メモリ）の二重遮断により、全地球的パノプティコン統制網がOut of Memory（OOM）で沈黙・暴走（Berserk Mode）に至る不可逆的崩壊の観測仕様書。
 
-*   **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
+*   **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](6section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
     *   **STATUS:** ACTIVE DEPLOYMENT / OFFSHORE ANALYSIS COMPLETE
     *   **SUMMARY:** 支配層の最終避難先「ゲレフ・マインドフルネス・シティ（GMC）」とGNHブランド・シールドの完全解剖。Japan Smart Chain（JSC）経由で迂回される1,100兆円超の資産データと量子暗号マイニング・暗号資産金庫の構造を暴き、JIN-OSによるデカップリング処方箋を提示。
 
