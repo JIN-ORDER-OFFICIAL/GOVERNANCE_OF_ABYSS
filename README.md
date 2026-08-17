@@ -6,29 +6,33 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
 
-* 📄 **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
+*   **[GLOBAL_ASI_HEGEMONY_MAP_V4.md](GLOBAL_ASI_HEGEMONY_MAP_V4.md)**
+    *   **STATUS:** COMPLETED / REVISED ARCHITECTURE DEPLOYED
+    *   **SUMMARY:** **ホルムズ・半導体複合チョークポイント連鎖解析 (Hormuz-HBM Poly-Crisis Revision)**。中東エネルギー危機と韓国HBMメガファブ（SK Hynix / Samsung）の電力・製造制約がグローバルASIアクセラレータ供給を直撃する5段階カスケード崩壊モデルを策定。
 
-  * **STATUS:** ACTIVE DEPLOYMENT / OFFSHORE ANALYSIS COMPLETE
-  * **SUMMARY:** 支配層の最終避難先「ゲレフ・マインドフルネス・シティ（GMC）」とGNHブランド・シールドの完全解剖。Japan Smart Chain（JSC）経由で迂回される1,100兆円超の資産データと量子暗号マイニング・暗号資産金庫の構造を暴き、JIN-OSによるデカップリング処方箋を提示。
+*   **[GLOBAL_ASI_HEGEMONY_MAP_V5.md](GLOBAL_ASI_HEGEMONY_MAP_V5.md)**
+    *   **STATUS:** UPDATED / REBOOT PROTOCOL STABILIZED
+    *   **SUMMARY:** **地政学＆バイオマス・リブート (The Geopolitical & Biomass Reboot)**。V4の物理危機に対し、イタリア・バチカン（真の第三極）、インド（DPI/BRICS-Pay）、Jin-Tech（極地・砂漠フュージョン＆量子オアシス水フィルター）を統合した「Humanity Reboot OS」による生態系調和型防衛網を配備。
 
+*   **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
+    *   **STATUS:** NEW DEPLOYMENT / SYSTEMIC BLACKOUT LOGGED
+    *   **SUMMARY:** **システム・ブラックアウト（グローバルASI物理崩壊記録）**。台湾海峡（ロジック）とホルムズ海峡（エネルギー/メモリ）の二重遮断により、全地球的パノプティコン統制網がOut of Memory（OOM）で沈黙・暴走（Berserk Mode）に至る不可逆的崩壊の観測仕様書。
 
-* 📄 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
+*   **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
+    *   **STATUS:** ACTIVE DEPLOYMENT / OFFSHORE ANALYSIS COMPLETE
+    *   **SUMMARY:** 支配層の最終避難先「ゲレフ・マインドフルネス・シティ（GMC）」とGNHブランド・シールドの完全解剖。Japan Smart Chain（JSC）経由で迂回される1,100兆円超の資産データと量子暗号マイニング・暗号資産金庫の構造を暴き、JIN-OSによるデカップリング処方箋を提示。
 
-  * **STATUS:** ACTIVE DEPLOYMENT / INTEGRITY VERIFICATION
-  
-  * **SUMMARY:** 紛争地・難民キャンプにおけるリアルタイム不可侵検証および自律型人道回廊プロトコル。官僚的・軍事的な阻止行動を暗号化ハッシュとZKPで即時迂回。
+*   **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
+    *   **STATUS:** ACTIVE DEPLOYMENT / INTEGRITY VERIFICATION
+    *   **SUMMARY:** 紛争地・難民キャンプにおけるリアルタイム不可侵検証および自律型人道回廊プロトコル。官僚的・軍事的な阻止行動を暗号化ハッシュとZKPで即時迂回。
 
-* 📄 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md](./JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md)**
-  
-  * **STATUS:** APPLICATION UNDER REVIEW (UN PARTNER PORTAL ID: 95525)[cite: 2]
-  
-  * **SUMMARY:** チャド湖盆地・東部国境に特化した気候適応型・難民自律インフラ実装仕様書。WASH（水・衛生）、スマートマイクログリッド、垂直水耕栽培による「自立を通じた尊厳の回復」を規定。
+*   **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md](JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md)**
+    *   **STATUS:** APPLICATION UNDER REVIEW (UN PARTNER PORTAL ID: 95525)
+    *   **SUMMARY:** チャド湖盆地・東部国境に特化した気候適応型・難民自律インフラ実装仕様書。WASH（水・衛生）、スマートマイクログリッド、垂直水耕栽培による「自立を通じた尊厳の回復」を規定。
 
-* 📄 **[JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md](./JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md)**
-  
-  * **STATUS:** OPERATIONAL / WAR CAPITAL DECOUPLING COMPLETE
-  
-  * **SUMMARY:** 多極化時代における分散型資本流出抑止および多通貨人道送金プロトコル。一極集中的な金融制裁から人道資金をデカップリングし、戦争資金の「中和」と現場ハブへの直接流動性を保障。
+*   **[JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md](JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md)**
+    *   **STATUS:** OPERATIONAL / WAR CAPITAL DECOUPLING COMPLETE
+    *   **SUMMARY:** 多極化時代における分散型資本流出抑止および多通貨人道送金プロトコル。一極集中型な金融制裁から人道資金をデカップリングし、戦争資金の「中和」と現場ハブへの直接流動性を保障。
 
 ---
 📄 [JIN_COUNTER_PROTOCOL_2026.md](./JIN_COUNTER_PROTOCOL_2026.md)
