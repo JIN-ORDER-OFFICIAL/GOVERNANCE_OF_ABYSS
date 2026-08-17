@@ -4,6 +4,52 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
+## [ADDENDUM 2026.08] 
+## ホルムズ・半導体複合チョークポイント連鎖解析 (Hormuz-HBM Poly-Crisis Cascade)
+
+![画像](./assets/INTELLIGENCE_RECON_DIAGRAM_V4_2.jpg)
+
+---
+### 1. 複合危機連鎖モデル (Cascade Failure Architecture)
+
+### [Level 1: 物理・地政学リスク]
+### ホルムズ海峡航行制限・通航麻痺 (中東原油・LNG供給の途絶懸念)
+
+### [Level 2: 電力・産業基盤ショック]
+### 韓国エネルギー輸入の逼迫 ＆ 電力コスト急騰 (平沢・龍仁・利川メガクラスターへの電力供給リスク)
+
+### [Level 3: 先端半導体ボトルネック]
+### Samsung / SK Hynix の HBM3E / HBM4 パッケージング工程停滞
+### (TSV貫通電極・高精度CMP工程のクリーンルーム維持エネルギー制約)
+
+### [Level 4: グローバルASIインフラ危機]
+### NVIDIA / フロンティアAI各社へのアクセラレータ供給遅延
+
+### [Level 5: 推論・学習コスト爆縮]
+### コンピュート価格高騰 ＆ 資本力によるハイパースケーラー寡占の固定化
+
+---
+### 2. データマッピング追記項目
+
+| レイヤー | 観測指標 / 脆弱性ノード | 影響度 (1-5) | 構造的帰結 (Structural Consequence) |
+| :--- | :--- | :---: | :--- |
+| **Energy Security** | 韓国LNG・原油依存度 (中東依存度 70%超) | **5 (Critical)** | 産業用電力レートの急激なボラティリティ上昇。メガファブの安定稼働マージンが圧縮。 |
+| **Component SPOF** | 世界HBM供給シェア (SK Hynix + Samsung > 90%) | **5 (Critical)** | 代替不可能な単一障害点（SPOF）。わずか数％の減産・遅延が世界のフロンティアモデル展開スケジュールを直撃。 |
+| **Geopolitical Fracture** | 対中半導体迂回網 vs 米国規制の摩擦激化 | **4 (High)** | 資源制約下において、グレーマーケットを通じたHBM・先端チップの密輸・迂回調達プレミアムが跳ね上がる。 |
+| **ASI Hegemony Shift** | 自前電源（原子力・再エネ直結）を保有する国家・特区へのシフト | **4 (High)** | ブータンGMCなどの「エネルギー自給型・非同盟計算特区」への資本逃避・分散投資インセンティブが急上昇。 |
+
+---
+### 3. リスクシナリオ分岐 (Scenario Matrix)
+
+#### シナリオ A: クリティカル・ボトルネック固定化 (Chokehold Prolonged)
+* **条件:** ホルムズ海峡の封鎖・緊張が半年以上長期化。
+* **影響:** HBM4の量産スケジュールが数四半期遅延。推論APIの価格競争が強制終了し、既存の計算資源を大量保有するビッグテック数社のみがモデル運用を独占。
+
+#### シナリオ B: 計算特区分散・ヘッジモデルへの移行 (Compute Diversification)
+* **条件:** 主要半導体ファウンドリ・データセンターが中東化石燃料依存から脱却を模索。
+* **影響:** 北欧・カナダの水力地域や、ブータン（GMC/GNH）のような地政学的に中立かつ豊富な再生可能エネルギーを持つ特区へのパッケージング・DC機能の分散が加速。
+
+---
 # GLOBAL ASI HEGEMONY MAP V4 (INTELLIGENCE AUDIT LOG)
 ## 全球超人工知能覇権マップ V4 (インテリジェンス監査ログ)
 
