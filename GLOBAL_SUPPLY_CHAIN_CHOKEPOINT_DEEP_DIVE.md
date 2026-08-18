@@ -6,8 +6,8 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
-# 【JIN-PROTOCOL】グローバル半導体・特殊素材チョークポイント連鎖解析
-## 〜 ホルムズ封鎖と上流素材（ヘリウム・T-Glass・ABFフィルム）途絶によるメガファブ連鎖停止モデル 〜
+## 【JIN-PROTOCOL】グローバル半導体・特殊素材チョークポイント連鎖解析
+### 〜 ホルムズ封鎖と上流素材（ヘリウム・T-Glass・ABFフィルム）途絶によるメガファブ連鎖停止モデル 〜
 
 ---
 ## 1. 概要：第2次チョークポイント危機の構造
