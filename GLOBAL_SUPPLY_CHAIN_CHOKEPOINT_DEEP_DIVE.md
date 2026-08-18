@@ -9,7 +9,7 @@
 ## 【JIN-PROTOCOL】グローバル半導体・特殊素材チョークポイント連鎖解析
 ### 〜 ホルムズ封鎖と上流素材（ヘリウム・T-Glass・ABFフィルム）途絶によるメガファブ連鎖停止モデル 〜
 
-![画像](.assets/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.jpg)
+![画像](./assets/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.jpg)
 
 ---
 ## 1. 概要：第2次チョークポイント危機の構造
