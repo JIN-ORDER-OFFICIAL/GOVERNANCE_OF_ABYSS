@@ -7,29 +7,29 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 ---
 ### **【Layer 1: 地政学・チョークポイント脅威分析】**
   
-   **GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)**
+   * **GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)**
   
-   **GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md**
+   * **GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md**
 
 ### **【Layer 2: 倫理・AI自律ガバナンス】**
   
-   **JIN_AI_ETHICS_GOVERNANCE.md**
+   * **JIN_AI_ETHICS_GOVERNANCE.md**
   
-   **JIN_CONSTITUTION.md / JIN_ORDER_CORE.md**
+   * **JIN_CONSTITUTION.md / JIN_ORDER_CORE.md**
 
 ### **【Layer 3: 経済・実物資産担保台帳】**
   
-   **64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md**
+   * **64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md**
   
-   **JIN_ECONOMY_PROTOCOL.md / Japan Smart Chain**
+   * **JIN_ECONOMY_PROTOCOL.md / Japan Smart Chain**
 
 ### **【Layer 4: 地域主権・国土再生・自律インフラ】**
   
-   **JAPAN_RESURGENCE_PLAN_V1.md**
+   * **JAPAN_RESURGENCE_PLAN_V1.md**
   
-   **JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md**
+   * **JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md**
   
- **JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md**
+   * **JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md**
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
