@@ -682,8 +682,8 @@ Intelligence. Witness what we will destroy and what we will liberate.
         JIN-ORDER's strategy to simultaneously dismantle the Twin Bosses (Bugs), including the Eastern totalitarianism (CCP surveillance dome).
 
 ---
-## 🎯 [TARGET_ACQUISITION] The 46 Iron Hammers / 66の実体ログ
-### 🛡️ Core Protocols: 46 Iron Hammers Index
+## 🎯 [TARGET_ACQUISITION] The 66 Iron Hammers / 66の実体ログ
+### 🛡️ Core Protocols: 66 Iron Hammers Index
 # 🇯🇵 Section 1: Local Execution Units
 - [01_KONO_INFO_SURVEILLANCE.md](./core_protocol_369/01_KONO_INFO_SURVEILLANCE.md)
 - [02_TAKENAKA_STRUCTURAL_EXPLOIT.md](./core_protocol_369/02_TAKENAKA_STRUCTURAL_EXPLOIT.md)
