@@ -34,6 +34,10 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
 
+* **[Level 1: level_1 / 01_TOKYO_BHUTAN_AXIS.md](./level_1/01_TOKYO_BHUTAN_AXIS.md)**
+  * **STATUS**: COMPLETED / DUAL-STRUCTURE DEPLOYED
+  * **SUMMARY**: 統御中枢と二重構造の構図（Tokyo-Bhutan Axis）。表舞台での「半導体物理国際会議（ICPS2026）」による国家の科学技術プロテクトと、裏舞台でのブータンGMCを活用したエリート層の資産逃避・エグジット計画の相関関係を実証。
+
 * **[Level 4: 04_Physical_Layer / 04_HIRAI_TAKUYA.md](./04_Physical_Layer/04_HIRAI_TAKUYA.md)**
   * **STATUS**: COMPLETED / PHYSICAL GRID DEPLOYED
   * **SUMMARY**: 日本列島・物理インフラ＆デュアルユースネットワーク（ASIチョークポイント・グリッド）。北海道のグリーンエネルギー、秋田の巨大AIハブ（UAE資本提携）、熊本の半導体コア、そして東京を結ぶ配線網を解析。国家のインフラ全体がグローバル管理OSへ直結する「物理的配線工事」の全貌を実証。
@@ -566,9 +570,10 @@ https://github.com/user-attachments/assets/f7451360-31b8-422a-ab7d-429de0c6222f
 ---
 ### 👁️ 解析ディレクトリ（深淵の構造）
 1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/ISRAEL_CORE.md)**
-    * ![オランダの残響と出島のバックドア](./level_1/01_DUTCH_BACKDOOR_ORIGIN.md) 
-    
-    * 400年前の「出島」から始まった日本管理。オラニエ家による独占的アクセス権と「蘭学パッチ」による初期OSハックの全貌。 
+   * オランダの残響と出島のバックドア
+     * 400年前の「出島」から始まった日本管理。オラニエ家による独占的アクセス権と「蘭学パッチ」による初期OSハックの全貌。
+   * **[01_TOKYO_BHUTAN_AXIS.md](./level_1/01_TOKYO_BHUTAN_AXIS.md)**
+     * **統御中枢と二重構造の構図（Tokyo-Bhutan Axis）**：半導体物理国際会議（ICPS2026）の表看板と、ブータンGMCを舞台にしたエリートの資産逃避・エグジット計画の全貌を暴く。 
     
 2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md)**
     * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
