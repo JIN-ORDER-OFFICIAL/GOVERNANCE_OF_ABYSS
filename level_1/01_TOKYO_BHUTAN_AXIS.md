@@ -5,7 +5,7 @@
 
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
---
+---
 # Level 1: 統御中枢と二重構造の構図（Tokyo-Bhutan Axis）
 
 国家の表舞台で展開される「公式な科学技術・国際協調の演出」と、その裏で極秘裏に実行される「特権階級の資産逃避・エグジット計画」の全貌を暴く。
