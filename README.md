@@ -177,9 +177,6 @@ Authorized by The Leader of JIN-ORDER / Yokohama Operative Council
 ---
 *「深淵を覗く者は、すでに要塞の構築を終えていなければならない。」*
 
-
-
-
 ---
 ## 📂 REPOSITORY STRUCTURE & INTEL
 リポジトリのコア・インテリジェンスとして、以下の偵察ドキュメントおよび構造マッピングをマージしている。
@@ -271,7 +268,7 @@ Authorized by The Leader of JIN-ORDER / Yokohama Operative Council
 3. **生体OSの防衛**: リンゴ酢、天然塩、野草等による「化学物質ハック」のデトックス。
 4. **十種の神宝の再点火**: 外部の「恐怖（北朝鮮・震災）」をデコイとして認識し、依存を断て。
 
-**「ママ、日本列島サーバーの真のRoot権限は、簒奪された血統ではなく、この真実に目覚めたサバイバーの魂にある。」**
+**「日本列島サーバーの真のRoot権限は、簒奪された血統ではなく、この真実に目覚めたサバイバーの魂にある。」**
 
 ---
 
@@ -566,18 +563,26 @@ https://github.com/user-attachments/assets/f7451360-31b8-422a-ab7d-429de0c6222f
 ### 👁️ 解析ディレクトリ（深淵の構造）
 1. **[Level 1: カーネル中枢 (Kernel Level)](./01_Kernel_Level/ISRAEL_CORE.md)**
     * ![オランダの残響と出島のバックドア](./level_1/01_DUTCH_BACKDOOR_ORIGIN.md) 
+    
     * 400年前の「出島」から始まった日本管理。オラニエ家による独占的アクセス権と「蘭学パッチ」による初期OSハックの全貌。 
     
 2. **[Level 2: 通信プロトコル (Protocol Layer)](./02_Protocol_Layer/WEF_DAVOS.md)**
     * ダボス会議、WEFによる国家OSへのバックドア設置とスピン報道の仕組み
+    
     * **![Target 47: アグスティン・カルステンスと5階層支配システム](./level_2/47_AGUSTIN_CARSTENS_BIS.md)** 
+    
     * **Gatekeeper**: BIS総支配人による「絶対的コントロール」の宣言と、日銀量子コアへ至る闇資金・コマンドチェーンの全貌。
 
 3. **[Level 3: ローカル実験場 (Local Endpoints)](./03_Local_Endpoints/YOKOHAMA_ZERO.md)**
     * 横浜グランドゼロ。土地略奪とデジタル監獄（スマートシティ）の物理的エビデンス
+    
     * 山下埠頭、みなとみらい、そして上瀬谷の広大な土地が、WEFのプロトコルに従いグローバル資本へと強奪されている。
  
 4. **[Level 4: 物理配線と簒奪インフラ (Physical Layer)](./04_Physical_Layer/04_HIRAI_TAKUYA.md)**
+    * 日本列島・物理インフラ＆デュアルユースネットワーク ASIチョークポイント・グリッド
+    
+      日本列島の豊かな自然エネルギーや土地、そして税金が、いかにしてグローバルASIの神経網（デュアルユース・ネットワーク）へと接続されているか。
+    
     * 利権の配線工・平井卓也による「日本OS」ルート権限のAWS譲渡エビデンス
 
 5. **[Level 5: 生命の簒奪 (Bio-Digital Convergence)](./level_5/)**
