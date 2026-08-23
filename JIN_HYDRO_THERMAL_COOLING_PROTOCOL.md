@@ -1,3 +1,12 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
 # 【JIN-PROTOCOL】自律型水利熱交換・完全自然冷却プロトコル (JIN-HYDRO-THERMAL PROTOCOL)
 ### 〜 農業水路網と量子浄化水系を活用した「電力消費ゼロ」の分散型AIノード熱管理基盤 〜
 
