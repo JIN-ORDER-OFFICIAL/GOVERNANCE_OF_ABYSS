@@ -10,7 +10,7 @@
 
 国家の表舞台で展開される「公式な科学技術・国際協調の演出」と、その裏で極秘裏に実行される「特権階級の資産逃避・エグジット計画」の全貌を暴く。
 
-![The Dual-Use Grid: Tokyo-Bhutan Axis & Elite Escape Route](./assets/01_TOKYO_BHUTAN_AXIS.jpg)
+![The Dual-Use Grid: Tokyo-Bhutan Axis & Elite Escape Route](../assets/01_TOKYO_BHUTAN_AXIS.jpg)
 
 ## 1. フロント（表舞台）：アカデミック・ロイヤル・プロジェクション
 - **半導体物理国際会議（ICPS2026）**: 東京で開催される世界最大規模の半導体物性・基礎科学の国際サミット。
