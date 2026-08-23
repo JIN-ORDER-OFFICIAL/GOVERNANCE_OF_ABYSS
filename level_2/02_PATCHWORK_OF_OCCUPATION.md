@@ -10,7 +10,7 @@
 
 日本国内のインフラ・特区・資金フローが、単一の統治ではなく、地域ごとに異なる外部勢力（チャイナマネー、中東ファンド、西側テック連合）に切り分けられ、さらにエリート層のエグジットルートへ直結している実態を暴く。
 
-![The Patchwork of Occupation: Updated Strategic Zones & Dual-Power Alignments](./assets/02_PATCHWORK_OF_OCCUPATION.jpg)
+![The Patchwork of Occupation: Updated Strategic Zones & Dual-Power Alignments](../assets/02_PATCHWORK_OF_OCCUPATION.jpg)
 
 ## 1. 大阪・関西軸（Osaka-Kansai Axis）
 - **構成**: 大阪都構想・副首都構想の推進と、裏で影響力を持つ竹中平蔵氏のネットワーク。
