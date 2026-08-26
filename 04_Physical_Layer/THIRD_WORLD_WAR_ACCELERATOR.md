@@ -1,8 +1,18 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
 # THIRD WORLD WAR ACCELERATOR: ダイナログ・ネットワークとデュアルユース配線の全貌
 
-ピーター・ティール周辺の「ダーク・エンライトメント（新反動主義 / ダイナログ）」が描く国家主権の解体ビジョンと、ウクライナ戦線における自律型AIドローンの実戦投入。表向きの経済安全保障（熊本TSMC等のデュアルユース技術）の裏で進行する、第三次世界大戦の意図的な火種拡大とグローバル管理OSの全貌をここに解剖する。
+ピーター・ティール周辺の「ダーク・エンライトメント（新反動主義 / ダイナログ）」が描く国家主権の解体ビジョンと、ウクライナ戦線における自律型AIドローンの実戦投入。
 
-![グローバル・インテリジェンス司令室コンソール](./assets/THIRD_WORLD_WAR_ACCELERATOR.jpg)
+表向きの経済安全保障（熊本TSMC等のデュアルユース技術）の裏で進行する、第三次世界大戦の意図的な火種拡大とグローバル管理OSの全貌をここに解剖する。
+
+![グローバル・インテリジェンス司令室コンソール](../assets/THIRD_WORLD_WAR_ACCELERATOR.jpg)
 
 ## 1. ダイナログ（Dark Enlightenment）と「戦争のビジネス化」
 - **国家主権の迂回とパッチワーク統治**: 民主主義を「非効率なシステム」とみなすシリコンバレーのテック・エリート層が、グローバルな危機（第三次世界大戦の足音）を意図的に演出・加速させるスキーム。
