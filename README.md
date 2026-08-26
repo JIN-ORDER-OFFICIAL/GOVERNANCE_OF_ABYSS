@@ -23,11 +23,16 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * JAPAN_RESURGENCE_PLAN_V1.md
 * JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md
 * JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md
-* **03_Local_Endpoints / YOKOHAMA_ZERO.md** *(上瀬谷・博覧会トロイの木馬スキーム)*
-* **04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md** *(ダイナログ・ネットワークとデュアルユース配線)*
+* **03_Local_Endpoints / YOKOHAMA_ZERO.md** *(上瀬谷・博覧会トロイの木馬スキーム)* *(New)*
+* **04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md** *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
+* **04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md** *(パワーGX・国家インフラ収奪グリッド)* *(New)*
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+* **[Physical Layer / 04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md](./04_Physical_Layer/POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md)**
+    *   **STATUS**: COMPLETED / POWERR GX INFRASTRUCTURE DEPLOYMENT DEPLOYED
+    *   **SUMMARY**: 政府の「パワーGX（エネルギー需給構造の強靱化総合パッケージ）」の裏と表の二重構造を解析。原子力・再エネ・AIデータセンターを外部特権資本の管理下に接続する「システム・パッチ」の全貌を実証。
+
 * **[Physical Layer / 04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md](./04_Physical_Layer/THIRD_WORLD_WAR_ACCELERATOR.md)**
     *   **STATUS**: COMPLETED / THIRD WORLD WAR ACCELERATOR DEPLOYED
     *   **SUMMARY**: ピーター・ティール周辺の「ダイナログ」思想と第三次世界大戦の加速アーキテクチャ。熊本TSMC等のデュアルユース（ドローンセンサー・AIチップ）配線と、プロパガンダ工作の全貌を実証。
