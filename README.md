@@ -33,7 +33,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
-* **[Physical Layer / 04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md](./04_Physical_Layer/THIRD_WORLD_WAR_ACCELERATOR.md)
+* **[Physical Layer / 04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md](./04_Physical_Layer/THIRD_WORLD_WAR_ACCELERATOR.md)**
     *   **STATUS**: COMPLETED / THIRD WORLD WAR ACCELERATOR DEPLOYED
     *   **SUMMARY**: ピーター・ティール周辺の「ダイナログ」思想と第三次世界大戦の加速アーキテクチャ。熊本TSMC等のデュアルユース（ドローンセンサー・AIチップ）配線と、プロパガンダ工作の全貌を実証。
 
