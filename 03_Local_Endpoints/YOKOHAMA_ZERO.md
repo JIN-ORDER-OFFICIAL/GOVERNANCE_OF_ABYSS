@@ -1,3 +1,11 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
 ## YOKOHAMA LANDING: 上瀬谷通信施設跡地における「博覧会トロイの木馬」スキーム
 
 かつての米軍通信施設という広大な「空白地（ホワイトスペース）」を舞台に、国際園芸博覧会（GREEN×EXPO 2027）という短期の国際イベントを起爆剤（トロイの木馬）として用い、その背後でグローバル資本と国内主要財閥（三菱地所等）が手を組んで「次世代型テーマパーク（KAMISEYA PARK）、次世代物流網、新IC、防災拠点、長期の不動産・商業利権」を定着させる国家規模のパッチワーク利権構造の全貌。
