@@ -36,7 +36,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 * **[Physical Layer / 04_Physical_Layer / FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md](04_Physical_Layer/FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md)**
     *   **STATUS**: COMPLETED / FIT RENEWABLE ENERGY SURCHARGE DEPLOYED
-    *   **SUMMARY**: FIT制度の権利ビジネス、上海電力日本のインフラ浸透、ソフトバンクのイグジット、そして累計25兆円を超える再エネ賦課金の収奪構造を実証[cite: 2]。
+    *   **SUMMARY**: FIT制度の権利ビジネス、上海電力日本のインフラ浸透、ソフトバンクのイグジット、そして累計25兆円を超える再エネ賦課金の収奪構造を実証。
 
 * **[Physical Layer / 04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md](./04_Physical_Layer/POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md)**
     *   **STATUS**: COMPLETED / POWERR GX INFRASTRUCTURE DEPLOYMENT DEPLOYED
