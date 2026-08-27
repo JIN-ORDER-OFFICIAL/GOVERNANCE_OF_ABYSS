@@ -28,8 +28,14 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * THIRD_WORLD_WAR_ACCELERATOR.md *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
 * POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md *(パワーGX・国家インフラ収奪グリッド)* *(New)*
 * FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md *(FIT制度の権利ビジネス、上海電力日本のインフラ浸透)* *(New)*
+* KIOXIA_SANDISK_5TRILLION_DEPLOYMENT.md *(キオクシア・サンディスク5兆円投資・半導체レイヤー)* (New)
+
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+* **[Physical Layer / 04_Physical_Layer / KIOXIA_SANDISK_5TRILLION_DEPLOYMENT.md](04_Physical_Layer/KIOXIA_SANDISK_5TRILLION_DEPLOYMENT.md)**
+    *   **STATUS**: COMPLETED / KIOXIA & SANDISK 5 TRILLION DEPLOYMENT DEPLOYED
+    *   **SUMMARY**: キオクシアとサンディスクによる総額5兆円規模の国内投資（四日市・北上工場）を高市首相へ報告した動向を解析。政府支援を前提とした半導体・経済安保レイヤーの裏面配線を実証。
+
 * **[Protocol Layer / 02_Protocol_Layer / MASAYOSHI_SON_STARGATE_DECEPTION.md](02_Protocol_Layer/MASAYOSHI_SON_STARGATE_DECEPTION.md)**
     *   **STATUS**: COMPLETED / MASAYOSHI SON DEPLOYMENT DEPLOYED
     *   **SUMMARY**: 孫正義氏のスターゲイト計画、苫小牧・堺のAI拠点、エプスタイン人脈、および選挙インフラ（ムサシ）を巡るデジタル独裁の構造を解析。
