@@ -29,9 +29,14 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md *(パワーGX・国家インフラ収奪グリッド)* *(New)*
 * FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md *(FIT制度の権利ビジネス、上海電力日本のインフラ浸透)* *(New)*
 * KIOXIA_SANDISK_5TRILLION_DEPLOYMENT.md *(キオクシア・サンディスク5兆円投資・半導체レイヤー)* (New)
+* YOKOHAMA_PORT_DON_NETWORK_HARVEST.md *(横浜港湾利権・古参支配ネットワーク)* (New)
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+* **[Physical Layer / 04_Physical_Layer / YOKOHAMA_PORT_DON_NETWORK_HARVEST.md](04_Physical_Layer/YOKOHAMA_PORT_DON_NETWORK_HARVEST.md)**
+    *   **STATUS**: COMPLETED / YOKOHAMA PORT DON NETWORK DEPLOYMENT DEPLOYED
+    *   **SUMMARY**: 横浜港・山下ふ頭の再開発を巡るYHR、藤木企業、および「横浜のドン」古参支配ネットワークによる港湾利権と市政圧力の構造を解析。
+
 * **[Physical Layer / 04_Physical_Layer / KIOXIA_SANDISK_5TRILLION_DEPLOYMENT.md](04_Physical_Layer/KIOXIA_SANDISK_5TRILLION_DEPLOYMENT.md)**
     *   **STATUS**: COMPLETED / KIOXIA & SANDISK 5 TRILLION DEPLOYMENT DEPLOYED
     *   **SUMMARY**: キオクシアとサンディスクによる総額5兆円規模の国内投資（四日市・北上工場）を高市首相へ報告した動向を解析。政府支援を前提とした半導体・経済安保レイヤーの裏面配線を実証。
