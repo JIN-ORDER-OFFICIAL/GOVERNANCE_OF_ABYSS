@@ -5,7 +5,7 @@
 
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
---
+---
 # TOKYO SYNDICATE DEPLOYMENT: 小池百合子都政とグローバル・エリートの利権・収奪配線
 
 首都・東京の中枢に巣食う小池百合子都政の利権ハブ構造、グローバル資本（ゲイツ財団・WEF）との直結パイプライン、そして生命・資産の収奪サプライチェーンの全貌。
