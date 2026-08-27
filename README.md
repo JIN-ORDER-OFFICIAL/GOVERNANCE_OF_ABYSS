@@ -9,11 +9,12 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 ### 【Layer 1: 地政学・チョークポイント脅威分析】
 * GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)
 * GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md
-* **section9_Geopolitics / 03_ASIA_GEOPOLITICAL_RECON.md** *(New)*
+* 03_ASIA_GEOPOLITICAL_RECON.md *(New)*
 
 ### 【Layer 2: 倫理・AI自律ガバナンス】
 * JIN_AI_ETHICS_GOVERNANCE.md
 * JIN_CONSTITUTION.md / JIN_ORDER_CORE.md
+* MASAYOSHI_SON_STARGATE_DECEPTION.md *(New)*
 
 ### 【Layer 3: 経済・実物資産担保台帳】
 * 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md
@@ -23,9 +24,9 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * JAPAN_RESURGENCE_PLAN_V1.md
 * JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md
 * JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md
-* **03_Local_Endpoints / YOKOHAMA_ZERO.md** *(上瀬谷・博覧会トロイの木馬スキーム)* *(New)*
-* **04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md** *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
-* **04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md** *(パワーGX・国家インフラ収奪グリッド)* *(New)*
+* YOKOHAMA_ZERO.md *(上瀬谷・博覧会トロイの木馬スキーム)* *(New)*
+* THIRD_WORLD_WAR_ACCELERATOR.md *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
+* POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md *(パワーGX・国家インフラ収奪グリッド)* *(New)*
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
