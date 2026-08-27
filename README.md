@@ -27,17 +27,9 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * YOKOHAMA_ZERO.md *(上瀬谷・博覧会トロイの木馬スキーム)* *(New)*
 * THIRD_WORLD_WAR_ACCELERATOR.md *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
 * POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md *(パワーGX・国家インフラ収奪グリッド)* *(New)*
-* FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md *(FIT制度の権利ビジネス、上海電力日本のインフラ浸透)* *(New)*
+
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
-* **[Protocol Layer / 02_Protocol_Layer / MASAYOSHI_SON_STARGATE_DECEPTION.md](02_Protocol_Layer/MASAYOSHI_SON_STARGATE_DECEPTION.md)**
-    *   **STATUS**: COMPLETED / MASAYOSHI SON DEPLOYMENT DEPLOYED
-    *   **SUMMARY**: 孫正義氏のスターゲイト計画、苫小牧・堺のAI拠点、エプスタイン人脈、および選挙インフラ（ムサシ）を巡るデジタル独裁の構造を解析。
-
-* **[Physical Layer / 04_Physical_Layer / FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md](04_Physical_Layer/FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md)**
-    *   **STATUS**: COMPLETED / FIT RENEWABLE ENERGY SURCHARGE DEPLOYED
-    *   **SUMMARY**: FIT制度の権利ビジネス、上海電力日本のインフラ浸透、ソフトバンクのイグジット、そして累計25兆円を超える再エネ賦課金の収奪構造を実証。
-
 * **[Physical Layer / 04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md](./04_Physical_Layer/POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md)**
     *   **STATUS**: COMPLETED / POWERR GX INFRASTRUCTURE DEPLOYMENT DEPLOYED
     *   **SUMMARY**: 政府の「パワーGX（エネルギー需給構造の強靱化総合パッケージ）」の裏と表の二重構造を解析。原子力・再エネ・AIデータセンターを外部特権資本の管理下に接続する「システム・パッチ」の全貌を実証。
