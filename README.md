@@ -19,6 +19,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 ### 【Layer 3: 経済・実物資産担保台帳】
 * 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md
 * JIN_ECONOMY_PROTOCOL.md / Japan Smart Chain
+* TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md *(小池百合子都政と東京シジケートの裏面配線)* (New)
 
 ### 【Layer 4: 地域主権・国土再生・自律インフラ】
 * JAPAN_RESURGENCE_PLAN_V1.md
@@ -33,6 +34,10 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+* **[Local Endpoints / 03_Local_Endpoints / TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md](03_Local_Endpoints/TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md)**
+    *   **STATUS**: COMPLETED / TOKYO SYNDICATE DEPLOYMENT DEPLOYED
+    *   **SUMMARY**: 小池百合子都政とグローバル・エリート（WEF等）を結ぶ利権ハブ、都市再開発の利権、および生命・資産の収奪サプライチェーンを解析。
+
 * **[Physical Layer / 04_Physical_Layer / YOKOHAMA_PORT_DON_NETWORK_HARVEST.md](04_Physical_Layer/YOKOHAMA_PORT_DON_NETWORK_HARVEST.md)**
     *   **STATUS**: COMPLETED / YOKOHAMA PORT DON NETWORK DEPLOYMENT DEPLOYED
     *   **SUMMARY**: 横浜港・山下ふ頭の再開発を巡るYHR、藤木企業、および「横浜のドン」古参支配ネットワークによる港湾利権と市政圧力の構造を解析。
