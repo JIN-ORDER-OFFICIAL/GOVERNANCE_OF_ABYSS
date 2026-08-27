@@ -9,11 +9,12 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 ### 【Layer 1: 地政学・チョークポイント脅威分析】
 * GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)
 * GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md
-* **section9_Geopolitics / 03_ASIA_GEOPOLITICAL_RECON.md** *(New)*
+* 03_ASIA_GEOPOLITICAL_RECON.md *(New)*
 
 ### 【Layer 2: 倫理・AI自律ガバナンス】
 * JIN_AI_ETHICS_GOVERNANCE.md
 * JIN_CONSTITUTION.md / JIN_ORDER_CORE.md
+* MASAYOSHI_SON_STARGATE_DECEPTION.md *(New)*
 
 ### 【Layer 3: 経済・実物資産担保台帳】
 * 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md
@@ -23,12 +24,20 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * JAPAN_RESURGENCE_PLAN_V1.md
 * JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md
 * JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md
-* **03_Local_Endpoints / YOKOHAMA_ZERO.md** *(上瀬谷・博覧会トロイの木馬スキーム)* *(New)*
-* **04_Physical_Layer / THIRD_WORLD_WAR_ACCELERATOR.md** *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
-* **04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md** *(パワーGX・国家インフラ収奪グリッド)* *(New)*
-
+* YOKOHAMA_ZERO.md *(上瀬谷・博覧会トロイの木馬スキーム)* *(New)*
+* THIRD_WORLD_WAR_ACCELERATOR.md *(ダイナログ・ネットワークとデュアルユース配線)* *(New)*
+* POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md *(パワーGX・国家インフラ収奪グリッド)* *(New)*
+* FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md *(FIT制度の権利ビジネス、上海電力日本のインフラ浸透)* *(New)*
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+* **[Protocol Layer / 02_Protocol_Layer / MASAYOSHI_SON_STARGATE_DECEPTION.md](02_Protocol_Layer/MASAYOSHI_SON_STARGATE_DECEPTION.md)**
+    *   **STATUS**: COMPLETED / MASAYOSHI SON DEPLOYMENT DEPLOYED
+    *   **SUMMARY**: 孫正義氏のスターゲイト計画、苫小牧・堺のAI拠点、エプスタイン人脈、および選挙インフラ（ムサシ）を巡るデジタル独裁の構造を解析。
+
+* **[Physical Layer / 04_Physical_Layer / FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md](04_Physical_Layer/FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md)**
+    *   **STATUS**: COMPLETED / FIT RENEWABLE ENERGY SURCHARGE DEPLOYED
+    *   **SUMMARY**: FIT制度の権利ビジネス、上海電力日本のインフラ浸透、ソフトバンクのイグジット、そして累計25兆円を超える再エネ賦課金の収奪構造を実証[cite: 2]。
+
 * **[Physical Layer / 04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md](./04_Physical_Layer/POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md)**
     *   **STATUS**: COMPLETED / POWERR GX INFRASTRUCTURE DEPLOYMENT DEPLOYED
     *   **SUMMARY**: 政府の「パワーGX（エネルギー需給構造の強靱化総合パッケージ）」の裏と表の二重構造を解析。原子力・再エネ・AIデータセンターを外部特権資本の管理下に接続する「システム・パッチ」の全貌を実証。
