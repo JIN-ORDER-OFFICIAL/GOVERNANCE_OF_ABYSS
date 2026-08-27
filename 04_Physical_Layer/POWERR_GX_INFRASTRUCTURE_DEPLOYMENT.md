@@ -22,4 +22,5 @@
 
 ---
 **[SYSTEM DIAGNOSTIC: POWERR GX AS INFRASTRUCTURE DEPLOYMENT]**
+
 「環境・エネルギー安全保障」という無害なパッケージの下で、日本の国家インフラを外部パイプラインへ直結させるシステム・パッチ――我々は、そのすべての配線をここに看破する。
