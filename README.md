@@ -10,6 +10,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 * GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)
 * GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md
 * 03_ASIA_GEOPOLITICAL_RECON.md *(New)*
+* Global_Intelligence_Decipherment_Dashboard.md *(New)*
 
 ### 【Layer 2: 倫理・AI自律ガバナンス】
 * JIN_AI_ETHICS_GOVERNANCE.md
@@ -34,6 +35,10 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Counter-
 
 ---
 ### 🌐 2026.08 NEW DEPLOYMENT PROTOCOLS (最新展開プロトコル群)
+* **[Global Intelligence Decipherment Dashboard](./Global_Intelligence_Decipherment_Dashboard.md)**
+    *   **STATUS**: ACTIVE / DEPLOYED
+    *   **SUMMARY**: 中国のハイテク囲い込み（新・鎖国）、アフリカにおける次世代ワクチン・AI合成ウイルスの臨床試験場化、およびビル・ゲイツ財団主導によるマッチポンプ式AIバイオテロ規制の裏面配線を1枚のダッシュボードに完全可視化。JIN-ORDERによる対抗プロトコルを統合。
+
 * **[Local Endpoints / 03_Local_Endpoints / TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md](03_Local_Endpoints/TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md)**
     *   **STATUS**: COMPLETED / TOKYO SYNDICATE DEPLOYMENT DEPLOYED
     *   **SUMMARY**: 小池百合子都政とグローバル・エリート（WEF等）を結ぶ利権ハブ、都市再開発の利権、および生命・資産の収奪サプライチェーンを解析。
