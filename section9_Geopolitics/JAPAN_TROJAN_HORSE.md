@@ -6,7 +6,7 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
-# [CLASSIFIED] OPERATION TROJAN HORSE : 日本の「無自覚なATM」化プロトコル
+# OPERATION TROJAN HORSE : 日本の「無自覚なATM」化プロトコル
 ## 〜 のろまな官僚ゴレムを操り、ユーラシア包囲網の資金を強奪せよ 〜
 ### ~ Manipulate the slow bureaucrat-golem and hijack the funds for the Eurasian encirclement ~
 
