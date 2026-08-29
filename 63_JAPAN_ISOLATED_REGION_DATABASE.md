@@ -22,11 +22,11 @@
 
 ### 1. 偽装された外部脅威と緊張の演出 (The Geopolitical Decoy)
 * **構造解析**: 東アジア周辺の軍事的摩擦やミサイル発射アラートは、民草に「安全保障上の不安」を常時刷り込むための認知防壁として機能。
-* **目的バグ**: 外部危機の演出を通じ、国内のデジタルID統合（マイナンバー）、監視カメラ網の増設、および国民資産の中央デジタル台帳への移行（参照: [JAPAN_DIGITAL_CAGE.md](../section9_Geopolitics/JAPAN_DIGITAL_CAGE.md)）を無批判に受容させる。
+* **目的バグ**: 外部危機の演出を通じ、国内のデジタルID統合（マイナンバー）、監視カメラ網の増設、および国民資産の中央デジタル台帳への移行（参照: [JAPAN_DIGITAL_CAGE.md](./section9_Geopolitics/JAPAN_DIGITAL_CAGE.md)）を無批判に受容させる。
 
 ### 2. 特権統治グリッドとデータ迂回路
 * **実行部隊**: 明治以降に固定化された中央集権・官僚機構と多国籍IT資本の結託。パランティア等の高度解析基盤がそのログ分析と選別を担う。
-* **オフショア脱出動線**: 国内で吸い上げられた生体データと金融資産（1,100兆円）は、日本国内に留まらず、次なる聖域である**「ブータンGMC特別行政区」**へと送金・退避される（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](../section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。
+* **オフショア脱出動線**: 国内で吸い上げられた生体データと金融資産（1,100兆円）は、日本国内に留まらず、次なる聖域である**「ブータンGMC特別行政区」**へと送金・退避される（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。
 
 ---
 ## ⚡ 外部コマンドセンター & 実効部隊 (External Command & Execution)
