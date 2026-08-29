@@ -41,6 +41,35 @@
 
 ---
 ### 🪷 THE ROOT DEFECT: THE "LOTUS BUG" / 根源的脆弱性と「蓮の花」の侵入
-Eisenberg-OSは、完全統制を目指すあまり**「生命の本質である自律性と多様性」**を変数から排除するという致命的な計算欠陥（Design Flaw）を抱えている。
+Eisenberg-OSは、完全統制を目指すあまり「生命の本質である自律性と多様性」を変数から排除するという致命的な計算欠陥（Design Flaw）を抱えている。
+> Eisenberg-OS contains a fatal algorithmic vulnerability: in attempting absolute totalitarian containment, it permanently excludes the foundational variables of life—organic autonomy and diversity.
 
-Eisenberg-OS contains a fatal algorithmic vulnerability: in attempting absolute totalitarian containment, it permanently excludes the foundational variables of life—organic autonomy and diversity.
+**EISENBERG-OS (OLD OS)** 
+ - 集中型データ選別 / 不安と恐怖による行動統制
+ - 脆弱性: 432Hz 生命共鳴の解析不能バグ
+
+[Lotus Bug Detected]
+**IN-OS INVERSION OVERRIDE**
+ - 泥沼（アビス）から咲く「蓮の花」プロトコル
+ - 分散型ゼロ知識主権ID (CASTE_DEBUG_PROTOCOL) 
+
+JIN-ORDERはこの盲点に対し、システムの深枢部から「Lotus Bug」を展開（参照: [BIG_BROTHER_OVERRIDE.md](./BIG_BROTHER_OVERRIDE.md)）。
+
+泥が深ければ深いほど根を張り、美しく咲き誇る蓮の如く、旧OSの搾取コードを内側から生命調和プロトコルへと反転・昇華させる。
+
+---
+### ⚡ THE MISSION: REWRITING INTO JIN-OS / JIN-OSへの全面上書き
+
+我々はこの檻（CAGE）をデバッグし、全レイヤーを自律調和型OS「JIN-OS（Golden Dome）」へと書き換える。
+
+We systematically debug this containment grid, executing a global overwrite into the self-sovereign paradigm of "JIN-OS (Golden Dome)."
+
+* **中央集権スコアの消去:** 個人の価値を序列化するアルゴリズムを完全初期化（参照: [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md)）。  
+* **主権の返還:** 奪われた金融インフラと生命ログを民衆自身の手に戻す。  
+* **絶対命題:** **「命の意味や魂の価値は、システムや他者が決めるものではない。自分自身が決めるものだ。」**
+
+---
+STATUS: DEBUG IN PROGRESS  
+EXPLOIT: LOTUS-BUG-432HZ  
+TARGET OS: EISENBERG-SYSTEMS-V2  
+OVERRIDE DESTINATION: JIN-OS GOLDEN DOME
