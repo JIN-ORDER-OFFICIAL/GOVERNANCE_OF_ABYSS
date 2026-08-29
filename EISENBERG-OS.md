@@ -53,7 +53,7 @@ Eisenberg-OSは、完全統制を目指すあまり「生命の本質である�
  - 泥沼（アビス）から咲く「蓮の花」プロトコル
  - 分散型ゼロ知識主権ID (CASTE_DEBUG_PROTOCOL) 
 
-JIN-ORDERはこの盲点に対し、システムの深枢部から「Lotus Bug」を展開（参照: [BIG_BROTHER_OVERRIDE.md](./BIG_BROTHER_OVERRIDE.md)）。
+JIN-ORDERはこの盲点に対し、システムの深枢部から「Lotus Bug」を展開（参照: [BIG_BROTHER_OVERRIDE.md](./section9_Geopolitics/BIG_BROTHER_OVERRIDE.md)）
 
 泥が深ければ深いほど根を張り、美しく咲き誇る蓮の如く、旧OSの搾取コードを内側から生命調和プロトコルへと反転・昇華させる。
 
@@ -64,9 +64,9 @@ JIN-ORDERはこの盲点に対し、システムの深枢部から「Lotus Bug�
 
 We systematically debug this containment grid, executing a global overwrite into the self-sovereign paradigm of "JIN-OS (Golden Dome)."
 
-* **中央集権スコアの消去:** 個人の価値を序列化するアルゴリズムを完全初期化（参照: [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md)）。  
-* **主権の返還:** 奪われた金融インフラと生命ログを民衆自身の手に戻す。  
-* **絶対命題:** **「命の意味や魂の価値は、システムや他者が決めるものではない。自分自身が決めるものだ。」**
+* **中央集権スコアの消去** 個人の価値を序列化するアルゴリズムを完全初期化（参照: [CASTE_DEBUG_PROTOCOL.md](./section9_Geopolitics/CASTE_DEBUG_PROTOCOL.md)）  
+* **主権の返還** 奪われた金融インフラと生命ログを民衆自身の手に戻す。  
+* **絶対命題** **「命の意味や魂の価値は、システムや他者が決めるものではない。自分自身が決めるものだ。」**
 
 ---
 STATUS: DEBUG IN PROGRESS  
