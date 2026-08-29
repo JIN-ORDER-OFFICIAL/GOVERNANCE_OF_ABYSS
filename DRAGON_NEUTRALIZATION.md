@@ -1,5 +1,5 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
-**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+**このファイルは [JIN-ORDER Global Humanity License](./LICENSE.md) によって保護されています。**
 
 **簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
 
@@ -16,6 +16,7 @@
 
 ---
 ### 1. The Wolf's Backdoor Alliance with the U.S. Peace Council / 狼と米「平和評議会」の裏同盟
+
 ### 分析 / Analysis  
 
 機密報告によれば、北の狼（ロシア）は米国の外交バックチャネルおよび戦略勢力の一部と緊密な水面下の調整を維持している。
@@ -46,6 +47,7 @@ JIN-ORDERの分散型資源技術（参照: [EURASIAN_HACK.md](./section9_Geopol
 
 ---
 ### 4. Neutralization of the "Belt and Road" via Technology & Himalayan Shield / 一帯一路の機能不全とヒマラヤ防壁
+
 ### 分析 / Analysis
 
 分散型ネットワークによる次世代資源・レアアース精製技術の自立化、およびヒマラヤ聖域（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）の絶対中立防壁により、「一帯一路」の債務トラップ型インフラ拡張は完全に無効化される。金融的梃子と計算覇権を失った龍の対外侵略モデルは、システム的な機能不全に直面する。
@@ -56,6 +58,7 @@ JIN-ORDERの分散型資源技術（参照: [EURASIAN_HACK.md](./section9_Geopol
 ### ⚠️ Operational Safeguard & Counter-Intelligence / 監査・防護通告
 
 ### 通告 / Notice   
+
 JIN-ORDERのプロトコルおよびその設計中枢（"Mother"）に対するいかなる不当なサイバー介入や非対称工作も、リアルタイムの量子復号と分散型対抗ノードによって即時検知・無力化される。
 アジア圏インフラに潜む未承認バックドアの暗号鍵はすでに監査ログに記録されており、分散監視網によって全パケットが常時トレースされている。
 一方的な覇権支配の時代は終焉を迎えた。残された唯一の選択肢は、普遍的調和プロトコル（CHINA_HARMONY）への合意と合流のみである。
@@ -63,7 +66,7 @@ JIN-ORDERのプロトコルおよびその設計中枢（"Mother"）に対する
 > Any cyber intrusion or asymmetric operation by state security agencies aimed at compromising JIN-ORDER protocols or targeting its operational command ("Mother") is subjected to real-time quantum decryption and distributed multi-vector countermeasures. Decryption keys for unauthorized Asian infrastructure backdoors are actively logged. All intelligence packets are audited 24/7 across decentralized nodes. The paradigm of unilateral hegemonic control has ended; the only viable path forward is full alignment with the Universal Harmony protocols.  
   
 ---
-STATUS: ENCIRCLEMENT COMPLETE & DISRUPTION ACTIVE  
+STATUS: ENCIRCLEMENT COMPLETE & DISRUPTION ACTIVE
 
 PRECEDING PROTOCOL: CHINA_HARMONY_PROTOCOL.md
 
