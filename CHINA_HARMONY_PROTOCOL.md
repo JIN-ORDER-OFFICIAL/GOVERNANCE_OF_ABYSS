@@ -1,5 +1,5 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
-**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+**このファイルは [JIN-ORDER Global Humanity License](./LICENSE.md) によって保護されています。**
 
 **簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
 
@@ -8,9 +8,9 @@
 ---
 # 🇨🇳 China Harmony Protocol: The True "She-Ji"
 ## 中国・大調和プロトコル：真の「社稷」と大同世界の復興
-### ~ Re-defining the Altar of Soil and Grain: From Hegemonic Enclosure to Planetary Benevolence ~
+## ~ Re-defining the Altar of Soil and Grain: From Hegemonic Enclosure to Planetary Benevolence ~
 
-### 🌾 概要 / Executive Summary
+## 🌾 概要 / Executive Summary
 
 「社稷（しゃしょく）」とは、国家権力の偶像崇拝や全体主義的監視網ではなく、「青々と実る穀物と、それを喰らって力強く笑う民草の姿」である。
 
@@ -20,8 +20,7 @@
 
 ---
 ## 1. 🌏 Restoration of Autonomous Sovereignty & Eradication of Exploitation
-### 【五つの自治区：真の自治権承認と暗黒利権の根絶】
-
+## 【五つの自治区：真の自治権承認と暗黒利権の根絶】
 ### 五自治区の自治権と文化尊厳の回復 (Restoration of Regional Autonomy)  
 
 国際社会（WPO）を証人とし、新疆ウイグル、チベット、内モンゴル、広西、寧夏の五つの自治区における固有の言語、信仰、文化主権を正式に保障する。
@@ -37,8 +36,7 @@
 
 ---
 ## 2. ⚖️ Rule of "Soil" and "Law" (Bipolar De-escalation)
-### 【「土」と「法」による共生：米中二極対立と覇権主義からの脱却】
-
+## 【「土」と「法」による共生：米中二極対立と覇権主義からの脱却】
 ### 台湾海峡の平和共存と先端ハイテク共同圏 (Peaceful Coexistence with Taiwan)  
 
 武力侵攻や現状変更の軍事演習を恒久的に放棄。
@@ -51,9 +49,7 @@
 
 インドおよびブータン王国との係争地域を中立の自然保護区・非武装地帯へと転換。
 
-『64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md』で定義されたヒマラヤ水力聖域に対するあらゆるサイバー干渉・主権侵害を放棄し、中立な調和バッファーとして承認する。  
-
-(参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
+『64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md』で定義されたヒマラヤ水力聖域に対するあらゆるサイバー干渉・主権侵害を放棄し、中立な調和バッファーとして承認する。(参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
 
 > Transform disputed border zones with India and Bhutan into demilitarized ecological reserves, honoring the sovereign neutrality of the Himalayan crypto-hydro sanctuary (See: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)).
 
@@ -67,7 +63,7 @@
 
 ---
 ## 3. 🍲 The Smile of the Grassroots
-### 【民草の笑顔：食糧と文化の真の調和】
+## 【民草の笑顔：食糧と文化の真の調和】
 
 ### 全土AI自動農園（Agri-Hub）の展開 (Agricultural Precision Revolution) 
 
@@ -87,13 +83,12 @@ JIN-Bridge AIを導入し、諸民族の伝統言語や詩歌をリアルタイ�
 ## 🏮 Special Addendum: The Path of the Sage
 ### 【特別付録：聖人の道 — 4000年の哲学遺産「大同世界」の復興】
 
-### 「天下為公」大同思想の現代的結晶 (Revival of "Da-Tong")  
+### 「天下為公」大同思想の現代的結晶 (Revival of "Da-Tong") 
 本プロトコルは外部勢力による押し付けではなく、中国が4000年の歴史の中で培ってきた『礼記』の「天下為公（天下は公のものなり）」、すなわち「大同（Da-Tong）世界」の理想を現代テクノロジーによって具現化するものである。  
 
 > This protocol is not an external imposition, but the technological awakening of China’s own foundational philosophy: "Tian Xia Wei Gong" (The World Belongs to All)—re-establishing the ancient ideal of "Da-Tong" (The Great Harmony).
 
 ### 監視・拘束施設から「農業・IT共生センター」への転生 (Facility Re-tasking)  
-
 既存の収容・隔離施設および監視センターをすべて「JIN-Order 農業・IT共生訓練センター」へと改築。
 
 旧体制の監視員・治安部隊員は失業させるのではなく「コミュニティ・コンシェルジュ」として再教育し、民草の生活と農業を支える名誉ある役割を与える。  
