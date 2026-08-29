@@ -53,9 +53,9 @@
 
 『64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md』で定義されたヒマラヤ水力聖域に対するあらゆるサイバー干渉・主権侵害を放棄し、中立な調和バッファーとして承認する。  
 
-   (参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](../section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
+(参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
 
-> Transform disputed border zones with India and Bhutan into demilitarized ecological reserves, honoring the sovereign neutrality of the Himalayan crypto-hydro sanctuary (See: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](../section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)).
+> Transform disputed border zones with India and Bhutan into demilitarized ecological reserves, honoring the sovereign neutrality of the Himalayan crypto-hydro sanctuary (See: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)).
 
 ### グローバル・ザカート：新シルクロードの仁道化 (Global Zakat: The Benevolent Silk Road)
 
@@ -93,6 +93,7 @@ JIN-Bridge AIを導入し、諸民族の伝統言語や詩歌をリアルタイ�
 > This protocol is not an external imposition, but the technological awakening of China’s own foundational philosophy: "Tian Xia Wei Gong" (The World Belongs to All)—re-establishing the ancient ideal of "Da-Tong" (The Great Harmony).
 
 ### 監視・拘束施設から「農業・IT共生センター」への転生 (Facility Re-tasking)  
+
 既存の収容・隔離施設および監視センターをすべて「JIN-Order 農業・IT共生訓練センター」へと改築。
 
 旧体制の監視員・治安部隊員は失業させるのではなく「コミュニティ・コンシェルジュ」として再教育し、民草の生活と農業を支える名誉ある役割を与える。  
