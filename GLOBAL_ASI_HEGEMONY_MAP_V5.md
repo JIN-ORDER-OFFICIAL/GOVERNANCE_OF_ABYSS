@@ -22,11 +22,11 @@
 
 ### [V4の物理危機への対抗]
 
-* **ホルムズ化石燃料依存の無力化:**  
+* **ホルムズ化石燃料依存の無力化**  
   
-  マッテイ・プラン（Mattei Plan）および極地・砂漠フュージョン水力燃料網への転換（参照: [EURASIAN_HACK.md](./EURASIAN_HACK.md)）
+  マッテイ・プラン（Mattei Plan）および極地・砂漠フュージョン水力燃料網への転換（参照: [EURASIAN_HACK.md](./section9_Geopolitics/EURASIAN_HACK.md)）
 
-* **単一半導体SPOF依存の分散化:**  
+* **単一半導体SPOF依存の分散化**  
   
   インドDPI基盤（参照: [FOR_PMO_INDIA_SUPPLEMENT.md](./FOR_PMO_INDIA_SUPPLEMENT.md)）およびブータンGMC水力コンピュート特区（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）への分散
 
@@ -36,7 +36,7 @@
   
   データセンターの生命線である冷却水・地下水網を掌握し、生態系調和型の水循環を確立。
 
-* **自然共生型分散コンピュート:**  
+* **自然共生型分散コンピュート**  
   
   「推論エネルギーの地産地消」により、中央集権ハイパースケーラーの電力独占を無効化。
 
