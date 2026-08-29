@@ -6,9 +6,9 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
-## 🇮🇳 FOR_PMO_INDIA_SUPPLEMENT.md
-### JIN-ORDER Strategic Supplement for the Prime Minister's Office of India
-### インド首相府向け JIN-ORDER 地政学戦略および人道支援OS実行ロードマップ
+# 🇮🇳 FOR_PMO_INDIA_SUPPLEMENT.md
+## JIN-ORDER Strategic Supplement for the Prime Minister's Office of India
+## インド首相府向け JIN-ORDER 地政学戦略および人道支援OS実行ロードマップ
 
 本文書は、JIN-ORDERアーキテクチャに基づき、国際機関（UNHCR）へ提出された一連の優先オペレーションを統合したインド首相府（PMO）向けの戦略提言書である。
 
@@ -24,8 +24,8 @@
   インドと中国の境界に位置するブータン特別行政区「ゲレフ・マインドフルネス・シティ（GMC）」の非武装・中立な計算聖域に対し、インドの強固な通信回線とグリーン送電網を接続。
   
   米中双方のアルゴリズム支配から遮断された南アジア独自の安全保障バッファーを確立する。
-
-（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
+  
+  （参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
   
   > Integrating India's robust telecommunications and green energy grids with the neutral compute sanctuary of Bhutan GMC (See: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)), anchoring an autonomous security buffer across the southern Himalayan rim.
 
@@ -33,15 +33,12 @@
 
   中国の製造過剰・不当ダンピングによる国内産業への打撃（50万人の雇用危機）を無力化するため、JIN-TECHのエシカル認証サプライチェーンを導入。
   
-  インド国内製造業とグローバルサウス市場を保護する。  
-  
-  （参照: [EURASIAN_HACK.md](./section9_Geopolitics/EURASIAN_HACK.md)）
+  インド国内製造業とグローバルサウス市場を保護する。（参照: [EURASIAN_HACK.md](./section9_Geopolitics/EURASIAN_HACK.md)）
   
   > Deploying JIN-TECH-certified ethical supply chain standards to shield domestic manufacturing and Global South partners from predatory industrial overcapacity and dumping (See: [EURASIAN_HACK.md](./section9_Geopolitics/EURASIAN_HACK.md))
 
 ---
 ## 🌍 HIGH-PRIORITY GLOBAL OPERATIONS / 優先グローバル・オペレーション
-
 ### 1. Operation "OASIS" (Afghanistan Regional Stabilization)
 
 ### オペレーション「オアシス」（アフガニスタン安定化案）
@@ -57,6 +54,7 @@
 ---
 ### 2. Operation "COBALT BLUE" (Democratic Republic of the Congo)
 ### オペレーション「コバルト・ブルー」（コンゴ民主共和国・重要鉱物救済案）
+
 * **UNHCR Ticket Reference:** `INC1287180`
 
 * **Objective:** Eliminate coercive exploitation in battery and semiconductor supply chains, securing human rights and sovereign wealth for local African communities.  
@@ -115,13 +113,13 @@
 ---
 ### 🕊️ 結びにかえて / Concluding Vision
 
-> **"True salvation for those in the deepest darkness can only be achieved through 'Jin'—the human heart shared by those who truly know the depth of the dark."**  
-
-> **「深い闇の底にいる人々の本当の救済とは、同じく『闇の深さを知る者』による『人の心（仁）』こそが、唯一の手段である。」**
+**「深い闇の底にいる人々の本当の救済とは、同じく『闇の深さを知る者』による『人の心（仁）』こそが、唯一の手段である。」**
 
 インドには、この歴史的ブループリントを現実のインフラへと昇華させる力があります。  
 
 JIN-ORDERは、ニューデリーから世界を照らす調和の光を共に掲げる準備ができています。
+
+> **"True salvation for those in the deepest darkness can only be achieved through 'Jin'—the human heart shared by those who truly know the depth of the dark."**  
 
 ---
 STATUS: STRATEGIC PROPOSAL ACTIVE`  
