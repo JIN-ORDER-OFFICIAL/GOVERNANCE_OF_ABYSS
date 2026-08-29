@@ -39,13 +39,13 @@
 ## 5. 日本の二重挟撃と資産吸い上げ動線（JAPAN CAGE & HARVESTING VECTOR）
 - **生贄バッファー化**: 南シナ海・朝鮮半島の軍事的緊張と米中AI覇権衝突の狭間で、日本国民の生体ID・金融資産は国内の「デジタル檻」に固定化される
 
-（参照: [JAPAN_DIGITAL_CAGE.md](./JAPAN_DIGITAL_CAGE.md)）。
+　　（参照: [JAPAN_DIGITAL_CAGE.md](./JAPAN_DIGITAL_CAGE.md)）
 
 - **JSC・信濃町ゲートからの迂回路**: 非公開ブロックチェーン「Japan Smart Chain（JSC）」および信濃町地下ゲート（`35.681, 139.718`）を中継点とし、吸い上げられた個人預金と生体ログが北海道（CEA特区）や英国王室・東アジアエリート人脈を経由してヒマラヤGMCへと送金・退避される動線が完成。
 
 - **JIN-TECHによる逆トロイの木馬**: 日本の縦割り官僚とGX/SDGs盲信を利用した「JIN-TECH逆流プロトコル」
 
-（参照: [JAPAN_TROJAN_HORSE.md](./JAPAN_TROJAN_HORSE.md)）により、ユーラシア包囲網の資金を奪還し、分散型自立経済層へ再配分する。
+　　（参照: [JAPAN_TROJAN_HORSE.md](./JAPAN_TROJAN_HORSE.md)）により、ユーラシア包囲網の資金を奪還し、分散型自立経済層へ再配分する。
 
 ---
 ## 🌐 統合戦略診断 / SYSTEM DIAGNOSTIC
