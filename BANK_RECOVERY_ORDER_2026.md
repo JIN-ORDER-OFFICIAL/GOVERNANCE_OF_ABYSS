@@ -29,12 +29,17 @@
 
 ### 🧬 NODE 03: 先端バイオ・イノベーション助成金バイパス (Bio-Tech & Public Grant Bypass)
 * **監査対象 (Audit Focus):** 「国家戦略特区」や「先端科学技術イノベーション」を名目に投入された巨額の公的研究開発助成金およびGX経済移行債の還流ルート。
-* **構造解析 (Architecture):** 民間DXやムーンショット計画（参照: [MOONSHOT_TRUTH.md](./section9_Geopolitics/MOONSHOT_TRUTH.md)）を隠れ蓑にして、特定のファミリー企業や非公開ブロックチェーン（JSC）開発へと迂回された国費の流れを全件監査。
+* **構造解析 (Architecture):** 民間DXやムーンショット計画を隠れ蓑にして、特定のファミリー企業や非公開ブロックチェーン（JSC）開発へと迂回された国費の流れを全件監査。
+
+  （参照: [MOONSHOT_TRUTH.md](./section9_Geopolitics/MOONSHOT_TRUTH.md)）
+
 * **奪還プロトコル (Recovery Vector):** 国民の血税によって開発された技術特許と計算リソースをオープンソース化し、人類共有の知性（JIN-OS）へと還元する。
 
 ---
 ## 🌐 OFFSHORE PIPELINE INTERCEPTION / オフショア迂回ルートの遮断
 
-国内の3大ノードから吸い上げられた資本は、信濃町地下ゲート（`35.681, 139.718`）およびスイス秘密銀行（1934年銀行法）を経由し、最終的に「ヒマラヤ・ブータンGMC特別行政区」の水力発電量子金庫へと逃避される構造を持つ（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。
+国内の3大ノードから吸い上げられた資本は、信濃町地下ゲート（`35.681, 139.718`）およびスイス秘密銀行（1934年銀行法）を経由し、最終的に「ヒマラヤ・ブータンGMC特別行政区」の水力発電量子金庫へと逃避される構造を持つ
+
+  （参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。
 
 > Assets harvested from these three primary domestic nodes are funneled through the Shinonomachi Underground Gate (`35.681, 139.718`) and Swiss private banking secrecy, ultimately escaping into the hydro-powered quantum vaults of the Bhutan GMC Special Administrative Region (See: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)).
