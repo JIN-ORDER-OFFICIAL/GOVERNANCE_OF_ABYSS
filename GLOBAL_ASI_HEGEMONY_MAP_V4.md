@@ -52,7 +52,7 @@
 | **Energy Security** | 韓国LNG・原油依存度 (中東依存度 70%超) | **5 (Critical)** | 産業用電力レートの急激なボラティリティ上昇。メガファブの安定稼働マージンが圧縮。 |
 | **Component SPOF** | 世界HBM供給シェア (SK Hynix + Samsung > 90%) | **5 (Critical)** | 代替不可能な単一障害点（SPOF）。わずか数％の減産・遅延が世界のフロンティアモデル展開スケジュールを直撃。 |
 | **Geopolitical Fracture** | 対中半導体迂回網 vs 米国規制の摩擦激化 | **4 (High)** | 資源制約下において、グレーマーケットを通じたHBM・先端チップの密輸・迂回調達プレミアムが跳ね上がる。 |
-| **ASI Hegemony Shift** | 自前電源（水力・自然冷媒直結）特区へのシフト | **4 (High)** | ブータンGMCなどの「エネルギー自給型・非同盟計算特区」への資本逃避・分散投資インセンティブが急上昇（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。 |
+| **ASI Hegemony Shift** | 自前電源（水力・自然冷媒直結）特区へのシフト | **4 (High)** | ブータンGMCなどの「エネルギー自給型・非同盟計算特区」への資本逃避・分散投資インセンティブが急上昇（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。 |
 
 ---
 ### 3. リスクシナリオ分岐 (Scenario Matrix)
@@ -115,7 +115,7 @@ BRICS PAYフレームワークを介してBRICS+の新たな対話軸として�
 
 * **Core Systems / コアシステム** GigaChat Ultra, Yandex_GPT, GOST-Security
 
-* **フォーカス (JA)** 主権要塞化およびサイバー防御網。西側の通信遮断に対する独自のアルゴリズム回復力を維持しつつ、ユーラシア北方のエネルギー回廊と連動（参照: [EURASIAN_HACK.md](./EURASIAN_HACK.md)）。
+* **フォーカス (JA)** 主権要塞化およびサイバー防御網。西側の通信遮断に対する独自のアルゴリズム回復力を維持しつつ、ユーラシア北方のエネルギー回廊と連動（参照: [EURASIAN_HACK.md](./section9_Geopolitics/EURASIAN_HACK.md)）。
 
 * **Focus (EN)** Sovereign fortification and resilient infrastructure designed to operate independently of Western routing protocols, linked to Eurasian resource networks.
 
