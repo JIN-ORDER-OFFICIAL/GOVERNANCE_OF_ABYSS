@@ -16,7 +16,7 @@
 
 This document records the systemic corruption and institutional dysfunction concealed under the rhetorical banners of "humanitarianism," "SDGs," and "sustainability" by international organizations and entrenched elites, debugged through empirical architecture analysis 
 
-> (See: [THE_FALSE_CHURCH_PROTOCOL.md](./section9_Geopolitics/THE_FALSE_CHURCH_PROTOCOL.md)).
+> (See: [THE_FALSE_CHURCH_PROTOCOL.md](./section9_Geopolitics/THE_FALSE_CHURCH_PROTOCOL.md))
 
 ---
 ### 1. 支援金の「蒸発」：中抜き経済の解剖学 / The Evaporation of Aid: Anatomy of Intermediary Extraction
@@ -25,7 +25,7 @@ This document records the systemic corruption and institutional dysfunction conc
 
   国際機関や官民連携（PPP）に投じられた巨額の公的支援金の大半が、現場の民衆へ届く前に本部維持費、高額な役員報酬、天下りコンサルティング、および実効性のない調査費用として「蒸発」している。  
   
-  > A vast majority of public aid funneled into international institutions and public-private partnerships evaporates into administrative overhead, exorbitant executive retainers, and performative consulting fees before ever reaching local communities.*
+  > A vast majority of public aid funneled into international institutions and public-private partnerships evaporates into administrative overhead, exorbitant executive retainers, and performative consulting fees before ever reaching local communities.
 
 * **JIN-ORDERの執行 (JIN-ORDER Execution)**  
   
@@ -36,7 +36,7 @@ This document records the systemic corruption and institutional dysfunction conc
   
   > We programmatically eliminate all exploitative intermediaries. Utilizing assets reclaimed through `BANK_RECOVERY_ORDER_2026.md`, resources are routed peer-to-peer directly into sovereign wallets to secure immediate autonomy for the grassroots
   
-  > (See: [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md)).
+  > (See: [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md))
 
 ---
 ### 2. 生体認証による「魂の家畜化」 / Biometric Containment: The Modern Slave Ledger
@@ -45,7 +45,7 @@ This document records the systemic corruption and institutional dysfunction conc
   
   旧世界は、食糧支援や医療アクセスの代償として「生体データ（虹彩、指紋、DNAログ）」を供出させ、被支援者を中央集権的台帳に固定化された「管理ユニット」として追跡・支配するデジタル檻を構築した
   
-  （参照: [JAPAN_DIGITAL_CAGE.md](./section9_Geopolitics/JAPAN_DIGITAL_CAGE.md)）。  
+  （参照: [JAPAN_DIGITAL_CAGE.md](./section9_Geopolitics/JAPAN_DIGITAL_CAGE.md)）  
   
   > The legacy paradigm conditions emergency relief and medical access upon the surrender of biometric telemetry (iris scans, fingerprints, genetic logs), binding the vulnerable into centralized tracking ledgers as permanent commodities of control 
   
@@ -66,15 +66,15 @@ This document records the systemic corruption and institutional dysfunction conc
   
   （参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
   
-  > Oligarchic factions monopolize cutting-edge longevity science and advanced biomedical compute within offshore sanctuaries , while imposing standardized interventions and behavioral constraints on the public to entrench a biological caste system.*
+  > Oligarchic factions monopolize cutting-edge longevity science and advanced biomedical compute within offshore sanctuaries , while imposing standardized interventions and behavioral constraints on the public to entrench a biological caste system.
 
   > (See: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md))
 
-* **JIN-ORDERの執行 (JIN-ORDER Execution):**  
+* **JIN-ORDERの執行 (JIN-ORDER Execution)**  
 
   JIN-TECH（自然共鳴医療・全自動浄化・開放型バイオサイエンス）をオープンソースとして全人類に無償解放。命の選別と生物学的格差を根底から無効化する。  
   
-  > We release open-source JIN-TECH (resonant medicine, autonomous purification, and decentralized bioscience) universally to all humanity, eradicating biological caste stratification at its foundation.*
+  > We release open-source JIN-TECH (resonant medicine, autonomous purification, and decentralized bioscience) universally to all humanity, eradicating biological caste stratification at its foundation.
 
 ---
 **偽りの人道OS 中抜き・生体管理・命の二重価格**
