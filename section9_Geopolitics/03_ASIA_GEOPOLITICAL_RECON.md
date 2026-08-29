@@ -28,15 +28,17 @@
 
 ---
 ## 4. ヒマラヤ緩衝地帯と支配層のオフショア聖域（BHUTAN GMC & HIMALAYAN AXIS）
+
 - **中立性の地政学裁定**: インド・中国の巨大二極に挟まれたヒマラヤの緩衝地帯において、ブータン特別行政区「ゲレフ・マインドフルネス・シティ（GMC）」が台頭
 
-（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）。
+　　（参照: [Target 64: 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
 
 - **物理計算聖域**: 米欧・中国が直面する送電網の逼迫と水・電力危機（Water-Energy Nexus）を無効化する、氷河融雪水力・自然冷却を活用した自律型暗号資産・量子コンピュート vault（金庫）の構築。
 
 - **米中法域の完全無効化**: 米国CLOUD法および中国国家情報法の双方を法的に排除するSAR法制により、軍事衝突や経済制裁から物理的・法的に隔離された支配層の最終避難先として機能。
 
 ## 5. 日本の二重挟撃と資産吸い上げ動線（JAPAN CAGE & HARVESTING VECTOR）
+
 - **生贄バッファー化**: 南シナ海・朝鮮半島の軍事的緊張と米中AI覇権衝突の狭間で、日本国民の生体ID・金融資産は国内の「デジタル檻」に固定化される
 
 　　（参照: [JAPAN_DIGITAL_CAGE.md](./JAPAN_DIGITAL_CAGE.md)）
