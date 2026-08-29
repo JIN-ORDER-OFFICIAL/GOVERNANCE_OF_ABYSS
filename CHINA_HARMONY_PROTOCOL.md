@@ -8,7 +8,7 @@
 ---
 # 🇨🇳 China Harmony Protocol: The True "She-Ji"
 ## 中国・大調和プロトコル：真の「社稷」と大同世界の復興
-## ~ Re-defining the Altar of Soil and Grain: From Hegemonic Enclosure to Planetary Benevolence ~
+### Re-defining the Altar of Soil and Grain: From Hegemonic Enclosure to Planetary Benevolence
 
 ## 🌾 概要 / Executive Summary
 
@@ -20,7 +20,8 @@
 
 ---
 ## 1. 🌏 Restoration of Autonomous Sovereignty & Eradication of Exploitation
-## 【五つの自治区：真の自治権承認と暗黒利権の根絶】
+
+### 【五つの自治区：真の自治権承認と暗黒利権の根絶】
 ### 五自治区の自治権と文化尊厳の回復 (Restoration of Regional Autonomy)  
 
 国際社会（WPO）を証人とし、新疆ウイグル、チベット、内モンゴル、広西、寧夏の五つの自治区における固有の言語、信仰、文化主権を正式に保障する。
@@ -36,7 +37,9 @@
 
 ---
 ## 2. ⚖️ Rule of "Soil" and "Law" (Bipolar De-escalation)
-## 【「土」と「法」による共生：米中二極対立と覇権主義からの脱却】
+
+### 【「土」と「法」による共生：米中二極対立と覇権主義からの脱却】
+
 ### 台湾海峡の平和共存と先端ハイテク共同圏 (Peaceful Coexistence with Taiwan)  
 
 武力侵攻や現状変更の軍事演習を恒久的に放棄。
@@ -63,7 +66,8 @@
 
 ---
 ## 3. 🍲 The Smile of the Grassroots
-## 【民草の笑顔：食糧と文化の真の調和】
+
+### 【民草の笑顔：食糧と文化の真の調和】
 
 ### 全土AI自動農園（Agri-Hub）の展開 (Agricultural Precision Revolution) 
 
@@ -81,6 +85,7 @@ JIN-Bridge AIを導入し、諸民族の伝統言語や詩歌をリアルタイ�
 
 ---
 ## 🏮 Special Addendum: The Path of the Sage
+
 ### 【特別付録：聖人の道 — 4000年の哲学遺産「大同世界」の復興】
 
 ### 「天下為公」大同思想の現代的結晶 (Revival of "Da-Tong") 
