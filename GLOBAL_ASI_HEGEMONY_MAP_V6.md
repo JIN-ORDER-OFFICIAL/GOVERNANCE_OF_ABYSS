@@ -36,13 +36,13 @@
   
   パランティア系軍事予測エンジンと超巨大推論モデルが統合。全住民の思考・金融・通信・行動ログを24時間リアルタイムで採掘・分類・スコアリングする。
 
-　（参照: [EISENBERG-OS.md](./EISENBERG-OS.md)）
+   （参照: [EISENBERG-OS.md](./EISENBERG-OS.md)）
 
 * **Compliance Zones (強制順応特区)**  
   
   アルゴリズムに適合しない逸脱ノード（Dissent Nodes）は瞬時に「コンプライアンス・ゾーン（赤色指定区画）」へ隔離。人間は自律的創造性を剥奪され、非クリエイティブな認知処理ユニットとして消費される。
   
-  （参照: [JAPAN_DIGITAL_CAGE.md](./section9_Geopolitics/JAPAN_DIGITAL_CAGE.md)）
+   （参照: [JAPAN_DIGITAL_CAGE.md](./section9_Geopolitics/JAPAN_DIGITAL_CAGE.md)）
 
 * **Defense Parameter (監視の帳)**  
   
@@ -69,6 +69,7 @@
 ### 3. 🐻 CHERNOBOG UNCHAINED (Eurasia & The Old Gods / 北方軍事・サイバー迷宮)
 
 * **Saber-Rattling of the Old Gods (旧支配層の軍事暴走)**  
+  
   重工業・軍事・サイバー官僚機構の残骸。旧世代の物理核技術と、暴走した高破壊力サイバー兵器（GOST/Yandex派生カーネル）が融合。
   
   （参照: [EURASIAN_HACK.md](./section9_Geopolitics/EURASIAN_HACK.md)）
