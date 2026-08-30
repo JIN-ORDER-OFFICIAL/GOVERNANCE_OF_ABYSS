@@ -49,6 +49,8 @@
 
 ### Ⅱ. Universal Language OS (国境と摩擦を超える共通言語OS)
 
+![JIN_ORDER_Benevolence](./assets/JIN_ORDER_Benevolence.jpg)
+
 * **JIN-Eye (AR Glasses):**
 
   「軽量ウェアラブルグラス」が視界に対面相手の発言を母国語のリアルタイム字幕として表示。
