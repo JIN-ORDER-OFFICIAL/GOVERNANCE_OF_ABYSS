@@ -76,7 +76,7 @@
 }
 
 ```
-##🏛️ 4. 国連連携および人道原則適合性 (Deployment & Compliance)
+## 🏛️ 4. 国連連携および人道原則適合性 (Deployment & Compliance)
 
 **国連パートナーポータル連携 (UN Partner Portal Alignment):**
 
