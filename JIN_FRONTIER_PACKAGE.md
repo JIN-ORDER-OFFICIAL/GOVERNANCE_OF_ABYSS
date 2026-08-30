@@ -35,6 +35,8 @@
 
 ### Ⅰ. Sanctuary Infrastructure (聖域の住居・水利基盤)
 
+![聖域の住居・水利基盤](./assets/Sanctuary_Infrastructure.jpg)
+
 * **ポメママ・ハウス (Pome-Mama House / 3D-Hybrid Housing):**
 
   * **工法:** 自律型3Dプリント建機が、砂漠の砂や現地の粘土に天然セルロース由来の「JINバイオバインダー」を配合し、現場で耐震・耐熱構造住宅をわずか数時間で自動プリント出力。
