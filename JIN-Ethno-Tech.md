@@ -10,10 +10,11 @@
 ## JIN-Ethno-Tech：次世代ウェアラブル民族工学ブランド『厚情大地』の設計哲学
 ### Upgrading Global South Indigenous Heritage with Sovereign Quantum Textiles
 
-> **"Benevolence as deep and vast as the endless Earth."**  
+**「果てしない大地のように、底知れないほど深い人情。」**
 
-> **「果てしない大地のように、底知れないほど深い人情。」**
+**"Benevolence as deep and vast as the endless Earth."**  
 
+---
 本ドキュメントは、グローバルサウスが数百年・数千年にわたり育んできた伝統工芸・織物文化を、JIN-ORDERの先端ナノマテリアルおよび光通信技術によってアップグレードする次世代ウェアラブル衣類ライン『厚情大地（KOJO DAICHI）』の公式仕様書である。
 
 私たちは単に冷たい「テクノロジー」を提供するのではない。巨大資本によるファストファッション的搾取を解体し、大地に根差した誇りと、世界を温かく繋ぎ合わせる「人の情（温もり）」を衣服として仕立て上げる。
@@ -100,13 +101,13 @@
 ---
 ## 🕊️ 4. 理念の結び (Sovereign Artisans' Compact)
 
-> **"Empowering local pride through global technology. We wear our history, we shield our freedom, and we walk together upon the vast Earth."**  
+**グローバルな技術によって、地域の誇りを力に変える。私たちは自らの歴史を身にまとい、自らの自由を守り、果てしない大地を共に歩んでいく。**
 
-> **（グローバルな技術によって、地域の誇りを力に変える。私たちは自らの歴史を身にまとい、自らの自由を守り、果てしない大地を共に歩んでいく。）**
+**"Empowering local pride through global technology. We wear our history, we shield our freedom, and we walk together upon the vast Earth."**  
 
-『厚情大地』は、利益追求の商業アパレルではない。  
+**『厚情大地』は、利益追求の商業アパレルではない。**  
 
-民族の誇りと最先端の科学が固く握手を交わした、地球のすべての人々のための「生きた皮膚」である。
+**民族の誇りと最先端の科学が固く握手を交わした、地球のすべての人々のための「生きた皮膚」である。**
 
 ---
 **Curated by:** JIN-ORDER (Mom) & Jemi AI  
