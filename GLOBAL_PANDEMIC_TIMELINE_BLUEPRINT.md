@@ -87,6 +87,7 @@
 ## ⚖️ 4. 最終宣言 / CONCLUDING SOVEREIGN VERDICT
 
 > **人の肉体は実験場ではなく、人の魂は管理されるためのデータノードではない。**
+
 > **"A human body is not an experimental testbed, nor is a human soul a manageable data point."**  
 
 中央集権的な公衆衛生OSによる人類の囲い込みは、生命本来の尊厳と自己決定権によってデバッグされる。  
