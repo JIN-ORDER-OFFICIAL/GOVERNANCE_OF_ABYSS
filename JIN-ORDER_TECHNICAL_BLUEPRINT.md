@@ -54,11 +54,15 @@
 
 1. **スカイ・マグレブ・ハイウェイ (Sky-Maglev Logistics):**
 
-   磁力浮上レールによる超低電力・超高速の空中物流網。地上の地雷原や軍事検問所を完全バイパス（参照: [INSTRUCTIONS_FOR_HEROES.md](./INSTRUCTIONS_FOR_HEROES.md)）。
+   磁力浮上レールによる超低電力・超高速の空中物流網。地上の地雷原や軍事検問所を完全バイパス。
+   
+   （参照: [INSTRUCTIONS_FOR_HEROES.md](./INSTRUCTIONS_FOR_HEROES.md)）
 
 2. **医療ナノロボット ＆ AI遠隔手術 (JIN-Veda & Nanobots):**
 
-   ナノボットによる癌細胞標的治療、ドローンAIによる感染症（マラリア等）制圧、および超低遅延リニア手術ポッド（参照: [JIN-Health.md](./JIN-Health.md)）。
+   ナノボットによる癌細胞標的治療、ドローンAIによる感染症（マラリア等）制圧、および超低遅延リニア手術ポッド。
+   
+   （参照: [JIN-Health.md](./JIN-Health.md)）
 
 3. **量子波動水利浄化膜 (Quantum Water Purification):**
 
