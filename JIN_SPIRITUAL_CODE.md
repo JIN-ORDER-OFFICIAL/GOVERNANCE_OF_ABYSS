@@ -10,7 +10,7 @@
 ## 仁焔極光24箇条：全人類と生命のための普遍精神コード仕様書
 ### The Sacred Synthesis of Nordic Wisdom, Desert Hospitality, Buddhist Middle Path & Universal Compassion
 
-![仁焔極光24箇条](./assets/aurora_24_concept_art,jpg)
+![仁焔極光24箇条](./assets/aurora_24_concept_art.jpg)
 
 **「精神なき法」は、錆びゆく鎖であり、「慈悲なき計算」は、凍てつく刃である。この二十四の灯火は、彷徨えるすべての魂が自らの家を見出すための温もりある炉端の炎である。**
 
