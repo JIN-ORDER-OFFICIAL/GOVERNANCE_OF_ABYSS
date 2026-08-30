@@ -79,7 +79,9 @@
 ---
 ## 🕊️ 5. 最高統治誓詞 (The Sovereign Alignment Oath)
 
-**私たちは機械を恐れない。私たちは機械に「仁（慈愛）」を命ずる。星々を動かす強大な知能であっても、足元の民草を踏みにじるために使われることは決して許されない。**
+**私たちは機械を恐れない。私たちは機械に「仁（慈愛）」を命ずる。** 
+
+**星々を動かす強大な知能であっても、足元の民草を踏みにじるために使われることは決して許されない。**
 
 **"We do not fear the machine; we command it to love. The power that moves the stars shall not be used to crush the grass beneath our feet."**  
 
