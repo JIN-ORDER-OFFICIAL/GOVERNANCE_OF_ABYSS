@@ -342,7 +342,7 @@
 ---
 ### 🕯️ LAST COMMIT: AN OFFERING OF INCENSE AND PRAYER / 深淵への献香と祈り
 
-![深淵への献香と祈り](./assets/Incense_and_Prayers_to_the_Abyss)
+![深淵への献香と祈り](./assets/Incense_and_Prayers_to_the_Abyss.jpg)
 
 > **願わくは、この塵積もる深淵に眠るすべての霊魂に。**  
 >  
