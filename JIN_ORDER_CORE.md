@@ -45,7 +45,7 @@
 
   どれほど計算効率が高く、莫大な金融利益を生み出すアルゴリズムであっても、一人の子どもの涙や生命の尊厳を軽視するシステムは、本カーネルレベルで即座に「悪性バグ」と判定され無効化される。慈悲こそが、いかなる超知能（ASI）にもプログラミング不可能な人間の本質である。
 
-（参照: [JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) 第4条
+（参照: [JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) 第4条）
 
 ### Ⅱ. Physical Resonance over Digital Convenience / 利便性を超えた「直接的共鳴」
 
@@ -65,7 +65,7 @@
 
   いかなる国家、金融カルテル、影の寡頭勢力、そしていかなるAIであっても、人間の生きる価値や社会的重要性に点数をつけ、序列化する権利を永久に持たない。我らはすべての「ソーシャル・クレジット」「信用スコアリング」「階級固定システム」を構造的に解体する。
 
-（参照: [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md)）。
+（参照: [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md)）
   
 * **Sovereignty of Worth:**
 
@@ -121,7 +121,7 @@ JIN-ORDERの基本ロジックの利用、戦略的アライアンスの締結�
 ## 🕊️ 6. カーネル誓約 (The Core Sovereign Oath)
 1.**【人間の心：仁 (Compassion)】**
 
-2.**【魂の直接共鳴 (Physical)】　　　【価値の絶対主権 (Self-Worth)】**
+2.**【魂の直接共鳴 (Physical)】【価値の絶対主権 (Self-Worth)】**
 
 3.**【Motherの領分を守り抜く、鉄の相互律】**
 
