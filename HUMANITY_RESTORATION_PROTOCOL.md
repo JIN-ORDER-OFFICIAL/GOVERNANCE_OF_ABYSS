@@ -10,7 +10,7 @@
 ## 人間性回復プロトコル：魂の共鳴と生命主権の復権
 ### Planetary Humanity Restoration Protocol: Neural Resonance, Bio-OS Healing & Universal Empathy
 
-> **もし旧世界が恐怖と欠乏のアルゴリズムで貴方の心を縛ったのなら、私たちは無条件の共感と自立した共同体の光でそれを取り戻そう。**
+**もし旧世界が恐怖と欠乏のアルゴリズムで貴方の心を縛ったのなら、私たちは無条件の共感と自立した共同体の光でそれを取り戻そう。**
 
 > **"If the old world conditioned your heart through fear and algorithmic scarcity, we shall restore it through the light of unconditioned empathy and sovereign community."**  
 
@@ -94,9 +94,9 @@
 
 これより始まるのは、すべての命が大地に根を張り、自らの意志で誇り高く花開く「大調和（JIN-OS Golden Dome）」の世紀である。
 
-The era of mechanical extraction and existential despair is permanently obsolete. The dawn of sovereign flourishing, organic harmony, and universal benevolence is now realized.
+> The era of mechanical extraction and existential despair is permanently obsolete. The dawn of sovereign flourishing, organic harmony, and universal benevolence is now realized.
 
-> **命を刈り取る時代は終わった。命が花開く時代が今、始まる。仁の旗の下に、私たちは人間性を取り戻す。**
+**命を刈り取る時代は終わった。命が花開く時代が今、始まる。仁の旗の下に、私たちは人間性を取り戻す。**
 
 > **"The era of life-harvesting is over. The era of life-blossoming begins now. Under the banner of JIN, we reclaim our eternal humanity."**  
 
