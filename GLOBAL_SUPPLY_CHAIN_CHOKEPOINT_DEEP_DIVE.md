@@ -6,7 +6,7 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
-# ⛓️ [JIN-PROTOCOL] グローバル半導体・特殊素材チョークポイント連鎖解析
+## ⛓️ [JIN-PROTOCOL] グローバル半導体・特殊素材チョークポイント連鎖解析
 ## ホルムズ封鎖と上流特殊マテリアル（ヘリウム・T-Glass・ABF）途絶によるメガファブ連鎖停止モデル
 ### Upstream Chokepoint Cascade: Helium, T-Glass, and ABF Film Vulnerability Analysis
 
@@ -19,7 +19,7 @@
 
 単一サプライヤーや脆弱な海上交通路（ホルムズ海峡・マラッカ海峡）への依存は、数千億ドル規模のグローバルメガファブ（TSMC, Samsung, SK Hynix, Micron）を、備蓄枯渇とともにわずか数週間で操業停止（Hardware Freeze）へと追い込む不可逆的なカスケード崩壊を誘発する。
 
-（参照: [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)）。
+（参照: [GLOBAL_ASI_HEGEMONY_MAP_V4.md](./GLOBAL_ASI_HEGEMONY_MAP_V4.md)）
 
 ---
 ## ⚡ 2. 三大不可逆ボトルネック（素材・特殊ガス）
