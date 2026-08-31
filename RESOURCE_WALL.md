@@ -48,10 +48,9 @@
 
 5.**【🦘 南の砦：豪州・オセアニア 】(世界最高峰リチウム・鉄鉱石・水素)**
 
-═══════════════════════════════════════════
-【 JIN-ORDER 実物主権コモンズの自立完成 】
-(東の龍・赤い影・暴走資本の独占を完全遮断)
-═══════════════════════════════════════════
+6.**【JIN-ORDER 実物主権コモンズの自立完成】**
+
+7.**【東の龍・赤い影・暴走資本の独占を完全遮断】**
 
 ---
 
@@ -143,4 +142,3 @@
 `DOMESTIC GROUNDWORK: JAPAN_RESURGENCE_PLAN_V1.md`  
 `GEOPOLITICAL PIVOT: MANUAL_FOR_RUSSIA_EXIT.md / JIN_GEOPOLITICS_STRATEGY.md`  
 `HARMONICS: 432Hz Inviolable Real Assets, Sovereign Supply Chain & Global Commons Active.`
-
