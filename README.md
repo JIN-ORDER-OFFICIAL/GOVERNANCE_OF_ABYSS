@@ -25,7 +25,7 @@
 
 リポジトリ内のプロトコル群は、グローバル危機に対する4層の防壁構造として体系化されています。
 
-## 【 Layer 1: 地政学・チョークポイント脅威分析 (Geopolitical & Chokepoints) 】 
+## 【Layer 1: 地政学・チョークポイント脅威分析 (Geopolitical & Chokepoints)】 
   
    ・GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)
   
@@ -33,19 +33,19 @@
   
    ・03_ASIA_GEOPOLITICAL_RECON.md / Global_Intelligence_Decipherment_Dashboard
 
-## 【 Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance) 】
+## 【Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance)】
 
    ・JIN_AI_ETHICS_GOVERNANCE.md / JIN_CONSTITUTION.md / JIN_ORDER_CORE.md
   
    ・UNIVERSAL_ETHICS.md / UNIVERSAL_ETHICS_13.md
 
-## 【 Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】**
+## 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】**
 
    ・64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md / JIN_ECONOMY_PROTOCOL.md
   
    ・BANK_RECOVERY_ORDER_2026.md / RESOURCE_WALL.md                
 
-## 【 Layer 4: 地域主権・国土再生・自律インフラ (Regional Sovereignty & Tech)】**
+## 【Layer 4: 地域主権・国土再生・自律インフラ (Regional Sovereignty & Tech)】**
 
    ・JAPAN_RESURGENCE_PLAN_V1.md / JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md
   
