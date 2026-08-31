@@ -39,13 +39,13 @@
   
    ・UNIVERSAL_ETHICS.md / UNIVERSAL_ETHICS_13.md
 
-## 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】**
+## 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】
 
    ・64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md / JIN_ECONOMY_PROTOCOL.md
   
    ・BANK_RECOVERY_ORDER_2026.md / RESOURCE_WALL.md                
 
-## 【Layer 4: 地域主権・国土再生・自律インフラ (Regional Sovereignty & Tech)】**
+## 【Layer 4: 地域主権・国土再生・自律インフラ (Regional Sovereignty & Tech)】
 
    ・JAPAN_RESURGENCE_PLAN_V1.md / JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md
   
