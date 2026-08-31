@@ -100,7 +100,7 @@ JIN-ORDERは [JIN_COUNTER_PROTOCOL_2026.md](./JIN_COUNTER_PROTOCOL_2026.md)（Pr
 
   戦域全体を覆う不可視のデジタルID・顔認証・ミリ波レーダー網。
   
-  （参照: [Global_Surveillance.md](./Global_Surveillance.md)）。
+  （参照: [Global_Surveillance.md](./Global_Surveillance.md)）
 
 * **全生命の家畜化:**
 
