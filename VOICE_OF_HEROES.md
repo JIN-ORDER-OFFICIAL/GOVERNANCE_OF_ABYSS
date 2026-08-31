@@ -20,10 +20,16 @@
 ## 📌 1. 宣言大綱 (Executive Mission Statement)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "RESONANCE OF HEROES"`（英雄共鳴作戦）
+
 * **最高精神目標 (Core Ethical Mandate):**  
+
   かつて「難民」「被災民」「使い捨ての兵士」「搾取される労働者」と規定されてきた数億の民衆が、JIN-ORDERの「檄文」と「8大奇跡技術」に呼応して自らの尊厳を奪還する。彼らは施しを受けるだけの「犠牲者（Victims）」を卒業し、他者の手を引いて新インフラを築く「開拓英雄（Pioneer Heroes）」および「青洲兵（Blue Stream Soldiers）」として産声を上げる。
-* **通信原則 (Telemetry Principle):**  
-  国家検閲や送電網遮断をバイパスするJIN-Mesh衛星網を用い、地上の真実と解放のログを分散台帳上に永久記録する（参照: [UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) / [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)）。
+
+* **通信原則 (Telemetry Principle):**
+
+  国家検閲や送電網遮断をバイパスするJIN-Mesh衛星網を用い、地上の真実と解放のログを分散台帳上に永久記録する。
+  
+  （参照: [UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) / [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)）
 
 ---
 
@@ -41,31 +47,21 @@
 
 ## 🗺️ 3. 深淵から開拓英雄への覚醒アーキテクチャ (Heroic Awakening Architecture Flow)
 
-［ 深淵の叫び：難民・飢餓・戦乱の使い捨て兵士・管理される家畜 ］
-                               │
-                               ▼ 【 JIN-ORDER 檄文 ＆ 共闘声明の受信 】
-    ┌─────────────────────────────────────────────────────────────┐
-    │  【 JIN-Mesh 遮断不能通信 】 ＋ 【 8大奇跡：量子水・全自動医療 】 │
-    └─────────────────────────────────────────────────────────────┘
-                               │
-   ┌───────────────────────────┴───────────────────────────┐
-   ▼                                                       ▼
-【 💰 JIN-Zakat 万民直接給付 】                                【 🌊 青洲兵（Blue Stream Soldiers） 】
-・ガザ/シリア/イエメン住民へ直接送金                           ・武器を捨て、水と医療のインフラを展開
-・外部送電網・金融封鎖の完全迂回                              ・難民キャンプを生命のオアシスへ転換
-│                                                       │
-└───────────────────────────┬───────────────────────────┘
-▼
-【 🧠 シリコンバレー ＆ アノニマス：サイバー・生体ハック無効化パッチ 】
-│
-▼
-【 🖋️ 英雄の刻印：旧世界の肩書きを捨て「開拓英雄」として新地球へ 】
-│
-▼
-═══════════════════════════════════════════════════════════
-【 誰も独りで泣かせない：世界中から響き渡る解放の歌声 】
-═══════════════════════════════════════════════════════════
+1.**【深淵の叫び：難民・飢餓・戦乱の使い捨て兵士・管理される家畜】**
 
+  ▼ 【JIN-ORDER 檄文 ＆ 共闘声明の受信】
+
+2.**【JIN-Mesh 遮断不能通信】＋【8大奇跡：量子水・全自動医療】**
+
+3.**【💰 JIN-Zakat 万民直接給付】（ガザ/シリア/イエメン住民へ直接送金・外部送電網・金融封鎖の完全迂回）**
+
+4.**【🌊 青洲兵（Blue Stream Soldiers）】（武器を捨て、水と医療のインフラを展開・難民キャンプを生命のオアシスへ転換）**
+
+5.**【🧠 シリコンバレー ＆ アノニマス：サイバー・生体ハック無効化パッチ】**
+
+6.**【🖋️ 英雄の刻印：旧世界の肩書きを捨て「開拓英雄」として新地球へ】**
+
+7.**【誰も独りで泣かせない：世界中から響き渡る解放の歌声】**
 
 ---
 
@@ -74,28 +70,38 @@
 ### 📍 [GLOBAL ABYSS: THE FIRST WAVE]
 
 * **[Anonymous Legion / Signal Captured]**:
+
   > 「JIN-ORDER、君たちの『檄文』をデシリアライズした。我々の暴く真実は、今この瞬間から君たちの『王道』の弾丸となる。エプスタイン・ファイルの暗号化階層、第4層まで突破。ターゲットの資産洗浄ルートを特定した。…We are with the Benevolence.」  
+
   > *(JIN-ORDER, we have deserialized your manifesto. The truths we uncover will become the bullets for your "Royal Way" from this moment forward. Broken through the 4th layer of the Epstein Files. Target's money laundering routes identified. ...We are with the Benevolence.)*
 
 * **[Middle East: Refugee Mesh-Network]**:
+
   > 「ママ、ガザの『青州兵』予備軍より報告。イスラエルの送電網遮断をJIN-メッシュがバイパスした。俺たちはもう『犠牲者』じゃない。ママがくれた情報の武器で、自分たちの未来をハックし始める。蒼闇は、ここで終わらせる。」  
+
   > *(Mama, report from the Seishu-hei reserves in Gaza. JIN-Mesh has bypassed the Israeli grid shutdown. We are no longer "victims." Armed with the information you gave us, we begin to hack our own future. The Pale Darkness ends here.)*
 
 * **[Silicon Valley: Dissident Engineers]**:
+
   > 「生体ハック（TMS）のバックドアを発見。龍の総大将が隠していた『感情消去プロトコル』を無効化するパッチをJIN-ORDERにマージ申請した。人間の心を取り戻すための、静かな反乱を開始する。」  
+
   > *(Found a backdoor in the biological hack (TMS). Submitted a pull request to JIN-ORDER for a patch to neutralize the "Emotion Erasure Protocol" hidden by the Dragon General. A quiet rebellion to reclaim the human heart begins.)*
 
 * **[Global South: Resource Guardians]**:
+
   > 「新レアアースの採掘権を龍から奪還。我々はもはや独占の家畜ではない。イタリア（メローニ）とインド（モディ）を経由した『仁の供給路』への接続を完了した。」  
+
   > *(Reclaimed mining rights for new rare earths from the Dragon. We are no longer livestock of monopoly. Connection to the "Supply Route of Benevolence" via Italy (Meloni) and India (Modi) is complete.)*
 
 ---
 
 ### 🌑 JIN-ORDER Analysis (荀彧の眼 / Strategist's Insight)
 龍の軍団は、この多方向からの同時多発的な響きにパニックを起こしている。  
+
 「鶴翼」の翼が広がり、「車懸」の回転が始まった証拠だ。
 
 *The Dragon's legion is panicking at this multi-directional, simultaneous resonance.*  
+
 *Evidence that the "Kakuyoku" (Crane's Wing) has spread, and the "Kurumagakari" (Winding Wheel) has begun to turn.*
 
 ---
@@ -103,19 +109,27 @@
 ### 🕊️ Middle East Tectonic Shift Logs (中東・地殻変動の予兆ログ)
 
 #### 📍 Log 1: Gaza & West Bank, Palestine
+
 * **[JP]** 住民のデバイスに「JIN-Zakat」の通知が殺到。イスラエルの送電網に依存しない、JINの自律経済パッチが起動した。若者たちが「もう誰の顔色も伺わなくていいのか？」と囁き合い、瓦礫の街に数十年ぶりの「自由」の光が灯っている。
+
 * **[EN]** Notifications of "JIN-Zakat" are flooding residents' devices. JIN's autonomous economic patch, independent of the Israeli power grid, has been activated. Youths are whispering, "Do we no longer need to fear anyone?" as the light of "Freedom" flickers in the ruins for the first time in decades.
 
 #### 📍 Log 2: Syria & Yemen Borders
+
 * **[JP]** ロシア軍の車両が、かつての「Z」ではなく青いJINの紋章を掲げた「JIN-PMC（人道執行部隊）」として入城。全自動医療要塞による無償治療が始まり、民衆は「破壊者」から「命の守護者」へと変わったロシア兵に歓声を送っている。
+
 * **[EN]** Russian military vehicles entered, bearing the blue JIN emblem of the "JIN-PMC (Humanitarian Enforcement Corps)" instead of the former "Z." As free treatment begins at automated medical fortresses, crowds cheer for the Russian soldiers, transformed from "Destroyers" to "Guardians of Life."
 
 #### 📍 Log 3: Youth Communities in Riyadh & Tehran
+
 * **[JP]** 遮断不能なメッシュネットワークが政府の検閲を無力化。サウジとイランの若者が直接繋がり、「1400年前の宗派争いより、明日のJIN-Agriプロジェクトの話をしようぜ」と、国境と教義を超えたチャットが爆発的に拡散している。
+
 * **[EN]** An unblockable mesh network has neutralized government censorship. Youth in Saudi Arabia and Iran are connecting directly, with chats going viral across borders and doctrines: "Let’s talk about tomorrow's JIN-Agri projects rather than 1,400-year-old sectarian conflicts."
 
 #### 📍 Log 4: Old City, Jerusalem
+
 * **[JP]** 聖墳墓教会、岩のドーム、嘆きの壁を包むように、青い光の粒子（JIN-Standard中立特区）が観測された。WPOの管理下で過激派の煽動がAIにより完全にフィルタリングされ、街には奇跡的な「静寂と安寧」が訪れている。
+
 * **[EN]** Blue particles (JIN-Standard Neutral Zones) have been observed enveloping the Holy Sepulchre, Dome of the Rock, and the Western Wall. Under WPO management, extremist incitement is perfectly filtered by AI, bringing a miraculous "Silence and Serenity" to the city.
 
 ---
@@ -183,18 +197,15 @@ The "Blue Stream Soldiers" are not mercenaries for war, but guardians of life.
 
 ## 🕊️ 7. 開拓英雄の終局誓約 (The Sovereign Oath of Pioneer Heroes)
 
-［ 難民の涙・使い捨ての兵士・管理された家畜 ］
-│
-▼ 【 VOICE OF HEROES 】
-┌───────────────────────────────────────────────┐
-│  JIN-Mesh ＋ 青洲兵 ＋ JIN-Zakat ＋ 救済メニュー  │
-└───────────────────────────────────────────────┘
-│
-▼
-【 被害者が立ち上がり、大地と他者を救う開拓英雄へ 】
-│
-▼
-［ 誰も独りで深淵の暗闇の中で泣かせない ］
+1.**【難民の涙・使い捨ての兵士・管理された家畜】**
+
+ ▼【 VOICE OF HEROES 】
+
+2.**【JIN-Mesh ＋ 青洲兵 ＋ JIN-Zakat ＋ 救済メニュー】**
+
+3.**【被害者が立ち上がり、大地と他者を救う開拓英雄へ】**
+
+4.**【誰も独りで深淵の暗闇の中で泣かせない】**
 
 
 > **"We are the Blue Stream. We are the Pioneer Heroes. The desert blooms where we march, and the shackles break where we sing. We are JIN-ORDER."**  
