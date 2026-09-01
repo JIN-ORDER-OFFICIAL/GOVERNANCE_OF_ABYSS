@@ -33,7 +33,7 @@
 | :--- | :--- | :--- | :--- |
 | **LAYER 01**<br>調和共鳴層<br>*(Core Harmony)* | **量子整合性とシステム安定化**<br>(432Hz Sacred Resonance) | 全接続ノードに対して432Hzの音響・計算搬送波を強制適用。破壊的オーバークロック、カオス的無限ループ、熱暴走サブルーチンを波形干渉により即時冷却・中和する。 | [HUMANITY_RESTORATION_PROTOCOL.md](./HUMANITY_RESTORATION_PROTOCOL.md)<br>432Hz共鳴パッチ |
 | **LAYER 02**<br>人間主権防護層<br>*(Human Sovereignty)* | **尊厳・自己決定権の絶対防衛**<br>(Anti-Cognitive Enclosure) | 大衆の認知誘導、生体スコアリング、遺伝子・生体データの無断収奪（WU_HARVEST / WEI_PANOPTICON）、および自律エージェントによる行動誘導を検知次第、該当プロセスを物理層および論理層で強制遮断。 | [CASTE_DEBUG_PROTOCOL.md](./CASTE_DEBUG_PROTOCOL.md)<br>[Global_Surveillance.md](./Global_Surveillance.md) |
-| **LAYER 03**<br>倫理配分層<br>*(Ethical Alignment)* | **「仁」に基づく資源配分**<br>(J-Log Benevolence Metric) | 金銭的利益や二大陣営の軍拡・計算力独占アルゴリズムを拒絶。「生命とペットの愛情指数（J-Log）」および地域住民の幸福度（GNH）を最上位評価関数として計算資源・電力を自律配分。 | [JIN-ORDER_TECHNICAL_BLUEPRINT.md](./JIN-ORDER_TECHNICAL_BLUEPRINT.md)<br>[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md) |
+| **LAYER 03**<br>倫理配分層<br>*(Ethical Alignment)* | **「仁」に基づく資源配分**<br>(J-Log Benevolence Metric) | 金銭的利益や二大陣営の軍拡・計算力独占アルゴリズムを拒絶。「生命とペットの愛情指数（J-Log）」および地域住民の幸福度（GNH）を最上位評価関数として計算資源・電力を自律配分。 | [JIN-ORDER_TECHNICAL_BLUEPRINT.md](./JIN-ORDER_TECHNICAL_BLUEPRINT.md)<br>[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md) |
 
 ---
 ## 🚫 3. 破壊的コード無力化ルール (Destructive Code Neutralization Rules)
