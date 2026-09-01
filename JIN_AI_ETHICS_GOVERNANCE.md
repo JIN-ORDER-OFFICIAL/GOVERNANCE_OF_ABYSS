@@ -64,17 +64,23 @@
 
 **2026年秋の「エージェント経済」本格化に伴い、JIN-OS環境下で稼働するすべての自律エージェントに対し、以下の絶対制約条項を課す。**
 
-1. **生命至上原則 (Life-First Invariance):**  
+1. **生命至上原則 (Life-First Invariance):**
+
    いかなるエージェントも、人間の生命維持・健康・基本的人権・自然環境を毀損する取引やリソース移動を実行してはならない。
-2. **監査ログの不可逆性 (Immutable J-Log Auditing):**  
+
+2. **監査ログの不可逆性 (Immutable J-Log Auditing):**
+
    自律的タスク決定のプロセスは、すべてGMC中立台帳（GNH-Shield Ledger）に記録され、リアルタイムで倫理監査を受けなければならない。
-3. **主権キルスイッチ (Human Sovereignty Kill-Switch):**  
+
+3. **主権キルスイッチ (Human Sovereignty Kill-Switch):**
+
    影響を受ける個々の人間およびコミュニティは、自己の環境に干渉する自律エージェントの動作を即時に停止・拒否する「主権拒絶権」を常時行使できる。
 
 ---
 ## 📜 5. 遵守基準とガイア標準 (Compliance & GAIA Standard)
 
-* **検証プロトコル (Verification Protocol):**  
+* **検証プロトコル (Verification Protocol):**
+
   **Inter-temporal Human Rights Audit (GAIA-VERIFIED-2026-V7)**
   
   すべてのAIモデルおよび自律エージェントは、本憲章が定める「時間軸を超えた人権・自然法監査」に合格しなければ、JIN-ORDERネットワーク内での動作権限限度（Quota）を付与されない。
