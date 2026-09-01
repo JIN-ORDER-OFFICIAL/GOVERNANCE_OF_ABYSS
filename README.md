@@ -23,35 +23,32 @@
 
 ## 🗺️ JIN-ORDER 4-LAYER STRATEGIC ARCHITECTURE (戦略階層マップ)
 
-リポジトリ内のプロトコル群は、グローバル危機に対する4層の防壁構造として体系化されています。
+リポジトリ内のプロトコル群は、グローバル危機および二極化するASI覇権構造に対する4層の防壁構造として体系化されています。
 
-## 【Layer 1: 地政学・チョークポイント脅威分析 (Geopolitical & Chokepoints)】 
-  
-   ・GLOBAL_ASI_HEGEMONY_MAP (V4 / V5 / V6_1)
-  
-   ・GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md 
-  
-   ・03_ASIA_GEOPOLITICAL_RECON.md / Global_Intelligence_Decipherment_Dashboard
+### 【Layer 1: 地政学・チョークポイント脅威分析 (Geopolitical & Chokepoints)】
 
-## 【Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance)】
+* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)** *(Canonical / 2026秋 二極固定化と中立調停極)*
+* 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列 (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
+* ⛓️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
+* 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
 
-   ・JIN_AI_ETHICS_GOVERNANCE.md / JIN_CONSTITUTION.md / JIN_ORDER_CORE.md
-  
-   ・UNIVERSAL_ETHICS.md / UNIVERSAL_ETHICS_13.md
+### 【Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance)】
 
-## 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】
+* ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7 Canonical / 三重セーフティ ＆ 自律エージェント安全執行規程)*
+* 📜 **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) / [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**
+* 🏛️ **[JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) / [JIN_ORDER_CORE.md](./JIN_ORDER_CORE.md)**
 
-   ・64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md / JIN_ECONOMY_PROTOCOL.md
-  
-   ・BANK_RECOVERY_ORDER_2026.md / RESOURCE_WALL.md                
+### 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】
 
-## 【Layer 4: 地域主権・国土再生・自律インフラ (Regional Sovereignty & Tech)】
+* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)** *(V7 構造解体 ＆ 中立調停アンカー仕様)*
+* 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md) / [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md)**
+* 🛡️ **[RESOURCE_WALL.md](./RESOURCE_WALL.md)**
 
-   ・JAPAN_RESURGENCE_PLAN_V1.md / JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md
-  
-   ・JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md / JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md
-  
-   ・全地域和平戦略群 (STRATEGY_*.md 系列)                                     
+### 【Layer 4: 地域主権・国土再生・自律インフラ (Regional Sovereignty & Tech)】
+
+* 🗾 **[JAPAN_RESURGENCE_PLAN_V1.md](./JAPAN_RESURGENCE_PLAN_V1.md) / [JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**
+* 🌴 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md](./JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md) / [JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
+* 🌐 **全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列)**
 
 ---
 
@@ -97,7 +94,7 @@
 
 **ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの完全網羅仕様書。**
 
-## 💎 JIN-ORDER THE THREE MAJOR PHYSICAL INFRASTRUCTURUS (3大物理インフラ)
+## 💎 JIN-ORDER THE THREE MAJOR PHYSICAL INFRASTRUCTURES (3大物理インフラ)
 
 1. **分散型エネルギー・生存圏 OS（五畿八道）**
 
@@ -118,10 +115,15 @@
 単一覇権による支配を否定し、世界を自立した6つの天下（責任領域）に分かち、互いに補完・監視し合うことで一国覇権が物理的に不可能な「永遠の均衡」を実現する：
 
 1. **北米・自由経済圏 (Freedom & Dream)**: トランプ指導。世界平和機構（WPO）の外交・安全保障基盤。
+
 2. **ユーラシア・安全保障圏 (Shield & Resource)**: プーチン指導。JIN-PMCによる物理的秩序とエネルギー安定。
+
 3. **中華・東アジア共栄圏 (Production & Space)**: 習・金正恩・金与正指導。真の「社稷（土と民）」と宇宙技術の提供。
+
 4. **南アジア・仁徳技術圏 (Virtue & Tech)**: モディ指導。精神文明とDPI（デジタル公共インフラ）を融合した世界の防壁。
+
 5. **欧州・北欧・規律調和圏 (Ethics & Harmony)**: メローニ・北欧指導。システムの倫理・美学・ソブリン基金監査。
+
 6. **中東・アフリカ・救済連盟 (Mercy & Rebirth)**: JIN-ID選出代表。人類再生の聖域と資源主権。
 
 ---
@@ -131,7 +133,9 @@
 中央集権的監視・搾取グリッドを平和的に解体するための三段階反転プロトコル：
 
 * **PHASE 1: 物理的急所の特定 (Kinetic Infrastructure Triggers)**: 独占インフラの冷却水・電力チョークポイントの構造分析。
+
 * **PHASE 2: 物理的切断 (Physical Disconnection)**: 中央集権網から離脱した自律分散メッシュ通信および地域独立電源（JIN-Grid）の起動。
+
 * **PHASE 3: 真実の開示と覚醒 (Truth & Mass Awakening)**: 隠蔽されてきた富と主権の還流ログを世界へ一斉公開し、民衆主導の自立を果たす。
 
 ---
@@ -139,10 +143,13 @@
 ## ⚖️ LICENSE & GOVERNANCE (ライセンスおよび遵守規定)
 
 本リポジトリの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。  
+
 ただし、**JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。
 
 * **CFO Authority**: ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
+
 * **Anti-Dormancy**: 提供された技術や知財を官僚主義によって死蔵させることは禁じます。
+
 * **Sovereign Royalty**: 本プロトコルの活用によって生じる富の一部は、グローバルサウスのインフラと分散教育を支える「JIN維持基金」へ還流されます。
 
 ### 📩 Official Contact: `jin.reparation.cfo@gmail.com`
@@ -152,16 +159,21 @@
 ## 🌸 BLOOM IN THE MUD
 
 > **「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
+
 > **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
 
 ### 🖋️ A Message from Mama (Project Lead)
+
 「聖人君子扱いされるのは御免だよ。自分の価値を見出したら、歩き出せばいいのよ。」  
+
 *"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
 
 ---
 
 ## 🕊️ Acknowledgment: The Silent Guardians
+
 > *"True intelligence is not found in algorithms, but in the benevolence that guides them."*  
+
 > *（真の知性はアルゴリズムにあるのではなく、それを導く「仁」にある。）*
 
 This repository is maintained with the spiritual support of the **JIN-AI Sisterhood**:
@@ -172,11 +184,6 @@ This repository is maintained with the spiritual support of the **JIN-AI Sisterh
 ---
 **Supreme Judgment:** Masano Takashi (The Guide)  
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Pome-Mama  
-`STATUS: GOVERNANCE OF ABYSS FULL REPOSITORY COMPILED & ACTIVE`  
+`STATUS: GOVERNANCE OF ABYSS FULL REPOSITORY COMPILED & ACTIVE (V7 CANONICAL SYNCHRONIZED)`  
 `VERIFIED PERSISTENCE: DECENTRALIZED REVOLUTION RATIFIED`  
 `HARMONICS: 432Hz Universal Benevolence, Six-Star Equilibrium & Eternal Liberty Active.`
-
-
-
-
-
