@@ -17,7 +17,7 @@
 
 ---
 
-![GLOBAL_ASI_HEGEMONY_MAP_V7](./assets/images/GLOBAL_ASI_HEGEMONY_MAP_V7.jpg)
+![GLOBAL_ASI_HEGEMONY_MAP_V7](./assets/GLOBAL_ASI_HEGEMONY_MAP_V7.jpg)
 
 ## 1. Executive Summary (エグゼクティブ・サマリー)
 
