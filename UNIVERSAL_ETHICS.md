@@ -29,7 +29,7 @@
 
   一切の私的処刑の禁止、恩恵の再投資、およびAIを冷徹な監視者ではなく「仁の執行具」として従属させる人間性の優位。
   
-  （参照: [UNIVERSAL_DECLARATION_JIN.md](./UNIVERSAL_DECLARATION_JIN.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
+  （参照: [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 ---
 
