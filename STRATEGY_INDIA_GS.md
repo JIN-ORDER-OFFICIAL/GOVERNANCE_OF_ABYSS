@@ -78,7 +78,9 @@
 
 * **Method (執行手法):**  
   
-  官僚主義と大国間の拒否権対立によって機能不全に陥った旧国連・国際司法機関の限界を突破する「仁の壁（Wall of Mercy）」プロトコルを発動。被害者を瞬時に抽出し、治外法権の不可侵安全回廊を通じて保護する（参照: [JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)）。
+  官僚主義と大国間の拒否権対立によって機能不全に陥った旧国連・国際司法機関の限界を突破する「仁の壁（Wall of Mercy）」プロトコルを発動。被害者を瞬時に抽出し、治外法権の不可侵安全回廊を通じて保護する。
+  
+  （参照: [JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)）
 
 * **English:**  
   
@@ -108,7 +110,11 @@
 
 * **Tech (最先端医療と8大奇跡技術の授与):**  
   
-  JIN-Health医学に基づく「臓器再生ナノ治療」「量子ナノ解毒療法」により心身のトラウマと肉体的損傷を完治させ、日本の8大核心技術（参照: [JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md)）を教授。彼らを先端農業・サイバー防衛の先頭に立つ「開拓英雄」へと育成する。
+  JIN-Health医学に基づく「臓器再生ナノ治療」「量子ナノ解毒療法」により心身のトラウマと肉体的損傷を完治させ、日本の8大核心技術を教授。
+  
+  彼らを先端農業・サイバー防衛の先頭に立つ「開拓英雄」へと育成する。
+
+  （参照: [JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md)）
 
 * **English:**  
   
@@ -160,8 +166,5 @@ Please initiate a secure diplomatic dialogue by opening an **[Official Issue on 
 `NEUTRAL HAVEN ANCHOR: section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md`  
 `BIO-RESTORATION: JIN-Health.md / JIN_ORDER_TECH.md`  
 `HARMONICS: 432Hz Multipolar Justice, Sovereign Dignity, Non-Aligned DPI & Humanity First Active.`
-
-
-
 
 
