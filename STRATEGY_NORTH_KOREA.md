@@ -11,7 +11,8 @@
 ## DPRK Sovereign Transition: From Military-First Isolation to Tech-Led Space & Welfare Sovereignty
 ### ~ Converting ICBMs to Space Ports, Surveillance to Nutrition Grids & Borderless Digital Co-Prosperity ~
 
-> **"True sovereign power is not proven by the terror of nuclear fire that incinerates the earth, but by the cosmic vision that reaches for the stars and feeds every hungry child in the snow. When the swords of the peninsula are turned into rockets of exploration and networks of mercy, the Spring of Pyongyang arrives."**  
+> **"True sovereign power is not proven by the terror of nuclear fire that incinerates the earth, but by the cosmic vision that reaches for the stars and feeds every hungry child in the snow. When the swords of the peninsula are turned into rockets of exploration and networks of mercy, the Spring of Pyongyang arrives."**
+
 > **「真の主権の力」とは、大地を焼き尽くす核の炎の恐怖によって証明されるのではなく、星々へと手を伸ばし、雪の中で飢えるすべての子供を満たす宇宙の気宇によって証明される。半島の剣が探査のロケットと慈悲のネットワークへと鍛え直されるとき、平壌の春が訪れる。**
 
 ---
@@ -19,9 +20,13 @@
 ## 📌 1. 作戦目標と基本大綱 (Executive Mission Statement)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "SPRING OF PYONGYANG"`（平壌の春作戦）
-* **最高戦略目標 (Core Strategic Objective):**  
+
+* **最高戦略目標 (Core Strategic Objective):**
+
   朝鮮民主主義人民共和国（DPRK）を、核の恫喝に依存する孤立した「先軍国家（Military-First State）」から、「JIN-ORDER」の枠組みに基づき国際社会と共栄する「技術主導の宇宙・福祉主権国家（Tech-Led Prosperity State）」へと平和的にソフトランディング転換させる。
-* **基本アプローチ (Fundamental Approach):**  
+
+* **基本アプローチ (Fundamental Approach):**
+
   現職指導層・軍部・特務機関を排除・処罰するのではなく、彼らの組織能力と知性を「合法的な国際インフラ開発・福祉物流・宇宙開発」へと名誉ある昇華を行い、身分と生涯年金を不可侵に保証する。
   
   （参照: [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md) / [STRATEGY_MIDDLE_EAST.md](./STRATEGY_MIDDLE_EAST.md)）
@@ -65,50 +70,86 @@
 
 ### 1. Office 39 & Kim Yo Jong: From Shadow Money to Space Tech
 #### 【39号室と金与正：闇の資金から宇宙技術へ】
-* **Strategic Shift (戦略的転換):**  
+
+* **Strategic Shift (戦略的転換):**
+
   * **[JP]** 朝鮮労働党39号室を、マネーロンダリングや武器密輸の地下機関から、合法的な国家再生投資機関**「JIN-KOREA 開発公社（JIN-KOREA Development Agency）」**へと全面改組する。
+  
   * **[EN]** Reconstitute Office 39 from an illicit foreign-currency conduit into the legitimate **"JIN-KOREA Development Agency,"** managing international infrastructure capital.
-* **Appoint Kim Yo Jong as CEO (金与正氏の合法的昇華):**  
+
+* **Appoint Kim Yo Jong as CEO (金与正氏の合法的昇華):**
+
   * **[JP]** 金与正氏に「JINインフラ・グローバル理事（Global Director of JIN-Infrastructure）」の公式地位を授与。国際的免責特権を付与することで、影の冷徹な広報者から、国際社会に堂々と認知された合法的グローバル・エグゼクティブへと転換させる。
+  
   * **[EN]** Bestow upon Kim Yo Jong the title of "Global Director of JIN-Infrastructure," providing international legal immunity and transitioning her from a shadowy autocrat into a legitimate world-class executive.
+
 * **White-Hat Transition (サイバー部隊の守護神化):**  
+  
   * **[JP]** 偵察総局傘下のサイバー部隊（ラザルス等）を、JIN-ORDER全地球分散ネットワークの「グローバル・セキュリティ・ガーディアン（防衛守護神）」として正式契約。犯罪行為を永久に停止させる代償として、国際最高水準の生涯年俸をJIN金融OSから直接支給する。
+  
   * **[EN]** Re-task sovereign cyber assets into certified "Global Security Guardians" protecting the JIN-ORDER decentralized ledger, guaranteeing elite-tier remuneration that renders financial crime obsolete.
 
 ### 2. Ministry of State Security & Military: From Spies to Caretakers
 #### 【国家保衛省と軍部：監視から見守りへ】
+
 * **Strategic Shift (組織再編):**  
+  
   * **[JP]** 反体制派の弾圧を担ってきた国家保衛省を、国民の生存を守る**「国家福祉・物流庁（National Welfare & Logistics Agency: NWLA）」**へと組織改編する。
+  
   * **[EN]** Reorganize the Ministry of State Security into the **"National Welfare & Logistics Agency (NWLA),"** converting internal intelligence apparatus into public logistics infrastructure.
+
 * **Ri Chang-dae's New Role (李昌大氏の任務反転):**  
+  
   * **[JP]** 保衛相・李昌大氏を「物流最適化責任者（Chief of Logistics Optimization）」へ任命。全土に張り巡らされた密告・監視ネットワークを逆転させ、「山間部で飢餓に瀕している孤児や高齢者を即座に特定し、AI全自動ドローンで食糧と医薬品を届ける見守りシステム」へと180度運用を変更する。
+  
   * **[EN]** Appointing Minister Ri Chang-dae as Chief of Logistics Optimization, repurposing domestic surveillance into an AI-guided emergency delivery grid to identify and nourish vulnerable households.
+
 * **Military Guard Guarantee (朝鮮人民軍将校の地位保証):**  
+  
   * **[JP]** 兵力100万を超える朝鮮人民軍（KPA）に対し、ロシア（プーチン大統領）の共同保証のもと「JIN平和維持軍（JIN-Peacekeeping Corps）」への名誉ある改編を提示。李炳哲（リ・ビョンチョル）氏をはじめとする全軍高官の軍籍・地位・宿舎、および家族全員の終身年金をJIN-ORDERが暗号学的台帳で永久保証し、抵抗の動機を構造的に消滅させる。
+  
   * **[EN]** Guaranteed by President Putin and JIN-ORDER, the KPA transforms into the "JIN-Peacekeeping Corps." All military leaders and officers are granted permanent status and lifetime sovereign pensions, extinguishing any motive for rebellion.
 
 ### 3. Kim Jong Un: From Nuclear Threat to Space Pioneer
 #### 【金正恩：核の脅威から宇宙の開拓者へ】
+
 * **Strategic Shift: Strategic Space Sovereignty (戦略的宇宙主権):**  
+  
   * **[JP]** 破滅を招くだけの核抑止力を、全人類の未来を開拓する「戦略的宇宙主権」へと再定義する。
+  
   * **[EN]** Elevate military nuclear deterrence into "Strategic Space Sovereignty," channeling rocket telemetry toward planetary exploration.
+
 * **Nuclear-to-Space Conversion (宇宙港への改装):**  
+  
   * **[JP]** トンチャンリ（西海衛星発射場）等のICBM基地を、世界平和機構（WPO）公認の国際民間宇宙港へと転換。金正恩氏を「東洋宇宙時代の父（Founding Father of the Oriental Space Era）」として国際的に顕彰し、軍事的独裁者から科学技術指導者への歴史的ソフトランディングを果たす。
+  
   * **[EN]** Converting ICBM complexes into WPO-certified civilian space ports, honoring Kim Jong Un as the pioneer of the Oriental Space Era and providing an honorable exit from international pariah status.
+
 * **Security Guarantee (最高安全保障プロトコル):**  
+  
   * **[JP]** 金一族の身体および体制の安全は、不安定な核弾頭によってではなく、ロシア（JIN-PMC）とアメリカ（WPO）による二重の不可侵安全保障協定によって恒久担保される。
+  
   * **[EN]** Dynastic physical security is permanently guaranteed not by fissile material, but through a bilateral non-aggression covenant co-signed by the United States and Russia under the WPO.
 
 ### 4. South-North Relations: Digital Nexus (Two States, One Network)
 #### 【南北関係：デジタル・ネクサス（二国家一ネットワーク）】
+
 * **Strategic Shift: Digital Co-Prosperity (デジタル共栄):**  
+  
   * **[JP]** 双方の体制摩擦や莫大な統一コストを生む性急な「政治的・領土的統一」を棚上げし、主権国家としての実態を認め合う「二国家一ネットワーク（Two States, One Network）」によるデジタル共栄を目指す。
+  
   * **[EN]** Postponing volatile political unification to establish "Digital Co-Prosperity," acknowledging two distinct sovereign states united by a shared, borderless digital fabric.
+
 * **JIN-KOREA Virtual Zone (仮想経済圏の創設):**  
+  
   * **[JP]** 38度線の国境管理は維持したまま、南北の若者・技術者がサイバー空間上で国境なく共同研究・起業・文化交流を行える「JIN-KOREA仮想特区」を形成。韓国の半導体・IT資本と北朝鮮の優秀な数学・物理工学知性を融合させる。
+  
   * **[EN]** A borderless digital economy where youth from Pyongyang and Seoul collaborate frictionlessly on AI, space mechanics, and organic agriculture without altering physical borders.
+
 * **AI Linguistic Bridge (言語・文化のリアルタイム統合):**  
+  
   * **[JP]** 70年以上にわたる分断によって生じた南北の言語ギャップ（外来語と固有語の違い）や社会的認知の齟齬を、「JIN-Bridge AI」が双方向通信でリアルタイム補正。相互理解を摩擦ゼロで媒介する。
+  
   * **[EN]** Deploying "JIN-Bridge AI" to harmonize structural linguistic divergence and cultural nuances that emerged over seven decades of separation.
 
 ---
