@@ -42,8 +42,6 @@
 
 ## 🗺️ 3. 地下経済からクリーン共生経済への転換アーキテクチャ (Transition Architecture Flow V7)
 
-===================================================================================================
-
 1.**【PROJECT "AZURE RENAISSANCE" ARCHITECTURE (V7 CANONICAL)】**
 
 2.**【中米の旧現実：二極覇権の密輸回廊 ⚡カルテル暴力 ⚡粗悪薬物 ⚡土地収奪 ⚡若者の搾取】**
@@ -54,21 +52,21 @@
 
 5.**【🚚 密輸ルート ➔ 医療・人道回廊転換 】**   
 
-  **・青年層を高待遇な物流技術者へ再雇用**            
+  ・青年層を高待遇な物流技術者へ再雇用            
 
-  **・銃を捨て高付加価値STEM教育へ接続**           
+  ・銃を捨て高付加価値STEM教育へ接続           
 
 6.**【🛡️ 地域調和守護隊（防犯統合）】**
 
-  **・民衆の知恵＋JIN-AI調和カーネル**
+  ・民衆の知恵＋JIN-AI調和カーネル
   
-  **・暴力ではなく「誇り」に基づく自立**
+  ・暴力ではなく「誇り」に基づく自立
 
 7.**【🧬純粋供給・生体主権防護】**
 
-  **・量子ナノマーカーによる品質証明**
+  ・量子ナノマーカーによる品質証明
   
-  **・合成麻薬・有害バイオ資材の完全遮断**
+  ・合成麻薬・有害バイオ資材の完全遮断
 
 8.**【🔐耐量子ブロックチェーン（J-Log）による土地登記 ＆ 先住民族領土防衛】**
 
@@ -112,7 +110,9 @@
 
 * **Asset Revival (資産の再生):**  
   
-  * **[JP]** 地下に退蔵されている不透明資金を「地域復興債（Regional Renaissance Bonds）」へと誘引。数年間のインフラ・教育・病院建設への投資フェーズを経ることで、正当で透明性の高い社会貢献型資産へと合法的に更生・ソフトランディングさせる出口戦略を提供する（参照: [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md)）。
+  * **[JP]** 地下に退蔵されている不透明資金を「地域復興債（Regional Renaissance Bonds）」へと誘引。数年間のインフラ・教育・病院建設への投資フェーズを経ることで、正当で透明性の高い社会貢献型資産へと合法的に更生・ソフトランディングさせる出口戦略を提供する。
+  
+  （参照: [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md)）
   
   * **[EN]** Channeling informal capital into "Regional Renaissance Bonds," regenerating dormant funds into legally recognized assets dedicated to public schools, clinics, and clean utility grids.
 
