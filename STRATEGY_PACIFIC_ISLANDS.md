@@ -11,6 +11,8 @@
 ## Sovereign Pacific Resilience: Climate Defense, Deep-Sea Resource Trust & Non-Aligned Ocean Haven
 ### ~ OPERATION "BLUE SANCTUARY" / Overwriting Bipolar Militarization & Preserving Ancestral Waters ~
 
+![蒼海の聖域作戦](./assets/THE_BLUE_OCEAN_SANCTUARY_01.jpg)
+
 > **"The vast Pacific is not an empty buffer zone for imperial rivalries, nor is it a dumping ground for geopolitical waste. The ocean is a living ancestor. When floating sovereign sanctuaries rise above rising tides and the treasures of the deep sea are protected from predatory algorithms, the people of the great waters stand undefeated."**  
 
 > **（広大な太平洋は、帝国たちの覇権争いのための空白の緩衝地帯でも、地政学的ゴミ捨て場でもない。海は生きた祖霊である。海面上昇の波頭を越えて自律浮体式聖域が立ち上がり、深海の財宝が略奪的アルゴリズムから死守されるとき、偉大なる大洋の民草は不敗の主権者として立ち上がる。）**
@@ -18,6 +20,8 @@
 ---
 
 ## 📌 1. 作戦目標と基本大綱 (Executive Mission Statement & V7 Reality)
+
+![蒼海の聖域作戦](./assets/THE_BLUE_OCEAN_SANCTUARY_02.jpg)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "BLUE SANCTUARY"`（蒼海の聖域作戦）
 
