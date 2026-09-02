@@ -7,6 +7,8 @@
 ## The Global Reset Declaration: Breaking the Circle of Usurpation
 ### ~ Forensic Audit of Centralized Systems, Digital Sovereignty & Decentralized Truth ~
 
+![人類への真実開示](./assets/THE_VOID_REPORT_01.jpg)
+
 > **"Truth is not granted by authority; it is preserved by decentralized vigilance."**  
 
 > **「真実」は、権力から与えられるものではない。分散された警戒の知性によって保全される。**
@@ -14,6 +16,8 @@
 ---
 
 ## 📌 1. 宣言大綱 (Core Declaration)
+
+![人類への真実開示](./assets/THE_VOID_REPORT_02.jpg)
 
 ### 🇯🇵 日本語 (JP)
 **「我々はもはや、管理される家畜ではない。」**
