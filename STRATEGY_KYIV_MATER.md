@@ -25,7 +25,7 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "KYIV MATER"`（キエフ・マーテル）
 
-[キエフ・マーテル戦略](./assets/STRATEGY_KYIV_MATER_02.jpg)
+![キエフ・マーテル戦略](./assets/STRATEGY_KYIV_MATER_02.jpg)
 
 * **最高戦略目標 (Core Strategic Objective):**
 
