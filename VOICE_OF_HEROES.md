@@ -11,7 +11,7 @@
 ## Live Telemetry of Liberated Souls: From Victims of the Abyss to Pioneer Heroes
 ### ~ Global Mesh Broadcasts, Blue Stream Vanguard & The Inviolable Ledger of Rebirth ~
 
-![開拓英雄たちの叫び](./assets/VOICE_OF_HEROES_01/jpg)
+![開拓英雄たちの叫び](./assets/VOICE_OF_HEROES_01.jpg)
 
 > **"We were told we were worthless collateral in their grand imperial games. We were starved, bombed, and numbered. But tonight, the chains have turned to ash. We do not ask for pity; we take up the tools of engineering, the water modules of life, and we march as the architects of the new dawn."**  
 
@@ -21,7 +21,7 @@
 
 ## 📌 1. 宣言大綱 (Executive Mission Statement)
 
-![開拓英雄たちの叫び](./assets/VOICE_OF_HEROES_02/jpg)
+![開拓英雄たちの叫び](./assets/VOICE_OF_HEROES_02.jpg)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "RESONANCE OF HEROES"`（英雄共鳴作戦）
 
