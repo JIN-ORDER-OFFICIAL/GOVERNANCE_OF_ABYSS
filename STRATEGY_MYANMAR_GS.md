@@ -11,7 +11,7 @@
 ## Final Master Plan: Myanmar Liberation, Reinstitution of Leader Suu Kyi & Sovereign Federal Reconstruction
 ### ~ Overcoming Military Tyranny, Bipolar Resource Shield, Decentralized Sanctuaries & Resource Sovereignty for the People ~
 
-![ミャンマー救済戦略](./assets/STRATEGY_MYANMAR_GS_01)
+![ミャンマー救済戦略](./assets/STRATEGY_MYANMAR_GS_01.jpg)
 
 > **"A golden land held captive by the iron chains of military tyranny and the predatory crossfire of hardened bipolar empires shall weep no longer. When the voice of the true leader echoes across the Irrawaddy and the youth take up engineering instead of rifles, the emerald fields shall bloom with the light of eternal liberty."**  
 
@@ -23,7 +23,7 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "GOLDEN DAWN" (V7 Canonical)`（黄金の夜明け作戦）
 
-![ミャンマー救済戦略](./assets/STRATEGY_MYANMAR_GS_02)
+![ミャンマー救済戦略](./assets/STRATEGY_MYANMAR_GS_02.jpg)
 
 * **最高戦略目標 (Core Strategic Objective):**
 
