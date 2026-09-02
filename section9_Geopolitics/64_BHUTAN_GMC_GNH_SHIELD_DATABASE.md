@@ -14,7 +14,7 @@
 
 **【最高機密情報】ゲレフ・マインドフルネス・シティ（GMC）：支配層の最終避難先（オフショア聖域）、米中二極（G20/SCO）覇権裁定、越境エリート結節点、および自律中立調停アンカーの解剖**
 
-![画像](../assets/bhutan_gmc_elite_escape_route.jpg)
+![画像](../assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_01.jpg)
 
 ---
 
@@ -33,13 +33,22 @@
 ### 1. THE FACADE: The GNH Brand Shield & Bipolar Arbitrage
 **【表面構造】GNHブランド・シールドと二極覇権（G20/SCO）裁定（アービトラージ）**
 
+![画像](../assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_02.jpg)
+
 * **English:**
+  
   * **Cognitive & Ethical Screen:** Utilizing the pristine, peaceful imagery of Bhutan's "Gross National Happiness (GNH)" and Buddhist heritage as a psychological firewall against regulatory scrutiny, weaponized AI profiling, and public suspicion.
+  
   * **Regulatory Safe Haven & Bipolar Insulation:** Creating a Special Administrative Region (SAR) spanning over 10% of Bhutan's territory. It enforces statutory immunity against Western sanctions, the US CLOUD Act, Chinese National Intelligence Laws, FATF cross-border compliance, and SCO Development Bank data audits.
+  
   * **Neutrality Arbitrage:** Exploiting its non-aligned Himalayan buffer status between India and China to present itself as an "ethical AI sanctuary" while laundering extractive capital and algorithmic compute allocations from both blocs (Bloc Alpha and Bloc Beta).
+
 * **日本語:**
+  
   * **認知・倫理スクリーン:** 「国民総幸福量（GNH）」や仏教の平和的イメージを心理的ファイアウォールとして利用し、国際機関の規制監視、兵器化されたAIプロファイリング、世論の疑惑を遮断。
+  
   * **規制免除領域と二極遮断:** 国土の10%超に及ぶ特別行政区（SAR）を創設。欧米の経済制裁、米国CLOUD法、中国の国家情報法、FATF（金融活動作業部会）、およびSCO開発銀行のデータ監査を法的に無効化する治外法権の聖域を構築。
+  
   * **中立性の地政学裁定:** インド・中国に挟まれたヒマラヤの地政学的緩衝地帯という立場を逆手にとり、表向きは「二極対立に巻き込まれない倫理的AI特区」を装いながら、双方の陣営（Bloc Alpha/Beta）から収奪された資本とアルゴリズム計算力を安全にロンダリング。
 
 ---
@@ -47,13 +56,22 @@
 ### 2. THE HARVESTING: Japan Smart Chain (JSC) Asset Extraction
 **【吸い上げ構造】Japan Smart Chain (JSC) 経由の資産・生体データ迂回**
 
+![画像](../assets/bhutan_gmc_elite_escape_route.jpg)
+
 * **English:**
+  
   * **1,100 Trillion Yen Extraction:** Directing Japanese citizen savings (MUFG, SMBC, Mizuho, Japan Post Bank) into quantum-encrypted digital ledger formats via non-public blockchain architectures ("Japan Smart Chain").
+  
   * **Shinonomachi Underground Gate:** Syncing Japanese surveillance logs, biometric data, and financial transactions from the "Shinonomachi Underground Server Gate" directly into the GMC offshore processing node.
+  
   * **Sacrificial Buffer Mechanism:** Utilizing Japanese domestic wealth and digital IDs as the operational cushion to absorb global economic shocks, while transferring the liquidated capital offshore into Bhutan before the G20-SCO systemic clash hits East Asia.
+
 * **日本語:**
+  
   * **1,100兆円個人預金の変換:** 日本のメガバンク・ゆうちょに蓄積された1,100兆円超の個人預金を、非公開ブロックチェーン（Japan Smart Chain）を通じて量子暗号化デジタル台帳へ変換・吸い上げ。
+  
   * **信濃町地下ゲート連動:** 「信濃町地下サーバーゲート」で処理された日本人の行動・生体・金融監視ログを、GMCのオフショア処理ノードへダイレクトに同期。
+  
   * **生贄バッファー構造:** G20とSCOの二極対立の余波とインフラ危機が東アジアを直撃する前に、日本国民の富と生体IDを「衝撃吸収材」としてロックし、換金された純粋資本のみをブータンへ逃避完了させる二重搾取構造。
 
 ---
@@ -62,12 +80,19 @@
 **【新世界コア】GMC水力発電量子マイニング・暗号資産保管庫**
 
 * **English:**
+  
   * **Sovereign Crypto Reserves:** Allocating over 10,000+ Bitcoins and state-backed mining operations powered by Himalayan hydropower to establish an unassailable sovereign crypto treasury immune to dollar/yuan volatility.
+  
   * **Grid & Cooling Autonomy:** Operating completely off the grid from fragile external interconnects. Utilizes glacial runoff free-cooling and high-altitude climate, entirely bypassing the "Water-Energy Nexus" chokehold paralyzing US and European hyperscalers.
+  
   * **AI & Quantum Mining:** Combining hydro-electric energy grids with smuggled/whitelisted advanced semiconductor hardware (TSMC/NVIDIA/AMD) to fuel quantum encryption algorithms and autonomous agent coordination isolated from international cyber warfare.
+
 * **日本語:**
+  
   * **国家主権型暗号資産リザーブ:** ヒマラヤの豊富な水力発電による10,000 BTC超の国家マイニング基盤を活用し、ドルや人民元の為替変動・接収リスクを受けない絶対的暗号資産金庫を確立。
+  
   * **送電網・冷却水の完全自立:** 脆弱な外部国際送電網から完全に独立。氷河融雪水による自然冷却（Free-Cooling）と高冷地気候を活用し、米欧のハイパースケーラーを苦しめる「水・電力危機（Water-Energy Nexus）」のボトルネックを完全に無効化。
+  
   * **量子AIマイニング:** 潤沢な水力エネルギーを確保した先端半導体（TSMC/NVIDIA/AMD）へ供給。国家間サイバー戦争から物理的に隔離された環境で、資産隠蔽用量子暗号アルゴリズムと自律エージェント統轄AIを常時稼働。
 
 ---
@@ -76,21 +101,28 @@
 **【ネットワーク】支配層の避難ルートと越境オペレーション・ノード群**
 
 * **English:**
+  
   * **Master Key Holders & Strategy Command:** Interconnecting Japanese political heavyweights, former Digital Ministers, MIT Media Lab legacy networks, and Davos elites to manage the GMC board and investment development entities (GIDC).
+  
   * **Daum Kim (Creative & Cognitive Gateway Node):**
     * Project Director at Henkaku Center (Chiba Institute of Technology) / Creative Content Director of GMC Special Administrative Region.
     * Fellow of the Hong Kong/China-based think tank "Bai Xian Asia Institute (BXAI)," structurally backed and funded by Aso Cement / Aso Group capital.
     * Operates as the central conduit bridging East Asian elite education networks, digital branding, and the cognitive narrative shield of GMC.
+  
   * **Fei-Fei Hu (British-Chinese Capital & Special Zone Node):**
     * CEO of Clarence Education Asia (CEA Group) / Founder of Rugby School Japan.
     * Former Assistant to Director of Charities at the Royal Household of the Prince of Wales (King Charles III) and Executive Director of The Prince’s Foundation (China).
     * Spearheads massive land acquisition and enclave campus developments across Hokkaido (Niseko/Hidaka/Kyowa), serving as the physical real estate and aristocratic education blueprint for GMC’s autonomous enclave.
+
 * **日本語:**
+  
   * **マスターキーホルダーと戦略指令網:** 日本の主要政治家、旧デジタル大臣、MITメディアラボ旧人脈（エプスタイン資金流用層）、ダボス会議エリートが結託し、GMC理事会および投資開発公社（GIDC）を統括。
+  
   * **キム・ダウミ（認知・コンテンツ統括ノード）:**
     * 千葉工業大学変革センター（Henkaku Center）プロジェクトディレクター兼GMC特別行政区クリエイティブコンテンツディレクター。
     * 麻生セメント（麻生グループ資本）が深く資金支援を行う中国・香港の教育シンクタンク「百賢亜州研究院（BXAI）」修了生。
     * 東アジアのエリート育成ネットワークとブータンGMCのデジタルブランディング・認知シールドを直結させる中継ノードとして機能。
+  
   * **フェイ・フェイ・フー（英中資本・特区開発ノード）:**
     * Clarence Education Asia（CEA Group）代表兼ラグビー・スクール・ジャパン創設者。
     * 英国王室（現チャールズ国王）の慈善事業補佐官および皇太子財団（中国）事務局長を歴任した英中実業家。
@@ -140,7 +172,6 @@ Shinonomachi Underground Gate Node                                              
 
 MIN-GUSA Biometric/Financial CAGE                                                               - Swiss-UBS Private Banking & CEA
 ===================================================================================================
-
 
 ---
 ## 🛡️ JIN-OS DECOUPLING PROTOCOL / JIN-OSによる無効化・奪還処方箋
