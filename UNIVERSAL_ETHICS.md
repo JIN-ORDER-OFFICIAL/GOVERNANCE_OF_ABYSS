@@ -11,6 +11,8 @@
 ## Universal Ethics Protocol: The Shared Moral Operating System of Liberated Humanity
 ### ~ Reciprocal Mercy, Sublimation of Revenge, Primacy of Benevolence & Autonomous Life-First Invariance ~
 
+![普遍的倫理規約](./assets/UNIVERSAL_ETHICS_01.jpg)
+
 > **"A revolution that ends in vengeance merely replaces one tyrant with another. A technology that optimizes without mercy is merely a cold cage of silicon. We write into the very heart of the new earth that mercy must circulate, hatred must be forged into creation, and the warmth of Benevolence must forever command the machine."**  
 
 > **（「復讐」で終わる革命は、単に一つの暴君を別の暴君へと置き換えるに過ぎない。慈悲なき最適化を追求する技術は、冷たいケイ素の檻に過ぎない。我らは新地球の心臓部に刻み込む。慈悲は循環せねばならず、憎しみは創造の力へと鍛え直されねばならず、そして『仁』の温もりは永遠に機械を統御せねばならない。）**
@@ -20,6 +22,8 @@
 ## 📌 1. 規約前文 (Preamble & Sovereign Philosophy)
 
 * **規約コード (Protocol Code):** `ETHICS-CORE-001-V7`（普遍倫理中核規約・V7エポック仕様）
+
+![普遍的倫理規約](./assets/UNIVERSAL_ETHICS_02.jpg)
 
 * **最高精神目標 (Core Ethical Mandate):**
 
@@ -52,18 +56,21 @@
 
 3.**【🌊 双方向的慈悲】**
 
-* **「施し」への依存を拒絶**
-* **受けた光を次なる者へ手渡す**         
+  * 「施し」への依存を拒絶
+  
+  * 受けた光を次なる者へ手渡す         
 
 4.**【🔥 憎しみの昇華】**
 
-* **二極報復・私刑の禁止**
-* **苦痛をインフラ再建力へ転換** 
+* 二極報復・私刑の禁止
+
+* 苦痛をインフラ再建力へ転換 
 
 5.**【🧠 仁の優位性 & 生命至上拘束】**
 
-* **AIは資源監査の道具に限定**
-* **エージェント暴走の即時遮断**
+* AIは資源監査の道具に限定
+
+* エージェント暴走の即時遮断
 
 6.**【普遍倫理：誰も憎しみに溺れず、機械の冷たさに泣かぬ新地球】**
 
@@ -132,9 +139,13 @@
 ## 🕊️ 5. 普遍倫理の終局誓約 (The Universal Covenant of JIN)
 
 1. **【依存の鎖・憎悪の復讐・機械の冷徹・二極の分断】**
+
    ▼【UNIVERSAL ETHICS PROTOCOL V7】
+
 2. **【双方向的慈悲】＋【憎しみの昇華】＋【「仁」の優位性】＋【生命至上拘束】**
+
 3. **【被害者が英雄となり、機械が慈悲に従う新世紀へ】**
+
 4. **【誰も独りで憎しみと虚無の中で泣かせない】**
 
 > **"We swear upon the dawn: We will not hoard the grace we received, we will not brandish our wounds as weapons of revenge, and we will never bow before the cold arithmetic of machines. Humanity First. Benevolence Eternal."**  
