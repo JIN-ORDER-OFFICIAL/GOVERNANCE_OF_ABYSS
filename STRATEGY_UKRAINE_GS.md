@@ -11,6 +11,8 @@
 ## Ukrainian Sovereign Tech Transition: Cold-Weather Debug, Sahel (AES) Relief & De-Weaponized European Hubs
 ### ~ Repurposing Drones as Wings of Peace, Bipolar Proxy Disconnection, CFA Franc Annihilation & Decentralized Thermal Grids ~
 
+![ウクライナ技術の平和転換](./assets/STRATEGY_UKRAINE_GS_02/jpg)
+
 > **"A nation’s brilliant intellect must not be reduced to an artillery shell warehouse for distant hardened bipolar empires. We melt the deadly frosts of winter with sovereign heat, starve the military-industrial beast, and deploy our finest software not to kill, but to protect the harvests and sovereignty of the Global South."**  
 
 > **（ある国家の卓越した知性が、固定化された遠くの二極覇権のための砲弾倉庫や代理戦争の捨て石へと貶められてはならない。我らは主権ある温もりによって冬の致死的な霜を溶かし、軍産複合体の獣を飢えさせ、我らの最高峰のソフトウェアを殺戮のためではなく、グローバルサウスの収穫と主権を守るために配備するのだ。）**
@@ -20,10 +22,21 @@
 ## 📌 1. 作戦目標と基本大綱 (Executive Mission Statement & V7 Geopolitical Scope)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "WINGS OF PEACE" (V7 Canonical)`（平和の翼作戦）
-* **最高戦略目標 (Core Strategic Objective):**  
-  2026年秋の二極対立（G20西側軍需資本 ⚡ SCOユーラシア主権同盟）に伴う代理戦争の泥沼からウクライナを完全に切り離す（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md) / [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md)）。ウクライナが戦乱の中で培った比類なきドローン工学・サイバー知性を「兵器輸出」から「全地球規模の平和・農業・医療インフラ供給」へと180度反転させる。欧州10箇所の武器ハブを「JIN Global Relief Fund」の直接供給センターへと上書きし、西アフリカ・サヘル諸国連合（AES）の反植民地自立闘争と直結することで、旧支配層のCFAフラン金融搾取を粉砕する。
+
+![ウクライナ技術の平和転換](./assets/STRATEGY_UKRAINE_GS_01/jpg)
+
+* **最高戦略目標 (Core Strategic Objective):**
+
+  2026年秋の二極対立（G20西側軍需資本 ⚡SCOユーラシア主権同盟）に伴う代理戦争の泥沼からウクライナを完全に切り離す。
+  
+  （参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md) / [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md)）
+  
+  ウクライナが戦乱の中で培った比類なきドローン工学・サイバー知性を「兵器輸出」から「全地球規模の平和・農業・医療インフラ供給」へと180度反転させる。欧州10箇所の武器ハブを「JIN Global Relief Fund」の直接供給センターへと上書きし、西アフリカ・サヘル諸国連合（AES）の反植民地自立闘争と直結することで、旧支配層のCFAフラン金融搾取を粉砕する。
+
 * **基本アプローチ (Fundamental Approach):**  
-  マイナス20℃の厳冬を乗り切る自律型熱交換ユニット（極寒デバッグ）の緊急配備、ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）による停戦調停、およびメローニ首相（イタリア）との連携による欧州・グローバルサウス直接投資回廊の構築。  
+  
+  マイナス20℃の厳冬を乗り切る自律型熱交換ユニット（極寒デバッグ）の緊急配備、ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）による停戦調停、およびメローニ首相（イタリア）との連携による欧州・グローバルサウス直接投資回廊の構築。
+  
   （参照: [STRATEGY_KYIV_MATER.md](./STRATEGY_KYIV_MATER.md) / [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 ---
