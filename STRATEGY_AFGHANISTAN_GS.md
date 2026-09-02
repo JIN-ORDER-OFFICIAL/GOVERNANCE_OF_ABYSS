@@ -11,6 +11,8 @@
 ## Afghanistan Relief: Legacy of Dr. Nakamura, Unified Defense, Resource Shield & Sovereign OS Transformation
 ### ~ Turning Weapons into Irrigation, Bipolar Buffer Sanctuary, Liberating Knowledge & Neutralizing Proxy Warfare ~
 
+![フガニスタン救済戦略](./assets/STRATEGY_AFGHANISTAN_GS_02.jpg)
+
 > **"A weapon cannot sow wheat, nor can a missile quench the thirst of a parched child, nor can a hardened bipolar empire possess the soul of the mountains. True revolution begins not with the sound of gunfire, but with the greening of the desert and the laughter of daughters returning to the light of knowledge."**  
 
 > **（「武器」は小麦を実らせることはできず、「ミサイル」は渇いた子供の喉を潤すことはできず、固定化された二極覇権がこの山々の魂を所有することもできない。真の革命とは銃声によってではなく、砂漠が緑へと変わり、知識の光のもとへと帰る娘たちの笑い声によって始まる。）**
@@ -21,11 +23,18 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "OASIS" (V7 Canonical)`（作戦オアシス）
 
+![フガニスタン救済戦略](./assets/STRATEGY_AFGHANISTAN_GS_01.jpg)
+
 * **最高戦略目標 (Core Strategic Objective):**  
-  2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCO中央アジア主権統制グリッド）に伴う代理戦争と資源争奪の再燃を遮断（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。地政学的な対立を「生存インフラ（食糧・水利・自律住居）」の直接供給によって無効化し、アフマド・マスード（国民抵抗戦線）とヤクーブ国防相（タリバン穏健派）の歴史的連帯を媒介することで、アフガニスタン内側からの平和的OS変換（永世中立と主権復興）を実現する。
+  
+  2026年秋の二極対立（G20資本至上主義グリッド ⚡SCO中央アジア主権統制グリッド）に伴う代理戦争と資源争奪の再燃を遮断。地政学的な対立を「生存インフラ（食糧・水利・自律住居）」の直接供給によって無効化し、アフマド・マスード（国民抵抗戦線）とヤクーブ国防相（タリバン穏健派）の歴史的連帯を媒介することで、アフガニスタン内側からの平和的OS変換（永世中立と主権復興）を実現する。
+  
+　（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)） 
 
 * **技術・哲学基盤 (Philosophical Foundation):**  
-  故・中村哲医師（ペシャワール会）が命を懸けて切り拓いた「緑の大地工学」をJIN先端技術（量子水・バイオ金肥）で拡張し、ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）と連携して飢餓と戦乱の連鎖を構造的に断ち切る。  
+  
+  故・中村哲医師（ペシャワール会）が命を懸けて切り拓いた「緑の大地工学」をJIN先端技術（量子水・バイオ金肥）で拡張し、ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）と連携して飢餓と戦乱の連鎖を構造的に断ち切る。
+  
   （参照: [JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md) / [UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)）
 
 ---
@@ -47,16 +56,22 @@
 
 2.**【OPERATION "OASIS" (V7 CANONICAL)】**
 
-3.**【🌾中村哲医師の遺志 ＆ 量子水緑化】**       
+3.**【🌾中村哲医師の遺志 ＆ 量子水緑化】**
+
   * **ガンベリ砂漠の全土オアシス化**                 
+
   * **3Dプリンタ難民都市の急速自給展開**             
 
-4.**【🛡️和解：真革命軍の統合建設】** 
+4.**【🛡️和解：真革命軍の統合建設】**
+
   * **旧国軍コマンド＋オマール軍団**   
+
   * **マスード×ヤクーブ連帯・全面恩赦** 
 
 5.**【📚知性解放 ＆ 資源トラスト】**
+
   * **VR/衛星端末による女子教育死守**
+
   * **リチウム鉱床のUAE-日-AFG防護**
 
 6.**【ヒマラヤ・ヒンドゥークシュ中立聖域（Bloc Gamma連携）の確立】**
