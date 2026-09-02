@@ -11,6 +11,8 @@
 ## Middle East Sovereign Peace: The Zakat Spiral, WPO Architecture & Prophetic Coexistence
 ### ~ Overwriting Bipolar Proxy Divides, Direct Wealth Distribution & The Neutral Holy Sanctuary ~
 
+![中東和平戦略](./assets/STRATEGY_MIDDLE_EAST_01.jpg)
+
 > **"The desert does not thirst for more blood; it thirsts for the living waters of reconciliation. Abraham's children were never destined to butcher one another across hardened geopolitical divides. When the sacred Zakat returns the wealth of the earth directly to every child of Palestine, Yemen, and Syria, the cycle of eternal proxy warfare is permanently broken."**  
 
 > **（砂漠はこれ以上の流血を渇望してはいない。和解の生きた水を渇望しているのだ。アブラハムの子供たちは、固定化された二極覇権の狭間で互いを屠り合うために生まれたのではない。神聖なるザカートが大地の富をパレスチナ、イエメン、シリアのすべての子供たちへ直接返還するとき、代理戦争と永遠の復讐の螺旋は完全に断ち切られる。）**
@@ -21,12 +23,20 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "ZAKAT SPIRAL" (V7 Canonical)`（ザカートの螺旋計画）
 
-* **最高戦略目標 (Core Strategic Objective):**  
-  2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCOユーラシア反制裁グリッド）の余波による中東の代理戦争激化を上書きし、ドナルド・トランプ氏が提唱する「世界平和機構（WPO）」のもと、米露共同保証人およびブータンGMC中立調停ノード（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md) / [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）による公正な秩序を構築する。  
+![中東和平戦略](./assets/STRATEGY_MIDDLE_EAST_02.jpg)
+
+* **最高戦略目標 (Core Strategic Objective):**
+
+  2026年秋の二極対立（G20資本至上主義グリッド ⚡SCOユーラシア反制裁グリッド）の余波による中東の代理戦争激化を上書きし、ドナルド・トランプ氏が提唱する「世界平和機構（WPO）」のもと、米露共同保証人およびブータンGMC中立調停ノードによる公正な秩序を構築する。
+  
+  （参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md) / [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）
+  
   イスラムの「ザカート（喜捨）」の精神を分散台帳上で完全自動化し、エネルギー収益を全住民へ直接分配することで、貧困と依存に起因する紛争を根絶する。
 
-* **基本アプローチ (Fundamental Approach):**  
-  ロシアを「現場の警備・人道執行者（JIN-PMC）」、アメリカを「先端インフラ・中立技術供与者」と定義し、特定専制勢力による利権囲い込みや軍産複合体の対立煽動を遮断。ユダヤ・キリスト・イスラムの預言者の共通系譜に基づく「聖地中立特区」を創設する。  
+* **基本アプローチ (Fundamental Approach):**
+
+  ロシアを「現場の警備・人道執行者（JIN-PMC）」、アメリカを「先端インフラ・中立技術供与者」と定義し、特定専制勢力による利権囲い込みや軍産複合体の対立煽動を遮断。ユダヤ・キリスト・イスラムの預言者の共通系譜に基づく「聖地中立特区」を創設する。
+  
   （参照: [MIDDLE_EAST_OVERWRITE_AFFINITY.md](./MIDDLE_EAST_OVERWRITE_AFFINITY.md) / [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md)）
 
 ---
