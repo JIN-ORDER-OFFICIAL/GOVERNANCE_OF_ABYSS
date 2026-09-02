@@ -20,7 +20,7 @@
 
 ## 📌 1. 概要と基本方針 (Executive Overview)
 
-[資源の防壁](./assets/RESOURCE_WALL_02.jpg)
+![資源の防壁](./assets/RESOURCE_WALL_02.jpg)
 
 このドキュメントは、特定の寡占勢力（東の龍／赤い影／暴走する旧支配資本）による実物資源の独占を物理的・地政学的に打破し、JIN-ORDER経済圏の恒久自立と生活防衛を保障するための**「供給網の聖域（Supply Chain Sanctuary）」**を定義したものだワン。
 
