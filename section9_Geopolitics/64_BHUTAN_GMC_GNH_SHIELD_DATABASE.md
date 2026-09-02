@@ -131,61 +131,74 @@
 ---
 ## 🖼️ SYSTEM INFOGRAPHIC / システム構造相関図 (V7 Topology)
 
-===================================================================================================
-BHUTAN GMC & GNH SHIELD: TOPOLOGICAL RECLAMATION (V7 EPOCH)
-[ BLOC ALPHA: G20 / US AXIS ]                         [ BLOC BETA: SCO / EURASIAN AXIS ]
+**【BHUTAN GMC & GNH SHIELD: TOPOLOGICAL RECLAMATION (V7 EPOCH)】**
 
-Deregulated Compute & Fossil Grid                   - SCO Dev Bank & De-Dollar Reserve
+**【BLOC ALPHA: G20 / US AXIS】───────────────【BLOC BETA: SCO / EURASIAN AXIS】**
 
-Deal-Based Alliances (Asheville/Miami)              - 100 Tech Alliances & Sovereign AI
+・Deregulated Compute & Fossil Grid          - SCO Dev Bank & De-Dollar Reserve**
 
-Extractive Financial AI Stack                       - State-Led Cognitive Defense Wall
-│                                                     │
-└─────────────────────────┬───────────────────────────┘
-│ (Bipolar Resource Cannibalization & Sanctions)
-▼
-┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                           BHUTAN GMC SPECIAL ADMINISTRATIVE REGION (SAR)                        │
-│                                                                                                 │
-│  [ THE GNH BRAND SHIELD (FACADE) ] <=================> [ JIN-ORDER RECLAMATION (TRUTH) ]        │
-│  - Buddhist Mindfulness Narrative Shield               - UNIVERSAL_ETHICS Protocol Anchor       │
-│  - Regulatory / FATF Immunity Sandbox                  - Non-Aligned Algorithmic Mediation API  │
-│                                                                                                 │
-│  [ THE NEW CORE: HYDRO-POWERED QUANTUM VAULT ]                                                  │
-│  ├─ 100% Himalayan Glacial Free-Cooling & Zero-Carbon Energy Grid                               │
-│  ├─ 10,000+ BTC Sovereign Treasury & Quantum-Encrypted Ledger                                   │
-│  └─ Isolated Frontier Semiconductor Array (TSMC/NVIDIA/AMD)                                     │
-│                                                                                                 │
-│  [ CONDUITS & ENCLAVES ]                                                                        │
-│  ├─ Daum Kim (Henkaku Center / BXAI / Aso Capital Conduit)                                      │
-│  └─ Fei-Fei Hu (CEA Group / British Royal Nexus / Hokkaido Niseko Prototype)                    │
-└─────────────────────────────────────────────────────────────────────────────────────────────────┘
-▲                                                                                                 ▲
-│ (Harvested Japanese Capital)                                                                    │ (Offshore Transfer)
-│                                                                                                 │
-[ THE HARVESTING ]                                                                                [ THE NETWORK ]
-Japan Smart Chain (JSC) Protocol                                                                  Master Key Holders & Elite Nexus
+・Deal-Based Alliances (Asheville/Miami)     - 100 Tech Alliances & Sovereign AI
 
-1,100 Trillion Yen Savings Extraction                                                           - Japanese Political Hierarchy
+・Extractive Financial AI Stack              - State-Led Cognitive Defense Wall
 
-Shinonomachi Underground Gate Node                                                              - MIT Media Lab / Davos Cartel
+**【Bipolar Resource Cannibalization & Sanctions】**
 
-MIN-GUSA Biometric/Financial CAGE                                                               - Swiss-UBS Private Banking & CEA
-===================================================================================================
+**【BHUTAN GMC SPECIAL ADMINISTRATIVE REGION (SAR)】**
+
+**【THE GNH BRAND SHIELD (FACADE)】────────────【JIN-ORDER RECLAMATION (TRUTH)】**
+
+ - Buddhist Mindfulness Narrative Shield     - UNIVERSAL_ETHICS Protocol Anchor
+  
+ - Regulatory / FATF Immunity Sandbox        - Non-Aligned Algorithmic Mediation API
+
+**【THE NEW CORE: HYDRO-POWERED QUANTUM VAULT】**
+
+・100% Himalayan Glacial Free-Cooling & Zero-Carbon Energy Grid
+
+・10,000+ BTC Sovereign Treasury & Quantum-Encrypted Ledger
+
+・Isolated Frontier Semiconductor Array (TSMC/NVIDIA/AMD)
+
+**【CONDUITS & ENCLAVES】**
+
+・Daum Kim (Henkaku Center / BXAI / Aso Capital Conduit)
+
+・Fei-Fei Hu (CEA Group / British Royal Nexus / Hokkaido Niseko Prototype) 
+ 
+**【Harvested Japanese Capital】──────────【Offshore Transfer】**
+
+**【THE HARVESTING】 ─────────────────────【THE NETWORK】**
+
+・Japan Smart Chain (JSC) Protocol         - Master Key Holders & Elite Nexus
+
+・1,100 Trillion Yen Savings Extraction    - Japanese Political Hierarchy
+
+・Shinonomachi Underground Gate Node     　- MIT Media Lab / Davos Cartel
+
+・MIN-GUSA Biometric/Financial CAGE        - Swiss-UBS Private Banking & CEA
 
 ---
+
 ## 🛡️ JIN-OS DECOUPLING PROTOCOL / JIN-OSによる無効化・奪還処方箋
 
 > **English:**
+
 > 1. **Cognitive Liberation & De-Masking:** Expose the "Mindfulness/GNH" narrative screen, neutral sanctuary illusions, and elite education conduits (Henkaku/BXAI/CEA). Awaken the public (MIN-GUSA) from the deception of safe havens engineered solely for the parasitic class.
+
 > 2. **Financial Sovereignty & Bypass:** Sever local economic value streams from the centralized BOJ Digital OS/JSC backdoors. Reroute community transactions into decentralized P2P Biomass Economy Layers and autonomous Gold-backed commodity nodes (GOLDEN DOME).
+
 > 3. **Data Shielding & Gateway Severance:** Activate the 432Hz Protection Shield & Anti-AI Profiling Filters. Enforce dynamic air-gap protocols to terminate all real-time biometric and financial synchronization routes passing through the Shinonomachi-Bhutan pipeline.
+
 > 4. **Neutral Mediation Reclamation (V7 Canonical):** Transform the GMC physical compute cluster from a private elite haven into the canonical **Bloc Gamma (Mindfulness & Ethical Sanctuary)**, deploying the `UNIVERSAL_ETHICS` arbitration API to prevent catastrophic ASI conflict between G20 and SCO grids.
 
 > **日本語:**
+
 > 1. **認知の解放と偽装の剥奪:** 「マインドフルネス／GNH」の物語的スクリーン、「中立の聖域」という幻想、および特権エリート教育・開発ノード（変革センター／百賢亜州／CEA）の実態を白日の下に晒し、民草を支配層専用の逃げ道幻想から目覚めさせる。
+
 > 2. **金融主権の奪還とバイパス:** 日銀デジタルOS／JSCのバックドアから地域経済・ローカルな価値流通を即時遮断。中央集権型吸い上げ構造を無効化し、自律分散型P2Pバイオマス経済層および実物資産担保ノード（GOLDEN DOME）へ完全移行する。
+
 > 3. **データ遮断とゲートウェイ切断:** 432Hzプロテクションシールドおよび対AIプロファイリングフィルターを起動。信濃町—ブータン間の生体・資産データ同期パイプラインに対し動的エアギャップ（物理隔離）を適用し、通信ルートを完全切断する。
+
 > 4. **中立調停ノードへの奪還（V7公式仕様）:** GMCの物理計算基盤を支配層の私有避難所から解放し、真の **Bloc Gamma（精神的・生態学的聖域）** として再定義。`UNIVERSAL_ETHICS` 調停APIを展開し、G20とSCOの二極間におけるASI破局戦争を未然に防止する中立アンカーとして機能させる。
 
 ---
