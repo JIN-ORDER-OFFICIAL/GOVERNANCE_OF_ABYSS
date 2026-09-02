@@ -11,7 +11,7 @@
 ## Ukrainian Sovereign Tech Transition: Cold-Weather Debug, Sahel (AES) Relief & De-Weaponized European Hubs
 ### ~ Repurposing Drones as Wings of Peace, Bipolar Proxy Disconnection, CFA Franc Annihilation & Decentralized Thermal Grids ~
 
-![ウクライナ技術の平和転換](./assets/STRATEGY_UKRAINE_GS_02/jpg)
+![ウクライナ技術の平和転換](./assets/STRATEGY_UKRAINE_GS_02.jpg)
 
 > **"A nation’s brilliant intellect must not be reduced to an artillery shell warehouse for distant hardened bipolar empires. We melt the deadly frosts of winter with sovereign heat, starve the military-industrial beast, and deploy our finest software not to kill, but to protect the harvests and sovereignty of the Global South."**  
 
@@ -23,7 +23,7 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "WINGS OF PEACE" (V7 Canonical)`（平和の翼作戦）
 
-![ウクライナ技術の平和転換](./assets/STRATEGY_UKRAINE_GS_01/jpg)
+![ウクライナ技術の平和転換](./assets/STRATEGY_UKRAINE_GS_01.jpg)
 
 * **最高戦略目標 (Core Strategic Objective):**
 
