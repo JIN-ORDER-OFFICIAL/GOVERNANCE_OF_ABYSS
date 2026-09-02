@@ -11,6 +11,8 @@
 ## DPRK Sovereign Transition: From Military-First Isolation to Tech-Led Space & Welfare Sovereignty
 ### ~ Converting ICBMs to Space Ports, White-Hat Cyber Defense, Surveillance to Nutrition Grids & Borderless Digital Co-Prosperity ~
 
+![北朝鮮救済戦略](./assets/STRATEGY_NORTH_KOREA_01.jpg)
+
 > **"True sovereign power is not proven by the terror of nuclear fire that incinerates the earth, nor by serving as a frontline buffer in a hardened bipolar divide. It is proven by the cosmic vision that reaches for the stars and feeds every hungry child in the snow. When the swords of the peninsula are turned into rockets of exploration and networks of mercy, the Spring of Pyongyang arrives."**
 
 > **（「真の主権の力」とは、大地を焼き尽くす核の炎の恐怖によって証明されるのでも、固定化された二極覇権の最前線防壁として消費されることでもない。星々へと手を伸ばし、雪の中で飢えるすべての子供を満たす宇宙の気宇によって証明される。半島の剣が探査のロケットと慈悲のネットワークへと鍛え直されるとき、平壌の春が訪れる。）**
@@ -21,11 +23,20 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "SPRING OF PYONGYANG" (V7 Canonical)`（平壌の春作戦）
 
-* **最高戦略目標 (Core Strategic Objective):**  
-  2026年秋の二極対立（G20西側資本グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う東アジアの軍事緊張と代理衝突リスクを完全遮断（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。朝鮮民主主義人民共和国（DPRK）を、核の恫喝に依存する孤立した「先軍国家（Military-First State）」から、「JIN-ORDER」の枠組みに基づき国際社会と共栄する「技術主導の宇宙・福祉主権国家（Tech-Led Prosperity State）」へと平和的にソフトランディング転換させる。
+![北朝鮮救済戦略](./assets/STRATEGY_NORTH_KOREA_02.jpg)
 
-* **基本アプローチ (Fundamental Approach):**  
-  現職指導層・軍部・特務機関を排除・処罰するのではなく、彼らの組織能力とサイバー知性を「合法的な国際インフラ開発・福祉物流・宇宙開発・JIN-OS中立防護」へと名誉ある昇華を行い、身分と生涯年金を不可侵に保証する。  
+* **最高戦略目標 (Core Strategic Objective):**
+
+  2026年秋の二極対立（G20西側資本グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う東アジアの軍事緊張と代理衝突リスクを完全遮断。
+  
+  （参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）
+  
+  朝鮮民主主義人民共和国（DPRK）を、核の恫喝に依存する孤立した「先軍国家（Military-First State）」から、「JIN-ORDER」の枠組みに基づき国際社会と共栄する「技術主導の宇宙・福祉主権国家（Tech-Led Prosperity State）」へと平和的にソフトランディング転換させる。
+
+* **基本アプローチ (Fundamental Approach):**
+
+  現職指導層・軍部・特務機関を排除・処罰するのではなく、彼らの組織能力とサイバー知性を「合法的な国際インフラ開発・福祉物流・宇宙開発・JIN-OS中立防護」へと名誉ある昇華を行い、身分と生涯年金を不可侵に保証する。
+  
   （参照: [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md) / [STRATEGY_MIDDLE_EAST.md](./STRATEGY_MIDDLE_EAST.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 ---
@@ -45,26 +56,34 @@
 
 ## 🗺️ 3. 先軍国家から宇宙・福祉・共栄国家への転換アーキテクチャ (Transition Architecture Flow V7)
 
-[北朝鮮の旧現実：二極分断の最前線 ⚡ 核の孤立 ⚡ 秘密警察の恐怖 ⚡ 飢餓 ⚡ サイバー犯罪]
-│
-▼
-【 JIN-KOREA プロトコル V7 発動 】
-│
-┌───────────────────────────────────────┼───────────────────────────────────────┐
-│                                       │                                       │
-【 金与正：JINインフラ理事 ＆ サイバー防護 】 【 保衛省 ➔ 国家福祉物流庁へ転換 】   【 金正恩：宇宙時代の父 ＆ ICBM宇宙港化 】
-・39号室を合法開発公社へ改組            ・李昌大：物流最適化責任者へ任命        ・トンチャンリをWPO民間宇宙港へ改装
-・偵察総局をJIN-OS守護神へ再雇用        ・全土監視網をAIドローン配給網へ反転    ・米露WPO ＆ GMC調停による体制保証
-│                                       │                                       │
-└───────────────────────────────────────┼───────────────────────────────────────┘
-│
-▼
-【 南北関係：二国家一ネットワーク（JIN-KOREA Virtual Zone）】
-（国境維持のまま、南北の若者・エンジニアがAI・先端農業・宇宙工学で共創）
-│
-▼
-【 平壌の春：銃剣を宇宙ロケットへ変え、万民が笑う新東洋文明 (V7) 】
+1.**【北朝鮮の旧現実：二極分断の最前線 ⚡核の孤立 ⚡秘密警察の恐怖 ⚡飢餓 ⚡サイバー犯罪】**
 
+2.**【JIN-KOREA プロトコル V7 発動】**
+
+3.**【金与正：JINインフラ理事 ＆ サイバー防護】**
+
+  ・39号室を合法開発公社へ改組                 
+
+  ・偵察総局をJIN-OS守護神へ再雇用         
+
+
+4.**【保衛省 ➔ 国家福祉物流庁へ転換】**
+
+  ・李昌大：物流最適化責任者へ任命
+
+  ・全土監視網をAIドローン配給網へ反転
+
+5.**【金正恩：宇宙時代の父 ＆ ICBM宇宙港化】**
+
+  ・トンチャンリをWPO民間宇宙港へ改装
+
+  ・米露WPO ＆ GMC調停による体制保証
+
+6.**【南北関係：二国家一ネットワーク（JIN-KOREA Virtual Zone）】**
+
+  ・国境維持のまま、南北の若者・エンジニアがAI・先端農業・宇宙工学で共創
+
+7.**【平壌の春：銃剣を宇宙ロケットへ変え、万民が笑う新東洋文明 (V7)】**
 
 ---
 
