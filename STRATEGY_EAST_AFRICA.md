@@ -11,7 +11,7 @@
 ## East Africa Sovereign Strategy: The Nile Renaissance & Hydrological Peace
 ### ~ Sovereign Debt Neutralization, Equitable Nile Flow, DPI Direct Distribution & The Warrior-to-Builder Transition ~
 
-[!東アフリカ救済戦略](./assets/STRATEGY_EAST_AFRICA_01.jpg)
+![東アフリカ救済戦略](./assets/STRATEGY_EAST_AFRICA_01.jpg)
 
 > **"The waters of the Nile belong neither to empires, nor to debt collectors, nor to predatory algorithmic grids. They flow as the eternal mother to every parched field across the Horn of Africa. By turning dams into instruments of harmony and soldiers into builders, the cradle of humanity awakens."**  
 
@@ -23,7 +23,7 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "NILE RENAISSANCE" (V7 Canonical)`（ナイルの螺旋計画）
 
-[!東アフリカ救済戦略](./assets/STRATEGY_EAST_AFRICA_02.jpg)
+![東アフリカ救済戦略](./assets/STRATEGY_EAST_AFRICA_02.jpg)
 
 * **最高戦略目標 (Core Strategic Objective):**
 
