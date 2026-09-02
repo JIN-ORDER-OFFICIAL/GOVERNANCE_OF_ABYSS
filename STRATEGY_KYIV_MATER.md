@@ -11,6 +11,8 @@
 ## キエフ・マーテル戦略：母なる救済と極寒デバッグ（最終確定仕様書）
 ### ~ Slavic Reconciliation, Decentralized Thermal Grids & The Union of Intellect and Resource ~
 
+![キエフ・マーテル戦略](./assets/STRATEGY_KYIV_MATER_01.jpg)
+
 > **"Kyiv is not a boundary to be carved by imperial artillery, but the sacred cradle where brothers were born. When the Mother opens her arms, the fever of fratricidal war is broken, and warmth returns to the frozen plains."**  
 
 > **«Киев — это не граница, которую можно рассечь имперской артиллерией, а священная колыбель, где родились братья. Когда Матерь открывает свои объятия, братоубийственный жар угасает, и тепло возвращается на замерзшие равнины.»**  
@@ -22,6 +24,8 @@
 ## 📌 1. 作戦目標と基本大綱 (Executive Mission Statement)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "KYIV MATER"`（キエフ・マーテル）
+
+[キエフ・マーテル戦略](./assets/STRATEGY_KYIV_MATER_02.jpg)
 
 * **最高戦略目標 (Core Strategic Objective):**
 
