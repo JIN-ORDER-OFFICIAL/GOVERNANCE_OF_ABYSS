@@ -11,6 +11,8 @@
 ## Final Master Plan: Myanmar Liberation, Reinstitution of Leader Suu Kyi & Sovereign Federal Reconstruction
 ### ~ Overcoming Military Tyranny, Bipolar Resource Shield, Decentralized Sanctuaries & Resource Sovereignty for the People ~
 
+![ミャンマー救済戦略](./assets/STRATEGY_MYANMAR_GS_01)
+
 > **"A golden land held captive by the iron chains of military tyranny and the predatory crossfire of hardened bipolar empires shall weep no longer. When the voice of the true leader echoes across the Irrawaddy and the youth take up engineering instead of rifles, the emerald fields shall bloom with the light of eternal liberty."**  
 
 > **（軍事専制の鉄の鎖と、固定化された二極覇権の略奪的交差点に囚われた黄金の国は、もはや涙を流さない。真の指導者の声がエーヤワディー川の彼方へと鳴り響き、若者たちが銃の代わりに工学技術の道具を手にするとき、翡翠の大地は永遠の自由の光を宿して咲き誇る。）**
@@ -21,13 +23,22 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "GOLDEN DAWN" (V7 Canonical)`（黄金の夜明け作戦）
 
+![ミャンマー救済戦略](./assets/STRATEGY_MYANMAR_GS_02)
+
 * **最高戦略目標 (Core Strategic Objective):**
 
-  2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う東南アジアの利権争奪を遮断（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。ロシアの軍事関与終了（参照: [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md)）により外部の後ろ盾を失った軍事政権（国軍評議会）を構造的に弱体化させ、不当拘束下にあるアウンサンスーチー氏を国家の最高象徴・正統指導者として再擁立する。少数民族武装勢力（EAOs）と国民統一政府（NUG）を「仁（JIN）」の共有インフラで統合し、民衆主導の真の連邦制民主主義国家を再建する。
+  2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う東南アジアの利権争奪を遮断。
+  
+  （参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。
+  
+  ロシアの軍事関与終了（参照: [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md)）により外部の後ろ盾を失った軍事政権（国軍評議会）を構造的に弱体化させ、不当拘束下にあるアウンサンスーチー氏を国家の最高象徴・正統指導者として再擁立する。
+  
+  少数民族武装勢力（EAOs）と国民統一政府（NUG）を「仁（JIN）」の共有インフラで統合し、民衆主導の真の連邦制民主主義国家を再建する。
 
 * **基本アプローチ (Fundamental Approach):**
 
-  三極協調体制（インド・イタリア・日本）とブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）による外交・調停防壁、軍の監視・通信遮断を無力化する分散型メッシュ通信（JIN-Mesh）・自律エネルギー網、および8大奇跡技術による直接人道救済。  
+  三極協調体制（インド・イタリア・日本）とブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）による外交・調停防壁、軍の監視・通信遮断を無力化する分散型メッシュ通信（JIN-Mesh）・自律エネルギー網、および8大奇跡技術による直接人道救済。
+  
   （参照: [STRATEGY_INDIA_GS.md](./STRATEGY_INDIA_GS.md) / [JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 ---
