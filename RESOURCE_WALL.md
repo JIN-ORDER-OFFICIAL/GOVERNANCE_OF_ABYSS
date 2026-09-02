@@ -10,6 +10,8 @@
 ## THE RESOURCE WALL: GLOBAL SUPPLY CHAIN SANCTUARY SPECIFICATION
 ### ~ The Quintuple Bastions of Real Assets, High-Tech Leverage & Inviolable Commons ~
 
+![資源の防壁](./assets/RESOURCE_WALL_01.jpg)
+
 > **"Real sovereignty does not exist in printed paper or digital fiat. It breathes within the deep mud of the ocean, the minerals of the earth, and the sacred waters protected by the hands of the people."**  
 
 > **「真の主権」とは、印刷された紙幣やデジタルの不換通貨の中に宿るのではない。それは深海の泥の中、大地の鉱物の中、そして民草の手によって守られた神聖なる水利の中に息づいている。**
@@ -18,9 +20,13 @@
 
 ## 📌 1. 概要と基本方針 (Executive Overview)
 
+[資源の防壁](./assets/RESOURCE_WALL_02.jpg)
+
 このドキュメントは、特定の寡占勢力（東の龍／赤い影／暴走する旧支配資本）による実物資源の独占を物理的・地政学的に打破し、JIN-ORDER経済圏の恒久自立と生活防衛を保障するための**「供給網の聖域（Supply Chain Sanctuary）」**を定義したものだワン。
 
-日ノ本の8大核心技術（参照: [JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md)）を戦略的レバレッジ（梃子）として機能させ、5つの要塞ノードが相互に補完し合うことで、いかなる資源兵器化・サプライチェーン恫喝も無力化する不可侵の防壁を構築する（参照: [JIN_RESOURCE_ALLIANCE.md](./JIN_RESOURCE_ALLIANCE.md) / [GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)）。
+日本の8大核心技術（参照: [JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md)）を戦略的レバレッジ（梃子）として機能させ、5つの要塞ノードが相互に補完し合うことで、いかなる資源兵器化・サプライチェーン恫喝も無力化する不可侵の防壁を構築する。
+
+（参照: [JIN_RESOURCE_ALLIANCE.md](./JIN_RESOURCE_ALLIANCE.md) / [GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)）
 
 ---
 
