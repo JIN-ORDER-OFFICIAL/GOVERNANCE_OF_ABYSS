@@ -11,6 +11,8 @@
 ## DRC Relief Strategy: Breaking the Resource Curse, The Sisterhood Alliance & High-Tech Sovereign Transition
 ### ~ Eradicating Child Labor Cobalt, Bipolar Resource Shield, Local Value Retention & From Diggers to Engineers ~
 
+![コンゴ救済戦略](./assets/STRATEGY_DRC_GS_01.jpg)
+
 > **"The batteries and compute grids that power the modern world must not be forged from the tears of children in the mud or the predatory hoarding of bipolar empires. By breaking the monopoly of blood minerals, we transform the land of suffering into a beacon of African high-tech sovereignty."**  
 
 > **（現代世界を動かすバッテリーや計算グリッドが、泥の中で流される子供たちの涙や二極覇権の略奪的囲い込みによって鍛造されてはならない。血塗られた鉱物の独占を打破することにより、我らは苦難の大地をアフリカの先端ハイテク主権の灯火へと新生させる。）**
@@ -21,11 +23,20 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "COBALT BLUE" (V7 Canonical)`（作戦コバルトブルー）
 
-* **最高戦略目標 (Core Strategic Objective):**  
-  2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う重要鉱物（コバルト・リチウム・コルタン）の激しい争奪戦からコンゴ民主共和国（DRC）の資源主権を死守する（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。数世紀にわたり続いてきた「資源の呪い（Resource Curse）」と外資カルテル・自律投機エージェントによる多重搾取構造を解体し、現地で付加価値を完結させる「開拓英雄（Pioneer Heroes）」主導の自律型ハイテク国家を構築する。
+![コンゴ救済戦略](./assets/STRATEGY_DRC_GS_02.jpg)
 
-* **基本アプローチ (Fundamental Approach):**  
-  児童労働を伴う「血のコバルト（Blood Cobalt）」の市場価値を代替技術で急減させて軍閥の資金源を断ち、女性リーダーシップの国際同盟（Sisterhood Alliance）、ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）、および耐量子ブロックチェーン追跡により、泥炭鉱山の少年たちを先端エンジニアへと育成・転換する。  
+* **最高戦略目標 (Core Strategic Objective):**
+
+  2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う重要鉱物（コバルト・リチウム・コルタン）の激しい争奪戦からコンゴ民主共和国（DRC）の資源主権を死守する。
+  
+  （参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）
+  
+  数世紀にわたり続いてきた「資源の呪い（Resource Curse）」と外資カルテル・自律投機エージェントによる多重搾取構造を解体し、現地で付加価値を完結させる「開拓英雄（Pioneer Heroes）」主導の自律型ハイテク国家を構築する。
+
+* **基本アプローチ (Fundamental Approach):**
+
+  児童労働を伴う「血のコバルト（Blood Cobalt）」の市場価値を代替技術で急減させて軍閥の資金源を断ち、女性リーダーシップの国際同盟（Sisterhood Alliance）、ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）、および耐量子ブロックチェーン追跡により、泥炭鉱山の少年たちを先端エンジニアへと育成・転換する。
+  
   （参照: [RESOURCE_WALL.md](./RESOURCE_WALL.md) / [JIN_RESOURCE_ALLIANCE.md](./JIN_RESOURCE_ALLIANCE.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 ---
@@ -49,16 +60,22 @@
 2.**【OPERATION "COBALT BLUE" (V7 CANONICAL)】**
 
 3.**【📉代替素材による市場クラッシュ】** 
-  * **血のコバルト投機価値の失墜**    
-  * **軍閥資金パイプの物理的遮断**  
+  
+  * 血のコバルト投機価値の失墜    
+  
+  * 軍閥資金パイプの物理的遮断  
 
-4.**【🏭JIN-Factory 現地完結】** 
-  * **3Dプリント＆精錬プラント** 
-  * **高密度バッテリー最終製品化** 
+4.**【🏭JIN-Factory 現地完結】**
+
+  * 3Dプリント＆精錬プラント 
+  
+  * 高密度バッテリー最終製品化 
 
 5.**【🤝The Sisterhood Alliance】**
-  * **スミンワ×メローニ×日連帯**
-  * **カラビニエリ＋自律ドローン防衛**
+  
+  * スミンワ×メローニ×日連帯
+  
+  * カラビニエリ＋自律ドローン防衛
 
 6.**【⛓️JIN-Clean Blockchain ＆ GMC中立調停APIによる完全透明化】**
 
