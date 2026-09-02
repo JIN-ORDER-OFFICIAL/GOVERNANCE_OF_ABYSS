@@ -19,10 +19,12 @@
 
 ## 📌 1. 核心理念：ヒューマニティ・ファーストと非同盟デジタル主権 (Core Philosophy & Sovereign Non-Alignment)
 
-* **[JP] 核心理念:**  
+* **[JP] 核心理念:**
+
   2026年秋、世界はG20（米主導・規制緩和資本主義AI）とSCO（中露主導・国家主権AI）の二極へと不可逆的に分断された（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。既存の国際秩序が計算力と金融の都合で切り捨ててきた難民、スラムの住人、被抑圧民草を、我々は新地球文明を切り拓く「開拓英雄（Pioneer Heroes）」として再定義する。インドの精神文明とDPI（デジタル公共インフラ）を核とし、二大陣営のどちらにも隷属しない「第三の極（Bloc Gamma / 中立調停聖域）」を確立する。
 
-* **[EN] The Core Philosophy:**  
+* **[EN] The Core Philosophy:**
+
   In the late 2026 epoch, the world has fractured into an irreversible bipolarity (G20 Western Compute vs. SCO Eurasian Sovereign AI). We fundamentally redefine those discarded by predatory metrics as **"Pioneer Heroes."** Anchored in India's spiritual civilizational strength and Digital Public Infrastructure (DPI), we establish an unaligned "Bloc Gamma" mediation haven immune to bipolar coercion.
 
 ---
