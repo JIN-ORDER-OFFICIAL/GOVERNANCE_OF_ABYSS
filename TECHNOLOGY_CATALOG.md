@@ -9,7 +9,7 @@
 
 # 🌸 JIN-ORDER Technology Catalog: The Abyssal Archive
 
-![次世代インフラストラクチャ](TECHNOLOGY_CATALOG_01.jpg)
+![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_01.jpg)
 
 外部の中央集権や他国利権を排し、地球の生態系と人間の尊厳を根底から守り抜くための自律分散型テクノロジー・アーキテクチャ。
 
@@ -19,7 +19,7 @@
 
 ## 🗺️ 地域戦略 × 11大先端技術 クロスリファレンス・マトリクス
 
-![次世代インフラストラクチャ](TECHNOLOGY_CATALOG_02.jpg)
+![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_02.jpg)
 
 Regional Strategy & 11 Core Technologies Cross-Reference Matrix
 
