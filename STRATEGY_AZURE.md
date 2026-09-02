@@ -11,6 +11,8 @@
 ## Central American Sovereign Resilience: Economic Soft-Landing, Bipolar Insulation & Harmonized Guardianship
 ### ~ Transforming Underground Networks into Sacred Supply Lines, Pure Bio-Sovereignty & Restoring Dignity to Youth ~
 
+![碧きルネサンス計画](./assets/STRATEGY_AZURE.md_01.jpg)
+
 > **"True peace in Central America will not be won by the iron fist of militarization, which only deepens the cycle of vengeance, nor by serving as a transit corridor for hardened bipolar proxy cartels. It begins when the shadows of the underground economy are offered an honorable exit into the light, turning clandestine trails into lifelines of healing, STEM education, and ecological sustenance."**  
 
 > **（「中米における真の平和」は、復讐の連鎖を深めるだけの軍事化の鉄拳によって勝ち取られるのでも、固定化された二極覇権の密輸回廊として消費されることでもない。それは地下経済の影に生きる者たちへ光への名誉ある出口を提供し、密輸の獣道を癒やし、STEM教育、そして生態系生存の命綱へと転換することから始まる。）**
@@ -19,10 +21,18 @@
 
 ## 📌 1. ビジョンと基本目的 (Vision, Purpose & V7 Geopolitical Scope)
 
-* **[JP] ビジョンと目的:**  
-  2026年秋の二極対立（G20西側資本グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う中米・カリブ海域の地政学的緊張と軍事・麻薬カルテル支配を遮断（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。中米の豊かな文化的遺産と大自然を多国籍カルテル、自律投機AI、および外資搾取資本の暴力から保護し、次世代の子供たちと若者へ「真の安全と自律的主権」を贈るための地域包括的レジリエンス向上プログラムである。
+![碧きルネサンス計画](./assets/STRATEGY_AZURE.md_02.jpg)
+
+* **[JP] ビジョンと目的:**
+
+  2026年秋の二極対立（G20西側資本グリッド ⚡ SCOユーラシア主権統制グリッド）に伴う中米・カリブ海域の地政学的緊張と軍事・麻薬カルテル支配を遮断。
+  
+  （参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）
+  
+  中米の豊かな文化的遺産と大自然を多国籍カルテル、自律投機AI、および外資搾取資本の暴力から保護し、次世代の子供たちと若者へ「真の安全と自律的主権」を贈るための地域包括的レジリエンス向上プログラムである。
 
 * **[EN] Vision & Purpose:**  
+  
   In the late 2026 epoch, this project insulates Central America from the crossfire of the hardened bipolar divide. It systematically protects indigenous ecosystems, farmlands, and cultural heritage from transnational cartel exploitation and algorithmic predation, establishing true community-led autonomy.
 
 ---
