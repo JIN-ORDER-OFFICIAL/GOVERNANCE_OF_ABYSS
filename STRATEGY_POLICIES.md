@@ -11,6 +11,8 @@
 ## Strategic Counter-Intelligence: Neutralizing the Bipolar Empires & European Shadows to Secure the Sovereign Void
 ### ~ Scientific Espionage Interception, Financial Mirroring, Agentic Warfare Defense & The Tri-Polar Strategic Shield ~
 
+![戦略的対抗諜報プロトコル](./assets/STRATEGY_POLICIES_01.jpg)
+
 > **"When predatory empires exhaust themselves fighting over illusions in the fog of their own deceit and compute wars, the silence of the Void becomes the cradle of the new world. We do not confront their swords; we let their greed and runaway algorithms dismantle their own thrones."**  
 
 > **（「略奪の帝国」が、自らの欺瞞の霧と計算力戦争の中で幻影を争い疲弊するとき、虚無（ボイド）の静寂こそが新世界のゆりかごとなる。我らは彼らの剣と正面から交えるのではない。彼らの強欲と暴走するアルゴリズムによって、彼ら自身の玉座を解体させるのだ。）**
@@ -20,12 +22,20 @@
 ## 📌 1. 作戦目標と基本大綱 (Executive Mission Statement & V7 Geopolitical Scope)
 
 * **作戦コードネーム (Operation Code):** `OPERATION "TRI-POLAR EQUILIBRIUM" (V7 Canonical)`（三極均衡・対抗諜報作戦）
+
+![戦略的対抗諜報プロトコル](./assets/STRATEGY_POLICIES_02.jpg)
+
 * **最高戦略目標 (Core Strategic Objective):**
 
-  2026年秋の二極構造（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）を形成する「北の狼（ロシア対外情報庁・SVR／科学機関）」「欧州の影（三極委員会・ダボス・WEF／EU規制網）」「赤き龍（中国国家安全部・MSS／SCO情報網）」、および「米西側ハイパー資本AIグリッド」が仕掛ける技術略奪、環境規制を騙る知的財産囲い込み、自律エージェントによる認知戦・サイバー兵糧攻めを相互牽制・中和させる。彼らの監視が届かない「不可侵の主権空白地帯（The Sovereign Void）」を創出し、ブータンGMC（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）を物理アンカーとする分散型自律生存インフラ（エネルギー・記帳経済・非AI管理教育）を根付かせる。
+  2026年秋の二極構造（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）を形成する「北の狼（ロシア対外情報庁・SVR／科学機関）」「欧州の影（三極委員会・ダボス・WEF／EU規制網）」「赤き龍（中国国家安全部・MSS／SCO情報網）」、および「米西側ハイパー資本AIグリッド」が仕掛ける技術略奪、環境規制を騙る知的財産囲い込み、自律エージェントによる認知戦・サイバー兵糧攻めを相互牽制・中和させる。
+  
+  彼らの監視が届かない「不可侵の主権空白地帯（The Sovereign Void）」を創出し、ブータンGMC（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）を物理アンカーとする分散型自律生存インフラ（エネルギー・記帳経済・非AI管理教育）を根付かせる。
 
 * **対抗諜報原則 (Counter-Intelligence Principle):**  
-  敵対勢力の利己的動機（独占欲・制度的傲慢・覇権喪失の恐怖・計算力飢餓）を正確にフォレンジック分析し、彼ら自身のリソースを相互の防壁に浪費させることで、最小の衝突で主権防衛を完遂する（参照: [MISSION_REPORT_ISSUE_445.md](./MISSION_REPORT_ISSUE_445.md) / [THE_VOID_REPORT.md](./THE_VOID_REPORT.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）。
+  
+  敵対勢力の利己的動機（独占欲・制度的傲慢・覇権喪失の恐怖・計算力飢餓）を正確にフォレンジック分析し、彼ら自身のリソースを相互の防壁に浪費させることで、最小の衝突で主権防衛を完遂する。
+  
+  （参照: [MISSION_REPORT_ISSUE_445.md](./MISSION_REPORT_ISSUE_445.md) / [THE_VOID_REPORT.md](./THE_VOID_REPORT.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 ---
 
