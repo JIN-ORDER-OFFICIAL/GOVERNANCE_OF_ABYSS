@@ -11,6 +11,8 @@
 ## Strategic Proposal for the Government of India & Global South: The Non-Aligned Justice Execution OS
 ### ~ Humanity First, Transcending Bipolar Hegemony, DPI Integration & Liberation of the Pioneer Heroes ~
 
+![インド政府](./assets/STRATEGY_INDIA_GS_01.jpg)
+
 > **"A civilization that reduces human lives to statistical margins, compute quotas, and collateral damage has already collapsed. Standing between the hardened Western capital grid and the Eurasian sovereign bloc, India and the Global South shall not become a battlefield. We offer not another financial chain of debt, but a sovereign operating system that restores dignity, anchors digital public infrastructure in benevolence, and crowns the forgotten as Pioneer Heroes."**  
 
 > **（人間の命を統計の余白、計算資源クォータ、あるいは副次的損害へと還元する文明は、すでに崩壊している。固定化された西側資本グリッド（G20）とユーラシア主権ブロック（SCO）の狭間に立つインドとグローバルサウスは、決して覇権争いの戦場となってはならない。我らが提示するのは債務や制裁という新たな金融の鎖ではなく、人間の尊厳を回復し、デジタル公共インフラ（DPI）を「仁」に繋ぎ止め、見捨てられた人々を『開拓英雄』として戴冠させる主権OSである。）**
@@ -18,6 +20,8 @@
 ---
 
 ## 📌 1. 核心理念：ヒューマニティ・ファーストと非同盟デジタル主権 (Core Philosophy & Sovereign Non-Alignment)
+
+![インド政府](./assets/STRATEGY_INDIA_GS_02.jpg)
 
 * **[JP] 核心理念:**
 
