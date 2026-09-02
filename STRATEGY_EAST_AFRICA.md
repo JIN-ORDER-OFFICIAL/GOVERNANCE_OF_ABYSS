@@ -11,6 +11,8 @@
 ## East Africa Sovereign Strategy: The Nile Renaissance & Hydrological Peace
 ### ~ Sovereign Debt Neutralization, Equitable Nile Flow, DPI Direct Distribution & The Warrior-to-Builder Transition ~
 
+[!東アフリカ救済戦略](./assets/STRATEGY_EAST_AFRICA_01.jpg)
+
 > **"The waters of the Nile belong neither to empires, nor to debt collectors, nor to predatory algorithmic grids. They flow as the eternal mother to every parched field across the Horn of Africa. By turning dams into instruments of harmony and soldiers into builders, the cradle of humanity awakens."**  
 
 > **（ナイルの水は、帝国のものでも、債権回収業者のものでも、略奪的アルゴリズムのものでもない。それはアフリカの角の渇いたすべての耕地へと注がれる永遠の母である。ダムを調和の器へと変え、兵士を建設者へと転換するとき、人類発祥のゆりかごが再び目覚める。）**
@@ -21,10 +23,14 @@
 
 * **作戦コードネーム (Operation Code):** `OPERATION "NILE RENAISSANCE" (V7 Canonical)`（ナイルの螺旋計画）
 
-* **最高戦略目標 (Core Strategic Objective):**  
+[!東アフリカ救済戦略](./assets/STRATEGY_EAST_AFRICA_02.jpg)
+
+* **最高戦略目標 (Core Strategic Objective):**
+
   2026年秋の二極対立（G20資本至上主義グリッド ⚡ SCOユーラシア主権統制グリッド）による資源争奪戦の波及を遮断（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)）。エチオピア・エジプト・スーダンを巻き込む青ナイル水利危機（GERDダム対立）、巨額の対中債務トラップ、民族紛争（ティグレ戦争等）、および人道支援を隠れ蓑にした外資NGO・自律金融エージェントの介入を根底から解体し、東アフリカ全土の自律的食糧・エネルギー・水利平和共生圏を確立する。
 
-* **技術・協調基盤 (Technological Nexus):**  
+* **技術・協調基盤 (Technological Nexus):**
+
   ブータンGMC中立調停API（参照: [64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)）と直結したJIN-AIリアルタイム流況制御、新レアアース配当による債務相殺、およびアフガン元コマンド部隊とティグレ兵士の統合による「地域調和守護隊」の配備。  
 
   （参照: [STRATEGY_AFGHANISTAN_GS.md](./STRATEGY_AFGHANISTAN_GS.md) / [JIN_RESOURCE_ALLIANCE.md](./JIN_RESOURCE_ALLIANCE.md) / [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
@@ -49,16 +55,22 @@
 2.**【OPERATION "NILE RENAISSANCE" (V7 CANONICAL)】**
 
 3.**【💳債務等価相殺】**
-  * **新レアアース配当充当**     　   
-  * **重要インフラ主権奪還**      
+
+  * 新レアアース配当充当
+  
+  * 重要インフラ主権奪還      
 
 4.**【💧GERD中立調停放流】**
-  * **JIN-AIリアルタイム制御**  
-  * **下流エジプト・スーダン保障**
+
+  * JIN-AIリアルタイム制御
+  
+  * 下流エジプト・スーダン保障
 
 5.**【🛡️統合守護隊 ＆ DPI直接給付】**
-  * **TPLF＋アフガン元コマンド再編**
-  * **中抜き完全排除のDPIデリバリー**
+
+  * TPLF＋アフガン元コマンド再編
+  
+  * 中抜き完全排除のDPIデリバリー
 
 6.**【北東アフリカ三国：水利・エネルギー共生協定の締結】**
 
