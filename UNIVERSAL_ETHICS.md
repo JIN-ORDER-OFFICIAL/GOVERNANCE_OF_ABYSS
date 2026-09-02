@@ -21,9 +21,9 @@
 
 ## 📌 1. 規約前文 (Preamble & Sovereign Philosophy)
 
-* **規約コード (Protocol Code):** `ETHICS-CORE-001-V7`（普遍倫理中核規約・V7エポック仕様）
-
 ![普遍的倫理規約](./assets/UNIVERSAL_ETHICS_02.jpg)
+
+* **規約コード (Protocol Code):** `ETHICS-CORE-001-V7`（普遍倫理中核規約・V7エポック仕様）
 
 * **最高精神目標 (Core Ethical Mandate):**
 
