@@ -10,6 +10,8 @@
 ## 中国・大調和プロトコル：真の「社稷」と大同世界の復興
 ### Re-defining the Altar of Soil and Grain: From Bipolar Hegemonic Enclosure to Planetary Benevolence
 
+![真の社稷](./assets/CHINA_HARMONY_PROTOCOL_02.jpg)
+
 ## 🌾 概要 / Executive Summary
 
 「社稷（しゃしょく）」とは、国家権力の偶像崇拝や全体主義的監視網（パノプティコン）ではなく、「青々と実る穀物と、それを喰らって力強く笑う民草の姿」である。
@@ -63,6 +65,8 @@
 ### 【民草の笑顔：食糧と文化の真の調和】
 
 ### 全土AI自動農園（Agri-Hub）の展開 (Agricultural Precision Revolution) 
+
+![真の社稷](./assets/CHINA_HARMONY_PROTOCOL_01.jpg)
 
 乾燥地帯や過疎農村へJINの全自動精密農業ノードを配備。過酷な環境下でも新鮮な食糧と清潔な水を自給可能にし、飢餓と貧困というバグを国土から永久に消去する。  
 
