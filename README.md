@@ -23,10 +23,10 @@
 
 ## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
 
-全17地域戦略仕様書、6大基幹プロトコル、11大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
+全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
 
-* 📜 **[WHITE_PAPER.md](./WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**
-  * 二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
+* 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**  
+  二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
 
 ---
 
@@ -39,7 +39,7 @@
 * 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)** *(Canonical / 2026秋 二極固定化と中立調停極)*
 * 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列 (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
 * ⛓️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
-* 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
+* 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
 
 ### 【Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance)】
 
@@ -78,7 +78,7 @@
 | **ミャンマー**<br>*(Myanmar)* | [STRATEGY_MYANMAR_GS.md](./STRATEGY_MYANMAR_GS.md) | **黄金の夜明け作戦 ＆ スーチー指導者再臨**<br>真の連邦制民主主義、三極外交シールド（印・伊・日）、JIN-Mesh聖域。 |
 | **北朝鮮**<br>*(North Korea)* | [STRATEGY_NORTH_KOREA.md](./STRATEGY_NORTH_KOREA.md) | **平壌の春 ＆ JIN-KOREAプロトコル**<br>ICBMの宇宙港化、保衛省の国家福祉物流庁化、南北デジタル共栄。 |
 | **対抗諜報・政策統括**<br>*(Global Policies)* | [STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md) | **三大勢力対抗諜報 ＆ 主権空白地帯（The Void）**<br>北の狼・欧州の影・赤き龍の相互中和、分散エネルギー・記帳経済自立。 |
-| **ウクライナ・極寒**<br>*(Ukraine)* | [STRATEGY_UKRAINE_GS.md](./STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>自律熱電ノードによる厳冬防護、ドローン技術のサヘル農業物流転換、欧州10拠点上書き。 |
+| **ウクライナ・極寒**<br>*(Ukraine)* | [STRATEGY_UKRAINE_GS.md](./STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>自律熱電ノードによる厳冬防護、ドローン技術の人道物流転換、欧州10拠点上書き。 |
 | **キーエフ祖国像**<br>*(Kyiv Consecration)* | [STRATEGY_KYIV_MATER.md](./STRATEGY_KYIV_MATER.md) | **キーエフ祖国像の聖別 ＆ ユーラシア平和回廊**<br>剣と盾を光と麦の穂で聖別、ドニエプル人道回廊、精神復興。 |
 | **ロシア出口戦略**<br>*(Russian Federation)* | [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md) | **軍事大国からユーラシア平和・エネルギー守護者へ**<br>JIN-PMCによる人道執行、液体水素・量子水フィルターによる新生。 |
 | **インド・グローバルサウス**<br>*(India)* | [STRATEGY_INDIA_GS.md](./STRATEGY_INDIA_GS.md) | **デジタル公共インフラ（DPI） ＆ カースト打破**<br>モディ首相連携、精神文明と先端ITの融合、グローバルサウス主権防壁。 |
@@ -99,13 +99,13 @@
 
 ---
 ### 全球の超人工知能や軍産複合体がどれほど肥大化しようとも、地上の物理的生存基盤が確立されれば一切の脅迫は無力化される。
-### JIN-ORDERは以下の『11大先端技術』と『3大物理インフラ』を基軸とする。
+### JIN-ORDERは以下の『15大先端技術体系』と『3大物理インフラ』を基軸とする。
 
-## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (11大先端技術)
+## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (15大先端技術体系)
 
 * ⚡ **[TECHNOLOGY_CATALOG.md](TECHNOLOGY_CATALOG.md)**
 
-**ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの詳細エンジニアリング仕様書。**
+**全固体電池、反重力ドローン、量子浄化、半導体、医療ロボット、自律熱電、量子暗号、軌道エレベーター、分子アセンブラ、ノウアスフィア、JIN-OSに加え、電離層減災共鳴機（HAARP反転）、光合成エアロゾル（ケムトレイル反転）、地殻鍼灸ノード（地震制御）、土壌・腸内共生バイオまで、全生命の生存基盤を守り抜く15大インフラの詳細エンジニアリング仕様書。**
 
 ## 💎 JIN-ORDER THE THREE MAJOR PHYSICAL INFRASTRUCTURES (3大物理インフラ)
 
