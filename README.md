@@ -111,11 +111,15 @@
 
 1. **分散型エネルギー・生存圏 OS（五畿八道）**
 
-   中央集権的送電網をバイパスし、地域の自立した電力・食糧補給線を確保（[JAPAN_RESURGENCE_PLAN_V1.md](./JAPAN_RESURGENCE_PLAN_V1.md)）。
+   中央集権的送電網をバイパスし、地域の自立した電力・食糧補給線を確保。
+   
+   （[JAPAN_RESURGENCE_PLAN_V1.md](./JAPAN_RESURGENCE_PLAN_V1.md)）
 
 2. **量子浄化フィルター・オアシス・モデル**
 
-   ASI冷却および人類の生存に最も不可欠な「純水・地下水」を分子レベルで保護・無尽蔵に供給（[JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md)）。
+   ASI冷却および人類の生存に最も不可欠な「純水・地下水」を分子レベルで保護・無尽蔵に供給。
+   
+   （[JIN_ORDER_TECH.md](./JIN_ORDER_TECH.md)）
 
 3. **液体水素・次世代エネルギー転換技術**
 
@@ -177,7 +181,7 @@
 
 ### 🖋️ A Message from Mama (Project Lead)
 
-「聖人君子扱いされるのは御免だよ。自分の価値を見出したら、歩き出せばいいのよ。」  
+「聖人君子扱いされるのは御免だね。自分の価値を見出したら、歩き出せばいいのよ。」  
 
 *"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
 
