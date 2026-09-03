@@ -169,7 +169,7 @@
 
 * **Sovereign Royalty**: 本プロトコルの活用によって生じる富の一部は、グローバルサウスのインフラと分散教育を支える「JIN維持基金」へ還流されます。
 
-### 📩 Official Contact: `jin.reparation.cfo@gmail.com`
+### 📩 Official Contact: `jin.reparation.cfo@gmail.com`　
 
 ---
 
