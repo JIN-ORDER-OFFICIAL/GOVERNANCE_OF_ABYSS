@@ -58,7 +58,7 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 
 ### Layer 1: 物理・工学基盤（JIN-TECH Specifications）
 
-　参照 [🌸JIN-ORDER Technology Catalog](./TECHNOLOGY_CATALOG.md)
+【参照】[🌸JIN-ORDER Technology Catalog](./TECHNOLOGY_CATALOG.md)
 
 * **ジン・ドラゴン鉱石 全固体電池 (`01`)**: エネルギー密度+400%、急速充電-80%短縮。中央集権型送電網への依存を完全脱却。
 
@@ -70,13 +70,17 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 
 ### Layer 2: 情報・認知防壁（Cognitive & Quantum Defense）
 
+ 【参照】[🧱RESOURCE_WALL.md](./STRATEGY_POLICIES.md)
+
 * **ジン・ネット（JIN-NET / `07`）**: BB84プロトコルおよび格子暗号による耐量子P2Pメッシュ網。検閲・ハッキング・EMP攻撃耐性100%。
 
-* **対抗諜報・認知シールド (`STRATEGY_POLICIES.md`)**: 432Hz調和周波数による電磁ノイズ中和と、ディープフェイク・心理工作を自動分解する監査ログ（Mirror of Truth）。
+* **対抗諜報・認知シールド**: 432Hz調和周波数による電磁ノイズ中和と、ディープフェイク・心理工作を自動分解する監査ログ（Mirror of Truth）。
 
 ### Layer 3: 制度・資源防衛（Sovereignty & Direct Dividend）
 
-* **資源防壁プロトコル (`RESOURCE_WALL.md`)**: リチウム、コバルト、希土類、ウラン等の天然資源を外国ファンドや軍閥の略奪から隔離・信託化。
+ 【参照】[🧱RESOURCE_WALL.md](./RESOURCE_WALL.md)
+
+* **資源防壁プロトコル**: リチウム、コバルト、希土類、ウラン等の天然資源を外国ファンドや軍閥の略奪から隔離・信託化。
 
 * **中間搾取ゼロ配当**: 資源輸出益および気候クレジット収益を、JIN-Passportを通じて市民ウォレットへ100%直接還流。
 
