@@ -36,7 +36,9 @@
 
 ### 【Layer 1: 地政学・チョークポイント脅威分析 (Geopolitical & Chokepoints)】
 
-* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)** *(Canonical / 2026秋 二極固定化と中立調停極)*
+* 🌐 **[18_FAR_EAST_ASEAN_ICE_CORRIDOR.md](./docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**: 北極海・極東〜ASEAN南進回廊（脱西側物流と実物資源の多極化）
+* 🌐 **[19_EURASIA_DUAL_AXIS_DECOUPLING.md](./docs/19_EURASIA_DUAL_AXIS_DECOUPLING.md)**: 極東ユーラシアの二重構造解体（中国依存と中立分散の狭間）
+* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)**: (2026年秋　二極固定化と中立調停極)
 * 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列 (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
 * ⛓️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
 * 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
@@ -50,6 +52,7 @@
 
 ### 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】
 
+* 🌾 **[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**: 肥料・食糧・鉱物の現物担保プロトコル（実物生命資産アンカー設計）
 * 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)** *(V7 構造解体 ＆ 中立調停アンカー仕様)*
 * 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md) / [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md)**
 * 🛡️ **[RESOURCE_WALL.md](./RESOURCE_WALL.md)**
@@ -58,10 +61,10 @@
 
 * 🗾 **[JAPAN_RESURGENCE_PLAN_V1.md](./JAPAN_RESURGENCE_PLAN_V1.md) / [JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**
 * 🌴 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md](./JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md) / [JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
-* 🌐 **全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列 / 全17領域)**
 
 ---
 
+##🌐 全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列 / 全17領域)
 ## 📑 GLOBAL STRATEGIC SALVATION INDEX (世界戦略救済仕様書一覧)
 
 各地域の構造的課題をデバッグし、主権と平穏を不可逆的にデプロイするための地域戦略仕様書群（全17領域）：
