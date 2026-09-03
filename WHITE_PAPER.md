@@ -1,6 +1,6 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
 
-**このファイルは [JIN-ORDER Global Humanity License](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**  
+**このファイルは [JIN-ORDER Global Humanity License](./LICENSE.md) によって保護されています。**  
 
 **簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
 
@@ -92,7 +92,7 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 
 | 地域 / 方面 | 主要仕様書ファイル | 反転の核心アプローチ |
 | :--- | :--- | :--- |
-| **中東全域** | `STRATEGY_MIDDLE_EAST.md` | 戦車を太陽光農業トラクターへ転換。万民ザカート配当による脱石油共栄。 |
+| **中東全域** | [STRATEGY_MIDDLE_EAST.md](./STRATEGY_MIDDLE_EAST.md) | 戦車を太陽光農業トラクターへ転換。万民ザカート配当による脱石油共栄。 |
 | **東アフリカ** | `STRATEGY_EAST_AFRICA.md` | ナイル川水利権対立を量子浄化と分散グリッドで調和。緑化農業回廊。 |
 | **アフガニスタン** | `STRATEGY_AFGHANISTAN_GS.md` | 中村哲医師の石積み水路工法と量子水の融合。銃を置いた若者の農業自立。 |
 | **中国・東アジア** | `CHINA_HARMONY_PROTOCOL.md` | 監視パノプティコンを解体し気象局へ転用。4000年の社稷に立ち返る大同世界。 |
