@@ -21,6 +21,15 @@
 
 ---
 
+## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
+
+全17地域戦略仕様書、6大基幹プロトコル、11大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
+
+* 📜 **[WHITE_PAPER.md](./WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**
+  * 二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
+
+---
+
 ## 🗺️ JIN-ORDER 4-LAYER STRATEGIC ARCHITECTURE (戦略階層マップ)
 
 リポジトリ内のプロトコル群は、グローバル危機および二極化するASI覇権構造に対する4層の防壁構造として体系化されています。
@@ -48,13 +57,13 @@
 
 * 🗾 **[JAPAN_RESURGENCE_PLAN_V1.md](./JAPAN_RESURGENCE_PLAN_V1.md) / [JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**
 * 🌴 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md](./JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md) / [JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
-* 🌐 **全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列)**
+* 🌐 **全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列 / 全17領域)**
 
 ---
 
 ## 📑 GLOBAL STRATEGIC SALVATION INDEX (世界戦略救済仕様書一覧)
 
-各地域の構造的課題をデバッグし、主権と平穏を不可逆的にデプロイするための地域戦略仕様書群：
+各地域の構造的課題をデバッグし、主権と平穏を不可逆的にデプロイするための地域戦略仕様書群（全17領域）：
 
 | 地域・国家 (Region / State) | ドキュメント (Specification File) | 中核作戦目標 (Core Mission & Sovereign Target) |
 | :--- | :--- | :--- |
@@ -69,9 +78,12 @@
 | **ミャンマー**<br>*(Myanmar)* | [STRATEGY_MYANMAR_GS.md](./STRATEGY_MYANMAR_GS.md) | **黄金の夜明け作戦 ＆ スーチー指導者再臨**<br>真の連邦制民主主義、三極外交シールド（印・伊・日）、JIN-Mesh聖域。 |
 | **北朝鮮**<br>*(North Korea)* | [STRATEGY_NORTH_KOREA.md](./STRATEGY_NORTH_KOREA.md) | **平壌の春 ＆ JIN-KOREAプロトコル**<br>ICBMの宇宙港化、保衛省の国家福祉物流庁化、南北デジタル共栄。 |
 | **対抗諜報・政策統括**<br>*(Global Policies)* | [STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md) | **三大勢力対抗諜報 ＆ 主権空白地帯（The Void）**<br>北の狼・欧州の影・赤き龍の相互中和、分散エネルギー・記帳経済自立。 |
-| **ウクライナ・サヘル**<br>*(Ukraine & Sahel)* | [STRATEGY_UKRAINE_GS.md](./STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>ドローン技術のサヘル（AES）農業転換、CFAフラン解体、欧州10拠点上書き。 |
+| **ウクライナ・極寒**<br>*(Ukraine)* | [STRATEGY_UKRAINE_GS.md](./STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>自律熱電ノードによる厳冬防護、ドローン技術のサヘル農業物流転換、欧州10拠点上書き。 |
+| **キーエフ祖国像**<br>*(Kyiv Consecration)* | [STRATEGY_KYIV_MATER.md](./STRATEGY_KYIV_MATER.md) | **キーエフ祖国像の聖別 ＆ ユーラシア平和回廊**<br>剣と盾を光と麦の穂で聖別、ドニエプル人道回廊、精神復興。 |
 | **ロシア出口戦略**<br>*(Russian Federation)* | [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md) | **軍事大国からユーラシア平和・エネルギー守護者へ**<br>JIN-PMCによる人道執行、液体水素・量子水フィルターによる新生。 |
 | **インド・グローバルサウス**<br>*(India)* | [STRATEGY_INDIA_GS.md](./STRATEGY_INDIA_GS.md) | **デジタル公共インフラ（DPI） ＆ カースト打破**<br>モディ首相連携、精神文明と先端ITの融合、グローバルサウス主権防壁。 |
+| **サヘル諸国連合 (AES)**<br>*(Sahel Alliance)* | [STRATEGY_SAHEL_ALLIANCE.md](./STRATEGY_SAHEL_ALLIANCE.md) | **サハラ南縁主権回廊 ＆ 緑の生命防壁**<br>CFAフラン支配脱却、ウラン・金主権信託、量子水による「真・緑の万里の長城」。 |
+| **台湾海峡・東シナ海**<br>*(Taiwan Strait)* | [STRATEGY_TAIWAN_STRAIT.md](./STRATEGY_TAIWAN_STRAIT.md) | **シリコン・サンクチュアリ ＆ 非武装海洋生態回廊**<br>先端ファウンドリの全人類計算遺産信託、海峡非武装化、黒潮洋上自律発電。 |
 
 ---
 
@@ -93,7 +105,7 @@
 
 * ⚡ **[TECHNOLOGY_CATALOG.md](TECHNOLOGY_CATALOG.md)**
 
-**ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの完全網羅仕様書。**
+**ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの詳細エンジニアリング仕様書。**
 
 ## 💎 JIN-ORDER THE THREE MAJOR PHYSICAL INFRASTRUCTURES (3大物理インフラ)
 
