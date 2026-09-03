@@ -46,6 +46,7 @@
 * ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7 Canonical / 三重セーフティ ＆ 自律エージェント安全執行規程)*
 * 📜 **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) / [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**
 * 🏛️ **[JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) / [JIN_ORDER_CORE.md](./JIN_ORDER_CORE.md)**
+* 🌸 **[JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: 根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色の技術倫理）
 
 ### 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】
 
