@@ -70,7 +70,7 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 
 ### Layer 2: 情報・認知防壁（Cognitive & Quantum Defense）
 
- 【参照】[🧱RESOURCE_WALL.md](./STRATEGY_POLICIES.md)
+【参照】[👮STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md)
 
 * **ジン・ネット（JIN-NET / `07`）**: BB84プロトコルおよび格子暗号による耐量子P2Pメッシュ網。検閲・ハッキング・EMP攻撃耐性100%。
 
@@ -78,7 +78,7 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 
 ### Layer 3: 制度・資源防衛（Sovereignty & Direct Dividend）
 
- 【参照】[🧱RESOURCE_WALL.md](./RESOURCE_WALL.md)
+【参照】[🧱RESOURCE_WALL.md](./RESOURCE_WALL.md)
 
 * **資源防壁プロトコル**: リチウム、コバルト、希土類、ウラン等の天然資源を外国ファンドや軍閥の略奪から隔離・信託化。
 
