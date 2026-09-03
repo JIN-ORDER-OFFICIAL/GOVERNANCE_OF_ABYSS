@@ -39,7 +39,7 @@
 * 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)** *(Canonical / 2026秋 二極固定化と中立調停極)*
 * 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列 (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
 * ⛓️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
-* 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
+* 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
 
 ### 【Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance)】
 
