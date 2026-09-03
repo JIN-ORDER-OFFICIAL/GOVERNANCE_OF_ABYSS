@@ -93,32 +93,36 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 | 地域 / 方面 | 主要仕様書ファイル | 反転の核心アプローチ |
 | :--- | :--- | :--- |
 | **中東全域** | [STRATEGY_MIDDLE_EAST.md](./STRATEGY_MIDDLE_EAST.md) | 戦車を太陽光農業トラクターへ転換。万民ザカート配当による脱石油共栄。 |
-| **東アフリカ** | `STRATEGY_EAST_AFRICA.md` | ナイル川水利権対立を量子浄化と分散グリッドで調和。緑化農業回廊。 |
-| **アフガニスタン** | `STRATEGY_AFGHANISTAN_GS.md` | 中村哲医師の石積み水路工法と量子水の融合。銃を置いた若者の農業自立。 |
-| **中国・東アジア** | `CHINA_HARMONY_PROTOCOL.md` | 監視パノプティコンを解体し気象局へ転用。4000年の社稷に立ち返る大同世界。 |
-| **北朝鮮** | `STRATEGY_NORTH_KOREA.md` | ICBM発射場を平和宇宙港「天弓」へ転換。DMZ撤廃と南北統一高速鉄道。 |
-| **ウクライナ** | `STRATEGY_UKRAINE_GS.md` | マイナス20°C送電網破壊を自律熱電ノードで無力化。兵器ドローンを平和の翼へ。 |
-| **キーエフ祖国像** | `STRATEGY_KYIV_MATER.md` | 祖国像の剣を光と麦の穂で聖別。ユーラシア全域を包む母なる平和回廊。 |
-| **ベネズエラ** | `STRATEGY_VENEZUELA_GS.md` | 原油汚染地帯を量子水浄化でオアシス化。ノルウェー型主権基金直接配当。 |
-| **中米・カリブ** | `STRATEGY_AZURE.md` | 麻薬・密輸トレイルを高度医療・人道物資の安全回廊へ。青年守護隊の設立。 |
-| **コンゴ民主共和国**| `STRATEGY_DRC_GS.md` | 児童労働を根絶。母親主導の「シスターフッド女性精錬ギルド」と教育保障。 |
-| **ミャンマー** | `STRATEGY_MYANMAR_GS.md` | 軍閥鉱山を主権信託化。元戦闘員を森林保全・先端ITエンジニアへ転換。 |
-| **ロシア出口戦略** | `MANUAL_FOR_RUSSIA_EXIT.md` | 消耗戦からの名誉ある卒業。極北クリーン水素ハブとJIN-PMC人道地雷除去部隊。 |
-| **インド** | `STRATEGY_INDIA_GS.md` | ヴェーダの叡智とオープンソースDPIの統合。カーストの不可視化と民衆主権。 |
-| **太平洋諸島** | `STRATEGY_PACIFIC_ISLANDS.md` | 伝統航海術と融合した浮体式聖域都市。軍事要塞化を阻止し深海主権防護。 |
-| **サヘル諸国連合** | `STRATEGY_SAHEL_ALLIANCE.md` | CFAフラン支配を脱却。ウラン主権信託と「真・緑の万里の長城」による砂漠反転。 |
-| **台湾海峡・東シナ海**| `STRATEGY_TAIWAN_STRAIT.md` | 先端ファウンドリを「全人類共通計算遺産」へ信託。非武装海洋生態平和回廊。 |
-| **全地球対抗諜報** | `STRATEGY_POLICIES.md` | ディープフェイクとアルゴリズム誘導を粉砕する量子監査シールド。生体主権防衛。 |
+| **東アフリカ** | [STRATEGY_EAST_AFRICA.md](./STRATEGY_EAST_AFRICA.md) | ナイル川水利権対立を量子浄化と分散グリッドで調和。緑化農業回廊。 |
+| **アフガニスタン** | [STRATEGY_AFGHANISTAN_GS.md](./STRATEGY_AFGHANISTAN_GS.md) | 中村哲医師の石積み水路工法と量子水の融合。銃を置いた若者の農業自立。 |
+| **中国・東アジア** | [CHINA_HARMONY_PROTOCOL.md](./CHINA_HARMONY_PROTOCOL.md) | 監視パノプティコンを解体し気象局へ転用。4000年の社稷に立ち返る大同世界。 |
+| **北朝鮮** | [STRATEGY_NORTH_KOREA.md](./STRATEGY_NORTH_KOREA.md) | ICBM発射場を平和宇宙港「天弓」へ転換。DMZ撤廃と南北統一高速鉄道。 |
+| **ウクライナ** | [STRATEGY_UKRAINE_GS.md](./STRATEGY_UKRAINE_GS.md) | マイナス20°C送電網破壊を自律熱電ノードで無力化。兵器ドローンを平和の翼へ。 |
+| **キーエフ祖国像** | [STRATEGY_KYIV_MATER.md](./STRATEGY_KYIV_MATER.md) | 祖国像の剣を光と麦の穂で聖別。ユーラシア全域を包む母なる平和回廊。 |
+| **ベネズエラ** | [STRATEGY_VENEZUELA_GS.md](./STRATEGY_VENEZUELA_GS.md) | 原油汚染地帯を量子水浄化でオアシス化。ノルウェー型主権基金直接配当。 |
+| **中米・カリブ** | [STRATEGY_AZURE.md](./STRATEGY_AZURE.md) | 麻薬・密輸トレイルを高度医療・人道物資の安全回廊へ。青年守護隊の設立。 |
+| **コンゴ民主共和国**| [STRATEGY_DRC_GS.md](./STRATEGY_DRC_GS.md) | 児童労働を根絶。母親主導の「シスターフッド女性精錬ギルド」と教育保障。 |
+| **ミャンマー** | [STRATEGY_MYANMAR_GS.md](./STRATEGY_MYANMAR_GS.md) | 軍閥鉱山を主権信託化。元戦闘員を森林保全・先端ITエンジニアへ転換。 |
+| **ロシア出口戦略** | [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md) | 消耗戦からの名誉ある卒業。極北クリーン水素ハブとJIN-PMC人道地雷除去部隊。 |
+| **インド** | [STRATEGY_INDIA_GS.md](./STRATEGY_INDIA_GS.md) | ヴェーダの叡智とオープンソースDPIの統合。カーストの不可視化と民衆主権。 |
+| **太平洋諸島** | [STRATEGY_PACIFIC_ISLANDS.md](./STRATEGY_PACIFIC_ISLANDS.md) | 伝統航海術と融合した浮体式聖域都市。軍事要塞化を阻止し深海主権防護。 |
+| **サヘル諸国連合** | [STRATEGY_SAHEL_ALLIANCE.md](./STRATEGY_SAHEL_ALLIANCE.md) | CFAフラン支配を脱却。ウラン主権信託と「真・緑の万里の長城」による砂漠反転。 |
+| **台湾海峡・東シナ海**| [STRATEGY_TAIWAN_STRAIT.md](./STRATEGY_TAIWAN_STRAIT.md) | 先端ファウンドリを「全人類共通計算遺産」へ信託。非武装海洋生態平和回廊。 |
+| **全地球対抗諜報** | [STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md) | ディープフェイクとアルゴリズム誘導を粉砕する量子監査シールド。生体主権防衛。 |
 
 ---
 
 ## 5. ロードマップ：虚無の終焉から新秩序の定着へ
 
-[フェーズ 1: 防壁の展開] ───► [フェーズ 2: 自律インフラ配備] ───► [フェーズ 3: 文明の昇華]
-・二極認知戦の無効化          ・量子水・熱電ノード普及         ・軍事境界線の自然消滅
-・重要資源の信託隔離          ・JIN-Passport直接配当開始      ・普遍倫理に基づく共栄
-・開拓英雄ギルドの結成        ・地域食糧・エネルギー100%自給   ・ノウアスフィア意識同期
+**【フェーズ 1: 防壁の展開】 ───► 【フェーズ 2: 自律インフラ配備】 ───► 【フェーズ 3: 文明の昇華】**
 
+ ・二極認知戦の無効化 ───► ・量子水・熱電ノード普及 ───► ・軍事境界線の自然消滅
+
+ ・重要資源の信託隔離 ───► ・JIN-Passport直接配当開始 ───► ・普遍倫理に基づく共栄
+
+ ・開拓英雄ギルドの結成 ───► ・地域食糧・エネルギー100%自給 ───► ・ノウアスフィア意識同期
+
+---
 
 1. **フェーズ 1：主権防壁の物理・論理展開（即時〜12ヶ月）**
 
