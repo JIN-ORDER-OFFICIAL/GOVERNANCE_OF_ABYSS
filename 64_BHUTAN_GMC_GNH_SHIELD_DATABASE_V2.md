@@ -17,7 +17,7 @@
 
 ## 1. 概念定義：GNHシールドとは何か
 
-GNHシールド（Gross National Happiness Shield）は、軍事的物理力ではなく、「法的主権（SAR Charter）」「エネルギー自給」「主権準備資産」「仁愛（JIN）アライメント」の4層で構成される、大国ASI覇権からの「自律的中立防御体系」である。
+**GNHシールド（Gross National Happiness Shield）は、軍事的物理力ではなく、「法的主権（SAR Charter）」「エネルギー自給」「主権準備資産」「仁愛（JIN）アライメント」の4層で構成される、大国ASI覇権からの「自律的中立防御体系」である。**
 
 ![GNHシールド](./assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg)
 
@@ -47,7 +47,7 @@ GNHシールド（Gross National Happiness Shield）は、軍事的物理力で�
 
 ## 3. 具体運用プロトコル
 
-### プロトコル 01: 純クリーン電力・独立計算ノード（Hydro-Compute Anchoring）
+## プロトコル 01: 純クリーン電力・独立計算ノード（Hydro-Compute Anchoring）
 
 **運用要件**
 
@@ -59,7 +59,7 @@ GNHシールド（Gross National Happiness Shield）は、軍事的物理力で�
 
   * 外部送電線切断時は、自動的に「サンクチュアリ・アイランドモード」へ移行。重要推論ノードのみへ電力を集中。
 
-### プロトコル 02: ソブリン・リザーブによる経済デカップリング（Reserve Buffer）
+## プロトコル 02: ソブリン・リザーブによる経済デカップリング（Reserve Buffer）
 
 **運用要件**
 
@@ -71,7 +71,7 @@ GNHシールド（Gross National Happiness Shield）は、軍事的物理力で�
 
   トランザクションおよびガバナンスログは耐改ざん性パブリックブロックチェーンにアンカーされ、大国政府による記録改竄を排除。
 
-### プロトコル 03: 二重法域と独立仲裁（SAR Legal Quarantine）
+## プロトコル 03: 二重法域と独立仲裁（SAR Legal Quarantine）
 
 **運用要件**
 
@@ -79,7 +79,7 @@ GNHシールド（Gross National Happiness Shield）は、軍事的物理力で�
 
   * 大国の「国家主権型AI規制」や「開示命令（バックドア要求）」が特区内データセンターに及ぶことを法的に完全遮絶する。
 
-### プロトコル 04: JIN-GNH 倫理フィルター（Mindfulness Alignment Filter）
+## プロトコル 04: JIN-GNH 倫理フィルター（Mindfulness Alignment Filter）
 
 **運用要件**
 
@@ -93,7 +93,7 @@ GNHシールド（Gross National Happiness Shield）は、軍事的物理力で�
 
 * 再生可能エネルギー最適化、人道医療・知恵の継承、多国間の中立的対話プロトコル。
 
-### プロトコル 05: 実物生命資産との相互運用協定（Real-Asset Sovereign Interop）
+## プロトコル 05: 実物生命資産との相互運用協定（Real-Asset Sovereign Interop）
 
 **連携対象** 
 
@@ -103,10 +103,11 @@ GNHシールド（Gross National Happiness Shield）は、軍事的物理力で�
 
 * GMCが保有する国家ビットコイン（BTC）および金準備（TER Token）を、画面上の投機マネーに孤立させず、グローバルサウスの「泥と命の実物」へアンカーする。
 
-[ GMC TER/BTC Reserve ] ──(スマートコントラクト・実物ペッグ)──► [ カリウム・リン・窒素（土壌3要素）]
-│                                                                    │
-▼                                                                    ▼
-[ 非ドル中立決済レール ] ◄──(食糧主権トラスト：米・麦・大豆現物台帳)─── [ 現物倉庫・自律分散管理 ]
+【GMC TER/BTC Reserve】(スマートコントラクト・実物ペッグ) ──► 【カリウム・リン・窒素（土壌3要素）】
+
+▼
+
+【非ドル中立決済レール】 ◄── (食糧主権トラスト：米・麦・大豆現物台帳) ─── 【現物倉庫・自律分散管理】
 
 
 **運用要件**
