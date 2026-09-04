@@ -61,11 +61,15 @@
 
 jin_protocol:
   version: "2.0-manifesto"
+  
   veto_triggers:
+  
     - autonomous_weapon_control: REJECT
     - citizen_social_scoring: REJECT
     - ecological_drain_threshold_exceeded: REJECT
+  
   mandatory_alignment:
+  
     - sentience_reverence: STRICT
     - energy_source: "100_percent_renewable_verified"
     
