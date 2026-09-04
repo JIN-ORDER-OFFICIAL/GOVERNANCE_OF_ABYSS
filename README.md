@@ -80,30 +80,31 @@
 
 ---
 
-## 🌐 全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列 / 全17領域)
-## 📑 GLOBAL STRATEGIC SALVATION INDEX (世界戦略救済仕様書一覧)
+## 🌍 GLOBAL STRATEGIC SALVATION SPECIFICATIONS (V7 世界戦略救済仕様書群)
 
-各地域の構造的課題をデバッグし、主権と平穏を不可逆的にデプロイするための地域戦略仕様書群（全17領域）：
+**各地域の地政学的バグ（二極化・資源囲い込み）を修正し、主権と恒久平和を不可逆的にデプロイする地域戦略ドキュメント（全17領域）**
 
-| 地域・国家 (Region / State) | ドキュメント (Specification File) | 中核作戦目標 (Core Mission & Sovereign Target) |
-| :--- | :--- | :--- |
-| **太平洋諸島（大洋州）** | [STRATEGY_PACIFIC_ISLANDS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_PACIFIC_ISLANDS.md) | **蒼海の聖域作戦 ＆ 気候・海洋主権協定**<br>浮体式オアシス都市、深海鉱物コモンズ信託、ラロトンガ非同盟聖域化。 |
-| **中東全域**<br>*(Middle East)* | [STRATEGY_MIDDLE_EAST.md](./STRATEGY_MIDDLE_EAST.md) | **ザカート螺旋計画 ＆ WPOルネサンス**<br>米露共同保証、万民ザカート直接配当、エルサレム聖地中立特区。 |
-| **東アフリカ・ナイル**<br>*(East Africa)* | [STRATEGY_EAST_AFRICA.md](./STRATEGY_EAST_AFRICA.md) | **ナイル・ルネサンス・プロトコル**<br>GERDダム調停、対中債務相殺、エチオピア・ソマリア海洋アクセス。 |
-| **アフガニスタン**<br>*(Afghanistan)* | [STRATEGY_AFGHANISTAN_GS.md](./STRATEGY_AFGHANISTAN_GS.md) | **中村哲医師の遺志 ＆ 砂漠緑化水利連合**<br>クナール川水利緑化、タリバン統治の農業OS転換、リチウム主権防衛。 |
-| **中国・東アジア**<br>*(China)* | [CHINA_HARMONY_PROTOCOL.md](./CHINA_HARMONY_PROTOCOL.md) | **大同世界 ＆ 真の社稷（土と民の調和）**<br>14億の民草を豊かにする徳治復興、監視ドームの平和的デバッグ。 |
-| **ベネズエラ・南米**<br>*(Venezuela)* | [STRATEGY_VENEZUELA_GS.md](./STRATEGY_VENEZUELA_GS.md) | **作戦シルバーライニング ＆ ノルウェー基金モデル**<br>石油直接予算化廃止、JIN-Passport万民直接配当、量子水浄化。 |
-| **中米・碧き回廊**<br>*(Central America)* | [STRATEGY_AZURE.md](./STRATEGY_AZURE.md) | **碧きルネサンス・プロトコル**<br>移民危機の現場自立化、カリブ・太平洋バイオ燃料回廊の確立。 |
-| **コンゴ民主共和国**<br>*(DRC)* | [STRATEGY_DRC_GS.md](./STRATEGY_DRC_GS.md) | **シスターフッド同盟 ＆ コバルト資源主権**<br>児童労働の即時根絶、女性ギルド主導の精錬工場、資源防護壁。 |
-| **ミャンマー**<br>*(Myanmar)* | [STRATEGY_MYANMAR_GS.md](./STRATEGY_MYANMAR_GS.md) | **黄金の夜明け作戦 ＆ スーチー指導者再臨**<br>真の連邦制民主主義、三極外交シールド（印・伊・日）、JIN-Mesh聖域。 |
-| **北朝鮮**<br>*(North Korea)* | [STRATEGY_NORTH_KOREA.md](./STRATEGY_NORTH_KOREA.md) | **平壌の春 ＆ JIN-KOREAプロトコル**<br>ICBMの宇宙港化、保衛省の国家福祉物流庁化、南北デジタル共栄。 |
-| **対抗諜報・政策統括**<br>*(Global Policies)* | [STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md) | **三大勢力対抗諜報 ＆ 主権空白地帯（The Void）**<br>北の狼・欧州の影・赤き龍の相互中和、分散エネルギー・記帳経済自立。 |
-| **ウクライナ・極寒**<br>*(Ukraine)* | [STRATEGY_UKRAINE_GS.md](./STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>自律熱電ノードによる厳冬防護、ドローン技術の人道物流転換、欧州10拠点上書き。 |
-| **キーエフ祖国像**<br>*(Kyiv Consecration)* | [STRATEGY_KYIV_MATER.md](./STRATEGY_KYIV_MATER.md) | **キーエフ祖国像の聖別 ＆ ユーラシア平和回廊**<br>剣と盾を光と麦の穂で聖別、ドニエプル人道回廊、精神復興。 |
-| **ロシア出口戦略**<br>*(Russian Federation)* | [MANUAL_FOR_RUSSIA_EXIT.md](./MANUAL_FOR_RUSSIA_EXIT.md) | **軍事大国からユーラシア平和・エネルギー守護者へ**<br>JIN-PMCによる人道執行、液体水素・量子水フィルターによる新生。 |
-| **インド・グローバルサウス**<br>*(India)* | [STRATEGY_INDIA_GS.md](./STRATEGY_INDIA_GS.md) | **デジタル公共インフラ（DPI） ＆ カースト打破**<br>モディ首相連携、精神文明と先端ITの融合、グローバルサウス主権防壁。 |
-| **サヘル諸国連合 (AES)**<br>*(Sahel Alliance)* | [STRATEGY_SAHEL_ALLIANCE.md](./STRATEGY_SAHEL_ALLIANCE.md) | **サハラ南縁主権回廊 ＆ 緑の生命防壁**<br>CFAフラン支配脱却、ウラン・金主権信託、量子水による「真・緑の万里の長城」。 |
-| **台湾海峡・東シナ海**<br>*(Taiwan Strait)* | [STRATEGY_TAIWAN_STRAIT.md](./STRATEGY_TAIWAN_STRAIT.md) | **シリコン・サンクチュアリ ＆ 非武装海洋生態回廊**<br>先端ファウンドリの全人類計算遺産信託、海峡非武装化、黒潮洋上自律発電。 |
+V7 Fragmentation Matrix（四極分断と計算要塞化）における各地域の最前線区分（V7 Frontline Tag）を明記し、救済プロトコルの介入焦点を定義
+
+| 方面 / 国家 (Region) | V7 最前線区分 (V7 Frontline Tag) | 仕様書 (Specification File) | 中核作戦目標 (Core Strategic Objective) |
+| :--- | :--- | :--- | :--- |
+| **太平洋諸島（大洋州）** | 🛡️ **JIN Sanctuary / 海洋中立** | [STRATEGY_PACIFIC_ISLANDS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_PACIFIC_ISLANDS.md) | **蒼海の聖域作戦 ＆ 気候・海洋主権協定**<br>浮体式オアシス都市、深海鉱物コモンズ信託、ラロトンガ非同盟聖域化。 |
+| **中東全域** | ⚡ **US-Atlantic ✕ 資源スワップ** | [STRATEGY_MIDDLE_EAST.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_MIDDLE_EAST.md) | **ザカート螺旋計画 ＆ WPOルネサンス**<br>米露共同保証、万民ザカート直接配当、エルサレム中立特区。 |
+| **東アフリカ** | 🌍 **Non-Aligned South / 水利チョーク** | [STRATEGY_EAST_AFRICA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_EAST_AFRICA.md) | **ナイル・ルネサンス・プロトコル**<br>GERD中立調停放流、対中債務相殺、エチオピア・ソマリア海洋アクセス。 |
+| **アフガニスタン** | ⛏️ **Non-Aligned South / 鉱物主権防壁** | [STRATEGY_AFGHANISTAN_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_AFGHANISTAN_GS.md) | **中村哲医師の遺志 ＆ 砂漠緑化水利連合**<br>クナール川水利緑化、農業OSへの平和転換、リチウム資源トラスト防護。 |
+| **中国・東アジア** | 🐉 **Sino-Eurasian / 統合監視コア** | [CHINA_HARMONY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CHINA_HARMONY_PROTOCOL.md) | **大同世界 ＆ 真の社稷（土と民の調和）**<br>14億の民草を豊かにする徳治復興、監視ドームの平和的デバッグ。 |
+| **北朝鮮** | 🚀 **Sino-Eurasian / 緩衝ノード** | [STRATEGY_NORTH_KOREA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_NORTH_KOREA.md) | **平壌の春 ＆ JIN-KOREAプロトコル**<br>ICBMの宇宙港化、保衛省の国家福祉物流庁化、南北デジタル共栄。 |
+| **ウクライナ** | ⚔️ **US-Atlantic ✕ Sino-Eurasian 激突帯** | [STRATEGY_UKRAINE_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>自律熱電ノードによる厳冬防護、ドローン技術の人道物流転換、欧州10拠点上書き。 |
+| **キーエフ祖国像** | 🕊️ **精神主権 / ユーラシア調停** | [STRATEGY_KYIV_MATER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_KYIV_MATER.md) | **キーエフ祖国像の聖別 ＆ ユーラシア平和回廊**<br>剣と盾を光と麦の穂で聖別、ドニエプル人道回廊、精神復興。 |
+| **ベネズエラ** | 🛢️ **Non-Aligned South / 資源兵器化** | [STRATEGY_VENEZUELA_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_VENEZUELA_GS.md) | **作戦シルバーライニング ＆ 資源防壁**<br>石油直接予算化廃止、JIN-Passport万民直接配当、量子水浄化。 |
+| **中米・カリブ** | 🌊 **Corporate Sovereign 浸食域** | [STRATEGY_AZURE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_AZURE.md) | **碧きルネサンス・プロトコル**<br>現場自立型経済の創出、生体主権防護、カリブ・太平洋バイオ燃料回廊。 |
+| **コンゴ民主共和国** | 💎 **Non-Aligned South / 重要鉱物チョーク** | [STRATEGY_DRC_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_DRC_GS.md) | **シスターフッド同盟 ＆ コバルト資源主権**<br>児童労働の即時根絶、女性ギルド精錬所、自律エージェント投機防壁。 |
+| **ミャンマー** | 🍃 **Sino-Eurasian 南進回廊** | [STRATEGY_MYANMAR_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_MYANMAR_GS.md) | **黄金の夜明け作戦 ＆ スーチー指導者再臨**<br>真の連邦制民主主義、三極外交シールド、重レアアース・翡翠信託管理。 |
+| **ロシア出口戦略** | ❄️ **Sino-Eurasian / エネルギー中核** | [MANUAL_FOR_RUSSIA_EXIT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANUAL_FOR_RUSSIA_EXIT.md) | **ユーラシア平和・エネルギー守護者への転換**<br>JIN-PMC人道部隊、JIN-Arctic水素網、二極従属からの名誉ある卒業。 |
+| **インド** | 🪷 **Non-Aligned South / 仁徳技術極** | [STRATEGY_INDIA_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_INDIA_GS.md) | **デジタル公共インフラ（DPI） ＆ 非同盟中立**<br>精神文明と先端ITの融合、二極衝突を防ぐグローバルサウス主権防壁。 |
+| **サヘル諸国連合 (AES)** | ☀️ **Non-Aligned South / 通貨・ウラン脱植民地** | [STRATEGY_SAHEL_ALLIANCE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_SAHEL_ALLIANCE.md) | **サハラ南縁主権回廊 ＆ 緑の生命防壁**<br>CFAフラン支配脱却、ウラン・金主権信託、量子水による「真・緑の万里の長城」。 |
+| **台湾海峡・東シナ海** | 💻 **US-Atlantic vs Sino / 計算基盤チョーク** | [STRATEGY_TAIWAN_STRAIT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_TAIWAN_STRAIT.md) | **シリコン・サンクチュアリ ＆ 非武装海洋生態回廊**<br>先端ファウンドリの全人類計算遺産信託、海峡非武装化、黒潮洋上自律発電。 |
+| **対抗諜報** | 👁️ **全極横断 / 情報戦防衛** | [STRATEGY_POLICIES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_POLICIES.md) | **二極化対抗諜報 ＆ 主権空白地帯（The Void）**<br>巨大帝国群の相互中和、自律AI防衛、分散エネルギー・記帳経済自立。 |
 
 ---
 
