@@ -6,7 +6,6 @@
 [![Governance of Abyss](https://img.shields.io/badge/ARCHIVE-Governance%20of%20Abyss-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://governance-of-abyss.org)
 
 * **JIN-ORDER 公式ポータル**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star) 
-
 * **ライセンス規約**: [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
 
 ---
@@ -34,30 +33,43 @@
 
 ---
 
+## 🖼️ V7 CANONICAL OPERATIONAL INTELLIGENCE (最新作戦ビジュアル)
+
+大国のASI要塞化・分断マトリクス（V7）と、それに対抗するブータン・ゲレフー特区（GMC）の4層多重防壁運用プロトコル。
+
+| GLOBAL ASI HEGEMONY MAP V7 | BHUTAN GMC GNH SHIELD V2.0 |
+| :---: | :---: |
+| ![V7 Fragmentation](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg) | ![GNH Shield V2](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg) |
+| [詳細仕様書: V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md) | [詳細仕様書: GNH_SHIELD_DATABASE_V2.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md) |
+
+---
+
 ## 🗺️ JIN-ORDER 4-LAYER STRATEGIC ARCHITECTURE (戦略階層マップ)
 
-リポジトリ内のプロトコル群は、グローバル危機および二極化するASI覇権構造に対する4層の防壁構造として体系化されています。
+リポジトリ内のプロトコル群は、グローバル危機およびブロック化するASI覇権構造に対する4層の防壁構造として体系化されています。
 
 ### 【Layer 1: 地政学・チョークポイント脅威分析 (Geopolitical & Chokepoints)】
 
+* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: **(2026年秋 最新正典: 計算要塞化・重要鉱物囲い込みと四極分断マトリクス)**
 * 🌐 **[18_FAR_EAST_ASEAN_ICE_CORRIDOR.md](./docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**: 北極海・極東〜ASEAN南進回廊（脱西側物流と実物資源の多極化）
 * 🌐 **[19_EURASIA_DUAL_AXIS_DECOUPLING.md](./docs/19_EURASIA_DUAL_AXIS_DECOUPLING.md)**: 極東ユーラシアの二重構造解体（中国依存と中立分散の狭間）
-* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md)**: (2026年秋　二極固定化と中立調停極)
-* 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列 (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
+* 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列アーカイブ (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
 * ⛓️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
 * 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md) / Global_Intelligence_Decipherment_Dashboard**
 
 ### 【Layer 2: 倫理・AI自律ガバナンス (Ethics & Autonomous AI Governance)】
 
+* 📢 **[UNIVERSAL_ETHICS_MANIFESTO_V2.md](./UNIVERSAL_ETHICS_MANIFESTO_V2.md)**: **現実対抗マニフェスト（大国ASIブロック化に対する自律生命尊厳宣言・JIN Protocol）**
 * ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7 Canonical / 三重セーフティ ＆ 自律エージェント安全執行規程)*
-* 📜 **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) / [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**
+* 📜 **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) / [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**: 仁焔十三行（救済と罰の鉄則）
 * 🏛️ **[JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) / [JIN_ORDER_CORE.md](./JIN_ORDER_CORE.md)**
 * 🌸 **[JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: 根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色の技術倫理）
 
 ### 【Layer 3: 経済・実物資産担保台帳 (Asset-Backed Ledger & Sovereign Finance)】
 
+* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: **(V2.0 運用仕様: ヒマラヤ水力・BTC戦略準備・独立司法・JIN倫理ゲートによる4層防壁)**
 * 🌾 **[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**: 肥料・食糧・鉱物の現物担保プロトコル（実物生命資産アンカー設計）
-* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)** *(V7 構造解体 ＆ 中立調停アンカー仕様)*
+* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)** *(旧版アーカイブ: 中立調停アンカー基本仕様)*
 * 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md) / [BANK_RECOVERY_ORDER_2026.md](./BANK_RECOVERY_ORDER_2026.md)**
 * 🛡️ **[RESOURCE_WALL.md](./RESOURCE_WALL.md)**
 
@@ -132,6 +144,7 @@
 
 ## 🕊️ HUMANITARIAN & ETHICS PROTOCOLS (人道・普遍倫理・現場検証)
 
+* 📢 **[UNIVERSAL_ETHICS_MANIFESTO_V2.md](./UNIVERSAL_ETHICS_MANIFESTO_V2.md)**: JIN-Protocol 現実対抗マニフェスト（4大自律制律・知性兵器化の拒絶・計算生態調和）。
 * 📜 **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)**: JIN-Order 普遍的倫理規約（双方向的慈悲、復讐の昇華、アルゴリズムへの仁の優位性）。
 * 📜 **[UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**: 仁焔十三行（慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調：救済と罰の鉄則）。
 * 📢 **[VOICE_OF_HEROES.md](./VOICE_OF_HEROES.md)**: 開拓英雄たちの叫び（深淵からの覚醒ログ、青洲兵、実時間共鳴通信記録）。
@@ -212,7 +225,7 @@
 
 * **Sovereign Royalty**: 本プロトコルの活用によって生じる富の一部は、グローバルサウスのインフラと分散教育を支える「JIN維持基金」へ還流されます。
 
-### 📩 Official Contact: `jin.reparation.cfo@gmail.com`　
+### 📩 Official Contact: `jin.reparation.cfo@gmail.com` 
 
 ---
 
