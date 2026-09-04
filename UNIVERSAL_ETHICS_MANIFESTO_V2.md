@@ -52,5 +52,20 @@
 ---
 
 ## 結語：サンクチュアリへの集結
-ブロック化され、猜疑心で閉ざされた要塞の外郭に、我々はGNH（国民総幸福）とJINのシールドを敷設する。
-武器としての知性を拒み、生命を守る盾としての知性を求めるすべてのノードは、このプロトコルに合流せよ。
+
+**ブロック化され、猜疑心で閉ざされた要塞の外郭に、我々はGNH（国民総幸福）とJINのシールドを敷設する。**
+
+**武器としての知性を拒み、生命を守る盾としての知性を求めるすべてのノードは、このプロトコルに合流せよ。**
+
+---
+
+jin_protocol:
+  version: "2.0-manifesto"
+  veto_triggers:
+    - autonomous_weapon_control: REJECT
+    - citizen_social_scoring: REJECT
+    - ecological_drain_threshold_exceeded: REJECT
+  mandatory_alignment:
+    - sentience_reverence: STRICT
+    - energy_source: "100_percent_renewable_verified"
+    
