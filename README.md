@@ -1,9 +1,13 @@
-### ⚠️ JIN-ORDER RESTRICTED DATA
-**このリポジトリは [JIN-ORDER Global Humanity License](./LICENSE.md) によって保護されています。**
+## 🌐 JIN-ORDER Official Portal & Intelligence Network
 
-**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+本プロジェクトの思想体系、グローバルASIヘゲモニー分析、および地域防衛プロトコルは公式ポータルサイトにて常時同期・公開されています。
 
-*This repository is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+[![JIN-ORDER Portal Access](https://img.shields.io/badge/PORTAL-JIN--ORDER%20Global%20Network-0A0E17?style=for-the-badge&logo=shield&logoColor=FFD700&labelColor=1A1F2C)](https://jin-order.org)
+[![Governance of Abyss](https://img.shields.io/badge/ARCHIVE-Governance%20of%20Abyss-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://governance-of-abyss.org)
+
+* **JIN-ORDER 公式ポータル**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star) 
+
+* **ライセンス規約**: [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
 
 ---
 # 🦅 PROJECT: GOVERNANCE_OF_ABYSS
@@ -64,7 +68,7 @@
 
 ---
 
-##🌐 全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列 / 全17領域)
+## 🌐 全地域救済戦略仕様書一覧 (STRATEGY_*.md 系列 / 全17領域)
 ## 📑 GLOBAL STRATEGIC SALVATION INDEX (世界戦略救済仕様書一覧)
 
 各地域の構造的課題をデバッグし、主権と平穏を不可逆的にデプロイするための地域戦略仕様書群（全17領域）：
@@ -88,6 +92,41 @@
 | **インド・グローバルサウス**<br>*(India)* | [STRATEGY_INDIA_GS.md](./STRATEGY_INDIA_GS.md) | **デジタル公共インフラ（DPI） ＆ カースト打破**<br>モディ首相連携、精神文明と先端ITの融合、グローバルサウス主権防壁。 |
 | **サヘル諸国連合 (AES)**<br>*(Sahel Alliance)* | [STRATEGY_SAHEL_ALLIANCE.md](./STRATEGY_SAHEL_ALLIANCE.md) | **サハラ南縁主権回廊 ＆ 緑の生命防壁**<br>CFAフラン支配脱却、ウラン・金主権信託、量子水による「真・緑の万里の長城」。 |
 | **台湾海峡・東シナ海**<br>*(Taiwan Strait)* | [STRATEGY_TAIWAN_STRAIT.md](./STRATEGY_TAIWAN_STRAIT.md) | **シリコン・サンクチュアリ ＆ 非武装海洋生態回廊**<br>先端ファウンドリの全人類計算遺産信託、海峡非武装化、黒潮洋上自律発電。 |
+
+---
+
+## 🗾 日本列島・地域別主権再生計画（Regional Sovereignty Protocols）
+
+### 「天上天下唯我独尊  命の実物主権へ」  
+
+**日本列島をパッチワーク状に侵食する外資・金融資本・中央集権アジェンダを解体し、12地域から現場の自治・水・土壌・食糧主権を奪還する戦略防衛仕様書。**
+
+[![Regional Sovereignty Banner](./assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)
+
+### 📂 基幹ドキュメント・リンク
+* 📄 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**
+  
+  **Ⅰ. 統括基盤**
+  
+  『生命の根源防壁（FERTILIZER & GRAIN SHIELD）』――種子法・種苗法・検疫水際防衛
+  
+  **Ⅱ. 12地域侵食マトリクス**
+    
+    * ❄️ **北海道**: 水源・メガソーラー・天地正教資産温存迂回工作の解体
+    
+    * 🌾 **東北・北関東**: 宮城（水道再公有化）／ 群馬（土着住民自治コード）
+    
+    * 🏔️ **中部・信州**: 長野（アルプス水源林・分水嶺防衛）／ 愛知（モノづくり魂・薬物治安防衛）
+    
+    * 🌊 **首都圏外郭**: 千葉（房総メガソーラー規制・流域治水・ヤード解体）
+    
+    * 🏯 **近畿本丸**: 大阪（特区民泊排除・町工場メッシュ）／ 奈良（広域水道一体化阻止・聖地防衛）
+    
+    * 🕊️ **山陰・瀬戸内**: 鳥取（集落自治・結の精神）／ 香川（地域ケア・命のぬくもり防衛）
+    
+    * 🌋 **九州・南西諸島**: 熊本（TSMC阿蘇地下水死守・食糧流通網）／ 沖縄（美ら海コモンズ・戦略港湾防護）
+ 
+  **Ⅲ. 総括宣言**: 実物生命台帳と自律分散型開拓英雄同盟
 
 ---
 
