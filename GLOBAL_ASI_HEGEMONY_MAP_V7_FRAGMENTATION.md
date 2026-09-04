@@ -22,7 +22,7 @@ V6.1における「局所的クラッシュ（Collapse）」を経て、世界�
 現在の地政学は、「計算力（Compute）」「電力（Power）」「重要鉱物（Critical Minerals）」「データ主権（Data Enclave）」を自陣営内に閉じ込める「知能ブロック要塞（ASI Hegemony Enclaves）」へと再編されている。
 
 
-[計算資源・重要鉱物の主権要塞化](./assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg)
+![計算資源・重要鉱物の主権要塞化](./assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg)
 
 ---
 
