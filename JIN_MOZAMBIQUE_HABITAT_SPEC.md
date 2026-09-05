@@ -12,7 +12,7 @@
 ## High-Precipitation, Tropical Cyclone & Decentralized IDP Settlement Architecture
 ### Standard Operating Engineering Protocol (Application ID: 107204 / CFEI/HCR/MOZ/2026/014)
 
----
+![JIN_MOZAMBIQUE_HABITAT_SPEC](./assets/JIN_MOZAMBIQUE_HABITAT_SPEC.jpg)
 
 ## 📌 Executive Summary
 Designed specifically for coastal, high-humidity, and cyclone-prone emergency contexts across Northern and Central Mozambique (Cabo Delgado, Nampula, and Zambezia provinces). This specification adapts the decentralized engineering matrix established in the Chad Oasis Framework (Application ID: 95525) to withstand intense cyclonic wind loads, mitigate flash flooding, and guarantee clean water/shelter sovereignty without centralized supply chains.
