@@ -34,6 +34,8 @@
 ---
 ## 🔄 2. 熱管理・水利循環アーキテクチャ (Hydro-Thermal Cycle)
 
+![JIN Hydro-Thermal Cooling Protocol](./assets/JIN_HYDRO_THERMAL_COOLING_PROTOCOL_03.jpg)
+
 1.**【山間部清流 / 地下湧水 ］ (10〜15℃)】**
 
   **【① 量子波動浄化フィルター】　不純物・重金属・ミネラル結晶を無化学除去 (スケールフリー化)**
