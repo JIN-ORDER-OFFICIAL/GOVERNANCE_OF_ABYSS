@@ -8,7 +8,19 @@
 * **JIN-ORDER 公式ポータル**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star) 
 * **ライセンス規約**: [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
 
+## 🌐 UN Partner Portal Submissions & Field Implementation Pipeline
+
+| Application ID | Project Title | Agency | Target Country | Modality / Sector | Status | Submitted Date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **95525** | JIN-IFP: Autonomous Oasis Cities for Refugee Self-Reliance and Climate Resilience | UNHCR | Chad | Unsolicited Concept Note<br>*(WASH, Self-reliance, Environment, Shelter)* | **Under Review** | 2026-08 |
+| **107204** | CALL FOR EXPRESSIONS OF INTEREST (CfeOI) - UNHCR Protection and Solutions Programme in Mozambique (Outcome Area 9: Housing and settlement solutions) | UNHCR | Mozambique | Open Selection (CFEI/HCR/MOZ/2026/014)<br>*(Shelter construction, Reconstruction, Disaster Preparedness)* | **Under Review** | 2026-09-05 |
+
+### Strategic Execution Notes:
+- **Application ID 107204 (Mozambique):** Formal CFEI response to UNHCR Mozambique Multi-Country Office (MCO). Expands the proven JIN-IFP decentralized physical infrastructure matrix to tropical cyclone-prone and high-displacement zones (Cabo Delgado / Nampula provinces).
+- **Synergy Architecture:** Standardizes on-site compressed earth block (CSEB) manufacturing and integrated hydrological runoff protection, providing immediate durable shelter solutions without external supply-chain dependencies.
+
 ---
+
 # 🦅 PROJECT: GOVERNANCE_OF_ABYSS
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 ### 深淵の解体と、光の再構築（The Great Rebirth）
