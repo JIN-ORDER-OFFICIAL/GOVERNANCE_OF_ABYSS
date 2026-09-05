@@ -34,90 +34,75 @@
 
 ### Ⅰ. JIN-Public Bath & Sanctuary (『和』の公衆浴場サンクチュアリ)
 
-![公衆浴場](./assets/JIN_PublicBath_Sanctuary.jpg)
+![JIN Public Bath Sanctuary](./assets/JIN_PublicBath_Sanctuary.jpg)
 
 * **思想的背景 (Concept):**
-
   「日本古来」の「湯道」および禊（みそぎ）の智慧に基づき、肉体の汚れだけでなく精神の不安・鬱屈を洗い流し、地域の絆（和）を再生する。
 
 * **専用技術 (Core Tech):** **高圧ナノバブル熱交換システム (Nano-Bubble Sterilization)**
 
 * **運用プロトコル:**
-
   * 宇宙太陽光発電の熱源を直接利用し、化石燃料を燃やすことなく24時間365日の温水を無尽蔵に供給。
-  
   * ナノサイズの超微細気泡が毛穴の深層まで浸透し、界面活性剤や塩素などの化学薬品を一切使わずに雑菌・ウイルス・皮脂汚れを物理的に吸着・除去。
-  
   * 浴場は単なる衛生施設にとどまらず、地域住民が対面で語り合い、合意形成を行うコミュニティ自治の聖域として機能する。
+
+---
 
 ### Ⅱ. Bio-Recycle Sanitation System (バイオサイクル・完全循環型下水)
 
-![バイオサイクル](./assets/Bio_Recycle_Sanitation_System.jpg)
+![Bio Recycle Sanitation System](./assets/Bio_Recycle_Sanitation_System.jpg)
 
 * **思想的背景 (Concept):**
-
   地球環境へ負荷をかける「廃棄」の概念を消滅させ、すべての排泄物と生活排水を清浄な生命の糧として大地へ還す。
 
 * **専用技術 (Core Tech):** **ナチュラル・ループ排水網 (Natural-Loop Drainage Grid)**
 
 * **運用プロトコル:**
-
   * 水を使用しない好気性無水バイオトイレを各住区・鉄道駅に配備。微生物叢の力で排泄物を数時間で無臭の高品質有機肥料へ発酵分解。
-  
   * 得られた有機肥料は [Global-South-Guilds.md](./Global-South-Guilds.md) の「Kouben Auto-Farm（自動農業）」や [JAPAN_RESURGENCE_PLAN_V1.md](./JAPAN_RESURGENCE_PLAN_V1.md) の伝統金肥網へ直接投入。
-  
   * 生活排水は多段ナノ複合膜（JIN-Water Filter）によって分子レベルで濾過され、清流として地下水脈・河川へ戻される。
+
+---
 
 ### Ⅲ. Medical Express: Mobile High-Tech Clinic (移動式・高度医療リニア車両)
 
-![高度医療リニア車両](./assets/Medical_Express.jpg)
+![Medical Express](./assets/Medical_Express.jpg)
 
 * **思想的背景 (Concept):**
-
   医療格差を物理的に克服し、都市部の大病院に依存することなく、最果ての集落や紛争被災地へ世界最高峰の救命設備を直接届ける。
 
 * **専用技術 (Core Tech):** **超低遅延遠隔手術ネットワーク (JIN-Remote Surgeon Network)**
 
 * **運用プロトコル:**
-
   * 大陸横断超伝導リニア（Lifeblood Express）内に、クリーンルーム手術室、全身エッジAIスキャナー、および遠隔手術アームを標準搭載。
-  
   * [INSTRUCTIONS_FOR_HEROES.md](./INSTRUCTIONS_FOR_HEROES.md) の「Op 3: Oasis Clinic」と連動し、通信遮断下でも衛星・光メッシュ回線を通じて東京・欧州の専門医がリアルタイムで執刀。
-  
   * 移動先で無償の高度外科手術および予防検診を完遂する。
+
+---
 
 ### Ⅳ. Personalized Preventive Medicine (医食同源・薬膳Koubenシステム)
 
-![Kouben（駅弁）](./assets/Personalized_Preventive_Medicine.jpg)
+![Personalized Preventive Medicine Kouben](./assets/Personalized_Preventive_Medicine.jpg)
 
 * **思想的背景 (Concept):**
-
   「病気になってから薬を売る」対症療法の搾取ビジネスを終焉させ、「日々の美味しい食事によって病を寄せ付けない」未病・自然免疫の復権を果たす。
 
 * **専用技術 (Core Tech):** **Bio-Kouben 栄養共鳴レコメンド (Bio-Kouben Synergies)**
 
 * **運用プロトコル:**
-
   * ゼロ知識証明（ZKP）端末を通じて、個人のプライバシーを外部サーバーへ一切晒すことなく、体調・季節・気候に応じた最適メニューをローカル解析。
-  
-  * 超高速栽培された無農薬古代米、地域固有の薬草、および抗酸化スーパーフードを組み合わせた特製「Kouben（駅弁）」を各ステーションで配給。
-  
-  （参照: [FIRST_STRIKE_SIMULATION.md](./FIRST_STRIKE_SIMULATION.md)）
-  
+  * 超高速栽培された無農薬古代米、地域固有の薬草、および抗酸化スーパーフードを組み合わせた特製「Kouben（駅弁）」を各ステーションで配給。（参照: [FIRST_STRIKE_SIMULATION.md](./FIRST_STRIKE_SIMULATION.md)）
   * 腸内フローラを蘇生させ、民衆本来の免疫抵抗力を最大限に引き出す。
 
 ---
 ## 🕊️ 3. 生命主権の誓詞 (The Health Sovereignty Covenant)
 
-1.**【宇宙太陽光クリーン熱源】─【ナノバブル公衆浴場】─【心身の禊とコミュニティ調和】**
+1. **【宇宙太陽光クリーン熱源】─【ナノバブル公衆浴場】─【心身の禊とコミュニティ調和】**
+2. **【バイオサイクル下水】─【有機金肥化 ＆ 自然水系還元】**
+3. **【医療リニア車両】─【僻地・被災地への無償先端オペ】**
+4. **【薬膳Kouben自給】─【医食同源・自律免疫の確立】**
 
-* **【バイオサイクル下水】─【有機金肥化 ＆ 自然水系還元】**
-
-* **【医療リニア車両】─【僻地・被災地への無償先端オペ】**
-
-* **【薬膳Kouben自給】─【医食同源・自律免疫の確立】**
-
-2.**【何者にも命を握らせない健康主権 】**
+**【何者にも命を握らせない健康主権】**
 
 **私たちの健康は、多国籍独占企業のためのサブスクリプション商品ではない。それは生きとし生ける魂の、何人にも侵されざる神聖な聖域である。**
 
