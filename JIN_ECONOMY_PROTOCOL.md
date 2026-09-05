@@ -14,7 +14,7 @@
 
 **"The era of controlling humanity through debt and paper empires is over. Your predatory algorithms cannot compute the eternal value of Benevolence and Joy."**  
 
-![新通貨JIN 経済プロトコル](./assets/jin_currency_system.jpg)
+![新通貨JIN 経済プロトコル](./assets/07_JIN_OS_MOBILE_CLIENT.jpg)
 
 ---
 ## 📌 1. 概要と経済哲学 (Executive Summary & Philosophy)
@@ -64,8 +64,9 @@
 
 **JIN-OSの倫理Sentinelは、資金の移動において以下の「善意の増幅ループ」を実行する。**
 
-（参照: [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
+![新通貨JIN 経済プロトコル](./assets/jin_currency_system.jpg)
 
+（参照: [JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)）
 
 1.**【資金移動の検知 (Heart-Trace)】**
                                 
