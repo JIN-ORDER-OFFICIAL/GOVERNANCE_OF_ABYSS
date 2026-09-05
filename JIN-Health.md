@@ -34,6 +34,8 @@
 
 ### Ⅰ. JIN-Public Bath & Sanctuary (『和』の公衆浴場サンクチュアリ)
 
+![公衆浴場](./assets/JIN_PublicBath_Sanctuary.jpg)
+
 * **思想的背景 (Concept):**
 
   「日本古来」の「湯道」および禊（みそぎ）の智慧に基づき、肉体の汚れだけでなく精神の不安・鬱屈を洗い流し、地域の絆（和）を再生する。
@@ -49,6 +51,8 @@
   * 浴場は単なる衛生施設にとどまらず、地域住民が対面で語り合い、合意形成を行うコミュニティ自治の聖域として機能する。
 
 ### Ⅱ. Bio-Recycle Sanitation System (バイオサイクル・完全循環型下水)
+
+![バイオサイクル](./assets/Bio_Recycle_Sanitation_System.jpg)
 
 * **思想的背景 (Concept):**
 
@@ -66,6 +70,8 @@
 
 ### Ⅲ. Medical Express: Mobile High-Tech Clinic (移動式・高度医療リニア車両)
 
+![高度医療リニア車両](./assets/Medical_Express.jpg)
+
 * **思想的背景 (Concept):**
 
   医療格差を物理的に克服し、都市部の大病院に依存することなく、最果ての集落や紛争被災地へ世界最高峰の救命設備を直接届ける。
@@ -81,6 +87,8 @@
   * 移動先で無償の高度外科手術および予防検診を完遂する。
 
 ### Ⅳ. Personalized Preventive Medicine (医食同源・薬膳Koubenシステム)
+
+![Kouben（駅弁）](./assets/Personalized_Preventive_Medicine.jpg)
 
 * **思想的背景 (Concept):**
 
