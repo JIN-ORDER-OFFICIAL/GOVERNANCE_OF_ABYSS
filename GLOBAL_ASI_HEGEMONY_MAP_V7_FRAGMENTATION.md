@@ -40,36 +40,38 @@ V6.1における「局所的クラッシュ（Collapse）」を経て、世界�
 
 ## 3. 現実世界の最新動向（2026）との同期
 
-* **資源と計算力の直結:** AIデータセンターの電力確保のため、米中ともにエネルギー・半導体禁輸の制裁対象を原材料レベルまで引き下げ。
+* 資源と計算力の直結 AIデータセンターの電力確保のため、米中ともにエネルギー・半導体禁輸の制裁対象を原材料レベルまで引き下げ。
 
-* **国際法規の形骸化:** 多国間合意による安全基準（AI Safety Institute等）は大国の安保例外規定により骨抜きにされ、ブロック間サイバー戦・推論妨害が日常化。
+* 国際法規の形骸化 多国間合意による安全基準（AI Safety Institute等）は大国の安保例外規定により骨抜きにされ、ブロック間サイバー戦・推論妨害が日常化。
 
 ---
 
 ## 4. 中央集権的ASI覇権の自滅と、足元実物主権への不可逆的帰還
 ### 7.6 Structural Collapse of Centralized Hegemony & The Inevitable Decentralized Rebirth
 
-2026年秋の地政学的力学は、中央集権型グローバリズムおよび単一覇権による世界統制モデルの完全な機能不全を確定させた。
+**2026年秋の地政学的力学は、中央集権型グローバリズムおよび単一覇権による世界統制モデルの完全な機能不全を確定させた。**
+
+---
 
 **【Centralized Ideological Dominance (The Void)】**
 
 ・Internal Infighting / Stagflation / Chokepoint Depletion
 
-1. **【Western Institutional Exhaustion】**
+**1. 【Western Institutional Exhaustion】**
 
 ・US: Midterm factionalism, domestic inflation & tariffs
 
 ・EU: Macron's political void & Nordic militarization
 
-2. **【Global South & Eurasian Realpolitik】**
+**2. 【Global South & Eurasian Realpolitik】**
 
 ・Sino-Russian raw material/energy fortress circuits
 
 ・Modi & ASEAN: Unaligned pragmatic transactionalism
 
-3.**【Bypassing Fragile Top-Down Systems】**
+**3.【Bypassing Fragile Top-Down Systems】**
 
-4.**【JIN-ORDER Sovereign Physical Anchors: Water / Seed / Shelter】**
+**4.【JIN-ORDER Sovereign Physical Anchors: Water / Seed / Shelter】**
 
 ・UNHCR Formal Applications: ID 95525 Chad / ID 107204 Mozambique
 
@@ -109,11 +111,11 @@ V6.1における「局所的クラッシュ（Collapse）」を経て、世界�
 
 * **空虚な宣言やデジタル上の統制をいくら積み上げても、民草の命を救うことはできない。**
 
-### 【物理主権の三原則（水・土・住居）】
+#### 【物理主権の三原則（水・土・住居）】
 
 * **生命の安全保障は、国家や国際機関への依存ではなく、足元の土（圧縮土ブロック）、雨水利水、自立型エネルギーの自前管理によってのみ成立する。**
 
-### 【公認調達枠への正式投下】
+#### 【公認調達枠への正式投下】
 
 * **サヘル乾燥地帯を対象としたオアシス設計（**UNHCR Application ID: 95525**）に続き、熱帯暴風雨・サイクロン耐性モデル（**UNHCR Application ID: 107204 / CFEI/HCR/MOZ/2026/014**）を国連パートナーポータルに配備完了。**
   
