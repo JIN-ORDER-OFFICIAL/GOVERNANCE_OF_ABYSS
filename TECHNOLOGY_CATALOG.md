@@ -17,11 +17,11 @@
 
 ---
 
-## 🗺️ 地域戦略 × 11大先端技術 クロスリファレンス・マトリクス
+## 🗺️ 地域戦略 × 15大先端技術 クロスリファレンス・マトリクス
 
 ![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_02.jpg)
 
-Regional Strategy & 11 Core Technologies Cross-Reference Matrix
+Regional Strategy & 15 Core Technologies Cross-Reference Matrix
 
 地球規模の各地域における構造的バグや搾取システムを、どの自律分散型先端テクノロジーによって破砕し、再生させるのかを規定する戦略対応表。
 
