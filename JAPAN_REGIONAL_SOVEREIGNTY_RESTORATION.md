@@ -10,13 +10,15 @@
 # JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md
 ## 日本列島・地域別主権再生計画：パッチワーク型占領の解体と実物生命防壁（V7 Canonical Edition）
 
+![種子法廃止](./assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)
+
 ---
 
 ## Ⅰ. 統括基盤：『生命の根源防壁（FERTILIZER & GRAIN SHIELD）』
 
 ### 種子法廃止・種苗法改正・検疫緩和による「兵糧攻め」の無効化
 
-![種子法廃止](./assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)
+![種子法廃止](./assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION_02.jpg)
 
 **すべての地域主権の基盤は「食と農」にある。**
 
