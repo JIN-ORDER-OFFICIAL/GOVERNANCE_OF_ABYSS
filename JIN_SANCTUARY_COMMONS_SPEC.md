@@ -60,7 +60,7 @@
 | 空間区分 | 旧来の用途・課題 | JIN-Sanctuary 再生機能 | 適用技術・インフラ |
 | :--- | :--- | :--- | :--- |
 | **中核ハブ：昇降口・ピロティ** | シャッターが閉ざされた昇降口 | **地産地消コモンズ・マルシェ（直売所）**<br>地元朝採れ野菜、在来穀物、味噌・醤油 | ゼロマージン直接物々交換<br>JIN決済（Heart-Trace） |
-| **中核ハブ：校庭** | 防災拠点化の遅れ、遊休化 | **生命防衛・食糧エネルギー回廊**<br>自律型水冷温室・アクアポニクス | [JIN_HYDRO_THERMAL_COOLING](JIN_HYDRO_THERMAL_COOLING.md)<br>[65_FERTILIZER_GRAIN_SHIELD](.docs/65_FERTILIZER_GRAIN_SHIELD.md) |
+| **中核ハブ：校庭** | 防災拠点化の遅れ、遊休化 | **生命防衛・食糧エネルギー回廊**<br>自律型水冷温室・アクアポニクス | [JIN_HYDRO_THERMAL_COOLING](JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)<br>[65_FERTILIZER_GRAIN_SHIELD](.docs/65_FERTILIZER_GRAIN_SHIELD.md) |
 | **中核ハブ：ロータリー・車庫** | スクールバス運行停止・放置 | **地域循環EVバス運行母港（Mobility Hub）**<br>太陽光直結充電・患者搬送・野菜定期便 | 全固体電池セル（01）<br>反重力・回生制動アシスト |
 | **中核ハブ：体育館** | 劣悪な雑魚寝避難所 | **ナノバブル公衆浴場 ＆ 精神療養ドーム**<br>仕切り付き個室シェルター | [JIN-Health](JIN-Health.md)（微小気泡温水槽）<br>432Hz音響共鳴シールド |
 | **中核ハブ：家庭科・理科室** | 死蔵された特別教室 | **薬膳Kouben厨房 ＆ 微小精錬工房**<br>直売所出荷惣菜加工・3D金属旋盤ラボ | [15_BIO_SOIL](./assets/15_BIO_SOIL.jpg) 常在菌培養<br>分子アセンブラモジュール |
