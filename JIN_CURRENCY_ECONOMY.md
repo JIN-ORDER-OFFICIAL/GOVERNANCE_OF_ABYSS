@@ -9,6 +9,8 @@
 ## 実物生命資産担保型 地域主権通貨『JIN（仁）』循環・万民配当設計書
 ### Physical Life-Asset Anchoring, Demurrage Velocity, Virtue-Proof Minting & Universal Baseline Dividend
 
+![ 地域主権通貨『JIN（仁）』](./assets/JIN_CURRENCY_ECONOMY_01.jpg)
+
 **「数字を刷り散らかす紙片を富と呼ぶな。水と米と陽の光、そして人の徳こそが真の富である。」**
 
 **"Do not call printed paper and artificial debt the true wealth of mankind. Living water, harvested grain, clean radiant sunlight, and the virtue of human deeds—this alone is the eternal wealth of the sovereign earth."**
