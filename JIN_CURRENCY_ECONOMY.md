@@ -176,6 +176,8 @@
 
 単なる中央株主への利益配当や資本逃避を排し、店舗・企業の余剰利益を足元の地域社会へ再投資する「地域密着型経営（Local-Anchor Business）」を税制・信用面で全面的に優遇する。
 
+![地域密着型経営](./assets/Local_Enterprise_Synergy.jpg)
+
 ### Ⅰ. 地域貢献度評価システム（Proof of Local Contribution: PLC）
 自治体およびJIN-OS市民監査に基づき、企業の地域貢献活動を客観スコア化する。
 
