@@ -9,6 +9,8 @@
 ## 愚者たちの利権ディール解体白書：2026年覇権収奪構造の監査と民衆主権の鉄槌
 ### Deconstructing the Parasitic Cartels, Backdoor War Deals & Sovereign Retaliation Protocol
 
+![民衆主権の鉄槌](./assets/COUNTER_HEGEMONY_AUDIT_2026.jpg)
+
 **「利で結びし絆は、利が尽きれば刃となる。義で交わしし約束は、嵐に遭うとも破れず。」**
 
 **"Alliances forged in profit turn into daggers when profit runs dry. Covenants sealed in righteousness remain unbroken through the fiercest storm."**
