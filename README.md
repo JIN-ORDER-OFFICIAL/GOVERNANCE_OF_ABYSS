@@ -47,18 +47,21 @@
 
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・インフラ断面図)
 
-リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、自律水利（JIN-Water）、対抗諜報監査（Hegemony Audit）、そして廃校サンクチュアリの物理的・戦略的具現化ログ。
+リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、伝統自律水利、市民監査、地域主権通貨、そして開拓英雄（PIONEER）の実務具現化ログ。
 
 | GLOBAL ASI HEGEMONY MAP V7 | BHUTAN GMC GNH SHIELD V2.0 |
 | :---: | :---: |
 | ![V7 Fragmentation](./assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg) | ![GNH Shield V2](./assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg) |
 | [詳細仕様書: V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md) | [詳細仕様書: GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md) |
-| **JIN-WATER INFRASTRUCTURE (Satoyama Commons)** | **COUNTER-HEGEMONY STRATEGIC AUDIT 2026** |
-| ![JIN Water commons](./assets/JIN_WATER_INFRASTRUCTURE.jpg) | ![Counter Hegemony Audit](./assets/COUNTER_HEGEMONY_AUDIT_2026.jpg) |
-| [詳細仕様書: JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md) | [詳細仕様書: COUNTER_HEGEMONY_AUDIT.md](./COUNTER_HEGEMONY_AUDIT_2026.md) |
+| **JIN TRADITIONAL HYDRO LOGIC** | **COUNTER-HEGEMONY STRATEGIC AUDIT 2026** |
+| ![Traditional Hydro Logic](./assets/JIN_TRADITIONAL_HYDRO_LOGIC_01.jpg) | ![Counter Hegemony Audit](./assets/COUNTER_HEGEMONY_AUDIT_2026.jpg) |
+| [詳細仕様書: JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md) | [詳細仕様書: COUNTER_HEGEMONY_AUDIT.md](./COUNTER_HEGEMONY_AUDIT_2026.md) |
 | **JIN-SANCTUARY COMMONS (School & Hub)** | **JIN-OS SOVEREIGN MOBILE INTERFACE** |
 | ![JIN Sanctuary Commons](./assets/JIN_SANCTUARY_COMMONS_SPEC.jpg) | ![JIN-OS Mobile Client](./assets/07_JIN_OS_MOBILE_CLIENT.jpg) |
 | [詳細仕様書: JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md) | [詳細仕様書: JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md) |
+| **SOVEREIGN CURRENCY 『JIN (仁)』** | **ZERO CORRUPTION & CITIZEN AUDIT** |
+| ![JIN Currency Economy](./assets/JIN_CURRENCY_ECONOMY_01.jpg) | ![Zero Corruption Act](./assets/future_diet_building_transparent.jpg) |
+| [詳細仕様書: JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md) | [詳細仕様書: ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md) |
 
 ---
 
@@ -70,6 +73,7 @@
 
 * 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: **(2026年秋 最新正典: 計算要塞化・重要鉱物囲い込みと四極分断マトリクス)**
 * ⚔️ **[COUNTER_HEGEMONY_AUDIT_2026.md](./COUNTER_HEGEMONY_AUDIT_2026.md)**: **(愚者たちの利権ディール解体白書: 密室復興ディール・分断関税・生体サブスク支配の監査)**
+* ⚖️ **[ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md)**: **(政治資金透明化法案: 不可逆ブロックチェーン刻印・0.1秒AI会計監査官・氷山型利権解体)**
 * 🌐 **[18_FAR_EAST_ASEAN_ICE_CORRIDOR.md](./docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**: 北極海・極東〜ASEAN南進回廊（脱西側物流と実物資源の多極化）
 * 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列アーカイブ (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
 * 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)**
@@ -84,6 +88,7 @@
 
 ### 【Layer 3: 経済・実物資産担保台帳・交通動脈 (Asset-Backed Ledger, Finance & Logistics)】
 
+* 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・地域密着共生税制仕様書)**
 * 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: **(V2.0 GMC運用仕様: ヒマラヤ水力・BTC戦略準備・独立司法による4層防壁)**
 * 🌾 **[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**: 肥料・食糧・種子の現物担保プロトコル（実物生命資産アンカー設計）
 * 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md)**: 実物生命資産（水・種子・エネルギー）担保型通貨『JIN』
@@ -93,9 +98,11 @@
 ### 【Layer 4: 地域主権・自律インフラ・生命防衛 (Regional Sovereignty, Commons & Utility)】
 
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
+* 🌊 **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 信玄堤・全国54疏水・現代版川除免)**
 * 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点: マルシェ直売所・循環EVバス・六聖マイスター教育院)**
 * 💧 **[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)**: **(自律水利・上下水道主権防衛: 地域分散型オフグリッド給水網 ＆ 量子浄化フィルター)**
 * 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・P2Pメッシュ・オフライン避難モード)**
+* 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 地域主権奪還・現場展開SOP・ゼロから100日行動指針)**
 * 🌊 **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 計算ノード水冷・排熱カスケード農業循環
 * 🏥 **[JIN-Health.md](./JIN-Health.md)**: 全自動医療要塞・自律型生体防衛仕様
 
