@@ -49,19 +49,88 @@
 
 リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、伝統自律水利、市民監査、地域主権通貨、そして開拓英雄（PIONEER）の実務具現化ログ。
 
-| GLOBAL ASI HEGEMONY MAP V7 | BHUTAN GMC GNH SHIELD V2.0 |
-| :---: | :---: |
-| ![V7 Fragmentation](./assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg) | ![GNH Shield V2](./assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg) |
-| [詳細仕様書: V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md) | [詳細仕様書: GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md) |
-| **JIN TRADITIONAL HYDRO LOGIC** | **COUNTER-HEGEMONY STRATEGIC AUDIT 2026** |
-| ![Traditional Hydro Logic](./assets/JIN_TRADITIONAL_HYDRO_LOGIC_01.jpg) | ![Counter Hegemony Audit](./assets/COUNTER_HEGEMONY_AUDIT_2026.jpg) |
-| [詳細仕様書: JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md) | [詳細仕様書: COUNTER_HEGEMONY_AUDIT.md](./COUNTER_HEGEMONY_AUDIT_2026.md) |
-| **JIN-SANCTUARY COMMONS (School & Hub)** | **JIN-OS SOVEREIGN MOBILE INTERFACE** |
-| ![JIN Sanctuary Commons](./assets/JIN_SANCTUARY_COMMONS_SPEC.jpg) | ![JIN-OS Mobile Client](./assets/07_JIN_OS_MOBILE_CLIENT.jpg) |
-| [詳細仕様書: JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md) | [詳細仕様書: JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md) |
-| **SOVEREIGN CURRENCY 『JIN (仁)』** | **ZERO CORRUPTION & CITIZEN AUDIT** |
-| ![JIN Currency Economy](./assets/JIN_CURRENCY_ECONOMY_01.jpg) | ![Zero Corruption Act](./assets/future_diet_building_transparent.jpg) |
-| [詳細仕様書: JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md) | [詳細仕様書: ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md) |
+<table>
+  <tr>
+    <th width="50%" align="center">GLOBAL ASI HEGEMONY MAP V7</th>
+    <th width="50%" align="center">BHUTAN GMC GNH SHIELD V2.0</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📜 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md">V7 仕様書を開く</a></b>
+    </td>
+    <td align="center">
+      🛡️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md">GNHシールド V2 仕様書を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">JIN TRADITIONAL HYDRO LOGIC</th>
+    <th width="50%" align="center">COUNTER-HEGEMONY STRATEGIC AUDIT 2026</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_TRADITIONAL_HYDRO_LOGIC_01.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/COUNTER_HEGEMONY_AUDIT_2026.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md">伝統水利・流域治水仕様書を開く</a></b>
+    </td>
+    <td align="center">
+      ⚔️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/COUNTER_HEGEMONY_AUDIT_2026.md">対抗諜報白書を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">JIN-SANCTUARY COMMONS (School & Hub)</th>
+    <th width="50%" align="center">JIN-OS SOVEREIGN MOBILE INTERFACE</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_SANCTUARY_COMMONS_SPEC.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/07_JIN_OS_MOBILE_CLIENT.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🏫 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SANCTUARY_COMMONS_SPEC.md">廃校サンクチュアリ仕様書を開く</a></b>
+    </td>
+    <td align="center">
+      📱 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md">個人主権クライアント仕様を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">SOVEREIGN CURRENCY 『JIN (仁)』</th>
+    <th width="50%" align="center">ZERO CORRUPTION & CITIZEN AUDIT</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_CURRENCY_ECONOMY_01.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/future_diet_building_transparent.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🪙 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_CURRENCY_ECONOMY.md">地域通貨・万民配当仕様書を開く</a></b>
+    </td>
+    <td align="center">
+      ⚖️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/ZERO_CORRUPTION_ACT.md">裏金ゼロ・政治資金透明化法案を開く</a></b>
+    </td>
+  </tr>
+</table>
 
 ---
 
