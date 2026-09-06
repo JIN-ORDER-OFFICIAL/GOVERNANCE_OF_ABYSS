@@ -9,6 +9,8 @@
 ## 廃校・空き家・遊休地再生型 自律複合拠点（サンクチュアリ・ハブ）設計書
 ### Decentralized School & Vacant House Adaptive Reuse, Anti-Exploitative Minpaku Reversion, Commons Market & Autonomous Mobility
 
+![自律複合拠点](./assets/JIN_SANCTUARY_COMMONS_SPEC.jpg)
+
 **「廃校を城と成し、朽ちゆく空き家を民の砦と為す。投機の毒土を耕し、命の聖域へと還せ。」**
 
 **"Transform abandoned schools into bastions, and rotting vacant houses into strongholds of the people. Reclaim the poisoned soil of speculation and return it as a sanctuary of life."**
