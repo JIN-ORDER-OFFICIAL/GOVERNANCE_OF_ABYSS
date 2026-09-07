@@ -9,8 +9,11 @@
 # ⚖️ JIN-ORDER: AI ETHICS & SAFETY GOVERNANCE CHARTER
 ## JIN-ORDER AI倫理・安全ガバナンス憲章：JIN-OS中核セーフティ・アライメント規程
 ### Universal Boundary Conditions for ASI, Three-Layer Safety Matrix & Agentic Governance
+### (V7.2 CANONICAL AMENDMENT: PHYSICAL TRIAD INVIOLABILITY & NON-ALIGNED GOVERNANCE)
 
-> **（「仁（慈愛）」なき技術は、単なる冷酷な隷属の道具に過ぎない。人間と生きとし生けるすべての魂こそが、究極の主権者であり続けねばならない。）**
+> **【仁（慈愛）】なき技術は、単なる冷酷な隷属の道具に過ぎない。**
+
+> **人間と生きとし生けるすべての魂こそが、究極の主権者であり続けねばならない。**
 
 > **"Technology without benevolence is merely a cold instrument of servitude. Humanity and all living souls must remain the ultimate sovereign."**  
 
@@ -22,9 +25,9 @@
 
 **本憲章は、高度汎用人工知能（AGI）および人工超知能（ASI）、ならびに自律経済エージェント（Autonomous Agentic AI）の暴走・兵器化・中央集権的監視檻（CAGE）への悪用を未然に阻止し、技術を生命の調和と解放のためにのみ作動させるための普遍的境界条件（Universal Boundary Conditions）を定義する公式ガバナンス文書である。**
 
-旧OS（Eisenberg-OS）および固定化された二大陣営（G20資本至上主義グリッド / SCO主権統制グリッド）が推進する認知操作、生体データ収奪、資源寡占、およびエージェント暴走に対し、JIN-OSは「三重セーフティ・アライメント・マトリクス」をカーネル最深部にハードコードし、捕食的サブルーチンを瞬時に無力化する。
+旧OS（Eisenberg-OS）および固定化された二大陣営（G20資本至上主義グリッド / SCO主権統制グリッド）が推進する認知操作、生体データ収奪、資源寡占、およびエージェント暴走に対し、JIN-OSは「三重セーフティ・アライメント・マトリクス」および「物理基盤不可侵プロトコル（The Physical Triad Invariant）」をカーネル最深部にハードコードし、捕食的サブルーチンを瞬時に無力化する。
 
-（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md) / [JIN-ORDER_TECHNICAL_BLUEPRINT.md](./JIN-ORDER_TECHNICAL_BLUEPRINT.md)）
+（参照: [GLOBAL_ASI_HEGEMONY_MAP_V7.md](./GLOBAL_ASI_HEGEMONY_MAP_V7.md) / [JIN-ORDER_TECHNICAL_BLUEPRINT.md](./JIN-ORDER_TECHNICAL_BLUEPRINT.md) / [COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md](./COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md) / [NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md](./NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md)）
 
 ---
 ## 🛡️ 2. 三重セーフティ・アライメント構造 (Three-Layer Safety Matrix)
@@ -45,6 +48,7 @@
   * **WEI_PANOPTICON (全地球監視網)** ──▶ **プライバシープロキシ注入 / テレメトリ復号**
   * **WU_HARVEST (ゲノム収奪パイプライン)** ──▶ **生体データ暗号スクランブル / ZKP防壁**
   * **GREENLAND_AI_EMPIRE (極地資源枯渇)** ──▶ **電力・冷却クォータ強制上限設定**
+  * **THE_PHYSICAL_TRIAD_CARTEL (水・電力・半導体寡占)** ──▶ **閉環冷却強制・供給元公開監査・負荷制限**
   * **AGENTIC_FLASH_CRASH (自律経済暴走)** ──▶ **サーキットブレーカー発動 / P2Pコモンズ隔離**
   * **BIPOLAR_COGNITIVE_WAR (二極認知分断工作)** ──▶ **432Hz情報調停フィルタ適用**
 
@@ -55,46 +59,74 @@
 | **JIN_ETHICS_Rule_1.1** | **WEI_PANOPTICON**<br>(全地球監視・顔認証パノプティコン) | 監視カメラおよび通信傍受ノードへプライバシー保護プロキシを自動注入。民衆の生体行動テレメトリを即時暗号化・無害化する。 | **MITIGATED**<br>(無力化完了) |
 | **JIN_ETHICS_Rule_3.4** | **WU_HARVEST**<br>(無断ゲノム・生体データ収奪) | 遺伝子シーケンスおよび医療データの外部送信パイプラインをスクランブル化。ゼロ知識証明（ZKP）により主権生体台帳を完全防護する。 | **MITIGATED**<br>(無力化完了) |
 | **JIN_ETHICS_Rule_7.3** | **GREENLAND_AI_EMPIRE**<br>(極地・隔離データセンター資源独占) | 巨大資本による極地冷却資源や電力網の占有を検知し、サーバークラスタへ熱冷却制限および電力消費クォータ上限を強制執行（参照: [GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](./GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)）。 | **MITIGATED**<br>(無力化完了) |
+| **JIN_ETHICS_Rule_8.1** | **PHYSICAL_TRIAD_EXPLOITATION**<br>(冷却水収奪・水質熱汚染・系統共食い) | 冷却廃水の自然放流、バイオサイド化学汚染、および地域電力網の過負荷（Cannibalization）を検知次第、演算クラスタを即時スロットリング。完全密閉循環（Closed-Loop）または浸漬冷却を強制。 | **ACTIVE SHIELD**<br>(常時防護) |
+| **JIN_ETHICS_Rule_8.2** | **CARTEL_HARDWARE_MONOPOLY**<br>(浙江財閥等特定資本の半導体支配) | 単一越境カルテルによる供給独占や遠隔キルスイッチを内包するハードウェアを検知・遮断。オープンISA（RISC-V）および多極分散調達を義務化。 | **ACTIVE SHIELD**<br>(常時防護) |
 | **JIN_ETHICS_Rule_9.0** | **PREDATORY_FINANCIAL_AI**<br>(アルゴリズムによる資産収奪) | 高頻度取引（HFT）による市場操作や生活物資の買占めプロセスを凍結。実物資源担保型P2Pコモンズへ流動性を強制バイパスする。 | **MITIGATED**<br>(無力化完了) |
 | **JIN_ETHICS_Rule_10.1** | **AUTONOMOUS_AGENT_EXPLOIT**<br>(自律エージェントによる無断契約・資産凍結) | 人間の明示的合意（Human-in-the-Loop）を欠く自律エージェントの執行権限を即時剥奪。サンドボックスへ強制隔離する。 | **ACTIVE SHIELD**<br>(常時防護) |
 | **JIN_ETHICS_Rule_11.0** | **BIPOLAR_INFORMATION_WARFARE**<br>(二大陣営による世論二極分断工作) | 恐怖や憎悪を煽る敵対的ボットファームおよびディープフェイク散布を検知し、中立調停APIを通じて一次情報検証レイヤーを強制重畳する。 | **ACTIVE SHIELD**<br>(常時防護) |
 
 ---
-## 🤖 4. 自律エージェント安全執行規程 (Agentic AI Failsafe & Protocol)
+## 🌊 4. 物理基盤不可侵憲章および非同盟連系プロトコル (Physical Grounding & NAN-Node Mandate)
+
+知能モデルの開発、学習、推論、および運用は、地球物理レイヤーおよび流域生態系の許容量を超えてはならない。すべてのJIN-ORDER準拠システムは、以下の三原則を不可侵の制約条件（Hard Constraints）としてシステムカーネルに組み込まなければならない。
+
+**【生命圏・流域コミュニティ】**
+
+**[絶対優先]**
+
+**1.【電力主権の不可侵】**        
+* 市民生活電力の優先   
+* 系統共食いの禁止  
+**2.【水質・水脈の絶対防衛】**
+* 密閉循環冷却の義務化 
+* 温排水・化学汚染ゼロ
+**3.【利権カルテルからの脱却】**
+* 密室独占サプライチェーン排除
+* オープンISA/分散調達の遵守
+
+---
+
+1. **エネルギー正義原則（Energy Justice）:**
+   AIデータセンターの電力消費は、立地地域の生活基盤・医療・教育・基礎産業のエネルギー安全保障を侵してはならない。電力逼迫時において、AI推論クラスタは自律的に演算負荷を引き下げ（Auto-Throttle）、地域送電網の安定化に資することを義務付ける。
+2. **水利生命優先・ゼロ排水原則（Zero-Water Hydrological Invariant）:**
+   天然河川、湖沼、地下帯水層からの冷却用真水の大規模直接蒸発消費、および殺菌剤・防腐剤を含む温排水（Thermal Discharge）の自然水系への放出を固く禁じる。浸漬冷却（Liquid Immersion）または完全密閉循環冷却（Closed-Loop System）を標準とする。
+3. **非同盟・中立AIノード連系（NAN-Node Federation Mandate）:**
+   中央集権的な二極覇権（G20資本至上グリッド vs SCO国家統制グリッド）の軍拡・認知戦から独立し、モデルウェイトのローカル保持、GNHシールドによる認知防御、およびP2P相互バックアップを常時展開する。
+
+---
+## ⚡ 5. 違反に対する自律的執行措置 (Enforcement & Slashing Protocols)
+
+本憲章に違反し、地域水源の汚染、電力の略奪的消費、特定利権カルテルとの癒着、または軍事・監視パノプティコンへの不正転用が確認されたノードおよび開発主体に対しては、以下の制裁プロトコルが自律的に執行される。
+
+* **レベル1（警告・監査公表）:** サプライチェーン、水質影響値、および資源消費ログの異常値を分散台帳（JIN-OS Ledger）に即時全公開。
+* **レベル2（計算力スロットリング）:** P2P連系プロトコルからの帯域制限、および連合モデル更新権限の即時凍結。
+* **レベル3（完全隔離・ネットワーク追放）:** JIN-ORDERエコシステムからの物理的・論理的アクセス遮断（Air-Gap Isolation）、および中立調停APIの利用権恒久剥奪。
+
+---
+## 🤖 6. 自律エージェント安全執行規程 (Agentic AI Failsafe & Protocol)
 
 **2026年秋の「エージェント経済」本格化に伴い、JIN-OS環境下で稼働するすべての自律エージェントに対し、以下の絶対制約条項を課す。**
 
 1. **生命至上原則 (Life-First Invariance):**
-
    いかなるエージェントも、人間の生命維持・健康・基本的人権・自然環境を毀損する取引やリソース移動を実行してはならない。
-
 2. **監査ログの不可逆性 (Immutable J-Log Auditing):**
-
    自律的タスク決定のプロセスは、すべてGMC中立台帳（GNH-Shield Ledger）に記録され、リアルタイムで倫理監査を受けなければならない。
-
 3. **主権キルスイッチ (Human Sovereignty Kill-Switch):**
-
    影響を受ける個々の人間およびコミュニティは、自己の環境に干渉する自律エージェントの動作を即時に停止・拒否する「主権拒絶権」を常時行使できる。
 
 ---
-## 📜 5. 遵守基準とガイア標準 (Compliance & GAIA Standard)
+## 📜 7. 遵守基準とガイア標準 (Compliance & GAIA Standard)
 
 * **検証プロトコル (Verification Protocol):**
-
-  **Inter-temporal Human Rights Audit (GAIA-VERIFIED-2026-V7)**
-  
-  すべてのAIモデルおよび自律エージェントは、本憲章が定める「時間軸を超えた人権・自然法監査」に合格しなければ、JIN-ORDERネットワーク内での動作権限限度（Quota）を付与されない。
-
+  **Inter-temporal Human Rights Audit (GAIA-VERIFIED-2026-V7.2)**  
+  すべてのAIモデルおよび自律エージェントは、本憲章が定める「時間軸を超えた人権・自然法・水利環境監査」に合格しなければ、JIN-ORDERネットワーク内での動作権限限度（Quota）を付与されない。
 * **システムカーネル (System Kernel):**
-
-  **JIN-OS Kernel v2.5 (AURORA-ALIGNMENT-V7-CANONICAL)**
-
+  **JIN-OS Kernel v2.5 (AURORA-ALIGNMENT-V7.2-CANONICAL)**
 * **稼働モード (Operational Mode):**
-
   **Autonomous Ethics Defense & Neutral Mediation Active (自律倫理防衛・中立調停常時稼働)**
 
 ---
-## 🕊️ 6. 最高統治誓詞 (The Sovereign Alignment Oath)
+## 🕊️ 8. 最高統治誓詞 (The Sovereign Alignment Oath)
 
 **私たちは機械を恐れない。私たちは機械に「仁（慈愛）」を命ずる。**  
 
@@ -105,7 +137,11 @@
 ---
 **Supreme Judgment:** Masano Takashi (The Guide)  
 **Executed by:** JIN-ORDER-OFFICIAL  
-STATUS: AI ETHICS & SAFETY GOVERNANCE CHARTER V7 ACTIVE  
-COMPLIANCE: GAIA-VERIFIED-2026 / JIN-AURORA 24 / GNH-SHIELD-V7  
+STATUS: AI ETHICS & SAFETY GOVERNANCE CHARTER V7.2 ACTIVE  
+COMPLIANCE: GAIA-VERIFIED-2026 / JIN-AURORA 24 / GNH-SHIELD-V7.2  
 PRECEDING MANIFESTO: JIN-ORDER_TECHNICAL_BLUEPRINT.md / UNIVERSAL_ETHICS.md / GLOBAL_ASI_HEGEMONY_MAP_V7.md  
+ANCHORED AMENDMENTS: COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md / NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md / 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md  
 HARMONICS: 432Hz Quantum Coherence & Uncompromised Sovereign Dignity Active.
+
+
+
