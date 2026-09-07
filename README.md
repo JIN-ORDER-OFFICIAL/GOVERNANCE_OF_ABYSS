@@ -162,17 +162,19 @@
 ### 【Layer 1: 地政学・チョークポイント脅威分析・対抗諜報 (Geopolitical & Counter-Intelligence)】
 
 * 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: **(2026年秋 最新正典: 計算要塞化・重要鉱物囲い込みと四極分断マトリクス)**
+* 🌊 **[COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md](./COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md)**: **(物理的三位一体憲章: 電力網共食い・冷却水温排水/化学汚染・浙江財閥系半導体利権の解体仕様)**
+* 🛡️ **[NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md](./NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md)**: **(非同盟・中立AIノード規範: 米中踏み絵回避・ローカルウェイト保持・P2P相互防衛仕様)**
 * ⚔️ **[COUNTER_HEGEMONY_AUDIT_2026.md](./COUNTER_HEGEMONY_AUDIT_2026.md)**: **(愚者たちの利権ディール解体白書: 密室復興ディール・分断関税・生体サブスク支配の監査)**
 * ⚖️ **[ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md)**: **(政治資金透明化・特別会計解体法案: 400兆円ブラックボックス解体・使途不明金永久廃止・脱ゼロサム直接共生経済)**
 * 🌐 **[18_FAR_EAST_ASEAN_ICE_CORRIDOR.md](./docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**: 北極海・極東〜ASEAN南進回廊（脱西側物流と実物資源の多極化）
-* 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列アーカイブ (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
+* 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列アーカイブ (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**: **(物理的三位一体破綻とBloc Gamma中立調停バッファーの統合)**
 * 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)**
 * 🛡️ **[STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md)**: 対抗諜報 ＆ 主権空白地帯（The Void）
 
 ### 【Layer 2: 倫理・AI自律ガバナンス・教育 (Ethics, AI Governance & Education)】
 
 * 📢 **[UNIVERSAL_ETHICS_MANIFESTO_V2.md](./UNIVERSAL_ETHICS_MANIFESTO_V2.md)**: **現実対抗マニフェスト（大国ASIブロック化に対する自律生命尊厳宣言）**
-* ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7 Canonical / 三重セーフティ ＆ 自律エージェント安全執行規程)*
+* ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7.2 Canonical / 三重セーフティ・物理基盤不可侵・非同盟ガバナンス・スラッシング執行規程)*
 * 🌸 **[JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: 根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色の技術倫理）
 * 🏛️ **[JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) / [JIN_ORDER_CORE.md](./JIN_ORDER_CORE.md)**
 
@@ -180,7 +182,7 @@
 
 * 🏛️ **[MACRO_REBIRTH_BUDGET_2040.md](./MACRO_REBIRTH_BUDGET_2040.md)**: **(2040年 仁龍平和国家予算・新産業大転換構想: 軍需から環境再生へ・420兆円単一台帳・世界環境OSサブスク・宇宙開拓)**
 * 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・地域密着共生税制・ふるさと納税ゼロサム奪い合い解体仕様書)**
-* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: **(V2.0 GMC運用仕様: ヒマラヤ水力・BTC戦略準備・独立司法による4層防壁)**
+* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: **(V2.0/V7.1 GMC運用仕様: ヒマラヤ水力・完全密閉冷却・BTC戦略準備・NAN-Node 01防衛シールド)**
 * 🌾 **[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**: 肥料・食糧・種子の現物担保プロトコル（実物生命資産アンカー設計）
 * 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md)**: 実物生命資産（水・種子・エネルギー）担保型通貨『JIN』
 * 🚄 **[JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md)**: **(次世代水素・高温超伝導自律動脈交通網仕様書: 液体水素輸送・HTSリニア・動脈多重化)**
@@ -189,9 +191,9 @@
 ### 【Layer 4: 地域主権・自律インフラ・生命防衛 (Regional Sovereignty, Commons & Utility)】
 
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
-* 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**[cite: 1]
+* 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**
 * 🌊 **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 信玄堤・全国54疏水・現代版川除免)**
-* 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点: マルシェ直売所・循環EVバス・六聖マイスター教育院)**[cite: 1]
+* 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点: マルシェ直売所・循環EVバス・六聖マイスター教育院)**
 * 💧 **[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)**: **(自律水利・上下水道主権防衛: 地域分散型オフグリッド給水網 ＆ 量子浄化フィルター)**
 * 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・P2Pメッシュ・オフライン避難モード)**
 * 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 地域主権奪還・現場展開SOP・ゼロから100日行動指針)**
@@ -263,6 +265,6 @@
 
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
-`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7 CANONICAL SYNCHRONIZED)`  
-`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, REGIONAL HEALTHCARE, SOVEREIGN COMMONS & 2040 REBIRTH ACTIVE`  
+`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.2 CANONICAL SYNCHRONIZED)`  
+`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Universal Benevolence & Watershed Sovereignty.`
