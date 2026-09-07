@@ -20,6 +20,8 @@
 
 本仕様書は、日本全国の気象官署（地方気象台・測候所・レーダー観測所）を、外資クラウドや中央集権的ASIから完全独立した「天地統合型自律減災ノード（Atmosphere-Crust Node）」へとアップグレードするための基本設計書である。
 
+![Overview & Deployment Philosophy](./assets/Overview_Deployment_01.jpg)
+
 日本が誇る世界最高峰の「マルチパラメータ・フェーズドアレイ気象レーダー（MP-PAWR）」と、大震災を未然に防ぐ「地殻鍼灸ノード（JIN-Seismic Acupuncture）」を同一拠点に垂直併設。
 
 上空の大気水蒸気・降雨動態と、地下深部の断層歪み・間隙水圧を同一のローカルAI（NAN-Node）がリアルタイムに統合管理し、水害と地震の破局的連鎖を物理的に無効化する。
@@ -27,6 +29,8 @@
 ---
 
 ## 🏛️ 2. 垂直統合アーキテクチャ (Vertical Integration Architecture)
+
+![Overview & Deployment Philosophy](./assets/Overview_Deployment_02.jpg)
 
 **1.【天：成層圏〜対流圏】**
 
