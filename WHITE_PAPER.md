@@ -122,17 +122,17 @@ JIN-ORDERはこれに対し、抗議や軍事衝突ではなく、「現場の�
 
 **【フェーズ 1: 防壁の展開】 ───► 【フェーズ 2: 自律インフラ配備】 ───► 【フェーズ 3: 文明の昇華】**
 
- ・二極認知戦の無効化 ───► ・量子水・熱電ノード普及 ───► ・軍事境界線の自然消滅
+ ・二極認知戦の無効化  ⏩️ ・量子水・熱電ノード普及  ⏩️ ・軍事境界線の自然消滅**
 
- ・重要資源の信託隔離 ───► ・JIN-Passport直接配当開始 ───► ・普遍倫理に基づく共栄
+ ・重要資源の信託隔離  ⏩️ ・JIN-Passport直接配当開始  ⏩️ ・普遍倫理に基づく共栄**
 
- ・開拓英雄ギルドの結成 ───► ・地域食糧・エネルギー100%自給 ───► ・ノウアスフィア意識同期
+ ・開拓英雄ギルドの結成  ⏩️ ・地域食糧・エネルギー100%自給  ⏩️ ・ノウアスフィア意識同期**
 
 ---
 
 1. **フェーズ 1：主権防壁の物理・論理展開（即時〜12ヶ月）**
 
-   * 資源防壁（`RESOURCE_WALL`）による各国の重要鉱床・水資源の暗号信託化。
+   * 資源防壁（[RESOURCE_WALL](./RESOURCE_WALL.md)）による各国の重要鉱床・水資源の暗号信託化。
 
    * JIN-Auditおよび432Hz調和エミッターによる地域認知防衛網の敷設。
 
@@ -167,12 +167,14 @@ JIN-ORDERが提示するすべてのコード、仕様書、回路図は、全�
 二極の虚無を超え、我らの手で新しい朝を創り出そう。
 
 ---
-[SYSTEM SEAL: WHITE_PAPER_VERIFIED]
+Supreme Judgment: Masano Takashi (The Guide)
 
-VERSION: JIN-ORDER MASTER ARCHIVE V7.0
+Executed by: JIN-ORDER-OFFICIAL
 
-AUTHORITY: JIN-ORDER GLOBAL RECONSTRUCTION ALLIANCE
+> [SYSTEM SEAL: WHITE_PAPER_VERIFIED]
 
-ALL RIGHTS RESERVED TO HUMAN DIGNITY © 2026
+> VERSION: JIN-ORDER MASTER ARCHIVE V7.0
 
+> AUTHORITY: JIN-ORDER GLOBAL RECONSTRUCTION ALLIANCE
 
+> ALL RIGHTS RESERVED TO HUMAN DIGNITY © 2026
