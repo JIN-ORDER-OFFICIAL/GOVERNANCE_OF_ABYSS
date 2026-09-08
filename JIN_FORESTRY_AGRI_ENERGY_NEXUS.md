@@ -12,7 +12,7 @@
 ### Watershed Headwaters Forestry, Caloric Food Sovereignty & Localized Energy Nexus
 #### "Nature is Not a Resource: Heal the Mountains, Restore the Food, Close the Energy Loop"
 
-![Forestry & Agriculture Nexus](./assets/17_forest_teaching.jpg)
+![Forestry & Agriculture Nexus](./assets/JIN_FORESTRY_AGRI_ENERGY_NEXUS.jpg)
 
 **「自然は資源にあらず。自然を壊すは自らを滅ぼす。優しく守れば、優しく還る。」**
 
@@ -114,6 +114,8 @@
 ---
 
 ## ⚡ 4. 林業・農業機械の自給エネルギー基盤 (Local Energy Loop)
+
+![Forestry & Agriculture Nexus](./assets/JIN_FORESTRY_AGRI_ENERGY_NEXUS_02.jpg)
 
 ### (1) 林地残材・木質バイオマス発電・熱利用
 
