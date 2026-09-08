@@ -11,7 +11,7 @@
 ### Atmospheric Carbon Closed-Loop, e-Methane & Geo-Harmonic Disaster Mitigation (JIN-ACR)
 #### Zero-Scrap Carbon Neutrality: Safeguarding Himalayan Glaciers from Urban Gas Conduits
 
-![Atmospheric Carbon Recycling](./assets/JIN_FORESTRY_AGRI_ENERGY_NEXUS_02_2.jpg)
+![Atmospheric Carbon Recycling](./assets/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.jpg)
 
 > **「新しく買わせるのではない。民草が今使っているコンロ、給湯器、トラクターを1つも捨てさせず、大気の乱れ（CO2）をそのまま燃料に変える。足元の暮らしを守る火が、遠くヒマラヤの氷河を救う祈りの火となる。」**  
 > — *JIN-ORDER Planetary Harmonization Directive*
@@ -21,6 +21,8 @@
 ## 📌 1. 概要と基本コンセプト (Executive Overview)
 
 本仕様書は、ポール・サバティエ反応に基づく「合成メタン（e-methane）製造技術」と、フィッシャー・トロプシュ（FT）反応に基づく「合成石油（e-Fuel）および微細藻類バイオ燃料（第3世代）」をJIN-ORDERの自律分散インフラへ統合し、都市・生活圏から大気中温室効果ガスを直接削減・循環させる規格である。
+
+![Atmospheric Carbon Recycling](./assets/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE_02.jpg)
 
 国民や途上国に、数兆円規模の買い替え（オール電化・全車両EV化）を強制する「中央集権的利権モデル」を拒絶し、「既存インフラの100%完全継続利用（Zero Scrap & Plug-in）」を徹底することで、世界最速のカーボンニュートラルを実現。
 
