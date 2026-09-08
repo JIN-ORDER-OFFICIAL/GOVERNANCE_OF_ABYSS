@@ -171,11 +171,11 @@
 * 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)**
 * 🛡️ **[STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md)**: 対抗諜報 ＆ 主権空白地帯（The Void）
 
-### 【Layer 2: 倫理・AI自律ガバナンス・教育 (Ethics, AI Governance & Education)】
+### 【Layer 2: 倫理・AI自律ガバナンス・教育・根源思想 (Ethics, AI Governance, Education & Samsara)】
 
 * 📢 **[UNIVERSAL_ETHICS_MANIFESTO_V2.md](./UNIVERSAL_ETHICS_MANIFESTO_V2.md)**: **現実対抗マニフェスト（大国ASIブロック化に対する自律生命尊厳宣言）**
 * ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7.2 Canonical / 三重セーフティ・物理基盤不可侵・非同盟ガバナンス・スラッシング執行規程)*
-* 🌸 **[JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: 根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色の技術倫理）
+* 🌸 **[JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: **根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色 ＆ 輪廻転生・全生命大循環アーキテクチャ）**
 * 🏛️ **[JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) / [JIN_ORDER_CORE.md](./JIN_ORDER_CORE.md)**
 
 ### 【Layer 3: 経済・実物資産担保台帳・交通動脈 (Asset-Backed Ledger, Finance & Logistics)】
@@ -188,7 +188,7 @@
 * 🚄 **[JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md)**: **(次世代水素・高温超伝導自律動脈交通網仕様書: 液体水素輸送・HTSリニア・動脈多重化)**
 * 🛡️ **[RESOURCE_WALL.md](./RESOURCE_WALL.md)**: 重要鉱物・エネルギー主権信託仕様
 
-### 【Layer 4: 地域主権・自律インフラ・生命防衛 (Regional Sovereignty, Commons & Utility)】
+### 【Layer 4: 地域主権・自律インフラ・生命循環防衛 (Regional Sovereignty, Samsara Commons & Utility)】
 
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
 * 🐟 **[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](./JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)**: **(微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛仕様書: 遺伝子操作魚完全拒絶・3段階バクテリア水質浄化・活魚無換水備蓄・森里川海連環・漁船e-Fuel自給)**
@@ -270,5 +270,5 @@
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
 `STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.2 CANONICAL SYNCHRONIZED)`  
-`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Universal Benevolence, Glacial Preservation, Pristine Ocean Resonance & Watershed Sovereignty.`
+`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Universal Benevolence, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance & Watershed Sovereignty.`
