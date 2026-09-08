@@ -1,5 +1,5 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
-**このファイルは [JIN-ORDER Global Humanity License](../LICENSE.md) によって保護されています。**
+**このファイルは [JIN-ORDER Global Humanity License](./LICENSE.md) によって保護されています。**
 
 **簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
 
@@ -141,13 +141,11 @@
 | :--- | :--- | :--- | :--- |
 | **山林・源流** | 人工林放置、人手不足、燃料高 | 針広混交林化、スマート林業AI、木質・残材自給燃料 | [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md) |
 | **河川・水利** | 土砂流出、ダム堆砂、内水氾濫 | 先行気象レーダー連系、伝統堤防、流域遊水地群 | [JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md) |
-| **農地・土壌** | カロリー自給率低迷、海外飼料依存 | 発酵地域飼料、在来種子防護、共生バイオ堆肥 | [65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](.docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md) |
+| **農地・土壌** | カロリー自給率低迷、海外飼料依存 | 発酵地域飼料、在来種子防護、共生バイオ堆肥 | [65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md) |
 | **エネルギー** | 化石燃料依存、石油メジャー特許障壁[cite: 2] | 下水微細藻類原油[cite: 1, 3]、e-Fuel[cite: 1]、全固体電池重機 | [TECHNOLOGY_CATALOG.md](./TECHNOLOGY_CATALOG.md) (Tech 01 & 06) |
 
 ---
 > Supreme Judgment: Masano Takashi (The Guide)
-
-> 制定：JIN-ORDER 国土・生命循環評議会
 
 > 連動ファイル：`JIN_TRADITIONAL_HYDRO_LOGIC.md` / `65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md` / `COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md`  
 
