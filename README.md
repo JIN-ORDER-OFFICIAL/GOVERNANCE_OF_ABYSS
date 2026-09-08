@@ -191,6 +191,7 @@
 ### 【Layer 4: 地域主権・自律インフラ・生命防衛 (Regional Sovereignty, Commons & Utility)】
 
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
+* 🌍 **[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](./JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**: **(大気炭素循環・サバティエe-methane＆e-Fuelノード仕様書: 既存ガス管ゼロスクラップ直結・第3世代バイオ燃料・ヒマラヤ氷河保護＆ネパール減災連動)**
 * 🌲 **[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](./JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**: **(流域源流・林業主権再生と食料・地域エネルギー完全自給仕様書: 針広混交林・スマート林業・カロリーベース食料自給・微細藻類原油・e-Fuel循環)**
 * 🌐 **[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](./JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**: **(気象台併設型 天地調和・大気レーダー＆地殻鍼灸ノード仕様書: MP-PAWR気象レーダー網・信玄堤先行連系・深層断層圧微小解放JIN-ACH)**
 * 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**
@@ -268,5 +269,5 @@
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
 `STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.2 CANONICAL SYNCHRONIZED)`  
-`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Universal Benevolence & Watershed Sovereignty.`
+`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Universal Benevolence, Glacial Preservation & Watershed Sovereignty.`
