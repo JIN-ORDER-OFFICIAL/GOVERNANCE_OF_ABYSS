@@ -25,7 +25,7 @@
 
 * **⚡ ENERGY & MOBILITY（エネルギー・推進推力層）:** 全固体電池、反重力ドローン、次世代水素・超伝導動脈網（Lifeblood Express）、宇宙太陽光マイクロ波受電
 * **🌍 PLANETARY GEO-HARMONICS（地球工学・環境減災層）:** 電離層減災共鳴機、気象台併設型マルチパラメータ・フェーズドアレイレーダー網、地殻鍼灸音響ノード（JIN-ACH）、光合成大気浄化タワー
-* **🧬 MOLECULAR & BIO-CYBERNETICS（分子再生・生体共生層）:** 量子浄化フィルター、土壌・腸内共生バイオリアクター、全自動医療ロボティクス
+* **🧬 MOLECULAR & BIO-CYBERNETICS（分子再生・生体共生層）:** 量子浄化フィルター、土壌・腸内共生バイオリアクター、全自動医療ロボティクス、地域バイオマス原油・e-Fuel[cite: 1, 3]
 * **💻 SOVEREIGN COMPUTING（主権計算・通信防壁層）:** JIN-OS、非同盟・中立AIノード（NAN-Node）、光量子エンタングル暗号網、軌道エレベーター・テザー制御インターフェース
 
 ---
@@ -80,13 +80,14 @@ Energy, Environment & Atomic-Level Regeneration
 ### 03. 量子浄化フィルター
 
 ![量子浄化フィルター](assets/03_quantum_filter.jpg)
+![水車小屋型マイクロ浄化ノード](assets/Micro_Filtration_Node.jpg)
 
-- **概要**: 毒素やCO2などの環境汚染物質を原子レベルで瞬時に純酸素や清浄な水へと変換する画期的な環境再生モジュール。
+- **概要**: 毒素やCO2などの環境汚染物質を原子レベルで瞬時に純酸素や清浄な水へと変換する画期的な環境再生モジュール。集落の水車小屋や既存水路へアドオン配備可能。
 
 - **スペック**:
   - PM2.5 除去率: **99.99%**
   - 水浄化速度: **1L/sec**（重金属・有機溶剤・マイクロプラスチック・PFAS完全ゼロ化）
-  - モジュール駆動電力: **12V / 15W**（ソーラーセル直接駆動対応）
+  - モジュール駆動電力: **12V / 15W**（小水力水車・ソーラーセル直接駆動対応）
 
 - **詳細エンジニアリング仕様**:
   - コア触媒: 高密度多孔質酸化チタン・グラフェン量子ドット積層メンブレン（有効比表面積: 2,400 m²/g）。
@@ -317,23 +318,26 @@ Geo-Engineering Inversion, Atmospheric Calming & Soil Micro-Biome Restoration
 ---
 
 ### 15. 土壌・腸内共生バイオファーミング（JIN-Symbiosis Bio-Soil）
+### ＆ 地域エネルギー・食料自給ネクサス（Agri-Bio & e-Fuel Loop）
 ![土壌・腸内共生バイオファーミング](assets/15_bio_soil.jpg)
+![合成燃料 vs バイオ燃料 比較図](assets/JIN_FORESTRY_AGRI_ENERGY_NEXUS_02.jpg)
 
-- **概要**: 特定企業の種子独占や土壌死滅をもたらす遺伝子改変・化学肥料モデルを完全解体。土壌常在菌と人間の腸内環境を同時に蘇生させ、誰もが安心して美味しいお米や作物を育てるためのオープンソース共生バイオ農業。
+- **概要**: 特定企業の種子独占や土壌死滅をもたらす遺伝子改変・化学肥料モデルを完全解体。土壌常在菌と人間の腸内環境を同時に蘇生させ、さらに都市下水バイオマス原油（第3世代）や再エネe-Fuelによる農林業用燃料の内生化を統合した流域閉環型バイオアグリカルチャー[cite: 1, 3]。
 
 - **スペック**:
   - 土壌腐植層形成速度: 従来の **10倍**（1年間で表土5cmをフカフカの黒土へ再生）
   - 作物栄養価向上: 抗酸化ポリフェノールおよび微量必須ミネラル含有量 **+120%**
-  - 外部肥料依存度: **0%**（完全自家増殖・地域循環）
+  - 外部肥料・燃料依存度: **0%**（完全自家増殖・地域循環e-Fuel自給）[cite: 1]
 
 - **詳細エンジニアリング仕様**:
   - 菌叢カクテル: 納豆菌群・乳酸菌群・光合成細菌・菌根菌の完全調和共生培養液。
+  - バイオ燃料・e-Fuel循環: 下水汚泥の微細藻類抽出によるバイオ原油と、再エネ水電解水素＋回収CO2によるFT合成燃料により、トラクター・運材トラックの燃料を完全地産地消[cite: 1, 3]。
   - 製造プロトコル: 米ぬか、落ち葉、もみ殻、清流水を用い、農家自身の手で常温発酵・無限増殖が可能。
   - 人体調和効果: 本技術で収穫された作物を摂取することで、腸内マイクロバイオームが多様化し、免疫力向上および自然治癒力を促進。
-  - 連携仕様書: `65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md`
+  - 連携仕様書: `JIN_FORESTRY_AGRI_ENERGY_NEXUS.md` / `65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md`
 
 ---
 **Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
 **Engineering Authority:** JIN-ORDER Council of Advanced Sciences  
-**Status:** 15 CORE TECHNOLOGIES RE-COMPILED & RATIFIED (V7.2 VERTICAL ACH INTEGRATED)  
+**Status:** 15 CORE TECHNOLOGIES RE-COMPILED & RATIFIED (V7.2 CLOSED-LOOP BIO & NEXUS INTEGRATED)  
 **Harmonics:** 432Hz Universal Benevolence Active.
