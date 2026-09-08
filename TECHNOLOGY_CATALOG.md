@@ -299,6 +299,8 @@ Geo-Engineering Inversion, Atmospheric Calming & Soil Micro-Biome Restoration
 ### ＆ 気象台併設型 天地調和インフラ（JIN-ACH Node）
 ![断層圧微小解放・地殻鍼灸ノード](assets/14_seismic_acupuncture.jpg)
 
+![断層圧微小解放・地殻鍼灸ノード](assets/Overview_Deployment_02.jpg)
+
 - **概要**: 地殻破壊や注水誘発の理論を、破滅的な巨大地震を防ぐ「地殻エネルギーの緩慢解放（スロースリップ制御）」へと再設計した減災アーキテクチャ。全国の気象台・レーダーサイトと直結し、上空の大気観測と地下5,000mの断層制御を垂直統合（JIN-ACH）する。地球の呼吸に合わせ、歪みエネルギーを安全にガス抜きする。
 
 - **スペック**:
