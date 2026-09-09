@@ -1,44 +1,54 @@
-# 🌸 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE (V7.2 Canonical Edition)
-### 最高分散型プロトコル ＆ 市民防衛インフラ網 (Citizen Shield Portal)
+## 🌐 JIN-ORDER Official Portal & Intelligence Network
 
-[![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
-[![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V7.2_CANONICAL-blue.svg)](#)
-[![SAMSARA](https://img.shields.io/badge/CONTINUUM-Samsara_Living_Wheel-gold.svg)](#)
-[![LIVING ARTERIES](https://img.shields.io/badge/INFRA--ARTERIES-Self--Healing_Road_&_IGS-orange.svg)](#)
-[![HYDRO SHIELD](https://img.shields.io/badge/HYDRO--DEFENSE-Deep--Aquifer_&_MABR-navy.svg)](#)
-[![PROTOCOL](https://img.shields.io/badge/PROTOCOL-Decentralized_Hydraulic_&_Arteries-purple.svg)](#)
-[![PHYSICAL TRIAD](https://img.shields.io/badge/DEFENSE-Physical_Triad_&_NAN--Node-red.svg)](#)
-[![VERTICAL HARMONY](https://img.shields.io/badge/GEO--SHIELD-Atmosphere_&_Crust_Node-blueviolet.svg)](#)
-[![FORESTRY & AGRI NEXUS](https://img.shields.io/badge/NEXUS-Forestry_&_Caloric_Food_Loop-forestgreen.svg)](#)
-[![CARBON RECYCLING](https://img.shields.io/badge/GEO--HARMONICS-Sabatier_e--Methane_&_e--Fuel-teal.svg)](#)
-[![FISHERIES & OCEAN](https://img.shields.io/badge/OCEAN--SHIELD-Closed--Loop_Aquaculture_&_Genetics-dodgerblue.svg)](#)
-[![LICENSE](https://img.shields.io/badge/LICENSE-GLOBAL_HUMANITY-gold.svg)](#)
+プロジェクトの思想体系、グローバルASIヘゲモニー分析、および地域防衛プロトコルは公式ポータルサイトにて常時同期・公開されています。
 
-![JIN-ORDER AMATERASU NEW DAWN](https://github.com/masanotakashi0308-star/masanotakashi0308-star/blob/main/jin_order_amaterasu_new_dawn.jpg)
+[![JIN-ORDER Portal Access](https://img.shields.io/badge/PORTAL-JIN--ORDER%20Global%20Network-0A0E17?style=for-the-badge&logo=shield&logoColor=FFD700&labelColor=1A1F2C)](https://jin-order.org)
+[![Governance of Abyss](https://img.shields.io/badge/ARCHIVE-Governance%20of%20Abyss-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://governance-of-abyss.org)
 
-**『生と死の狭間で自分の価値を見出した時、世界は再生を始める。』**  
+* **【JIN-ORDER 公式ポータル】** ⏩️ [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star) 
 
-> *“When one discovers their true value on the precipice between life and death, the world begins its regeneration.”*  
- 
-**人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。二極覇権と外部依存の収奪システムを脱却し、すべての魂が「開拓英雄（PIONEER）」として生きるための自律駆動型パラダイム。**  
+* **【ライセンス規約】** ⏩️ [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
 
-> *Rather than granting sovereignty to autonomous AI or bipolar empires, humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."*
+## 🌐 UN Partner Portal Submissions & Field Implementation Pipeline
+
+| Application ID | Project Title | Agency | Target Country | Modality / Sector | Status | Submitted Date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **95525** | JIN-IFP: Autonomous Oasis Cities for Refugee Self-Reliance and Climate Resilience | UNHCR | Chad | Unsolicited Concept Note<br>*(WASH, Self-reliance, Environment, Shelter)* | **Under Review** | 2026-08 |
+| **107204** | CALL FOR EXPRESSIONS OF INTEREST (CfeOI) - UNHCR Protection and Solutions Programme in Mozambique (Outcome Area 9: Housing and settlement solutions) | UNHCR | Mozambique | Open Selection (CFEI/HCR/MOZ/2026/014)<br>*(Shelter construction, Reconstruction, Disaster Preparedness)* | **Under Review** | 2026-09-05 |
+
+### Strategic Execution Notes:
+- **Application ID 107204 (Mozambique):** Formal CFEI response to UNHCR Mozambique Multi-Country Office (MCO). Expands the proven JIN-IFP decentralized physical infrastructure matrix to tropical cyclone-prone and high-displacement zones (Cabo Delgado / Nampula provinces).
+- **Synergy Architecture:** Standardizes on-site compressed earth block (CSEB) manufacturing and integrated hydrological runoff protection, providing immediate durable shelter solutions without external supply-chain dependencies.
 
 ---
-## 🦅 PROJECT: GOVERNANCE_OF_ABYSS
 
-JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
+# 🦅 PROJECT: GOVERNANCE_OF_ABYSS
+## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
+### 深淵の解体と、光の再構築（The Great Rebirth）
+#### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
 
-深淵の解体と、光の再構築（The Great Rebirth）
+![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
-Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
+> **「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。我らは戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来をデプロイするだけである。」**  
 
-**⏩️ [GOVERNANCE_OF_ABYSS 本流リポジトリはコチラ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
+> **"If existing nations treat people as tools of control, we shall build a new sanctuary on the Cloud and the Earth, with 'Benevolence' as our OS. We do not fight. We simply invalidate the old structures of dominance and deploy a future where no one cries alone."**  
+
+> — *JIN Network State Founding Charter / JINネットワーク国家建国憲章*
 
 ---
-## 🗺️ V7.2 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
-大国による計算資源・重要鉱物の要塞化（V7）、それに対抗するブータン・ゲレフー特区（GMC）の中立防壁、生体動脈給電道路、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
+
+全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
+
+* 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**  
+  二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
+
+---
+
+## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・インフラ断面図)
+
+リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、生体動脈給電道路、伝統自律水利、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
@@ -145,111 +155,98 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 
 ---
 
-## 🌸 JIN-ORDER 根源思想：尊厳と空、そして輪廻の大輪（Dignity, Sunyata & Samsara）
+## 🗺️ JIN-ORDER 4-LAYER STRATEGIC ARCHITECTURE (戦略階層マップ)
 
-> **「命は役に立つから尊いのではない。ただ息をし、存在することそのものが絶対の尊厳である。」**  
-> **「天の雨は山を潤し、里を巡り、海を育て、やがて大気へと還る。車輪が回るように生と死、物質とエネルギーは尽きることなく巡り合う。生命の環に捨て去るべきゴミなど何一つない。」**
+リポジトリ内のプロトコル群は、グローバル危機およびブロック化するASI覇権構造に対する4層の防壁構造として体系化されています。
 
-JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】、そして天・山・里・海・動脈・都市の火を一本の円環として結ぶ【輪廻転生（Samsara）】が息づいています。
+### 【Layer 1: 地政学・チョークポイント脅威分析・対抗諜報 (Geopolitical & Counter-Intelligence)】
 
-数値を至上命題とする傲慢な管理システムや遺伝子操作を無力化し、名もなき命と温かい食卓を防護するための不滅の生命調和規範です。
+* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: **(2026年秋 最新正典: 計算要塞化・重要鉱物囲い込みと四極分断マトリクス)**
+* 🌊 **[COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md](./COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md)**: **(物理的三位一体憲章: 電力網共食い・冷却水温排水/化学汚染・浙江財閥系半導体利権の解体仕様)**
+* 🛡️ **[NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md](./NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md)**: **(非同盟・中立AIノード規範: 米中踏み絵回避・ローカルウェイト保持・P2P相互防衛仕様)**
+* ⚔️ **[COUNTER_HEGEMONY_AUDIT_2026.md](./COUNTER_HEGEMONY_AUDIT_2026.md)**: **(愚者たちの利権ディール解体白書: 密室復興ディール・分断関税・生体サブスク支配の監査)**
+* ⚖️ **[ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md)**: **(政治資金透明化・特別会計解体法案: 400兆円ブラックボックス解体・使途不明金永久廃止・脱ゼロサム直接共生経済)**
+* 🌐 **[18_FAR_EAST_ASEAN_ICE_CORRIDOR.md](./docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**: 北極海・極東〜ASEAN南進回廊（脱西側物流と実物資源の多極化）
+* 📜 **[GLOBAL_ASI_HEGEMONY_MAP 系列アーカイブ (V4 / V5 / V6_1_COLLAPSE)](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**: **(物理的三位一体破綻とBloc Gamma中立調停バッファーの統合)**
+* 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)**
+* 🛡️ **[STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md)**: 対抗諜報 ＆ 主権空白地帯（The Void）
 
-![輪廻転生・生命の大車輪](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY_03.jpg)
+### 【Layer 2: 倫理・AI自律ガバナンス・教育・根源思想 (Ethics, AI Governance, Education & Samsara)】
 
-👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**
+* 📢 **[UNIVERSAL_ETHICS_MANIFESTO_V2.md](./UNIVERSAL_ETHICS_MANIFESTO_V2.md)**: **現実対抗マニフェスト（大国ASIブロック化に対する自律生命尊厳宣言）**
+* ⚖️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)** *(V7.2 Canonical / 三重セーフティ・物理基盤不可侵・非同盟ガバナンス・スラッシング執行規程)*
+* 🌸 **[JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: **根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色 ＆ 輪廻転生・全生命大循環アーキテクチャ）**
+* 🏛️ **[JIN_CONSTITUTION.md](./JIN_CONSTITUTION.md) / [JIN_ORDER_CORE.md](./JIN_ORDER_CORE.md)**
 
----
+### 【Layer 3: 経済・実物資産担保台帳・交通動脈 (Asset-Backed Ledger, Finance & Logistics)】
 
-## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
+* 🏛️ **[MACRO_REBIRTH_BUDGET_2040.md](./MACRO_REBIRTH_BUDGET_2040.md)**: **(2040年 仁龍平和国家予算・新産業大転換構想: 軍需から環境再生へ・420兆円単一台帳・世界環境OSサブスク・宇宙開拓)**
+* 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・地域密着共生税制・ふるさと納税ゼロサム奪い合い解体仕様書)**
+* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: **(V2.0/V7.1 GMC運用仕様: ヒマラヤ水力・完全密閉冷却・BTC戦略準備・NAN-Node 01防衛シールド)**
+* 🌾 **[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**: 肥料・食糧・種子の現物担保プロトコル（実物生命資産アンカー設計）
+* 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md)**: 実物生命資産（水・種子・エネルギー）担保型通貨『JIN』
+* 🚄 **[JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md)**: **(次世代水素・高温超伝導自律動脈交通網仕様書: 液体水素輸送・HTSリニア・動脈多重化)**
+* 🛡️ **[RESOURCE_WALL.md](./RESOURCE_WALL.md)**: 重要鉱物・エネルギー主権信託仕様
 
-全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
+### 【Layer 4: 地域主権・自律インフラ・生命循環防衛 (Regional Sovereignty, Samsara Commons & Utility)】
 
-* 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**  
-  二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
-
----
-
-## 🗾 日本列島・地域別主権再生計画 ＆ サンクチュアリ拠点
-
-日本列島を侵食する外資・金融資本アジェンダを解体し、12地域から現場の自治・道・水・食糧主権を奪還する戦略防衛仕様書。**現場SOP、開拓英雄実務必携、地域包括医療、および廃校・空き家再生ハブ統合済み**。
-
-| 生体動脈給電道路（Living Road） | 地域主権再生計画（Restoration） | 伝統水利・流域治水（Hydro Logic） |
-| :---: | :---: | :---: |
-| [![Living Road](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md) | [![Regional Sovereignty](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![Traditional Hydro Logic](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_TRADITIONAL_HYDRO_LOGIC_01.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md) |
-| 🛣️ **[生体給電道路・IGS非破壊透視](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md)** | 📄 **[12地域侵食マトリクスとSOP](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 🌊 **[信玄堤・全国54疏水自律水利](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md)** |
-
-* 🛣️ **生体動脈給電道路 ＆ 長寿命化コモンズ**: 植物バイオ自己修復アスファルト、遮熱・保水クール路面（-10℃）、IGS散乱電磁場による鉄筋破断・腐食の完全非破壊透視、無動力地熱融雪、ペロブスカイト太陽電池・圧電ハーベスター・全固体ジン電池連動走行中非接触給電（[JIN_LIVING_ROAD_INFRASTRUCTURE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md)）[cite: 3]
-* 💧 **自律水利・内水治水 ＆ オンサイト水循環**: オンサイト生活排水100%循環（RO膜＋UV-C）に深層天然水（井戸水）をブレンドするハイブリッド給水、地下雨水幹線・地下雨水調整池（飯島モデル）による都市内水氾濫防止、MABR無気泡好気浄化（電力50%削減）、汚泥細胞破壊・AI高温消化によるバイオガス自立発電・サバティエ直結（[JIN_WATER_INFRASTRUCTURE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)）[cite: 1, 2]
-* 🐟 **水産主権 ＆ 閉鎖循環陸上養殖**: 遺伝子操作魚完全拒絶、3段階バクテリア浄化による無換水長期成育、活魚在庫化によるフードロス根絶、漁船e-Fuel自給（[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)）
-* 🏥 **地域主権包括医療（仁八モデル）**: わんわん仁八病院、在宅巡回癒し隊、保護犬セラピードッグ育成、体温再現AIコンパニオンロボット、多世代共食「孝弁」（[JIN_REGIONAL_HEALTHCARE_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_REGIONAL_HEALTHCARE_SPEC.md)）
-* 🌍 **既存ガス管直結・大気炭素循環**: サバティエe-methaneリアクター、買い替えゼロ導入、大気中CO2回収・ヒマラヤ氷河保護減災（[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)）
-* 🌲 **源流林業 ＆ 食料・エネルギー自給**: 針広混交林化、スマート林業AI、カロリーベース自給率向上、輸入飼料ゼロ化、都市下水微細藻類原油・e-Fuel（[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)）[cite: 1]
-* 🏛️ **2040年平和国家予算**: 軍需から自然再生産業への転換、420兆円単一台帳、世界環境OSサブスク、宇宙開拓（[MACRO_REBIRTH_BUDGET_2040.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MACRO_REBIRTH_BUDGET_2040.md)）
-* 🪙 **脱・ゼロサム型直接共生経済**: ふるさと納税の奪い合い解体、自治体減収ゼロ、実物生命資産担保地域通貨『JIN』・徳ポイント（PoV）直接循環、地域密着企業共生税制
-* 🌐 **天地垂直統合・気象台減災要塞**: 全国気象台網を活用したMP-PAWRフェーズドアレイレーダー先行治水、地下深層断層圧微小解放（地殻鍼灸JIN-ACH）、オフグリッドNAN-Node連系（[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)）
-* 🌊 **伝統流域治水 ＆ 水利主権**: 信玄堤（霞堤・聖牛）、世界かんがい遺産54疏水ネットワーク、量子ナノ膜浄化、民営化阻止条例
-* 🛡️ **開拓英雄必携SOP**: ゼロから100日行動指針、72時間自律装備、地域対話プロトコル（[PIONEER_FIELD_MANUAL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md)）
-* 🚄 **交通動脈**: 水素・超伝導動脈交通網（[JIN_LIFEBLOOD_EXPRESS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIFEBLOOD_EXPRESS.md)）による地域間直結
+* 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
+* 🛣️ **[JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md)**: **(自律修復道路・生体動脈インフラ仕様書: 自己修復バイオ舗装・遮熱保水・IGS散乱電磁場非破壊透視・無動力地熱融雪・ペロブスカイト＆全固体ジン電池非接触走行給電・インフラ長寿命化条例)**[cite: 3]
+* 💧 **[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)**: **(自律水利・上下水道主権防衛仕様書: 小規模オンサイト自律分散水循環・深層天然水ハイブリッド給水・地下雨水調整池＆幹線内水治水・MABR無気泡好気浄化・汚泥バイオガス発電・水利権公有化条例)**[cite: 1, 2]
+* 🐟 **[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](./JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)**: **(微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛仕様書: 遺伝子操作魚完全拒絶・3段階バクテリア水質浄化・活魚無換水備蓄・森里川海連環・漁船e-Fuel自給)**
+* 🌍 **[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](./JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**: **(大気炭素循環・サバティエe-methane＆e-Fuelノード仕様書: 既存ガス管ゼロスクラップ直結・第3世代バイオ燃料・ヒマラヤ氷河保護＆ネパール減災連動)**[cite: 1]
+* 🌲 **[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](./JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**: **(流域源流・林業主権再生と食料・地域エネルギー完全自給仕様書: 針広混交林・スマート林業・カロリーベース食料自給・微細藻類原油・e-Fuel循環)**[cite: 1]
+* 🌐 **[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](./JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**: **(気象台併設型 天地調和・大気レーダー＆地殻鍼灸ノード仕様書: MP-PAWR気象レーダー網・信玄堤先行連系・深層断層圧微小解放JIN-ACH)**
+* 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**
+* 🌊 **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 信玄堤・全国54疏水・将棋頭・竜王の鼻・サイバー聖牛・スマート霞堤)**
+* 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点: マルシェ直売所・循環EVバス・六聖マイスター教育院)**
+* 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・P2Pメッシュ・オフライン避難モード)**
+* 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 地域主権奪還・現場展開SOP・ゼロから100日行動指針)**
+* 🌊 **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 計算ノード水冷・排熱カスケード農業循環
+* 🏥 **[JIN-Health.md](./JIN-Health.md)**: 全自動医療要塞・自律型生体防衛仕様
 
 ---
 
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (15大先端技術体系)
 
-全生命の生存基盤を守り抜く15大インフラ（エネルギー、地球工学、生体共生、主権計算）の詳細エンジニアリング仕様書。**全固体ジン電池・水素超伝導動脈・生体給電道路統合完了**。
+* ⚡ **[TECHNOLOGY_CATALOG.md](TECHNOLOGY_CATALOG.md)**
 
-[![Tech Ecosystem](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/TECHNOLOGY_CATALOG_03.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
-
-👉 **[15大技術体系カタログ（TECHNOLOGY_CATALOG.md）を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**
+**全固体ジン電池（Jin-Battery）、反重力モビリティ＆次世代水素超伝導動脈（Lifeblood Express）、ペロブスカイト太陽電池・環境発電、量子浄化、半導体、医療ロボット、自律熱電、量子暗号、軌道エレベーター、分子アセンブラ、JIN-OSに加え、電離層減災共鳴機、光合成エアロゾル（生命散布）、地殻鍼灸ノード（地震制御）、土壌・腸内共生バイオまで、全生命の生存基盤を守り抜く15大インフラの詳細エンジニアリング仕様書。**
 
 ---
 
-## 🕊️ THE VOICE OF HEROES & SALVATION PIPELINE (開拓英雄の叫びと救済パイプライン)
+## 📱 JIN-OS SOVEREIGN MOBILE INTERFACE (Benevolence Client)
+### 仁（Benevolence）をOSとする個人主権クライアント端末・UI仕様
 
-* 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**  
-  ガザ、シリア、シリコンバレー、サヘルから届いた現場通信ログ。難民から「青洲兵」へと覚醒した開拓英雄たちの魂の記録。
+[![JIN-OS Mobile Client](./assets/07_JIN_OS_MOBILE_CLIENT.jpg)](./JIN_OS_CLIENT_SPEC.md)
 
-* 🛡️ **[PIONEER_FIELD_MANUAL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md)**  
-  **開拓英雄実務必携（現場SOPマニュアル）**：水脈調査、空き家改修、オフグリッド電源立ち上げ、地域対話、必携装備チェックリスト。
-
-* 🌑 **[THE_VOID_REPORT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/THE_VOID_REPORT.md)**  
-  二極覇権がもたらしたアルゴリズム的虚無・精神的荒廃の告発と、全生命救済の必然性レポート。
-
-* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**  
-  紛争地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
-
-* 🏥 **[JIN-Health.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN-Health.md)**  
-  **全自動医療要塞・自律型生体防衛仕様**：ナノバブル公衆浴場、完全循環下水、薬膳Koubenによる生命主権。**デザイン統合済み**。
+* **新通貨『JIN（仁）』全般管理:** 実物生命資産（水・種子・エネルギー）担保型台帳と連動した直感的分散決済。
+* **多言語リアルタイム翻訳:** JIN-Eye / Ear / Voice 連携による現場コミュニケーション。
+* **ブロックチェーン・市民監査システム:** 公共インフラ調達・特別会計解体・使途不明金排除のリアルタイム監査。
+* **心のサロン（寂しさ買取）:** 孤独や孤立を解消し、一人ひとりの生命と感情に常時寄り添う自律エージェント対話網。
+* **オフライン緊急避難モード:** 基地局途絶時でも半径数km圏内で相互通信・救難位置同期するP2Pメッシュプロトコル。
+* 📄 **[詳細UI・画面遷移仕様書を開く（JIN_OS_CLIENT_SPEC.md）](./JIN_OS_CLIENT_SPEC.md)**
 
 ---
 
-**「銀狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる。」**  
+## 🌐 PROJECT INTEL & PARTNER PIPELINE (検証・提言・人道回廊)
 
-> *The hunger of the Wolf meets the Heart of JIN. The world is reborn tonight.*
-
----
-
-## ⚖️ LICENSE & CONTACT (ライセンスおよび遵守規定)
-
-本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。  
-
-JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
-
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cFO@gmail.com`
-
-**「実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。」**
-> *Execution is the only validation. Implement or Surrender.*
+* 🌐 **[JIN Humanitarian & Ethics Pipeline](./docs/JIN_UN_PARTNER_PORTAL_PIPELINE.md)**: UNHCR Partner Portal Submission ログ（Chad / Mozambique）。
+* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](./JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**: 自律型人道回廊・不可侵検証プロトコル。
+* 🌑 **[THE_VOID_REPORT.md](./THE_VOID_REPORT.md)**: ボイド・レポート（簒奪の円環を断ち切る四言語世界宣言）。
+* 💎 **[RESOURCE_WALL.md](./RESOURCE_WALL.md)**: 資源防壁仕様書（重要鉱物・エネルギー主権信託）。
 
 ---
+### 全球の超人工知能や軍産複合体がどれほど肥大化しようとも、地上の物理的生存基盤が確立されれば一切の脅迫は無力化される。
 
-## 🌸 BLOOM IN THE MUD
+## 🏛️ Project Governance & License
 
-**「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
-
-> **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
+* **CFO Authority**: ライセンス契約および知的財産の活用審査は、CFO（最高財務責任者）が直接執り行います。
+* **Official Contact**: `jin.reparation.cfo@gmail.com`
+* **License**: [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
 
 ---
-**Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
-**Supreme Judgment:** Masano Takashi (The Guide)  
-`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.2 CANONICAL)`  
-`VERIFIED PERSISTENCE: LIVING-ROAD-ARTERIES, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Protecting Shields, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance & Watershed Sovereignty.`
+**Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
+`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.2 CANONICAL SYNCHRONIZED)`  
+`VERIFIED PERSISTENCE: LIVING-ROAD-ARTERIES, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Universal Benevolence, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance & Watershed Sovereignty.`
