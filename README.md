@@ -191,11 +191,11 @@
 ### 【Layer 4: 地域主権・自律インフラ・生命循環防衛 (Regional Sovereignty, Samsara Commons & Utility)】
 
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
-* 🛣️ **[JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md)**: **(自律修復道路・生体動脈インフラ仕様書: 自己修復バイオ舗装・遮熱保水・IGS散乱電磁場非破壊透視・無動力地熱融雪・ペロブスカイト＆全固体ジン電池非接触走行給電・インフラ長寿命化条例)**[cite: 3]
-* 💧 **[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)**: **(自律水利・上下水道主権防衛仕様書: 小規模オンサイト自律分散水循環・深層天然水ハイブリッド給水・地下雨水調整池＆幹線内水治水・MABR無気泡好気浄化・汚泥バイオガス発電・水利権公有化条例)**[cite: 1, 2]
+* 🛣️ **[JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md)**: **(自律修復道路・生体動脈インフラ仕様書: 自己修復バイオ舗装・遮熱保水・IGS散乱電磁場非破壊透視・無動力地熱融雪・ペロブスカイト＆全固体ジン電池非接触走行給電・インフラ長寿命化条例)**
+* 💧 **[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)**: **(自律水利・上下水道主権防衛仕様書: 小規模オンサイト自律分散水循環・深層天然水ハイブリッド給水・地下雨水調整池＆幹線内水治水・MABR無気泡好気浄化・汚泥バイオガス発電・水利権公有化条例)**
 * 🐟 **[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](./JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)**: **(微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛仕様書: 遺伝子操作魚完全拒絶・3段階バクテリア水質浄化・活魚無換水備蓄・森里川海連環・漁船e-Fuel自給)**
-* 🌍 **[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](./JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**: **(大気炭素循環・サバティエe-methane＆e-Fuelノード仕様書: 既存ガス管ゼロスクラップ直結・第3世代バイオ燃料・ヒマラヤ氷河保護＆ネパール減災連動)**[cite: 1]
-* 🌲 **[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](./JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**: **(流域源流・林業主権再生と食料・地域エネルギー完全自給仕様書: 針広混交林・スマート林業・カロリーベース食料自給・微細藻類原油・e-Fuel循環)**[cite: 1]
+* 🌍 **[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](./JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**: **(大気炭素循環・サバティエe-methane＆e-Fuelノード仕様書: 既存ガス管ゼロスクラップ直結・第3世代バイオ燃料・ヒマラヤ氷河保護＆ネパール減災連動)**
+* 🌲 **[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](./JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**: **(流域源流・林業主権再生と食料・地域エネルギー完全自給仕様書: 針広混交林・スマート林業・カロリーベース食料自給・微細藻類原油・e-Fuel循環)**
 * 🌐 **[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](./JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**: **(気象台併設型 天地調和・大気レーダー＆地殻鍼灸ノード仕様書: MP-PAWR気象レーダー網・信玄堤先行連系・深層断層圧微小解放JIN-ACH)**
 * 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**
 * 🌊 **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 信玄堤・全国54疏水・将棋頭・竜王の鼻・サイバー聖牛・スマート霞堤)**
