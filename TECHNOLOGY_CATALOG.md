@@ -23,9 +23,9 @@
 
 15大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に4つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環を同期させている。
 
-* **⚡ ENERGY & MOBILITY（エネルギー・推進推力層）:** 全固体電池、反重力ドローン、次世代水素・超伝導動脈網（Lifeblood Express）、宇宙太陽光マイクロ波受電
+* **⚡ ENERGY & MOBILITY（エネルギー・推進推力層）:** ジン・ドラゴン鉱石・全固体ジン電池、ペロブスカイト＆環境発電（ピエゾ・熱電）、生体動脈給電道路、反重力ドローン、次世代水素・超伝導動脈網（Lifeblood Express）、宇宙太陽光マイクロ波受電[cite: 3]
 * **🌍 PLANETARY GEO-HARMONICS（地球工学・環境減災層）:** 電離層減災共鳴機、気象台併設型マルチパラメータ・フェーズドアレイレーダー網、地殻鍼灸音響ノード（JIN-ACH）、光合成大気浄化タワー
-* **🧬 MOLECULAR & BIO-CYBERNETICS（分子再生・生体共生層）:** 量子浄化フィルター、土壌・腸内共生バイオリアクター、全自動医療ロボティクス、地域バイオマス原油・e-Fuel
+* **🧬 MOLECULAR & BIO-CYBERNETICS（分子再生・生体共生層）:** 量子浄化フィルター、オンサイト自律分散水循環・深層天然水ループ、土壌・腸内共生バイオリアクター、全自動医療ロボティクス、地域バイオマス原油・e-Fuel[cite: 2]
 * **💻 SOVEREIGN COMPUTING（主権計算・通信防壁層）:** JIN-OS、非同盟・中立AIノード（NAN-Node）、光量子エンタングル暗号網、軌道エレベーター・テザー制御インターフェース
 
 ---
@@ -60,22 +60,35 @@ Regional Strategy & 15 Core Technologies Cross-Reference Matrix
 ## ⚡ 1. エネルギー・環境・物質循環基盤
 Energy, Environment & Atomic-Level Regeneration
 
-### 01. ジン・ドラゴン鉱石と全固体電池
-![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery.jpg)
+### 01. ジン・ドラゴン鉱石と全固体電池（Solid-State Jin-Battery）
 
-- **概要**: 外部依存のエネルギー収奪構造を粉砕し、国家・地域のエネルギー自給率100%を達成する次世代バッテリーシステム。
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_02.jpg)
+
+- **概要**: 外部依存のエネルギー収奪構造を粉砕し、国家・地域のエネルギー自給率100%を達成する次世代超高密度バッテリーシステム。定置型キオスクとして道路網や生活拠点に配備され、送電線網に依存しない完全直流（DC）自律エネルギー基盤を確立する。
+
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_03.jpg)
 
 - **スペック**: 
   - エネルギー密度: **+400%**（対リチウムイオン比 / 公称 1,850 Wh/kg）
   - 充電時間: **-80%**短縮（0%から90%まで4分30秒完了）
-  - サイクル寿命: **35,000回**（容量保持率96.8%以上）
+  - サイクル寿命: **35,000回**（容量保持率96.8%以上、耐用年数50年以上）
+  - 動作温度耐性: **-60°C 〜 +250°C**（極寒・熱暴走ゼロ、不燃性セラミック電解質）
 
 - **詳細エンジニアリング仕様**:
   - 電解質構成: ジン・ドラゴン結晶相硫化物系超イオン伝導セラミック複合体（室温イオン伝導率: 3.2 × 10⁻² S/cm）。
-  - 熱暴走耐性: -60°Cから+250°Cの環境下で発熱分解ゼロ。物理的穿孔テスト時における自己不動態化被膜形成機能。
+  - 熱暴走耐性: 物理的穿孔・圧壊テスト時における自己不動態化被膜形成機能により、発熱・発火・ガス噴出が原理的にゼロ。
   - BMSアーキテクチャ: JIN-OS直結型セル単位量子監査チップ内蔵（各セルの内部抵抗・電位差を100μs間隔で同期監視）。
 
-- **応用**: 次世代EVモーター、深海探査艇、地域コミュニティEVバス（JIN-Loop）への直接給電。
+- **生体動脈給電道路 ＆ 分散水循環 直流連系仕様**:
+
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_04.jpg)
+
+  - **路傍蓄電キオスク（Roadside Energy Buffer）**: 道路法面のペロブスカイト太陽電池や路盤ピエゾ素子から得られた微細な環境電力を集約・平滑化。EVの走行中・停車中非接触急速給電時に生じる急峻な電力スパイク（負荷変動）を瞬時に吸収・放電し、商用系統への負荷をゼロ化する。
+  - **生活拠点・水循環無停電バックアップ（V2H / V2R / V2W）**: 大地震等の災害時、路傍やEVに搭載されたジン電池から、[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md) の「オンサイト自律分散型水循環ノード（RO膜＋UV-C）」および避難所・家庭へ直流電力を直接逆給電。商用電源が長期途絶しても、断水ゼロ・停電ゼロの生命維持ラインを死守する。
+
+- **応用**: 次世代EVモーター、生体動脈給電道路（[JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md)）、自律分散型水循環ノード（[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)）、深海探査艇、地域コミュニティEVバス（JIN-Loop）[cite: 2, 3]。
+
+---
 
 ### 03. 量子浄化フィルター
 
@@ -94,7 +107,9 @@ Energy, Environment & Atomic-Level Regeneration
   - キャビテーション生成機構: 超音波ナノバブル共振子（平均気泡径: 30〜50nm / 気泡密度: 5億個/mL）。OHラジカルの局所超臨界分解による毒素分解。
   - メンテナンス間隔: 連続稼働18,000時間（自己逆洗浄サイクルおよび紫外線パルス再生機能内蔵）。
 
-- **運用**: 地域分散型オフグリッド給水網（`JIN_WATER_INFRASTRUCTURE.md`）およびグローバルな環境修復・輸出指標の達成。
+- **運用**: 地域分散型オフグリッド給水網（[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)）およびグローバルな環境修復・輸出指標の達成。
+
+---
 
 ### 09. 分子アセンブラ・マトリクス
 ![分子アセンブラ・マトリクス](assets/09_MOLECULAR_ASSEMBLER_MATRIX.jpg)
@@ -117,24 +132,33 @@ Energy, Environment & Atomic-Level Regeneration
 Mobility, Infrastructure & Frontiers
 
 ### 02. 次世代水素・超伝導動脈網 ＆ 反重力モビリティ（Lifeblood Express）
+### ＆ ペロブスカイト太陽電池・環境発電 生体動脈グリッド
 ![浮遊石（反重力ドローン）](assets/02_levitation_drone.jpg)
+![生体動脈給電道路](assets/JIN_LIVING_ROAD_INFRASTRUCTURE_04.jpg)
 
-- **概要**: マイスナー効果・量子ピン止め推進による反重力ドローンと、液体水素燃料電池・高温超伝導磁気浮上鉄道（Lifeblood Express）を統合した次世代自律動脈交通網。
+- **概要**: マイスナー効果・量子ピン止め推進による反重力ドローン、液体水素燃料電池・高温超伝導磁気浮上鉄道（Lifeblood Express）に加え、道路網そのものを発電・蓄電・給電の生体動脈へと昇華させる「ペロブスカイト太陽電池 ＆ 環境発電（ピエゾ・熱電）統合グリッド」を包括した次世代自律交通インフラ体系。
 
 - **スペック**:
   - 反重力ドローン積載量: **100トン**（航続距離: 1,000km / 動作音響: 32dB）
   - 超伝導リニア巡航速度: **500 km/h**（フラックスピンニング浮上 / 摩耗ゼロ）
-  - 水素エネルギー効率: 総合熱電併給効率 **85%以上**（冷熱カスケード回収時）
-  - 燃料輸送コスト: 従来化石燃料比 **1/50**
+  - ペロブスカイト光電変換効率: **26.5%**（散乱光・雨天曇天低照度発電対応、曲率半径 5mm 湾曲フィルム）
+  - 路盤ピエゾ発電出力: 重交通路線にて **150 kW/km**（車両踏圧・走行振動の回生電力）
+  - 動的非接触給電（WPT）伝送効率: **92.5%**（85kHz帯磁界共鳴方式 / 車両通過検知時オンデマンド励磁）
 
 - **詳細エンジニアリング仕様**:
-  - **推進コア**: イットリウム系（YBCO）高温超伝導体と反磁性界磁コイルの同軸多層アレイ。完全非接触走行により軌道摩擦ゼロ化。
-  - **二重水素キャリア方式**: 幹線高速鉄道にはマイナス253℃液体水素燃料電池を採用し、気化時の極低温冷熱を沿線食糧サイロ保冷へ無電力供給。支線・地域バスには常温常圧の有機ハイドライド（MCH）を供給。
-  - **多重インフラ動脈バンドル**: 鉄道高架・軌道直下に「液体水素パイプライン」「超高純度緊急水利管」「光量子メッシュ通信線」を並設。移動と同時に全ユーティリティを地方サンクチュアリへ分配。
-  - **姿勢制御・人道物流**: 6自由度慣性モーメント補正（応答速度: 0.8ms）。被災地や孤立集落への無着陸ホバリング荷卸し機構。
+  - **ペロブスカイト ＆ 環境ハーベスティング統合路面構造**:
+    - 道路の遮音壁、法面、トンネル坑口、中央分離帯に軽量フレキシブル・ペロブスカイト太陽電池フィルムを密着施工。従来のシリコンパネルが設置不能だった曲面や垂直壁を完全発電体化。
+    - アスファルト路盤直下に耐荷重型ピエゾ圧電セラミックアレイを積層。大型トラックやEVが通過する際の「荷重・衝撃・振動」を直接電気へ変換し、自立型エネルギーとして回収する。
+    - 遮熱舗装面と地中路盤の温度差を利用するゼーベック熱電素子を側溝沿いに配置し、未利用熱エネルギーを連続回生。
+  - **推進コア ＆ 水素超伝導動脈**: イットリウム系（YBCO）高温超伝導体と反磁性界磁コイルの同軸多層アレイ。完全非接触走行により軌道摩擦ゼロ化。幹線高架・軌道直下に「液体水素パイプライン」「超高純度緊急水利管」「直流自営給電線」を並設。
+  - **生活インフラ直流（DC）ダイレクトリンケージ**:
+    - 発電された直流電力は、インバータ変換ロスを挟まずに「全固体ジン電池キオスク（01）」へ直接充電。
+    - 道路沿道に点在する「自律分散型水循環ノード（RO膜＋UV-Cポンプ）」および生活拠点・避難所へ自営線で直結し、外部の商用電力グリッドが壊滅しても、道路と水インフラが共生して生命線を自立維持する。
 
-- **連携仕様書**: `JIN_LIFEBLOOD_EXPRESS.md` / `JIN_SANCTUARY_COMMONS_SPEC.md`
-- **パイロット**: ポメラニアン・パイロットおよび自律AI航法による精密制御。
+- **連携仕様書**: [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) / [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md) / [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md) / [JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)
+- **運用**: 地域循環EVバス、自動運転トラック、家庭・避難所への双方向エネルギー相互融通（V2G / V2H / V2R）。
+
+---
 
 ### 06. 自律型熱交換・自然冷却プロトコル
 ![自律型熱交換・自然冷却プロトコル](assets/06_hydro_thermal.jpg)
@@ -150,6 +174,8 @@ Mobility, Infrastructure & Frontiers
   - 熱輸送媒体: 相変化マイクロカプセル分散型高熱伝導生体適合ナノ流体（熱容量比: 通常水の1.8倍）。
   - パッシブ流路設計: 外部動力を最小化するサイフォン原理と毛細管現象を組み合わせた自然循環ループ。
   - 地域適応型バルブ制御: 外気温-30°C（ウクライナ寒冷地）から+50°C（サヘル砂漠地域）まで自律的に熱バイパス経路を切り替え。
+
+---
 
 ### 08. 真老丹特区（軌道エレベーターと深海採掘）
 ![真老丹特区](assets/08_orbital_elevator.jpg)
@@ -186,6 +212,8 @@ Industry, Defense & Social Security
   - マスク保護技術: カーボンナノチューブ製ペリクル（透過率: 92%以上、耐熱限界: 800W）。
   - シリコン・サンクチュアリ仕様: 軍事専用暗号コードの注入を検知した瞬間、物理的にトランジスタ配線を切断する倫理回路内蔵。
 
+---
+
 ### 05. 3大医療ロボット群
 ![3大医療ロボット群](assets/05_medical_robots.jpg)
 
@@ -197,6 +225,8 @@ Industry, Defense & Social Security
   - **AI自律診断外科コンソール（Zenith Medicus）**: 432Hz調和パルスによる非侵襲麻酔、ナノ秒レーザーメスによる無出血縫合。
 
 - **特徴**: サブスクリプション経済モデルからの脱却と、すべての生命に対する即時救済。
+
+---
 
 ### 07. 量子暗号と分散型AIグリッド（ジン・ネット）
 ![ジン・ネット](assets/07_quantum_grid.jpg)
@@ -234,7 +264,9 @@ Consciousness & Education Synchronization
   - 学習進捗同期エンジン: P2P型ゼロ知識証明（ZKP）を用いた主権的スキル認証プロトコル。
   - 多言語意識同期: 432Hz調和周波数を用いたバイオニューロ翻訳インターフェース（遅延: 12ms以内）。
 
-- **理念**: 明らかに相互接続された美学と、すべての生活者のための開かれた学び。六聖叡智・地域マイスター教育院（`JIN_SANCTUARY_COMMONS_SPEC.md`）の知的基盤。
+- **理念**: 明らかに相互接続された美学と、すべての生活者のための開かれた学び。六聖叡智・地域マイスター教育院（[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)）の知的基盤。
+
+---
 
 ### 11. JIN-OS：新パラダイム統合司令部
 
@@ -252,7 +284,7 @@ Consciousness & Education Synchronization
   - 生体認証レイヤー: 静脈認証 ＋ 心電図（ECG）波形同期型バイオメトリクス（スプーフィング耐性: 1/100億）。
   - オフライン自律動作: 中央サーバー停止時でもローカルLLM/推論エンジンと近距離メッシュ通信で避難・配当・医療コマンドを実行可能。
 
-- **連携仕様書**: `JIN_OS_CLIENT_SPEC.md`
+- **連携仕様書**: [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
 - **機能**: マテリアリサイクルコマンド確認、ノウアスフィア倫理知識交換、外部中央集権に依存しない完全なパーソナル主権防衛。
 
 ---
@@ -298,7 +330,6 @@ Geo-Engineering Inversion, Atmospheric Calming & Soil Micro-Biome Restoration
 ### 14. 断層圧微小解放・地殻鍼灸ノード（JIN-Seismic Acupuncture）
 ### ＆ 気象台併設型 天地調和インフラ（JIN-ACH Node）
 ![断層圧微小解放・地殻鍼灸ノード](assets/14_seismic_acupuncture.jpg)
-
 ![断層圧微小解放・地殻鍼灸ノード](assets/Overview_Deployment_02.jpg)
 
 - **概要**: 地殻破壊や注水誘発の理論を、破滅的な巨大地震を防ぐ「地殻エネルギーの緩慢解放（スロースリップ制御）」へと再設計した減災アーキテクチャ。全国の気象台・レーダーサイトと直結し、上空の大気観測と地下5,000mの断層制御を垂直統合（JIN-ACH）する。地球の呼吸に合わせ、歪みエネルギーを安全にガス抜きする。
@@ -315,7 +346,7 @@ Geo-Engineering Inversion, Atmospheric Calming & Soil Micro-Biome Restoration
   - 気象台垂直統合（JIN-ACH）: 地上気象台にマルチパラメータ・フェーズドアレイレーダー（MP-PAWR）とオフグリッド中立演算ノード（NAN-Node）を配備。豪雨水をナノ膜浄化して地下注水媒体へ直結し、完全密閉循環冷却（Zero-Water Waste）を実現。
   - 安全装置: 歪み解放速度が閾値を超えた場合、流体逆流弁が0.05秒で作動し注水を緊急停止。
 
-- **連携仕様書**: `JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md` / `JIN_TRADITIONAL_HYDRO_LOGIC.md` / `NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md`
+- **連携仕様書**: [JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](./JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md) / [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md) / [NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md](./NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md)
 
 ---
 
@@ -336,7 +367,7 @@ Geo-Engineering Inversion, Atmospheric Calming & Soil Micro-Biome Restoration
   - バイオ燃料・e-Fuel循環: 下水汚泥の微細藻類抽出によるバイオ原油と、再エネ水電解水素＋回収CO2によるFT合成燃料により、トラクター・運材トラックの燃料を完全地産地消。
   - 製造プロトコル: 米ぬか、落ち葉、もみ殻、清流水を用い、農家自身の手で常温発酵・無限増殖が可能。
   - 人体調和効果: 本技術で収穫された作物を摂取することで、腸内マイクロバイオームが多様化し、免疫力向上および自然治癒力を促進。
-  - 連携仕様書: `JIN_FORESTRY_AGRI_ENERGY_NEXUS.md` / `65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md`
+  - 連携仕様書: [JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](./JIN_FORESTRY_AGRI_ENERGY_NEXUS.md) / [65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)
 
 ---
 **Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
