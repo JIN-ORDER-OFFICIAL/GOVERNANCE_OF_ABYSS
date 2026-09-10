@@ -240,7 +240,7 @@
 * 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・P2Pメッシュ・オフライン避難モード)**
 * 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 地域主権奪還・現場展開SOP・ゼロから100日行動指針)**
 * 🌊 **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 計算ノード水冷・排熱カスケード農業循環
-* 🏥 **[JIN-Health.md](./JIN-Health.md)**: 全自動医療要塞・自律型生体防衛仕様
+* 🏥 **[JIN_HEALTH.md](./JIN_HEALTH.md)**: 全自動医療要塞・自律型生体防衛仕様
 
 ---
 
