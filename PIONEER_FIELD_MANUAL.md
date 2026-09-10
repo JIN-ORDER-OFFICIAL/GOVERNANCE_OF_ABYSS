@@ -67,6 +67,10 @@
 
 ## 🛠️ 3. 現場実務SOP（Standard Operating Procedures）
 
+![開拓英雄現場実務SOP図解](./assets/PIONEER_FIELD_SOP_TECH_DIAGRAM.jpg)
+
+![開拓英雄現場実務SOP図解](./assets/PIONEER_FIELD_SOP_TECH_DIAGRAM_02.jpg)
+
 ### SOP-01: 水源確保と水利主権の確立（最優先任務）
 
 * **地形・水脈の読み取り:**  
