@@ -42,7 +42,7 @@
 
 * 🔰 **思想・全体構想を理解する:** [WHITE_PAPER.md](./WHITE_PAPER.md) ⏩️ [MANIFESTO.md](./MANIFESTO.md) ⏩️ [UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)
 * 🗺️ **地政学・ASI覇権分断の動向を掴む:** [GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md) ⏩️ [GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)
-* 🛠️ **現場インフラ・都市自立プロトコルを実装する:** [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md) ⏩️ [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)
+* 🛠️ **現場インフラ・大地自律プロトコルを実装する:** [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_SOIL_FOREST_SAMSARA_MATRIX.md](./JIN_SOIL_FOREST_SAMSARA_MATRIX.md) ⏩️ [JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md) ⏩️ [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)
 * 📱 **個人端末・市民監査クライアントを確認する:** [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
 
 ---
@@ -62,7 +62,7 @@
 
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・インフラ断面図)
 
-リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、大地再生・緑道里親コモンズ、生体動脈給電道路、地下空洞・トンネル健全性防壁、自律生体ガス導管、三層マルチガスセンシング、伝統自律水利、対抗諜報監査、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、大地再生・緑道里親コモンズ、土壌区分連動アグロフォレストリー、生体動脈給電道路、地下空洞・トンネル健全性防壁、自律生体ガス導管、三層マルチガスセンシング、伝統自律水利、対抗諜報監査、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
@@ -106,6 +106,26 @@
     </td>
   </tr>
   <tr>
+    <th width="50%" align="center">SOVEREIGN AGRO-FORESTRY & SOIL MATRIX</th>
+    <th width="50%" align="center">JIN-AGRI BIO-REGENERATION SAMSARA</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/JIN_SOIL_FOREST_SAMSARA_MATRIX_OVERVIEW.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="./assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌲 <b><a href="./JIN_SOIL_FOREST_SAMSARA_MATRIX.md">自律大地再生・土壌8大分類処方箋を開く</a></b>
+    </td>
+    <td align="center">
+      🌾 <b><a href="./JIN_AGRI_BIO_REGENERATION_SAMSARA.md">大地再生・緑道里親仕様書を開く</a></b>
+    </td>
+  </tr>
+  <tr>
     <th width="50%" align="center">JIN LIVING GAS PIPELINE (CORE)</th>
     <th width="50%" align="center">THREE-LAYER MULTI-GAS DEFENSE</th>
   </tr>
@@ -123,26 +143,6 @@
     </td>
     <td align="center">
       🛰️ <b><a href="./JIN_GAS_LIVING_PIPELINE.md#3-宇宙地下地上-三層マルチガスセンシング防衛網">三層マルチガスセンシング仕様を開く</a></b>
-    </td>
-  </tr>
-  <tr>
-    <th width="50%" align="center">JIN-AGRI BIO-REGENERATION SAMSARA</th>
-    <th width="50%" align="center">JIN-LIVING ROAD INFRASTRUCTURE</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg" width="100%">
-    </td>
-    <td align="center">
-      <img src="./assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌾 <b><a href="./JIN_AGRI_BIO_REGENERATION_SAMSARA.md">大地再生・緑道里親仕様書を開く</a></b>
-    </td>
-    <td align="center">
-      🛣️ <b><a href="./JIN_LIVING_ROAD_INFRASTRUCTURE.md">生体動脈道路・IGS透視仕様書を開く</a></b>
     </td>
   </tr>
   <tr>
@@ -246,9 +246,10 @@
 ### 【Layer 4: 地域主権・自律インフラ・生命循環防衛 (Regional Sovereignty, Samsara Commons & Utility)】
 
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
-* 🔥 **[JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md)**: **(自律生体ガス導管・ゼロスクラップ炭素循環仕様書: 道路地下占用インフラ完全統合・PEM CO₂直接還元・コアシェル型分散メタネーション・道路電力熱三和カスケード・GOSAT-GW＆マルチガス三層防衛網)**
+* 🌲 **[JIN_SOIL_FOREST_SAMSARA_MATRIX.md](./JIN_SOIL_FOREST_SAMSARA_MATRIX.md)**: **(自律大地再生マトリクス: 日本8大土壌区分・世界類似土壌処方箋・菌根菌ネットワーク・伝統水利治水・針広混交林化・全球砂漠化防止仕様書)**
 * 🌾 **[JIN_AGRI_BIO_REGENERATION_SAMSARA.md](./JIN_AGRI_BIO_REGENERATION_SAMSARA.md)**: **(大地再生・自律生命農林業仕様書: 江戸バイオ金肥【ナノ干鰯・量子鰊粕・ぼかし堆肥】・非GM乳酸発酵エコフィード・ミズアブ幼虫プロテイン・AIロボット精密受粉・せせらぎ緑道エココリドー・現代農の里親コモンズ)**
 * 🛣️ **[JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md)**: **(自律修復道路・生体動脈インフラ仕様書: 自己修復バイオ舗装・遮熱保水・IGS散乱電磁場非破壊透視・無動力地熱融雪・全固体給電網・地下水侵食吸い出し(アンチパイピング)抑止・トンネル覆工背面空洞化防止バイオグラウト・インフラ長寿命化条例)**
+* 🔥 **[JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md)**: **(自律生体ガス導管・ゼロスクラップ炭素循環仕様書: 道路地下占用インフラ完全統合・PEM CO₂直接還元・コアシェル型分散メタネーション・道路電力熱三和カスケード・GOSAT-GW＆マルチガス三層防衛網)**
 * 💧 **[JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)**: **(自律水利・上下水道主権防衛仕様書: 小規模オンサイト自律分散水循環・深層天然水ハイブリッド給水・地下雨水調整池＆幹線内水治水・MABR無気泡好気浄化・汚泥バイオガス発電・水利権公有化条例)**
 * 🐟 **[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](./JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)**: **(微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛仕様書: 遺伝子操作魚完全拒絶・3段階バクテリア水質浄化・活魚無換水備蓄・森里川海連環・漁船e-Fuel自給)**
 * 🌍 **[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](./JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**: **(大気炭素循環・サバティエe-methane＆e-Fuelノード仕様書: 既存ガス管ゼロスクラップ直結・第3世代バイオ燃料・ヒマラヤ氷河保護＆ネパール減災連動)**
@@ -305,5 +306,5 @@
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
 `STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.3 CANONICAL SYNCHRONIZED)`  
-`VERIFIED PERSISTENCE: AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS & 2040 REBIRTH ACTIVE`  
+`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Universal Benevolence, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Clean Flame Samsara & Watershed Sovereignty.`
