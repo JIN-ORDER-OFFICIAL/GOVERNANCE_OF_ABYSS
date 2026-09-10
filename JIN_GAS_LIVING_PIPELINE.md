@@ -66,7 +66,7 @@
   
 ### ③ 道路・電力・熱の複合共生（Road-Gas-Heat Triad）
 
-![道路・電力・熱の複合共生](./assets/jin_gas_core_shell_catalyst.jpg)
+![道路・電力・熱の複合共生](./assets/jin_gas_road_heat_triad.jpg)
 
 合成時に生じる発熱を、[JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) が定める「無動力・路面地熱融雪配管」および寒冷期の「せせらぎ緑道・農業ハウス保温」へ熱交換・完全カスケード利用。<br>非常時には、水素・e-メタン対応の高効率マイクロガスタービンを起動し、地域の生活電力を自律供給。
 
