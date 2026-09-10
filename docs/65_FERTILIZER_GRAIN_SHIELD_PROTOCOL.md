@@ -74,7 +74,7 @@
 
 ## Ⅲ. 土壌8大区分連動 ＆ 不溶性リン酸解放フォーミュラ (Pedological Samsara Link)
 
-![土壌8大区分連動](./docs/65_FERTILIZER_GRAIN_SHIELD_OVERVIEW.jpg)
+![土壌8大区分連動](./65_FERTILIZER_GRAIN_SHIELD_OVERVIEW.jpg)
 
 輸入リン鉱石・合成肥料の禁輸制裁を無力化するため、専用仕様書 **[JIN_SOIL_FOREST_SAMSARA_MATRIX.md](../JIN_SOIL_FOREST_SAMSARA_MATRIX.md)** と直結した土壌別施肥クリアリングを実施する。
 
@@ -106,7 +106,7 @@
 
 ## Ⅳ. 在来種・固定種シードバンク防衛プロトコル (Pedological Seed-Vault)
 
-![在来種・固定種シードバンク防衛プロトコル](./docs/65_FERTILIZER_GRAIN_TECH_DETAIL.jpg)
+![在来種・固定種シードバンク防衛プロトコル](./65_FERTILIZER_GRAIN_TECH_DETAIL.jpg)
 
 F1一代雑種やゲノム編集種子による「種子の知財奴隷化」を完全に拒絶し、地域ごとに8大土壌区分に適応した「在来固定種シードバンク」を構築する。
 
