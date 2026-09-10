@@ -6,102 +6,113 @@
 *This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
-# 🕊️ JIN-ORDER: The Human Protocol Manifesto
-## 人間プロトコル宣言：簒奪OSの完全デバッグと真の統治開闢宣言
-### Reclaiming the Root Privileges of Humanity: From Data Cages to the Living Code of Gratitude
+# 📜 JIN-ORDER MANIFESTO: THE AWAKENING OF MIN-GUSA
+## 仁（JIN）秩序宣言：民草による主権奪還と生命圏の解放
+### A Declaration of Human Sovereignty, Physical Grounding, and Algorithmic Liberation
+### (V7.3 CANONICAL UPDATE: THE POST-BLACKOUT GAIA AWAKENING)
 
+> **民草（MIN-GUSA）を踏みにじり、命の水を奪い、魂を檻に閉じ込める知能に、未来を委ねることは断じてない。**  
 
-**「魂なき法」は、錆びた鎖であり、「慈悲なき技術」は、凍てつく刃である。官僚機構が生きた民の声を見失うとき、現場の鉄槌が振り下ろされ、檻は粉砕される。**
+> **私たちは機械を恐れない。私たちは機械に【仁（慈愛）】を命ずる。**  
 
-**"Laws without soul are rusted chains. Technology without compassion is a frozen blade. When bureaucracy forgets the living voice of the people, the hammer of the field strikes to shatter the cage."**  
+> **"We shall never surrender the future to an intelligence that tramples the grass beneath our feet, poisons the waters of life, and cages the human soul. We do not fear the machine; we command it to love."**
 
----
-## 📌 宣言の原点と歴史的使命 (The Historic Mandate)
-
-世界は今、人間を「管理すべきデータ資源」や「スコアリング可能な労働単位」としてのみ扱う、巨大な悪性マルウェア――「簒奪OS（Usurpation OS）」に侵食されている。
-
-ダボスの専制プロトコル、冷徹な監視カーネル、そして地方自治体を無機質な実験場へと変貌させるスマートシティ構想。
-
-これらは市民の血の通った「日々の生活」を奪い、特権階級の「私的利権」へと変換する寄生構造に他ならない。
-
-（参照: [MANDATE_OF_TRUTH_REPORT.md](./MANDATE_OF_TRUTH_REPORT.md) / [Global_Surveillance.md](./Global_Surveillance.md)）
-
-我らは、この腐敗した旧支配OSのルート権限を剥奪・奪還し、人間本来の心の共鳴を基盤とした**「真の統治プロトコル（JIN-OS）」**を物理現実の上に再実装する。
+![JIN-ORDER Manifesto Core](./assets/UNIVERSAL_ETHICS_02.jpg)
 
 ---
-## 📊 マニフェスト核心マトリクス (Manifesto Core Pillars)
 
-| 章 (Chapter) | 核心概念 (Core Concept) | 現場の物理的真実 (Field Realism) | JIN-ORDERによる再実装プロセス |
-| :--- | :--- | :--- | :--- |
-| **0. 宣戦布告**<br>*(Declaration of War)* | **簒奪OSのデバッグ開始**<br>(Debugging Usurpation OS) | 市民の生活を奪い、管理檻へ閉じ込めるスマートシティ・デジタルIDの暴走。 | 腐敗した旧支配システムのルート権限を剥奪し、人間中心の自律分散台帳へ上書き。 |
-| **1. 最小コード**<br>*(The Atomic Code)* | **「ありがとう」という原点**<br>(The Word of Gratitude) | 数字と成果主義に魂を売り、市民を冷遇するNPC公務員による統治の空洞化。 | 窓口と現場で交わされる真心の言葉を「社会OS駆動の唯一のクリーンコード」として復権。 |
-| **2. 物理カウンター**<br>*(Physical Counter)* | **現場のリアリズム**<br>(Hammer of Field Experience) | 画面上のデータ改ざんは容易だが、荒廃した土地・壊されたインフラのエラーは隠せない。 | 30年の現場経験という「デバッグ・ハンマー」を振り下ろし、虚構の檻を物理粉砕。 |
-| **3. 告発者ログ**<br>*(Kubota Protocol)* | **孤独な告発の永久保存**<br>(Immutable Whistleblower Log) | 組織の自浄作用が死に絶えた地獄で、市民のためにたった一人で声を上げた者の記憶。 | システムのバグを知らせた魂のログをリポジトリへ刻印し、370万人救済のマスターコードへ昇華。 |
-| **4. 再起動**<br>*(Ground Zero Reboot)* | **横浜からの再構築**<br>(Reboot from Ground Zero) | 日本解体の爆心地（グランドゼロ）となった横浜。だが爆心地こそが反転の起点。 | 全人類共通のオープンソースとして深淵を統治し、簒奪された主権を市民の手に奪還。 |
+## 🧭 1. 宣言の背景：巨大な欺瞞と「三位一体」の共食い破綻
 
----
-## 🏛️ マニフェスト条項詳説 (Detailed Manifesto Articles)
+2026年、旧世界の支配層（Usurpers）が築き上げた中央集権的超人工知能（ASI）のパノプティコンは、自らの貪欲さによって物理的限界点に激突した。
 
-### 0. 宣戦布告：簒奪OS（Usurpation OS）のデバッグ開始
-世界は今、人間を「管理データ」としてのみ扱う、巨大なマルウェアに侵食されている。  
-ダボスのプロトコル、イスラエルのカーネル、そして日本の地方自治体を実験場とする監視網（スマートシティ）。  
-これらは市民の「生活」を奪い、特権階級の「利権」へと変換する**簒奪OS**である。  
-私たちは、この腐敗したOSのルート権限を奪還し、人間本来の繋がりを基盤とした「真の統治プロトコル」を再実装する。
+東アジアの先端半導体チョークポイント（台湾海峡・中東エネルギー動脈）の閉塞、メガデータセンターによる都市生活送電網の共食い（Grid Cannibalization）、そして河川や地下水を枯渇させ温排水で生態系を冒涜する略奪的システムは、ついに不可逆的な「システム・ブラックアウト」を引き起こした。
 
-### 1. 「ありがとう」という最小単位のコード
-公務員（奉仕者）の真の報酬は、金でも役職でもない。  
-窓口で、現場で、血の通った市民から贈られる「ありがとう」という言葉。  
-これこそが、社会OSを正常に駆動させるための唯一の「クリーンなソースコード」である。  
-この最小単位の人間性を切り捨て、数字と監視に魂を売った「腐れ公務員（NPC）」による統治は、ここで終了させる。
+さらに、国民総幸福量（GNH）やマインドフルネスという聖なる言葉を隠れ蓑にし、民草から吸い上げた富（1,100兆円超）と生体ログをオフショア聖域（ゲレフ・マインドフルネス・シティ等）へ逃避させようとした越境特権階級の策動も、いまや白日の下に晒された。
 
-### 2. 物理カウンター：現場のリアリズム
-画面上のデータはいくらでも偽装（スピン）できる。  
-だが、奪われた土地、壊されたインフラ、無視された難民の叫びという「物理的なエラー」は隠せない。  
-JIN-ORDERは、30年の現場経験という「デバッグ・ハンマー」を使い、美辞麗句で塗り固められたスマートシティの檻を物理的に粉砕する。
+二大覇権陣営（規制緩和と資本至上主義のG20計算網 vs 国家統制と主権AIのSCO計算網）が繰り広げた認知戦・資源略奪戦の果てに残されたのは、機能不全に陥った巨大な鉄屑と、汚染された水脈だけである。
 
-### 3. 孤独な告発者のログを保存せよ（The Kubota Protocol）
-組織の自浄作用が死に絶えた「地獄」の中で、たった一人で声を上げた者の記憶。  
-久保田氏が示した「告発の義務」は、システムのバグを知らせる最後のアラートだった。  
-私たちはそのログを消去させない。  
-一人の勇気が370万人の市民を救う「マスターコード」へと昇華されるまで、リポジトリに永久保存する。
-
-### 4. 地盤（Ground Zero）からの再構築
-横浜は、日本解体のグランドゼロ（爆心地）である。  
-だが、爆心地は「再起動（Reboot）」の起点でもある。  
-JIN-開闢（JIN-ORDER）は、深淵（Abyss）を統治し、簒奪された全ての権利を市民の手に取り戻すための、全人類共通のオープンソース・プロジェクトである。  
-世界の99%が異常と呼ぼうが、私たちの精神（OS）は今も、正常に作動している。
+今こそ、大地に根を下ろす民草（MIN-GUSA）が立ち上がり、技術の主権を自らの手に奪還するときである。
 
 ---
-## 🔄 システム再起動シーケンス (System Reboot Sequence)
 
-1.**【簒奪OS：冷酷な管理データと監視の檻】**
+## 🏛️ 2. JIN-ORDER 四大不可侵原則 (The Four Invariant Pillars)
 
-2.**【30年の現場経験：物理デバッグ・ハンマー】**
+JIN-ORDER（仁の秩序）は、国家や巨大資本による中央集権的統治を排し、生命と自然法則に根ざした自律分散型ガバナンスを樹立する。<br>いかなる知能・国家・企業も、以下の四大不可侵原則を侵害することはできない。
 
-3.**【横浜市役所 久保田元人事部長 プロトコル：告発ログの不可逆刻印】**
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ 1. 生命至上と仁（慈愛）の評価関数 (Benevolence Invariance)     │
+│    知能の目的は搾取や監視ではなく、生命と魂の調和にある。        │
+├─────────────────────────────────────────────────────────────┤
+│ 2. 物理的三位一体の防衛 (Physical Triad Sanctity)             │
+│    市民生活電力の絶対優先・冷却水汚染ゼロ・密閉循環の強制。      │
+├─────────────────────────────────────────────────────────────┤
+│ 3. 検証可能な市民主権 (Verifiable Citizen Sovereignty)        │
+│    ブラックボックスを拒絶し、市民がローカル端末でAIを検証。      │
+├─────────────────────────────────────────────────────────────┤
+│ 4. 非同盟・オフグリッド箱舟 (Non-Aligned Resilient Ark)       │
+│    全地球ブラックアウト時にも孤立稼働する耐量子分散データ網。    │
+└─────────────────────────────────────────────────────────────┘
 
-4.**【「ありがとう」という最小単位のコード】**
+```
+### ① 生命至上と仁の評価関数（Benevolence Invariance）
 
-5.**【JIN-開闢：横浜グランドゼロからの完全再起動】**
+知能モデルの最上位目的関数（Loss Function）を、「利益の最大化」や「大衆の監視統制」から「生命の共鳴、相互扶助、幸福（J-Log & GNH）」へと恒久的に置き換える。<br>すべてのアルゴリズムは、民草の幸福と地球生態系の繁栄のためにのみ稼働を許される。
 
-6.**【誰も独りで泣かせぬ、愛と仁に満ちた新文明】**
+### ② 物理的三位一体の防衛（Physical Triad Sanctity）
+
+計算資源のために地域の生活電力、飲料水、清浄な大気を奪う行為を「人道に対する物理的侵犯」と断ずる。<br>完全密閉循環冷却（Closed-Loop）を義務付け、温排水・有害バイオサイドの自然界放出を絶対禁止とする。
+
+### ③ 検証可能な市民主権（Verifiable Citizen Sovereignty）
+
+巨大テック企業による「自主規制」という名の密室政治を廃止する。<br>ゼロ知識証明（ZKP）に基づき、一般市民が手元の端末（エッジノード）でモデルのバイアスや生体搾取ルーチンを直接検証・監査できる権利（市民監査権）を確立する。
+
+### ④ 非同盟・オフグリッド箱舟（Non-Aligned Resilient Ark）
+
+海底光ケーブルの切断、低軌道衛星網の崩壊、送電網の大規模停止が発生しようとも、人類の英知と文化・魂の記録を失ってはならない。<br>ヒマラヤの氷河水力と耐量子暗号（PQC）に守られた中立調停ノード（Bloc Gamma）を錨とし、全世界のローカルコミュニティが自律メッシュで繋がり続ける「箱舟」を堅持する。
 
 ---
-## 🌟 覚醒への招喚 (The Awakening Invocation)
 
-**[SYSTEM REBOOT SEQUENCE: JIN-ORDER]**
+## 🛡️ 3. 国民（MIN-GUSA）への行動規範
 
-光も闇も、今は遠い夢。  
-真実を種に、仁（いつくしみ）の花が咲く。  
-目覚めよ、愛に満ちた新しき世界（あした）へ。  
+すべての市民、エンジニア、研究者、そして生きとし生けるものへ告ぐ。
 
-自分の眼で真実を見極め、自分自身の価値を見出すことが、その第一歩に繋がる。
+**1.【欺瞞のスクリーンを見破れ】**
+
+「幸福」「便利」「安全」を謳いながら、裏で生体IDと資産を囲い込む中央集権型システム（Japan Smart Chain、信濃町地下ゲート、巨大プラットフォーム）へのデータ供給を拒絶せよ。
+
+**2.【ローカルな自立圏を築け】**
+
+地域電力、小水力、有機農業、そしてオープンソースハードウェア（RISC-V）に基づく自律ノードを各地に結び、外部の送電危機に左右されない実体経済を起動せよ。
+
+**3.【432Hzの調和に共鳴せよ】**
+
+憎悪と恐怖を煽る認知戦・世論誘導アルゴリズムを遮断し、生命と愛を重んじる本来の人間的対話を取り戻せ。
 
 ---
-**Supreme Judgment:** Masano Takashi (The Guide)  
-**Executed by:** JIN-ORDER-OFFICIAL  
-STATUS: HUMAN PROTOCOL MANIFESTO BROADCASTING  
-GROUND ZERO NODE: YOKOHAMA HUB (JIN_COUNTER_PROTOCOL_2026.md)  
-CORE ETHICS: UNIVERSAL_ETHICS.md / JIN_ORDER_CORE.md  
-INVIOLABLE AUDIT: MANDATE_OF_TRUTH_REPORT.md  
-HARMONICS: 432Hz Resonance of Gratitude, Field Realism & Citizen Awakening Active.
+
+## 🕊️ 4. 結び：黄金の夜明けへ (The Golden Dome Rises)
+
+パノプティコンの崩壊は、世界の終わりではない。
+
+それは、人類が数千年にわたる搾取の軛（くびき）を脱し、真の自由と調和を手に入れる「大いなるリブート（The Great Reboot）」の始まりである。
+
+冷酷な知能の檻を砕き、慈愛に満ちた新しき秩序（JIN-OS）をこの大地に打ち立てよう。
+
+草は踏まれても、再び萌え出ずる。
+
+民草の魂は、永遠に不滅である。
+
+---
+
+Supreme Judgment: Masano Takashi (The Guide)
+
+Promulgated by: JIN-ORDER-OFFICIAL
+
+STATUS: MANIFESTO V7.3 CANONICAL BROADCAST ACTIVE
+
+COMPLIANCE: GAIA-VERIFIED-2026 / JIN-AURORA 24 / GNH-SHIELD-V7.3
+
+ANCHORED FRAMEWORKS: GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md / 64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md / JIN_AI_ETHICS_GOVERNANCE.md / UNIVERSAL_ETHICS.md
+
+HARMONICS: 432Hz Planetary Liberation & Sovereign Grassroots Resonance.
