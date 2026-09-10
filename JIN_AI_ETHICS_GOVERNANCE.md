@@ -171,7 +171,7 @@ AIデータセンターの電力消費は、立地地域の生活基盤・医療
 
 ---
 
-📜 8. 遵守基準とガイア標準 (Compliance & GAIA Standard)
+## 📜 8. 遵守基準とガイア標準 (Compliance & GAIA Standard)
 
 **1.検証プロトコル (Verification Protocol):**
 
@@ -188,7 +188,8 @@ JIN-OS Kernel v2.6 (AURORA-ALIGNMENT-V7.3-CANONICAL)
 Autonomous Ethics Defense, Verifiable Citizen Audit & Neutral Mediation Active (自律倫理防衛・市民検証可能監査・中立調停常時稼働)
 
 ---
-🕊️ 9. 最高統治誓詞 (The Sovereign Alignment Oath)
+
+## 🕊️ 9. 最高統治誓詞 (The Sovereign Alignment Oath)
 
 私たちは機械を恐れない。私たちは機械に「仁（慈愛）」を命ずる。
 
