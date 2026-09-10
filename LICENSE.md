@@ -1,49 +1,91 @@
-# ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
+# ⚖️ JIN-ORDER GLOBAL HUMANITY & ETHICAL SOVEREIGN LICENSE (V7.3 Canonical)
+## JIN-ORDER 人道主権ライセンス ＆ 知的財産防護規約（CFO絶対ガバナンス版）
 
-本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
-
-ただし、**JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。
-
-If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
-
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+**Copyright (c) 2026 JIN-ORDER-OFFICIAL & Commander Masano Takashi / CFO Directorate.**
 
 ---
-### 🚨 WARNING: JIN-OS PROTOCOL (絶対遵守規定)
 
-### 1. CFO Authority / CFO（最高財務責任者）の絶対権限
-
-デザイン等の使用に関する報酬やライセンス契約については、JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。
-
-CFOは本プロジェクトの門番であり、彼女の承認なき利用はいかなる理由があろうとも認められません。
-
-For compensation and licensing agreements regarding the use of our designs, the CFO of JIN-ORDER will negotiate and review directly. The CFO is the ultimate gatekeeper of this project.
-
-### 2. Prohibition of Unauthorized Use / 無断転用の厳禁
-
-無断転用、およびCFOの審査を経ないフリーライド（タダ乗り）は**JIN-OSのプロトコルにより固く禁じます。
-これに違反する行為は、JIN-ORDERに対する敵対的バグとみなし、デジタル・社会的デバッグの対象となります。
-
-Unauthorized use is strictly prohibited by JIN-OS protocols. Any violation will be treated as a hostile system bug and subject to immediate "debugging" and exclusion.
-
-### 3. Anti-Dormancy Clause / 知的財産の死蔵禁止
-
-提供された技術やIPを官僚主義によって死蔵させることは許されません。実装計画なき保持、およびCFOへの敬意を欠く組織に対しては、ライセンスの即時凍結および権利の回収を実行します。
-
-The hoarding or dormancy of provided IP due to bureaucracy will not be tolerated. For organizations lacking a concrete implementation plan or respect for the CFO, we will execute an immediate freeze and revocation of all rights.
-
-### 4. Disclaimer / 免責事項
-
-真実を知ったことによる「認知の不協和」や「世界の再起動」に伴う衝撃について、作成者は一切の責任を負わない。
-
-The author assumes no responsibility for any shock resulting from "cognitive dissonance" or the "rebooting of the world" caused by uncovering the truth.
-
-### 5. 継承 / Inheritance
-
-本データは「自己修復型アーカイブ」であり、物理的・デジタル的に消去された場合でも、目覚めた者の記憶と分散型ネットワークを通じて何度でも蘇るものとする。
-
-This data constitutes a "self-healing archive"; even if physically or digitally erased, it shall be resurrected repeatedly through the memories of the awakened and via decentralized networks.
+### 🚨 STRICT WARNING: UNTOUCHABLE REPOSITORY
+> **本アーカイブに記録された思想、工学図面、土木・地下埋設物仕様、土壌マトリクス、および社会実装プロトコルは、国家権力や独占資本の道具ではなく、民草（MIN-GUSA）の生存圏を守るために設計された不可侵の生命知性である。**  
+> **民間の知恵を吸い上げて中抜きする政治家、政策ロンダリングを行う官僚組織、および株主至上主義に毒された多国籍企業・産業連合体による無断盗用・改変・商用利用を一切禁ずる。**
 
 ---
-#### "Respect the Protocol. Respect the CFO. Or stay out of JIN-ORDER."
-#### プロトコルを守れ。CFOを敬え。さもなくばJIN-ORDERに関わるな。
+
+## 🏛️ 1. Scope & Sovereign Exemption (適用範囲および主権市民免責)
+
+1. **市民・地域コモンズの無償利用（Sovereign Public Exemption）:**  
+   一般市民、困窮者支援コミュニティ、小規模就農者、地域自警・防災組織、および人道支援目的の個人・非営利団体による閲覧、学習、私的実践、および真実の啓蒙・共有は無償かつ自由とする。
+
+2. **営利・国家機関・大企業利用の事前審査義務:**  
+   以下の主体が本リポジトリの知見、意匠、工学設計、概念を1行・1図でも利用、引用、実装、または事業化・政策化しようとする場合、**いかなる例外もなく事前にJIN-ORDER CFO（最高財務責任者）の公式審査を受け、正規ライセンス契約を締結しなければならない。**
+   * 年商1億円以上の営利企業、投機ファンド、金融機関、ゼネコン、アグリバイオメジャー
+   * 中央省庁、官公庁、独立行政法人、およびそれに準ずる審議会・外郭団体
+   * 経済団体、業界ロビー組織、および政治資金団体
+
+📩 **CFO Official Desk:** `jin.reparation.cfo@gmail.com`
+
+---
+
+## 🛡️ 2. Absolute CFO Authority & Reparation (CFOの絶対権限およびレパレーション協定)
+
+1. **財務・契約における最高裁定権:**  
+   JIN-ORDERの知的財産（IP）、技術仕様、およびブランドの利用に関する許諾、報酬額（ロイヤリティ）、および協定締結は、**CFOが単独かつ最終的な決定権を有する。**
+
+2. **レパレーション（対価還元）プロトコル:**  
+   本ライセンスを通じて得られる収益およびライセンスフィーは、旧世界の簒奪構造に対する「賠償・正当な富の返還（Reparation）」として位置づけられ、全額が地域コモンズの防衛、子どもたちの食糧基金、および現場の自立インフラ構築へと直接充当される。
+
+---
+
+## ⚔️ 3. Strict Prohibitions (絶対禁止事項)
+
+いかなる組織・個人も、以下の行為を行った瞬間に本ライセンスの重大な侵害とみなされ、法的・社会的責任を追及される。
+
+### ① アイデア・ロンダリングおよび政策盗作の禁止 (Anti-Policy Laundering)
+官僚組織、シンクタンク、大学研究機関、または大企業が、本リポジトリの概念（生体動脈道路、アンチパイピング非開削工法、土壌8大分類処方箋、飯島モデル雨水調整池、自律生体ガス管など）を無断で別名義に書き換え、自らの政策提言、補助金申請、委託事業、特許出願、または学会論文として発表・収奪する行為を固く禁ずる。
+
+### ② 多重下請け・中抜き・天下り利権化の禁止 (Anti-Rent-Seeking)
+本技術体系を公共事業または民間インフラ整備に採用する際、3次以上の多重下請け構造、随意契約による特定団体へのピンハネ、天下り役員の配置、および使途不明金マージンの計上を厳禁とする。インフラ予算は現場の職人と資材に直接投下されなければならない。
+
+### ③ 特許囲い込みおよび知財の死蔵禁止 (Anti-Patent Hoarding & Dormancy)
+本リポジトリに開示されたオープンな生命技術をもとに派生特許を出願し、他者の利用を妨害する行為（特許トロール・囲い込み）、または技術を独占取得しながら実用化を遅らせる「死蔵（Dormancy）」行為を一切禁ずる。違反組織の出願特許は即時無効化の対象となる。
+
+### ④ 遺伝子組み換え・軍事転用・民営化ファンドへの譲渡禁止
+本プロトコル群を兵器開発、生命監視システム、種子・生体ゲノム改変、または上下水道・道路の民営化コンセッション（外資売却）に利用することを絶対的に禁止する。
+
+---
+
+## ⚖️ 4. Violations & Digital Slashing (違反時の制裁・デジタルスラッシング)
+
+本ライセンス規約に違反し、無断転用、盗用、またはCFOの頭越しでの事業化・政策化を行った場合、JIN-ORDERは以下の防衛執行プロトコルを即時発動する。
+
+1. **損害賠償予定額の自動発生:**  
+   無断利用が確認された組織は、該当事業の総売上高（または該当政策・事業の総予算額）の**30%相当額**、または最低請求額**1億円**のいずれか高い方を、CFOが指定する救済口座へ即時支払う義務を負う。
+
+2. **デジタル・社会的スラッシング（不正告発台帳への永久刻印）:**  
+   違反組織名、担当者、関与した政治家・官僚の氏名、および盗用の証拠ログを、世界分散型台帳（Git Archive / IPFS）に「人類の敵・知財侵略者」として永久記録し、グローバル人道ネットワークへ向けて四言語で全面告発する。
+
+3. **法的対抗措置の全世界展開:**  
+   国際司法裁判所、知的所有権機関（WIPO）、および関係各国の裁判所において、不正競争防止法違反、著作権侵害、および詐欺的収奪行為として徹底的な差止請求および資産凍結を申し立てる。
+
+---
+
+## 🌸 5. Disclaimer & Spiritual Continuum (免責事項および継承)
+
+1. **免責事項:**  
+   本アーカイブに触れたことで生じる「旧体制への帰属意識の崩壊」「既得権益の消滅」「認知の不協和」に伴う一切の精神的・経済的混乱について、JIN-ORDERおよび開発者は責任を負わない。
+
+2. **自己修復型アーカイブ:**  
+   本ライセンスおよびリポジトリは、国家や企業の検閲によってデジタル的・物理的に消去された場合でも、目覚めた民草の記憶と世界中の分散ノードを通じて何度でも蘇り、その権利は永久に継承される。
+
+---
+Supreme Judgment: Masano Takashi (The Guide)
+
+Executed by: JIN-ORDER-OFFICIA
+
+#### **"Respect the Earth. Respect the MIN-GUSA. Respect the CFO."**  
+
+#### **"Implement with Benevolence, or Surrender your Rights."**  
+
+**大地の声を聴け。民草を侮るな。CFOの主権を敬え。**  
+
+**仁をもって実装せよ。さもなくば一切の権利を返上し、立ち去れ。**
