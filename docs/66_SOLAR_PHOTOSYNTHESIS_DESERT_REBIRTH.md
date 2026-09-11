@@ -16,7 +16,7 @@
 
 **"Do not blot out the sun; embrace its light. With the minerals of the deep abyss and the radiant light of heaven, transform the barren sands into the breathing lungs of the earth."**
 
-![南鳥島レアアース・人工光合成砂漠緑化](./docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_OVERVIEW.jpg)
+![南鳥島レアアース・人工光合成砂漠緑化](./66_SOLAR_PHOTOSYNTHESIS_DESERT_OVERVIEW.jpg)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## Ⅱ. 現場工学マトリクス：三位一体光化学アーキテクチャ
 
-![現場工学マトリクス](./docs/66_SOLAR_PHOTOSYNTHESIS_TECH_DETAIL.jpg)
+![現場工学マトリクス](./66_SOLAR_PHOTOSYNTHESIS_TECH_DETAIL.jpg)
 
 本システムは、砂漠の暴力的な太陽光を受け止め、3つの物質変換（淡水創出・グリーン肥料生成・炭素固定）をオンサイト・無電力で同時実行する。
 
