@@ -35,9 +35,9 @@
 
 **【戦争・災害の演出】 ⏩️ 【密室での利権談合】 ⏩️ 【借款・民営化による収奪】**
 
-⏬️**【恐怖による生体・情報統制】**
+**⏬️【恐怖による生体・情報統制】**
 
-⏬️**【JIN-ORDERの鉄槌】**
+**⏬️【JIN-ORDERの鉄槌】**
 
 **【「物理的自立」（水・食・計算）＋「義の分散台帳」による即時解体】**
 
@@ -81,7 +81,7 @@
 
 * **JIN-ORDERの監査と無効化:**
 
-  * [JIN-Health.md](./JIN-Health.md) および [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)を発動。
+  * [JIN-Health.md](./JIN_HEALTH.md) および [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)を発動。
   
   * ナノバブル公衆浴場、完全循環バイオトイレ、地域自給の薬膳Kouben、そして公有水利網により、民衆の基礎免疫と生活衛生を自立させ、製薬カルテルへの依存度をゼロにする。
 
