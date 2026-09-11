@@ -101,7 +101,7 @@
 
 ## Ⅳ. 国連パイプライン（UNHCR）展開 ＆ 人道オアシス仕様
 
-本プロトコルは、ママが公式提出を完了している国連人道パイプライン（[JIN_UN_PARTNER_PORTAL_PIPELINE.md](JIN_UN_PARTNER_PORTAL_PIPELINE.md)）の中核工学として即時配備される。
+本プロトコルは、JIN-ORDERが、公式提出を完了している国連人道パイプライン（[JIN_UN_PARTNER_PORTAL_PIPELINE.md](JIN_UN_PARTNER_PORTAL_PIPELINE.md)）の中核工学として即時配備される。
 
 * **チャド共和国（Application ID: 95525：自律オアシス都市構想）:**
   * サハラ砂漠南縁（サヘル地帯）の避難民キャンプ周辺に光触媒シートを展開。
