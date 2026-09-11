@@ -68,7 +68,7 @@
 | GU<br>(Grain Units)<br>穀物アンカー | 500 JIN ＝ 固定種玄米 1kg<br>（2,000kcal生命維持主食） | [65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)<br>廃校サイロ・低温倉庫のRFID重量追跡 | コモンズ・マルシェで在来米・雑穀を直接引換 |
 | FU (Fertilizer Units)<br>生体肥料アンカー | 100 JIN ＝ バイオ金肥 1kg<br>（100㎡土壌蘇生資材） | [JIN_SOIL_FOREST_SAMSARA_MATRIX.md](./JIN_SOIL_FOREST_SAMSARA_MATRIX.md)<br>地域バイオキオスクの製造・在庫ログ | ナノ干鰯・鰊粕ぼかし堆肥<br>剪定枝竹炭の現物受領 |
 | JU (Joule Units)<br>電力アンカー | 30 JIN ＝ 自律電力 1kWh | [TECHNOLOGY_CATALOG.md (Tech 01 / 02)](./TECHNOLOGY_CATALOG.md)<br>スマートインバータのkWh発電証明 | EVバス<br>酸素排出生体モビリティ<br>（LMC）急速充電<br>家庭用蓄電池チャージ |
-| RU (Resource Units)<br>鉱物アンカー | 200 JIN ＝ ケイ酸<br>ゼオライト 1kg | [RESOURCE_WALL.md](./RESOURCE_WALL.md)<br>[docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md](../docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md)<br>地域鉱物信託・南鳥島深海資源トラスト | 土壌改良用天然ゼオライト<br>全固体電池素材<br>光触媒素材の現物引当 |
+| RU (Resource Units)<br>鉱物アンカー | 200 JIN ＝ ケイ酸<br>ゼオライト 1kg | [RESOURCE_WALL.md](./RESOURCE_WALL.md)<br>[docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md](./docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md)<br>地域鉱物信託・南鳥島深海資源トラスト | 土壌改良用天然ゼオライト<br>全固体電池素材<br>光触媒素材の現物引当 |
 
 ### Ⅱ. 自律型現物クリアリング ＆ 空売り・金融派生商品遮断 (Anti-Derivative Logic)
 
