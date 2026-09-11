@@ -43,8 +43,8 @@
 * 🔰 **思想・全体構想を理解する:** [WHITE_PAPER.md](./WHITE_PAPER.md) ⏩️ [MANIFESTO.md](./MANIFESTO.md) ⏩️ [UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)
 * 🗺️ **地政学・ASI覇権分断の動向を掴む:** [GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md) ⏩️ [GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)
 * 🛠️ **現場インフラ・大地自律プロトコルを実装する:** [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md) ⏩️ [JIN_SOIL_FOREST_SAMSARA_MATRIX.md](./JIN_SOIL_FOREST_SAMSARA_MATRIX.md) ⏩️ [JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md)
-* 🌾 **食糧・肥料・種子主権を確立する:** [65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md) ⏩️ [JIN_AGRI_BIO_REGENERATION_SAMSARA.md](./JIN_AGRI_BIO_REGENERATION_SAMSARA.md)
-* 📱 **個人端末・市民監査クライアントを確認する:** [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
+* 🌾 **食糧・肥料・種子主権 ＆ 実物経済を確立する:** [65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md) ⏩️ [JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md) ⏩️ [JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)
+* 🛡️ **開拓現場での実務SOPを執行する:** [PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md) ⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・インフラ断面図)
 
-リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、生体動脈給電道路、地下空洞・トンネル健全性防壁、非開削管路更生・地中空洞化根絶、実物生命資産（肥料・穀物・種子）シールド、土壌区分連動アグロフォレストリー、自律生体ガス導管、伝統自律水利、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+リポジトリ内のプロトコルが定義する、覇権マップ（V7）、多重防壁（GMC）、生体動脈給電道路、地下空洞・トンネル健全性防壁、非開削管路更生・地中空洞化根絶、実物生命資産（肥料・穀物・種子）シールド、開拓英雄現場実務SOP、土壌区分連動アグロフォレストリー、自律生体ガス導管、伝統自律水利、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
@@ -144,6 +144,26 @@
     </td>
     <td align="center">
       🔬 <b><a href="./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md#ⅲ-土壌8大区分連動--不溶性リン酸解放フォーミュラ-pedological-samsara-link">不溶性リン酸解放・在来種シードバンク仕様を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">PIONEER FIELD CIVIL ENGINEERING SOP</th>
+    <th width="50%" align="center">NETIS STANDARD BLUEPRINT SCHEMATIC</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/PIONEER_FIELD_SOP_TECH_DIAGRAM.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="./assets/PIONEER_FIELD_SOP_TECH_DIAGRAM_02.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🛠️ <b><a href="./PIONEER_FIELD_MANUAL.md#sop-05-土壌8大区分の現場簡易診断--自律土壌蘇生sop">打音探査・粗朶暗渠・しがら工SOPを開く</a></b>
+    </td>
+    <td align="center">
+      📐 <b><a href="./PIONEER_FIELD_MANUAL.md#4-法面木柵しがらき工-杭打設標準図">NETIS準拠 施工標準概要図を開く</a></b>
     </td>
   </tr>
   <tr>
@@ -277,7 +297,7 @@
 ### 【Layer 3: 経済・実物資産担保台帳・交通動脈 (Asset-Backed Ledger, Finance & Logistics)】
 
 * 🏛️ **[MACRO_REBIRTH_BUDGET_2040.md](./MACRO_REBIRTH_BUDGET_2040.md)**: **(2040年 仁龍平和国家予算・新産業大転換構想: 軍需から環境再生へ・420兆円単一台帳・世界環境OSサブスク・宇宙開拓)**
-* 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・地域密着共生税制・ふるさと納税ゼロサム奪い合い解体仕様書)**
+* 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・地域密着共生税制: 5大生命アンカー HU/GU/FU/JU/RU規格・1:1現物引換・空売り＆デリバティブ自動遮断)**
 * 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**: **(V7.2 GMC運用仕様: 支配層逃避所解体・ヒマラヤ氷河オフグリッド・耐量子暗号PQCコールドストレージ・中立調停箱舟)**
 * 🌾 **[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**: **(実物生命資産アンカー ＆ 土壌8大区分連動設計: 肥料・食糧・種子現物担保・GU/FU/RU規格・不溶性リン酸解放フォーミュラ・在来種シードバンク防衛)**
 * 💳 **[JIN_ECONOMY_PROTOCOL.md](./JIN_ECONOMY_PROTOCOL.md)**: 実物生命資産（水・種子・エネルギー）担保型通貨『JIN』
@@ -298,9 +318,9 @@
 * 🌐 **[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](./JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**: **(気象台併設型 天地調和・大気レーダー＆地殻鍼灸ノード仕様書: MP-PAWR気象レーダー網・信玄堤先行連系・深層断層圧微小解放JIN-ACH)**
 * 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**
 * 🌊 **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 信玄堤・全国54疏水・将棋頭・竜王の鼻・サイバー聖牛・スマート霞堤)**
-* 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点: マルシェ直売所・循環EVバス・六聖マイスター教育院)**
+* 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点仕様書: 在来種シードバンク・江戸バイオ金肥キオスク・コモンズマルシェ直売所・循環EVバス・六聖マイスター教育院)**
 * 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・P2Pメッシュ・オフライン避難モード)**
-* 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 地域主権奪還・現場展開SOP・ゼロから100日行動指針)**
+* 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 土壌8大区分現場診断・路面下空洞打音点検・粗朶暗渠としがら工施工SOP・土木事務所折衝術)**
 * 🌊 **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 計算ノード水冷・排熱カスケード農業循環
 * 🏥 **[JIN_HEALTH.md](./JIN_HEALTH.md)**: 全自動医療要塞・自律型生体防衛仕様
 
@@ -336,7 +356,7 @@
 
 ---
 
-> **全球の超人工知能や軍産複合体がどれほど肥大化しようとも、地上の物理的生存基盤が確立されれば一切の脅クスは無力化される。**
+> **全球の超人工知能や軍産複合体がどれほど肥大化しようとも、地上の物理的生存基盤が確立されれば一切の脅迫は無力化される。**
 
 ## 🏛️ Project Governance & License
 
@@ -347,5 +367,5 @@
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
 `STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.3 CANONICAL SYNCHRONIZED)`  
-`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS & 2040 REBIRTH ACTIVE`  
+`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL TRIAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Universal Benevolence, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Clean Flame Samsara & Watershed Sovereignty.`
