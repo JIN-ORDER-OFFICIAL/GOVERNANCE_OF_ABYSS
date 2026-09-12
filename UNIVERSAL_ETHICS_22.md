@@ -1,3 +1,12 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Global Humanity License](./LICENSE.md) によって保護されています。**
+
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Global Humanity License. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
+
 # UNIVERSAL_ETHICS_22: 仁焔の二十二誓約（Jin-Flame 22 Vows）
 ## 〜 仏陀の光に浴して：人間主権・自然調和・資源循環の普遍再生プロトコル 〜
 
