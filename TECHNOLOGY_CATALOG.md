@@ -60,7 +60,7 @@ Regional Strategy & 16 Core Technologies Cross-Reference Matrix
 ## ⚡ 1. エネルギー・環境・物質循環基盤
 Energy, Environment & Atomic-Level Regeneration
 
-### 01. ジン・ドラゴン鉱石と全固体電池（Solid-State Jin-Battery）
+### 01. ジン・ドラゴン鉱石（南鳥島新レアアース触媒）と全固体電池（Solid-State Jin-Battery）
 
 ![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_02.jpg)
 
