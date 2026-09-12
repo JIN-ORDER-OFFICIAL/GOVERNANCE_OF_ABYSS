@@ -10,7 +10,7 @@
 ### Adaptive Vascular Siphon, Multi-Tiered Cascade Storage, Sediment Phosphate Samsara & Planetary Mass Stabilization
 ### (V1.0 INITIAL RATIFIED SPECIFICATION)
 
-![四国・生命力蓄電池ため池](./assets/SHIKOKU_LIVING_BATTERY_RESERVOIR_01.jpg)
+![四国・生命力蓄電池ため池](./assets/SHIKOKU_LIVING_BATTERY_RESERVOIR_04.jpg)
 
 **「水を留めて腐らせるな。海へと急いで流し去るな。山から里へ、親池から子池へと命をリレーし、底に眠る大地の恵みを畑へと還せ。水が巡る場所において、大地の軸は自ずから静まる。」**
 
