@@ -29,8 +29,6 @@
 
 ## 🌈 2. 4大中核気象工学アーキテクチャ (Core Atmospheric Engineering Pillars)
 
-![生体大気循環・気象再生機](./assets/JIN_SKY_OASIS_AIRCRAFT_01.jpg)
-
 ```text
 【高高度ソーラー・光半導体受光スキン】(可視光全波長発電 ＆ 上層大気オゾン層保護)
        🔼
@@ -43,6 +41,7 @@
        🔽(海洋深層水結晶 ＋ 耐乾性放線菌 ＋ 藍藻胞子)
 【サヘル・乾燥荒涼地帯（降雨誘導 ＆ 土壌微生物活性化 ＆ 砂漠緑化）】
 ```
+![生体大気循環・気象再生機](./assets/JIN_SKY_OASIS_AIRCRAFT_01.jpg)
 
 ### Ⅰ. 光合成エアロゾル・オアシス散布システム（Photosynthetic Aerosol Dispenser）
 
