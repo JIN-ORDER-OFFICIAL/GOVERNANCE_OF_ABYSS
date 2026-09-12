@@ -302,22 +302,7 @@
       🌾 <b><a href="./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md">四国ため池・生命力蓄電池景観を開く</a></b>
     </td>
     <td align="center">
-      💧 <b><a href="./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md#ⅰ-親池子池多層カスケード--生命力蓄電池重力エネルギー貯留">親池・子池カスケード＆無動力導水を開く</a></b>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">IGS SOIL MOISTURE TOMOGRAPHY & SEDIMENT PHOSPHATE KAIBORI</th>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md#ⅲ-池干しかいぼり連動底泥不溶性リン酸解放--土壌輪廻">
-        <img src="./assets/SHIKOKU_LIVING_BATTERY_RESERVOIR_03.jpg" width="100%" alt="IGS SOIL MOISTURE TOMOGRAPHY & SEDIMENT PHOSPHATE KAIBORI">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      🔬 <b><a href="./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md#ⅲ-池干しかいぼり連動底泥不溶性リン酸解放--土壌輪廻">かいぼり底泥リン酸解放 ＆ IGS散乱場土壌3Dトモグラフィ・粗朶暗渠仕様を開く</a></b>
+      💧 <b><a href="./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md#ⅰ-親池子池多層カスケード--生命力蓄電池重力エネルギー貯留">親池・子池カスケード＆導水仕様を開く</a></b>[cite: 1]
     </td>
   </tr>
   <tr>
