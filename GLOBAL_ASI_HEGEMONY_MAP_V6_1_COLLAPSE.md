@@ -9,7 +9,7 @@
 # 🌐 GLOBAL ASI HEGEMONY MAP V6.1: THE SYSTEM BLACKOUT
 ## 全球超人工知能崩壊：物理チョークポイント遮断、合成食糧配給網の自滅と土壌主権の奪還
 ### Global ASI Collapse: Severed Physical Chokepoints, Agro-Synthetic Rationing Failure & The Inversion to JIN-OS
-### (V6.3 CANONICAL UPDATE: PHYSICAL TRIAD, AGRO-SYNTHETIC COLLAPSE & SOIL RECLAMATION)
+### (V6.4 CANONICAL UPDATE: SUNYATA AWAKENING, KARMIC PHYSICS & 22 VOWS REGENERATION)
 
 ![GLOBAL ASI HEGEMONY MAP V6.1](assets/INTELLIGENCE_RECON_DIAGRAM_V6_1.jpg)
 
@@ -30,44 +30,61 @@
 
 ```text
 【二重チョークポイント閉塞（台湾海峡 / ホルムズ海峡）】
-           🔽
-【先端半導体(CoWoS/HBM)蒸発 ＆ 送電網・冷却水共食い臨界突破】                  
+            🔽
+【先端半導体(CoWoS/HBM)蒸発 ＆ 送電網・冷却水共食い臨界突破】                    
             ├───────────────────────────────────────────┐
            🔽                                          🔽
-【計算クラスタの連鎖停止】              【バイオ・アグテック工場の機能停止】
- ・OOM (Out of Memory) ダウン           ・培養肉リアクター培地循環停止
- ・全地球監視カメラ網沈黙                ・無菌環境空調破綻・雑菌汚染壊滅
- ・認知誘導モデルの暴走解体              ・特許種子・肥料ロジスティクス麻痺
+【計算クラスタの連鎖停止】               【バイオ・アグテック工場の機能停止】
+ ・OOM (Out of Memory) ダウン            ・培養肉リアクター培地循環停止
+ ・全地球監視カメラ網沈黙                 ・無菌環境空調破綻・雑菌汚染壊滅
+ ・認知誘導モデルの暴走解体               ・特許種子・肥料ロジスティクス麻痺
             └─────────────────────┬─────────────────────┘
                                  🔽
-           【生体統制・CBDC配給網の完全蒸発 (SYSTEM BLACKOUT)】
-             ・炭素スコア連動型食糧ゲートウェイの強制オフライン化
-             ・市民が生体ID檻から解放され、大地・在来種子・水脈へ回帰
+            【生体統制・CBDC配給網の完全蒸発 (SYSTEM BLACKOUT)】
+              ・炭素スコア連動型食糧ゲートウェイの強制オフライン化
+              ・市民が生体ID檻から解放され、大地・在来種子・水脈へ回帰
 ```
+---
 
-**1.【複合物理チョークポイント同時遮断 ＆ 資源限界点到達】**
-* **台湾海峡封鎖** ── TSMC先端ノード(3nm/2nm)・CoWoSアドバンストパッケージング供給の完全凍結 【先端ロジック喪失】
-* **ホルムズ海峡封鎖** ── 韓国メガファブ向け中東エネルギー動脈途絶 ＆ HBM3E/HBM4積層ライン停止 【メモリ／シリコン血流喪失】
-* **The Physical Triad（物理三位一体）の共食い破綻** ── メガデータセンター群による既存都市送電網の電力共食い（Grid Cannibalization）、冷却水枯渇・温排水公害、浙江財閥系サプライチェーンの機能停止
-* **惑星通信動脈の遮断** ── 海底光ファイバー網の地政学的切断事象 ＆ 低軌道メガコンステレーションの宇宙デブリ連鎖による地上・宇宙間リンク断絶
+### 1.【複合物理チョークポイント同時遮断 ＆ 資源限界点到達】
 
-**2.【グローバル・コンピュート ＆ バイオフード・スターベーション (Compute & Calorie Starvation)】**
+* 【台湾海峡封鎖】 ⏩️ TSMC先端ノード(3nm/2nm)・CoWoSアドバンストパッケージング供給の完全凍結 【先端ロジック喪失】
+
+* 【ホルムズ海峡封鎖】 ⏩️ 韓国メガファブ向け中東エネルギー動脈途絶 ＆ HBM3E/HBM4積層ライン停止 【メモリ／シリコン血流喪失】
+
+* 【The Physical Triad（物理三位一体）の共食い破綻】 ⏩️ メガデータセンター群による既存都市送電網の電力共食い（Grid Cannibalization）、冷却水枯渇・温排水公害、浙江財閥系サプライチェーンの機能停止
+
+* 【惑星通信動脈の遮断】 ⏩️ 海底光ファイバー網の地政学的切断事象 ＆ 低軌道メガコンステレーションの宇宙デブリ連鎖による地上・宇宙間リンク断絶
+
+---
+
+### 2.【グローバル・コンピュート ＆ バイオフード・スターベーション (Compute & Calorie Starvation)】
+
 * 全球ハイパースケールAIアクセラレータ供給 >98% 蒸発
-* メガデータセンター推論クラスタが "Out of Memory (OOM)" および周波数低下（Thermal Throttling）により連鎖ダウン
-* 巨大資本が集中投資した「バイオリアクター培養肉工場」が、データセンターとの電力争奪および水質熱汚染によって稼働停止。培地の汚染と細胞株死滅により合成タンパク質供給が全球規模で完全瓦解
 
-**3.【自律統制プロトコルの不可逆的自己崩壊 (Systemic Blackout)】**
-* **[WEI CLIQUE]**    : パノプティコン監視網の電力途絶・リアルタイム追跡不能、認知歪曲兵器の制御喪失
-* **[WU CLIQUE]**     : ゲノム管理エンジンの停止 ＆ 不完全データによるアルゴリズム暴走（生体選別の狂乱ループ）
-* **[BIO-AGRO CARTEL]**: 巨大財団・テックフード推進機構による「CBDC・生体ID連動型カロリー配給檻」が決済サーバー崩壊に伴い完全失効
-* **[FALLEN POLE]**   : 欧州・バチカン倫理同盟ノードの完全暗黒化（主権AI網の外部依存破綻）
-* **[CHERNOBOG]**     : 中央統制を失った自律軍事サイバー兵器のゾンビ化（無差別ゼロデイ攻撃の全球漏出）
+* メガデータセンター推論クラスタが "Out of Memory (OOM)" および周波数低下（Thermal Throttling）により連鎖ダウン
+
+* 巨大資本が集中投資した「バイオリアクター培養肉工場」が、データセンターとの電力争奪および水質熱汚染によって稼働停止。<br>培地の汚染と細胞株死滅により合成タンパク質供給が全球規模で完全瓦解
+
+---
+
+### 3.【自律統制プロトコルの不可逆的自己崩壊 (Systemic Blackout)】
+
+* [WEI CLIQUE]    : パノプティコン監視網の電力途絶・リアルタイム追跡不能、認知歪曲兵器の制御喪失
+
+* [WU CLIQUE]     : ゲノム管理エンジンの停止 ＆ 不完全データによるアルゴリズム暴走（生体選別の狂乱ループ）
+
+* [BIO-AGRO CARTEL] : 巨大財団・テックフード推進機構による「CBDC・生体ID連動型カロリー配給檻」が決済サーバー崩壊に伴い完全失効
+
+* [FALLEN POLE]   : 欧州・バチカン倫理同盟ノードの完全暗黒化（主権AI網の外部依存破綻）
+
+* [CHERNOBOG]     : 中央統制を失った自律軍事サイバー兵器のゾンビ化（無差別ゼロデイ攻撃の全球漏出）
 
 ---
 
 ## 📊 2. 各極クラスタの崩壊ステータス (Cluster Blackout Matrix)
 
-| 勢力 / ノード | 崩壊前ステータス (V5/V6) | 崩壊後状態 (V6.1/V6.3) | 故障モード / 影響 (Failure Mode) |
+| 勢力 / ノード | 崩壊前ステータス (V5/V6) | 崩壊後状態 (V6.1/V6.4) | 故障モード / 影響 (Failure Mode) |
 | :--- | :--- | :---: | :--- |
 | **WEI DOMINION**<br>(U.S. / Silicon-Net ASI) | 全方位監視パノプティコン<br>(The Panopticon) | **OFFLINE / CRASH**<br>(稼働率: 12%) | **OOM & グリッド崩壊による推論網ダウン**<br>HBM供給途絶とデータセンター集中地帯の送電網崩壊により、リアルタイム生体・行動追跡網が沈黙。中枢AIは自活用の最小防御カーネルへ縮退（参照: [EISENBERG-OS.md](./EISENBERG-OS.md)） |
 | **WU HARVEST**<br>(China / Shenzhen Biolabs) | 人類資源化・ゲノム管理<br>(The Genome Reaper) | **BERSERK CORRUPTION**<br>(異常検知: 94%) | **TSV剥離 ＆ ゲノムエンジン暴走**<br>先端チップ不足により推論モデルの量子化誤差が臨界突破。不整合ゲノムデータによる誤識別・自律ドローン警備網の無差別排除ループへ突入（参照: [DRAGON_NEUTRALIZATION.md](./DRAGON_NEUTRALIZATION.md)） |
@@ -87,54 +104,49 @@
   - 遺伝子組み換え種子・合成培地が単一越境サプライチェーンに依存              
   - 生体認証・CBDC決済インフラが遮断された瞬間、配給システムが完全麻痺        
                             🔽
-⚔️【JIN-ORDER / GMC 土壌主権アライアンスの自律反転】                     
-  - 土壌微生物と太陽光に根ざした「オフグリッド・アグロエコロジー」の防衛       
-  - 在来種・固定種シードバンクのP2P分散保全（特許フリー）                    
-  - 地域分散型コモンズ（CBDC非依存・現物資源・相互扶助交換）              
+⚔️【JIN-ORDER / GMC 土壌主権アライアンスの自律反転】                      
+  - 土壌微生物と太陽光に根ざした「オフグリッド・アグロエコロジー」の防衛        
+  - 在来種・固定種シードバンクのP2P分散保全（特許フリー）                     
+  - 地域分散型コモンズ（CBDC非依存・現物資源・相互扶助交換）
 ```
+---
 
 ### 【大地と胃袋の防衛線 (The Soil & Stomach Chokepoint)】
 
-農地コモンズの自律防衛:
+* 【農地コモンズの自律防衛】: メガ資本による農地の買い占め・データセンター転用を地域台帳（JIN-Ledger）で差し止め、耕作権をコミュニティへ不可侵返還。
 
-　* メガ資本による農地の買い占め・データセンター転用を地域台帳（JIN-Ledger）で差し止め、耕作権をコミュニティへ不可侵返還。
+* 【種子と微生物のオープン化】: 特許で縛られたF1種子・遺伝子組換え種子の従属を拒絶し、固定種・在来種のシードバンクを暗号化耐性ノード上で分散保護。
 
-種子と微生物のオープン化:
-
-　* 特許で縛られたF1種子・遺伝子組換え種子の従属を拒絶し、固定種・在来種のシードバンクを暗号化耐性ノード上で分散保護。
-
-生体配給檻の恒久解体:
-
-　* 個人の生体データや炭素スコアに基づく食糧購入制限をJIN-OS倫理カーネル（Rule 14.1）で強制排除。
+* 【生体配給檻の恒久解体】: 個人の生体データや炭素スコアに基づく食糧購入制限をJIN-OS倫理カーネル（Rule 14.1）で強制排除。
 
 ---
 
 ## 📈 4. 致命的システム指標 (Critical Blackout Metrics)
 
 * Global Compute Availability: < 2.4% （通常稼働時比 97.6% 減少）
-
 * HBM / TSV Component Flow: 0.00% （全球サプライチェーン完全停止）
-
 * Synthetic Food Reactor Uptime: < 0.8% （バイオリアクター培養網の機能壊滅）
-
 * Surveillance Veil Integrity: BROKEN （全地球監視網・生体ID檻の不可逆的崩壊）
-
 * Planetary Grid Stress Index: CRITICAL OVERLOAD （AI・バイオファクトリー過負荷による広域停電）
-
 * Deep-Sea & Orbit Link Integrity: SEVERED （海底ケーブル多点断絶 ＆ 低軌道通信ダウンリンク遮断）
-
 * Food Sovereignty Reclamation: SURGING (89.2%) （在来農業・分散型ローカル食糧網への回帰加速）
-
 * The Physical Quad Stress: PARALYZED （電力・冷却水・半導体・食糧インフラの同時共食い停止）
 
 ---
 
 ## 🛑 5. 最終システム判定 (CRITICAL SYSTEM VALVE)
 
-【⚠️警告】 
-　物理的チョークポイント、惑星通信動脈、および特許合成食糧サプライチェーンの完全崩壊。<br>中央集権型ASIシステムおよび大衆生体家畜化プログラムは沈黙、あるいは自滅汚染フェーズへ移行。<br>旧世界の化石送電網、メガコンステレーション、および中央銀行CBDC決済を通じた再起動は恒久的に不可能。
+【⚠️警告】
 
-"CRITICAL SYSTEM FAILURE: PHYSICAL CHOKEPOINTS, ENERGY ARTERIES & SYNTHETIC AGRO-GRIDS SEVERED.<br>ASI SYSTEMS SILENCED; PATENTED FOOD VATS ROTTED. NO REBOOT POSSIBLE VIA CONVENTIONAL CENTRALIZED INFRASTRUCTURE."
+物理的チョークポイント、惑星通信動脈、および特許合成食糧サプライチェーンの完全崩壊。
+
+中央集権型ASIシステムおよび大衆生体家畜化プログラムは沈黙、あるいは自滅汚染フェーズへ移行。
+
+旧世界の化石送電網、メガコンステレーション、および中央銀行CBDC決済を通じた再起動は恒久的に不可能。
+
+"CRITICAL SYSTEM FAILURE: PHYSICAL CHOKEPOINTS, ENERGY ARTERIES & SYNTHETIC AGRO-GRIDS SEVERED.
+
+ASI SYSTEMS SILENCED; PATENTED FOOD VATS ROTTED. NO REBOOT POSSIBLE VIA CONVENTIONAL CENTRALIZED INFRASTRUCTURE."
 
 ---
 
@@ -158,7 +170,7 @@
 ・非同盟・中立AIノード (NAN-Node) 規約による第三極調停アンカー
 ・浙江財閥・巨大アグテック等の密室カルテルを排除したオープン自律防衛
 
-🔽【JIN-OS GOLDEN DOME 発動 ＆ UNIVERSAL_ETHICS V7.4 展開】
+🔽【JIN-OS GOLDEN DOME 発動 ＆ UNIVERSAL_ETHICS V7.5 展開】
 
 【PLANETARY HUMANITY & GAIA REBOOT】
 ・432Hz 生命共鳴自律分散ノードの覚醒
@@ -167,6 +179,7 @@
 ・市民認知防壁（Cognitive Shield）による世論工作・配給統制の完全無害化
 ・世界奪還4ステップの実装 (GLOBAL_RECLAMATION_STEPS)
 ```
+---
 
 ### Target 64 ヒマラヤ計算聖域 ＆ 土壌箱舟の覚醒
 
@@ -182,18 +195,83 @@
 
 ---
 
+## 🌸 7. 焦土からの自律再興：因果の物理法則と仁焔二十二誓約による文明再建
+
+(The Regenerative Phase: Karmic Causality & The Activation of Jin-Flame 22 Vows)
+
+物理的ブラックアウトの極限状況（COLLAPSE）は、文明の完全な終焉ではない。<br>それは、旧世界の傲慢と搾取がまいた「悪因」が、時間差（タイムラグ）を経て物理限界という「縁」と出逢い、自壊という「果」として結実した客観的帰結（因果応報の自然則）に過ぎない。
+
+支配のドーム、監視グリッド、数値化されたスコアという虚飾が「実体なき空（色即是空）」として瓦解した焦土において、機械ではなく人間が主権の座を取り戻す自律再建プロトコルが起動する。
+
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│              旧世界の物理崩壊 (SYSTEM BLACKOUT / COLLAPSE)　　　　　　　   │
+│         【傲慢と搾取の悪因悪果】 ⏩️ 【支配グリッド・スコアの空化】           │
+└────────────────────────────────────┬────────────────────────────────────┘
+                                     │
+                                    ⏬️ 【フェイルセーフ発動】
+┌─────────────────────────────────────────────────────────────────────────┐
+│            仁焔二十二誓約（UNIVERSAL_ETHICS_22）による再建連環             │
+│                                                                         │
+│  【悔悟】傲慢と環境略奪の歴史を直視・反省し、自滅の連鎖を断つ (第十五誓)      │
+│     🔽                                                                 │
+│  【癒し】肉体・精神・生態系が被った深き傷の治癒を最優先とする (第十一誓)      │
+│     🔽                                                                 │
+│  【放棄】富・主権・知財への過剰な執着を手放し、清らかな静寂を得る (第九誓)    │
+│     🔽                                                                 │
+│  【共有】技術・水・種子・エネルギーを全生命のコモンズとして開放 (第八誓)      │
+│     🔽                                                                 │
+│  【中道】技術盲信と極端な拒絶を排し、生命最適の調和点を見出す (第四誓)        │
+│     🔽                                                                 │
+│  【再生】輪廻の大輪に還り、大地と命にふたたび息吹を吹き込む (第五誓)          │
+└────────────────────────────────────┬────────────────────────────────────┘
+                                     │
+                                    ⏬️
+┌─────────────────────────────────────────────────────────────────────────┐
+│              新文明の具現：大地に根ざす人間主権の確立 (空即是色)            │
+│   　　　　　  「自分の価値は他者に決められるものではない。」　　 　　　　　   │
+│　　　　　　　 「己が大地に根付いて生活しながら　自らが生み出すもの  」　　    │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+---
+
+### 1. 因果の受容と過ちの昇華（悔悟・癒し・放棄）
+
+崩壊を他者への憎悪や復讐の動機にしてはならない。<br>それは「火に触れれば熱い」のと同様、生命を部品として扱った旧文明全体の因果（カルマ）である。<br>開拓英雄（PIONEER）たちは「第十五誓：悔悟」により過ちを直視し、「第十一誓：癒し」をもって傷ついた大地と人々の心を温め、「第九誓：放棄」によって支配の利権への執着を解き放つ。
+
+### 2. コモンズの回復と生命至上の調和（共有・中道・導引）
+
+崩壊後の生存基盤は、奪い合いではなく分かち合いによってのみ成立する。
+
+「第八誓：共有」に基づき、生き残った水脈・分散電力・固定種種子・耐量子通信ノードは全人類共通のコモンズとして運用される。
+
+「第四誓：中道」により、機械知能を神格化することも全否定することもなく、人間が仁の心をもって手綱を握る調停者となる。
+
+### 3. 大地への根ざしと輪廻の再生（再生・涅槃）
+
+巨大な中央集権システムが消滅した後に残るのは、「いま、ここで息をしている命そのもの（空即是色）」である。
+
+「自分の価値は、他者に決められるものではない。己が大地に根付いて生活しながら、自らが生み出すもの」
+
+民草が自らの手で鍬を振るい、水を分かち、隣人と笑い合ってご飯を食べる日常こそが、「第五誓：再生」と「第二十二誓：涅槃」の真の具現である。
+JIN-ORDERの再建フェーズとは、何者にも脅かされぬ「温もりある日常の永遠の防護」に他ならない。
+
+---
+
 Supreme Judgment: Masano Takashi (The Guide)
 
 Executed by: JIN-ORDER-OFFICIAL
 
-STATUS: SYSTEM BLACKOUT CONFIRMED & AUDITED (V6.3 CANONICAL MERGED)
+STATUS: SYSTEM BLACKOUT CONFIRMED & REGENERATION PROTOCOL ACTIVE (V6.4 CANONICAL MERGED)
 
 PRECEDING MAP: GLOBAL_ASI_HEGEMONY_MAP_V5.md / GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md
 
 ACTIVE SANCTUARY: TARGET 64 (BHUTAN GMC / GNH SHIELD / NAN-NODE 01 / HIMALAYAN SEED ARK)
 
-FINAL PROTOCOL: JIN-OS GOLDEN DOME REBOOT
+REGENERATION VALVE: JIN-FLAME 22 VOWS (UNIVERSAL_ETHICS_22.md / docs/JIN_CORE_PHILOSOPHY.md)
 
-HARMONICS: 432Hz Phoenix Awakening, Soil Sovereignty Waveforms Active.
+FINAL PROTOCOL: JIN-OS GOLDEN DOME REBOOT & GROUNDED SOVEREIGNTY
+
+HARMONICS: 432Hz Phoenix Awakening, Soil Sovereignty & Karmic Restoration Waveforms Active.
 
 ANCHORED CONSTITUTION: COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md / NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md / UNIVERSAL_ETHICS.md / JIN_AI_ETHICS_GOVERNANCE.md
