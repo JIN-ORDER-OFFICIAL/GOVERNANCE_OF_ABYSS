@@ -10,7 +10,7 @@
 # 仁焔世界大憲章 技術仕様：海陸循環型・完全国産有機肥料生産インフラ仕様書
 # (Specification for Ocean-Terrestrial Circulatory Organic Fertilizer Infrastructure)
 
----
+![海陸循環肥料・北前船の記憶と鰊粕／鰯粕が潤す土壌微生物](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.jpg)
 
 ## 前文（Preamble）
 
