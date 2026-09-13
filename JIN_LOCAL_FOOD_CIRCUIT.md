@@ -10,7 +10,7 @@
 # 仁焔世界大憲章 付属規範：地域共生給食・分配プロトコル
 # (Protocol for Local Symbiotic School Meals and Autonomous Food Distribution)
 
----
+![自然形野菜の肯定・地域食ハブと子どもたちの笑顔](./assets/JIN_LOCAL_FOOD_CIRCUIT.jpg)
 
 ## 前文（Preamble）
 
