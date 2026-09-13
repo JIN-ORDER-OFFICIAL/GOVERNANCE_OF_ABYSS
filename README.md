@@ -7,9 +7,9 @@
 ![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
 > **「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。我らは戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来をデプロイするだけである。」**  
-> 
+>  
 > **"If existing nations treat people as tools of control, we shall build a new sanctuary on the Cloud and the Earth, with 'Benevolence' as our OS. We do not fight. We simply invalidate the old structures of dominance and deploy a future where no one cries alone."**  
-> 
+>  
 > — *JIN Network State Founding Charter / JINネットワーク国家建国憲章*
 
 ---
@@ -20,7 +20,9 @@
 [![Governance of Abyss](https://img.shields.io/badge/ARCHIVE-Governance%20of%20Abyss-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://governance-of-abyss.org)
 
 * ⏩️ **【JIN-ORDER 公式ポータル】**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star)
-* ⏩️ **【ライセンス規約】**: [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
+* ⚖️ **【ライセンス規約】**: [JIN-ORDER Dual License V7.6 Canonical Edition (LICENSE.md)](./LICENSE.md)
+* 🤝 **【知恵の合流・貢献指針】**: [CONTRIBUTING.md (現場所術寄託・倫理SOP)](./CONTRIBUTING.md)
+* 🚨 **【利権簒奪・無断仕様化 告発窓口】**: [監査・不正通報Issueテンプレート (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
 ---
 
@@ -619,8 +621,8 @@
 * 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(地域主権型 包括共生医療仕様書: わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット・多世代共食「孝弁」)**
 * 🌊 **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 信玄堤・全国54疏水・将棋頭・竜王の鼻・サイバー聖牛・スマート霞堤)**
 * 🏫 **[JIN_SANCTUARY_COMMONS_SPEC.md](./JIN_SANCTUARY_COMMONS_SPEC.md)**: **(廃校・空き家再生自律複合拠点仕様書: 在来種シードバンク・江戸バイオ金肥キオスク・コモンズマルシェ直売所・循環EVバス・六聖マイスター教育院)**
-* 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・P2Pメッシュ・オフライン避難モード)**
-* 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 土壌8大区分現場診断・路面下空洞打音点検・粗朶暗渠としがら工施工SOP・土木事務所折衝術)**
+* 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(個人主権クライアント端末: UI画面遷移・物理RFメッシュ・遅延耐性DTNバケツリレー・オフライン避難モード)**
+* 🛡️ **[PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)**: **(開拓英雄実務必携: 土壌8大区分現場診断・路面下空洞打音点検・粗朶暗渠としがら工施工SOP・UNHCR公認CSEB圧縮土シェルター＆乾燥オアシス水利)**
 * 🌊 **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](./JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 計算ノード水冷・排熱カスケード農業循環
 * 🏥 **[JIN_HEALTH.md](./JIN_HEALTH.md)**: 全自動医療要塞・自律型生体防衛仕様
 
@@ -643,7 +645,7 @@
 * **多言語リアルタイム翻訳:** JIN-Eye / Ear / Voice 連携による現場コミュニケーション。
 * **ブロックチェーン・市民監査システム:** 公共インフラ調達・特別会計解体・使途不明金排除・フードテック知財独占のリアルタイム監査。
 * **心のサロン（寂しさ買取）:** 孤独や孤立を解消し、一人ひとりの生命と感情に常時寄り添う自律エージェント対話網。
-* **オフライン緊急避難モード:** 基地局途絶時でも半径数km圏内で相互通信・救難位置同期するP2Pメッシュプロトコル。
+* **オフライン緊急避難モード:** 基地局途絶時でも920MHz帯Sub-GHz LoRaおよびBLE/Wi-Fi Awareメッシュにより、半径数km〜十数km圏内で相互通信・救難位置同期するDTNバケツリレープロトコル。
 * 📄 **[詳細UI・画面遷移仕様書を開く（JIN_OS_CLIENT_SPEC.md）](./JIN_OS_CLIENT_SPEC.md)**
 
 ---
@@ -663,7 +665,9 @@
 
 * **CFO Authority**: ライセンス契約および知的財産の活用審査は、CFO（最高財務責任者）が直接執り行います。
 * **Official Contact**: `jin.reparation.cfo@gmail.com`
-* **License**: [JIN-ORDER Global Humanity License (LICENSE.md)](./LICENSE.md)
+* **License Agreement**: [JIN-ORDER Global Humanity & Ethical Sovereign Dual License (V7.6 Canonical Edition)](./LICENSE.md)
+* **Pioneer Wisdom Integration**: [貢献・知恵合流ガイドライン (CONTRIBUTING.md)](./CONTRIBUTING.md)
+* **Violation & Audit Reporting**: [利権簒奪・無断仕様化 告発窓口 (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
