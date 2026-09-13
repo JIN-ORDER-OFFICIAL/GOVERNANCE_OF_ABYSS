@@ -50,6 +50,8 @@
 
 ---
 
+![大地の守護者たる日本農家の完全なる自立と尊厳](./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN.jpg)
+
 ## 前文（Preamble）
 
 農は、国の礎であり、命の根源である。
