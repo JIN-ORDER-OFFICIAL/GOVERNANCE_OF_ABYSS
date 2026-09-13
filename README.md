@@ -2,7 +2,7 @@
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 ### 深淵の解体と、光の再構築（The Great Rebirth）
 #### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
-### (V7.7 CANONICAL UPDATE: SUNYATA & SAMSARA CORE, JIN-FLAME 22 VOWS, 6-PILLAR LIVING INFRASTRUCTURE & YUKAWA CASCADE RESERVOIR)
+### (V7.8 CANONICAL UPDATE: SUNYATA & SAMSARA CORE, 5-PILLAR FARMER SOVEREIGNTY, LIVING INFRASTRUCTURE & REGENERATIVE CYCLES)
 
 ![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
@@ -52,8 +52,8 @@
   [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md) ⏩️ [JIN_BIO_SYMBIOTIC_EV.md](./JIN_BIO_SYMBIOTIC_EV.md) ⏩️ [JIN_ORGANIC_ECO_ARCHITECTURE.md](./JIN_ORGANIC_ECO_ARCHITECTURE.md) ⏩️ [JIN_SKY_OASIS_AIRCRAFT.md](./JIN_SKY_OASIS_AIRCRAFT.md) ⏩️ [JIN_OCEAN_LIFE_VESSEL.md](./JIN_OCEAN_LIFE_VESSEL.md) ⏩️ [JIN_OCEANIC_ACUPUNCTURE_NODE.md](./JIN_OCEANIC_ACUPUNCTURE_NODE.md)
 * 🛠️ **現場インフラ・自律循環水利・大地再生を実装する:**  
   [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md) ⏩️ [JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md](./JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md) ⏩️ [JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md](./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md) ⏩️ [JIN_SOIL_FOREST_SAMSARA_MATRIX.md](./JIN_SOIL_FOREST_SAMSARA_MATRIX.md) ⏩️ [JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md)
-* 🌾 **食料・種子主権 ＆ 100%オーガニック土壌防壁 ＆ 徳治経済を確立する:**  
-  [docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](./docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md) ⏩️ [section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md) ⏩️ [docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md](./docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md) ⏩️ [JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)
+* 🌾 **【本丸】食料主権・大地の守護者再生・完全国産有機肥料・主食追跡を確立する:**  
+  [JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)（最高統治規範：日本農家再生大綱） ⏩️ [JIN_FOOD_SOVEREIGNTY.md](./JIN_FOOD_SOVEREIGNTY.md)（食料主権・ミツバチ受粉尊厳憲章） ⏩️ [JIN_SEED_SOVEREIGNTY_PROTOCOL.md](./JIN_SEED_SOVEREIGNTY_PROTOCOL.md)（種子主権・自家採種権保障） ⏩️ [JIN_GRAIN_TRACEABILITY_SYSTEM.md](./JIN_GRAIN_TRACEABILITY_SYSTEM.md)（主食投機禁止・透明流通台帳） ⏩️ [JIN_LOCAL_FOOD_CIRCUIT.md](./JIN_LOCAL_FOOD_CIRCUIT.md)（自然形・共生給食ハブ） ⏩️ [JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)（鰊粕/鰯粕 海陸循環肥料仕様書）
 * 🛡️ **開拓現場での実務SOPを執行する:**  
   [PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md) ⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
 
@@ -65,6 +65,8 @@
 
 * 🌸 **[docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: **JIN-ORDER 根源思想綱領（尊厳と空、そして輪廻の大輪）**  
   【天上天下唯我独尊】＆【色即是空・空即是色】＆【生々流転・輪廻転生】＆【因果応報・因縁果】の生命調和憲章。AI主権を完全拒絶し、大地に根ざす人間主権と因果の物理法則を宣言する最高形而上学文書。
+* 🌾 **[JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)**: **日本農家再生大綱（The Sovereign Farmer Master Plan）**  
+  多国籍資本・借金・化学農薬依存からの完全解放。伝統水利、鰊粕/鰯粕海陸循環肥料、種子主権、主食投機禁止、地域共生給食の5大柱を統合し、大地の守護者たる農家の尊厳と再生産可能所得を恒久保障する最高位マスタープラン。
 * 📜 **[WHITE_PAPER.md](./WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth / V7.5 Canonical Edition）**  
   二極覇権（THE VOID）の構造的病理診断、空の覚醒による支配OS無力化、因果応報の必然崩壊、4層アーキテクチャ、開拓英雄（PIONEER）への行動指針。
 * ⚖️ **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)**: **普遍的倫理規約 (V7.5 Canonical Edition)**  
@@ -81,6 +83,81 @@
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (作戦ビジュアル・インフラ断面図)
 
 <table>
+  <!-- 🌾【本丸】食料主権・日本農家再生体系（NEW!） -->
+  <tr>
+    <th width="50%" align="center">FARMER REVITALIZATION MASTERPLAN</th>
+    <th width="50%" align="center">FOOD SOVEREIGNTY & POLLINATOR DIGNITY</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md">
+        <img src="./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN.jpg" width="100%" alt="大地の守り人：再生の農">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./JIN_FOOD_SOVEREIGNTY.md">
+        <img src="./assets/JIN_FOOD_SOVEREIGNTY.jpg" width="100%" alt="授粉者と自然の聖なる調和">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌾 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md">最高統治規範：日本農家再生大綱を開く</a></b>
+    </td>
+    <td align="center">
+      🐝 <b><a href="./JIN_FOOD_SOVEREIGNTY.md">食料主権・ミツバチ受粉尊厳憲章を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">GRAIN TRACEABILITY & ANTI-SPECULATION</th>
+    <th width="50%" align="center">LOCAL FOOD CIRCUIT & SYMBIOTIC MEALS</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./JIN_GRAIN_TRACEABILITY_SYSTEM.md">
+        <img src="./assets/JIN_GRAIN_TRACEABILITY_SYSTEM.jpg" width="100%" alt="倫理的で透明な穀物流通ネットワーク">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./JIN_LOCAL_FOOD_CIRCUIT.md">
+        <img src="./assets/JIN_LOCAL_FOOD_CIRCUIT.jpg" width="100%" alt="地産地消の循環、共生給食">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🍚 <b><a href="./JIN_GRAIN_TRACEABILITY_SYSTEM.md">主食流通公器化・投機遮断台帳を開く</a></b>
+    </td>
+    <td align="center">
+      🥕 <b><a href="./JIN_LOCAL_FOOD_CIRCUIT.md">自然形・地域共生給食ハブ仕様を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">OCEAN-TERRESTRIAL ORGANIC FERTILIZER</th>
+    <th width="50%" align="center">SEED SOVEREIGNTY & HERITAGE VAULT</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md">
+        <img src="./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.jpg" width="100%" alt="生命の輪廻：海洋・陸域生態系栄養循環図">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./JIN_SEED_SOVEREIGNTY_PROTOCOL.md">
+        <img src="./assets/JIN_SEED_SOVEREIGNTY_PROTOCOL.jpg" width="100%" alt="種子主権と生命の循環">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🐟 <b><a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md">鰊粕・鰯粕 海陸循環肥料仕様書を開く</a></b>
+    </td>
+    <td align="center">
+      🌱 <b><a href="./JIN_SEED_SOVEREIGNTY_PROTOCOL.md">公的種子主権・自家採種保障を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 既存インフラ・地政学マトリクス -->
   <tr>
     <th width="50%" align="center">GLOBAL ASI HEGEMONY MAP V7.5</th>
     <th width="50%" align="center">BHUTAN GMC GNH SHIELD V7.5</th>
@@ -630,6 +707,12 @@
 
 ### 【Layer 4: 地域主権・自律インフラ・生命循環防衛 (Regional Sovereignty, Samsara Commons & Utility)】
 
+* 🌾 **[JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)**: **(【本丸最高統治規範】日本農家再生大綱: 伝統工法灌漑・鰊粕/鰯粕海陸循環肥料・種子主権・主食投機禁止・地域共生給食の五大柱を統合し、農家の再生産可能公定所得と社会的尊厳を完全回復する大綱)**
+* 🐝 **[JIN_FOOD_SOVEREIGNTY.md](./JIN_FOOD_SOVEREIGNTY.md)**: **(食料主権・生命循環基本憲章: 輪廻転生遵守・ミツバチ等受粉昆虫へのUV透過/季節休眠尊厳保障・ネオニコチノイド系等神経毒＆抗生物質完全禁止・蜜源グリーンコリドー敷設)**
+* 🌱 **[JIN_SEED_SOVEREIGNTY_PROTOCOL.md](./JIN_SEED_SOVEREIGNTY_PROTOCOL.md)**: **(公的種子・在来種保護プロトコル: 多国籍バイオ資本の特許独占無効化・公的種子保護機構の再建・農家の自家採種/自家増殖の絶対保障・地域在来固定種シードバンク)**
+* 🍚 **[JIN_GRAIN_TRACEABILITY_SYSTEM.md](./JIN_GRAIN_TRACEABILITY_SYSTEM.md)**: **(主食流通公器化・穀物トレーサビリティ網: 米等の主食先物投機/仮需囲い込み禁止・田畑から台所の竈までを直結する分散型台帳・暴落時公定下限防衛ライン)**
+* 🥕 **[JIN_LOCAL_FOOD_CIRCUIT.md](./JIN_LOCAL_FOOD_CIRCUIT.md)**: **(地域共生給食・分配プロトコル: 規格外呼称の撤廃と「自然形」公認・JA全量共販縛り無効化・地域分散型食ハブ・中間下処理ステーションによるシニア/福祉手仕事雇用創出・学校給食フレックス献立)**
+* 🐟 **[JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)**: **(海陸循環型・完全国産有機肥料生産インフラ仕様書: 北前船の鰊粕/鰯粕の復権・水産残渣＆未利用海藻＆木質炭素の低温抽出複合発酵・土壌マイクロバイオーム増殖力価検定・海陸自立物流網)**
 * 🗾 **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](./JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: **(日本列島・地域別主権再生計画: 12地域侵食マトリクスと現場防衛SOP)**
 * 🌊 **[JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md](./JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md)**: **(自律分散型アンダーパス雨水流末処理 ＆ 流域土壌団粒浸透仕様書: 霞堤型多段スリット減勢・排水性路盤リニアバッファ・縁石サイドスリット・自律逆流防止フラップゲート・独立高圧バイパス導管・団粒構造スポンジ土壌・現場適応マトリクス)**
 * 🌊 **[JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md](./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md)**: **(井川式適応型循環水利 ＆ 四国多層ため池・生命力蓄電仕様書: 中世井川用水の落差3m重力循環思想・四国空海ため池の親池子池多層カスケード・植物維管束バイオサイフォン送水・池干しかいぼり底泥不溶性リン酸解放・IGS散乱場土壌水分3Dトモグラフィ・粗朶暗渠濾過・深層地下水揚水ゼロによる地球自転軸質量安定化)**
@@ -696,6 +779,6 @@
 
 ---
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
-`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.7 CANONICAL SUNYATA & SAMSARA CORE, 22 VOWS PROTOCOL & SOVEREIGN REBIRTH ACTIVE)`  
-`VERIFIED PERSISTENCE: SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, UNDERPASS-WATERSHED-DRAINAGE, PEDOLOGICAL-SPONGE-MATRIX, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL QUAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA, OCEANIC-ACUPUNCTURE-NODE, IGS-SCATTERING-TOMOGRAPHY, TSUNAMI-ZERO-ORDER-SENSING, BIO-SCATTERING-AI, YUKAWA-CASCADE-RESERVOIR, VASCULAR-SIPHON, SEDIMENT-PHOSPHATE-SAMSARA, AXIAL-MASS-STABILIZATION & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Universal Benevolence, Sunyata Awakening, Karmic Restoration, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara & Watershed Sovereignty.`
+`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V7.8 CANONICAL SUNYATA & SAMSARA CORE, 5-PILLAR FARMER SOVEREIGNTY, 22 VOWS PROTOCOL & LIVING CONTINUUM ACTIVE)`  
+`VERIFIED PERSISTENCE: SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, FARMER-REVITALIZATION-MASTERPLAN, FOOD-SOVEREIGNTY-CHARTER, POLLINATOR-DIGNITY-SHIELD, SEED-SOVEREIGNTY-PROTOCOL, GRAIN-TRACEABILITY-SYSTEM, ANTI-GRAIN-SPECULATION, LOCAL-FOOD-CIRCUIT, NATURAL-FORM-MEALS, MARINE-TERRESTRIAL-FERTILIZER, NISHIN-IWASHI-FERTILIZER, PEDOLOGICAL-MICROBIOME-BOOST, SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, UNDERPASS-WATERSHED-DRAINAGE, PEDOLOGICAL-SPONGE-MATRIX, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL QUAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA, OCEANIC-ACUPUNCTURE-NODE, IGS-SCATTERING-TOMOGRAPHY, TSUNAMI-ZERO-ORDER-SENSING, BIO-SCATTERING-AI, YUKAWA-CASCADE-RESERVOIR, VASCULAR-SIPHON, SEDIMENT-PHOSPHATE-SAMSARA, AXIAL-MASS-STABILIZATION & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Universal Benevolence, Sunyata Awakening, Karmic Restoration, Sovereign Farmer Dignity, Pollinator Resonance, Living Seed Continuity, Pure Marine-Terrestrial Samsara, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara & Watershed Sovereignty.`
