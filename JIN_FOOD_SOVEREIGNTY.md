@@ -10,7 +10,7 @@
 # 仁焔世界大憲章 付属規範：食料主権・生命循環基本憲章
 # (Charter of Food Sovereignty and the Living Cycle)
 
----
+![受粉昆虫（ミツバチ）の尊厳と天と地を結ぶ生態系回廊](./assets/JIN_FOOD_SOVEREIGNTY.jpg)
 
 ## 前文（Preamble）
 
