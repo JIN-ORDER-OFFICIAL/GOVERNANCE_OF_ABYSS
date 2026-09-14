@@ -9,6 +9,8 @@
 # GLOBAL ASI HEGEMONY MAP V8
 ## The Triad Frontier: Megawatts, Water Rights, and Advanced Silicon (2026-2027)
 
+![V8 評価フレームワーク](./assets/GLOBAL_ASI_HEGEMONY_MAP_V8_01.jpg)
+
 ### 1. V8 評価フレームワーク：「三位一体の物理制約（The Physical Triad）」
 従来のモデルパラメータや理論FLOPs信仰を排し、ASIの実効配備力を決定づける3つの物理指標を直交軸として定義する。
 
@@ -26,6 +28,8 @@
 ```
 ---
 
+![V8 評価フレームワーク](./assets/GLOBAL_ASI_HEGEMONY_MAP_V8_02.jpg)
+
 1. **Power & Grid Capacity（電力・系統連系）**:
    - 系統連系待ち年数、超高圧変電所トランス調達率、原発/SMRベースロードPPA比率。
 
@@ -39,6 +43,8 @@
 ---
 
 ### 2. V8 勢力図マトリクス（2026年最新詳細版）
+
+![V8 評価フレームワーク](./assets/GLOBAL_ASI_HEGEMONY_MAP_V8_03.jpg)
 
 | 陣営 / 地域 | ① 先端半導体・実装基盤 | ② 電力・系統グリッド（GW） | ③ 水消費・冷却負荷（WUE） | 地政学的脆弱性と戦略 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -66,6 +72,3 @@
 Supreme Judgment: Masano Takashi (The Guide)
 
 Executed by: JIN-ORDER-OFFICIAL
-
-
-
