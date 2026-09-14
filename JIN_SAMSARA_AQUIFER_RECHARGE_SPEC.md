@@ -23,6 +23,8 @@
 
 ## Ⅰ. 哲学的背景と地球物理学的クライシス（The Planetary Crisis）
 
+![全体イメージ](./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_01.jpg)
+
 ### 1. 「二酸化炭素単一史観」の欺瞞と、2兆トンの質量移動
 
 現代の環境政策はCO₂排出削減に偏重し、より致命的な物理的危機を見落としている。
@@ -41,6 +43,8 @@
 ---
 
 ## Ⅱ. 半導体・AIデータセンター向け「完全密閉型・無酸素加圧復水」アーキテクチャ
+
+![完全密閉型・無酸素加圧復水](./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_02.jpg)
 
 TSMCの「Direct-to-Silicon Liquid Cooling（直接シリコン水冷）」等のチップ直冷技術を取り込みつつ、工場外部への漏出・蒸発を完全に遮断する4段階クローズドループ・インフラ。
 
@@ -107,6 +111,8 @@ TSMCの「Direct-to-Silicon Liquid Cooling（直接シリコン水冷）」等�
 
 ## Ⅳ. 地上MAR（管理された帯水層かん養）× 伝統水利・田んぼダム
 
+![地上MAR](./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_03.jpg)
+
 深層注水井戸だけでなく、地表からの広域かん養機能を最大化し、地域の水循環全体を生命化する。
 
 ```text
@@ -133,6 +139,8 @@ TSMCの「Direct-to-Silicon Liquid Cooling（直接シリコン水冷）」等�
 ---
 
 ## Ⅴ. 散乱場理論（IGS）× 4D水循環シミュレーションによる不可逆監視台帳
+
+![散乱場理論](./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_04.jpg)
 
 サントリー・ゼネコン各社が採用する4D水循環解析（GETFLOWS）の予測値に、神戸大学・木村建次郎教授の「散乱場理論（IGS）」による実測電磁波3D透視を融合。
 
