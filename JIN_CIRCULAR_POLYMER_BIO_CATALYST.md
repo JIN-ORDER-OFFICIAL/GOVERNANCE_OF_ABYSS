@@ -10,6 +10,8 @@
 ## 仁焔世界大憲章 技術仕様：海陸共生型・酵素ケミカルリサイクル ＆ 分散型ポリマー循環インフラ仕様書
 ## (Specification for Ocean-Terrestrial Circulatory Polymer Depolymerization & Bio-Enzymatic Refinery)
 
+![プラント全体図](./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_01.jpg)
+
 ## 前文（Preamble）
 
 20世紀以降の人類文明を席巻した合成高分子（プラスチック）は、その強靭さと利便性の代償として、地球環境に分解不能なゴミの山と微小なマイクロプラスチックを撒き散らし、海洋生態系と人体の深部を侵食し続けている。<br>
@@ -67,6 +69,9 @@ JIN-ORDERはここに、カルタヘナ法を厳格に遵守した「無細胞�
 ## 第2章 分散型ケミカル解重合プロセス仕様 (Decentralized Chemical Depolymerization)
 
 ### 第4条（空気中湿気駆動型・常圧加水分解工法）
+
+![プラント全体図](./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_02.jpg)
+
 外部からの大量注水を排し、環境中の水分を利用して低環境負荷でモノマー化を達成する：
 
 1. **地域籾殻バイオ炭・モリブデン複合担体（Moly-Biochar Catalyst）**：
@@ -96,7 +101,7 @@ JIN-ORDERはここに、カルタヘナ法を厳格に遵守した「無細胞�
 
 1. **最適周波数（10GHz帯）共鳴加熱**：
    * プラスチック塊全体を無駄に加熱せず、触媒とエステル結合部分のみを選択的・局所的に励起するマイクロ波照射ユニットを併設。
-   * 従来の熱分解比でエネルギー消費を約70%削減し、反応速度を5倍以上に高速化する[cite: 1]。
+   * 従来の熱分解比でエネルギー消費を約70%削減し、反応速度を5倍以上に高速化する。
 
 ```text
 [使用済みPET / 海洋廃プラ] 
@@ -124,6 +129,9 @@ JIN-ORDERはここに、カルタヘナ法を厳格に遵守した「無細胞�
 ## 第3章 海洋・陸域分散回収 ＆ オンサイト完全分解仕様 (Ocean & Terrestrial Operations)
 
 ### 第7条（JIN-Ocean Life Vessel 船内マイクロプラスチック消化システム）
+
+![プラント全体図](./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_03.jpg)
+
 深海再生母艦（[JIN_OCEAN_LIFE_VESSEL.md](./JIN_OCEAN_LIFE_VESSEL.md)）の回収機構に本システムを直接搭載する：
 
 1. **多段サイクロン濾過 ＆ 微小プラ集積**：
