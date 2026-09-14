@@ -20,7 +20,7 @@
 [![Governance of Abyss](https://img.shields.io/badge/ARCHIVE-Governance%20of%20Abyss-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://governance-of-abyss.org)
 
 * ⏩️ **【JIN-ORDER 公式ポータル】**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star)
-* ⚖️ **【ライセンス規約】**: [JIN-ORDER Dual License V7.6 Canonical Edition (LICENSE.md)](./LICENSE.md)
+* ⚖️ **【ライセンス規約】**: [JIN-ORDER Dual License V8.0 Canonical Edition (LICENSE.md)](./LICENSE.md)
 * 🤝 **【知恵の合流・貢献指針】**: [CONTRIBUTING.md (現場所術寄託・倫理SOP)](./CONTRIBUTING.md)
 * 🚨 **【利権簒奪・無断仕様化 告発窓口】**: [監査・不正通報Issueテンプレート (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
@@ -883,7 +883,7 @@
 
 * **CFO Authority**: ライセンス契約および知的財産の活用審査は、CFO（最高財務責任者）が直接執り行います。
 * **Official Contact**: `jin.reparation.cfo@gmail.com`
-* **License Agreement**: [JIN-ORDER Global Humanity & Ethical Sovereign Dual License (V7.6 Canonical Edition)](./LICENSE.md)
+* **License Agreement**: [JIN-ORDER Global Humanity & Ethical Sovereign Dual License (V8.0 Canonical Edition)](./LICENSE.md)
 * **Pioneer Wisdom Integration**: [貢献・知恵合流ガイドライン (CONTRIBUTING.md)](./CONTRIBUTING.md)
 * **Violation & Audit Reporting**: [利権簒奪・無断仕様化 告発窓口 (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
