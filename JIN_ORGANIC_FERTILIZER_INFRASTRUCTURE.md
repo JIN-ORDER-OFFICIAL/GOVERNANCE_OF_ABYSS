@@ -54,7 +54,7 @@ JIN-ORDERはここに、国内の水産残渣・未利用魚、伝統の草木�
 
 ### 第3条（生体バイオ触媒：微細藻類ユーグレナ及び米麹資材）
 
-![生体バイオ触媒](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE_05.jpg)
+![生体バイオ触媒](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTUR_05.jpg)
 
 1. **細胞壁フリー微細藻類（Euglena gracilis）**：光合成により大気中CO₂を高効率固定して培養された微細藻類ユーグレナ。動物と植物の双方の性質を併せ持ち、硬いセルロース細胞壁を持たない生体資材。
 
@@ -66,7 +66,7 @@ JIN-ORDERはここに、国内の水産残渣・未利用魚、伝統の草木�
 
 ### 第4条（地域分散型「海陸共生発酵プラント」の構成）
 
-![地域分散型海陸共生発酵プラント](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE_02.jpg)
+![地域分散型海陸共生発酵プラント](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTUR_02.jpg)
 
 沿岸漁港後背地および主要農業地帯の結節点に、以下の工程を備えた分散型プラントを設置する：
 
@@ -91,7 +91,7 @@ JIN-ORDERはここに、国内の水産残渣・未利用魚、伝統の草木�
 
 2. **「みどり麹」バイオ急速発酵・可溶化工程（Bio-Catalytic Acceleration）**
 
-![みどり麹バイオ急速発酵](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE_03.jpg)
+![みどり麹バイオ急速発酵](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTUR_03.jpg)
 
    * **細胞壁ゼロによる酵素分解の超速化**：ユーグレナには強固な植物性細胞壁が存在しないため、米麹由来のアミラーゼ、プロテアーゼ、リパーゼ等の活性酵素群が瞬時に内部へ浸透・自己消化を促進する。
    * **鰊・鰯残渣の急速低分子化**：生粕に「みどり麹」を0.5〜1.0%添加することで、難分解性の魚肉タンパク質および硬質骨粉をアミノ酸・低分子ペプチド・可溶性リン酸へと劇的に早期分解（発酵立ち上がり時間を従来の3分の1へ短縮）。
@@ -107,7 +107,7 @@ JIN-ORDERはここに、国内の水産残渣・未利用魚、伝統の草木�
 
 ## 第3章 肥効成分及び土壌バイオーム基準（Vital Bio-Standard）
 
-![みどり麹バイオ急速発酵](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE_04.jpg)
+![みどり麹バイオ急速発酵](./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTUR_04.jpg)
 
 ### 第5条（自給三要素及び微量要素の基準値）
 
