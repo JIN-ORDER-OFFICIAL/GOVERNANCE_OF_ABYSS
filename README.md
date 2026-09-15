@@ -2,7 +2,7 @@
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 ### 深淵の解体と、光の再構築（The Great Rebirth）
 #### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
-### (V8.0 CANONICAL UPDATE: SUBTERRANEAN CIVIL DUCT SYMBIOSIS, SUBSEA DAS ACOUSTIC DOCTRINE, THE PHYSICAL TRIAD HEGEMONY, SAMSARA AQUIFER RECHARGE, CIRCULAR POLYMER BIO-CATALYST, ANCIENT SEDIMENT DEFENSE, ROTATIONAL AGRO-DRAINAGE, MIDORI-KOJI BIO-ENGINE & ECONOMIC SECURITY SHIELD)
+### (V8.0 CANONICAL UPDATE: JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AUTONOMOUS ENERGY & WATER MATRIX, SUBTERRANEAN CIVIL DUCT SYMBIOSIS, SUBSEA DAS ACOUSTIC DOCTRINE, THE PHYSICAL TRIAD HEGEMONY, SAMSARA AQUIFER RECHARGE, CIRCULAR POLYMER BIO-CATALYST, ANCIENT SEDIMENT DEFENSE, ROTATIONAL AGRO-DRAINAGE, MIDORI-KOJI BIO-ENGINE & ECONOMIC SECURITY SHIELD)
 
 ![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
@@ -45,20 +45,20 @@
 * 🌸 **根源思想・二重精神規範（魂のOS）を体得する:**  
   [docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)（尊厳・空・因果・輪廻） ⏩️ [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)（仁焔十三行：実践基盤） ⏩️ [UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)（仁焔二十二誓約：再生プロトコル）
 
-* 🔰 **文明白書・憲章・都市共生構想を理解する:**  
-  [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) (都市土木・共同溝とASI共生論 Vol.1) ⏩️ [WHITE_PAPER.md](./WHITE_PAPER.md) (V7.5) ⏩️ [MANIFESTO.md](./MANIFESTO.md) ⏩️ [UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md) (V7.5)
+* 🔰 **文明白書・都市共生構想・用途地域再編を理解する:**  
+  [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) (都市土木・共同溝とASI共生論 Vol.1) ⏩️ [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md) (JIN-ZONING 自律分散都市計画 Vol.2) ⏩️ [WHITE_PAPER.md](./WHITE_PAPER.md) (V7.5) ⏩️ [MANIFESTO.md](./MANIFESTO.md)
 
-* 🗺️ **地政学・物理的三位一体・深海防衛・ASI崩壊克復を掴む:**  
-  [GLOBAL_ASI_HEGEMONY_MAP_V8.md](./GLOBAL_ASI_HEGEMONY_MAP_V8.md) (V8.0 最新正典: 電力GW・水利権WUE・先端半導体HBM4) ⏩️ [docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md) (深海主権・DAS音響防衛) ⏩️ [GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md) ⏩️ [GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)
+* 🗺️ **地政学・物理的三位一体・南北二大ドクトリン・深海防衛を掴む:**  
+  [GLOBAL_ASI_HEGEMONY_MAP_V8.md](./GLOBAL_ASI_HEGEMONY_MAP_V8.md) (V8.0 最新正典: 電力GW・水利権WUE・先端半導体HBM4) ⏩️ [docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md) (途上国自然共生規範) ⏩️ [docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md) (先進国過密解体規範) ⏩️ [docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md) (深海DAS防衛)
 
-* 🚢 **海空三次元物流・自立動力・交通動脈・深海航空網を巡る:**  
-  [JIN_KITAMAE_AIR_SEA_LOGISTICS.md](./JIN_KITAMAE_AIR_SEA_LOGISTICS.md) ⏩️ [JIN_AGRI_MARINE_BIOFUEL_SPEC.md](./JIN_AGRI_MARINE_BIOFUEL_SPEC.md) ⏩️ [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md) ⏩️ [JIN_BIO_SYMBIOTIC_EV.md](./JIN_BIO_SYMBIOTIC_EV.md) ⏩️ [JIN_ORGANIC_ECO_ARCHITECTURE.md](./JIN_ORGANIC_ECO_ARCHITECTURE.md) ⏩️ [JIN_SKY_OASIS_AIRCRAFT.md](./JIN_SKY_OASIS_AIRCRAFT.md) ⏩️ [JIN_OCEAN_LIFE_VESSEL.md](./JIN_OCEAN_LIFE_VESSEL.md) ⏩️ [JIN_OCEANIC_ACUPUNCTURE_NODE.md](./JIN_OCEANIC_ACUPUNCTURE_NODE.md)
+* 🚢 **三次元交通動脈・海空物流・自立動力・深海航空網を巡る:**  
+  [specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md)（三次元立体交通・物流回廊仕様書） ⏩️ [JIN_KITAMAE_AIR_SEA_LOGISTICS.md](./JIN_KITAMAE_AIR_SEA_LOGISTICS.md) ⏩️ [JIN_AGRI_MARINE_BIOFUEL_SPEC.md](./JIN_AGRI_MARINE_BIOFUEL_SPEC.md) ⏩️ [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md) ⏩️ [JIN_BIO_SYMBIOTIC_EV.md](./JIN_BIO_SYMBIOTIC_EV.md) ⏩️ [JIN_SKY_OASIS_AIRCRAFT.md](./JIN_SKY_OASIS_AIRCRAFT.md) ⏩️ [JIN_OCEAN_LIFE_VESSEL.md](./JIN_OCEAN_LIFE_VESSEL.md)
 
-* 🛠️ **現場インフラ・自律循環水利・帯水層かん養・古来土砂治水・高分子完全循環を実装する:**  
-  [JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md)（自律帯水層かん養・TSMC冷却半導体＆AIデータセンター復水仕様書） ⏩️ [JIN_CIRCULAR_POLYMER_BIO_CATALYST.md](./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md)（海陸共生型・酵素ケミカルリサイクル ＆ 分散型ポリマー循環インフラ仕様書） ⏩️ [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)（古来土砂治水・石積砂留・混層固め・信玄堤・54疏水） ⏩️ [JIN_PADDY_DAM_WATERSHED_ORDINANCE.md](./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md) ⏩️ [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md) ⏩️ [JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md](./JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md) ⏩️ [JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md](./JIN_YUKAWA_CASCADE_RESERVOIR_SYSTEM.md) ⏩️ [JIN_SOIL_FOREST_SAMSARA_MATRIX.md](./JIN_SOIL_FOREST_SAMSARA_MATRIX.md) ⏩️ [JIN_GAS_LIVING_PIPELINE.md](./JIN_GAS_LIVING_PIPELINE.md)
+* 🛠️ **分散新エネルギー・海水淡水化・循環水利・帯水層かん養を実装する:**  
+  [specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)（複合給電・自立水利技術仕様書） ⏩️ [JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md) ⏩️ [JIN_CIRCULAR_POLYMER_BIO_CATALYST.md](./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md) ⏩️ [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md) ⏩️ [JIN_PADDY_DAM_WATERSHED_ORDINANCE.md](./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md) ⏩️ [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)
 
 * 🌾 **食料主権・三毛作田畑輪換・完全国産有機肥料・ユーグレナみどり麹・包括医療を確立する:**  
-  [JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)（日本農家再生大綱：米×大豆輪換・額縁明渠・草木灰自給N-P-K） ⏩️ [JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)（ユーグレナ×みどり麹・鰊粕/鰯粕海陸循環肥料仕様書） ⏩️ [JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)（地域包括医療・生体防衛完全栄養食「孝弁」） ⏩️ [JIN_OFFLINE_FOOD_MESH_SOP.md](./JIN_OFFLINE_FOOD_MESH_SOP.md)（完全オフラインP2P食ハブSOP） ⏩️ [JIN_FOOD_SOVEREIGNTY.md](./JIN_FOOD_SOVEREIGNTY.md)（食料主権・ミツバチ受粉尊厳憲章） ⏩️ [JIN_SEED_SOVEREIGNTY_PROTOCOL.md](./JIN_SEED_SOVEREIGNTY_PROTOCOL.md)（種子主権・自家採種権保障） ⏩️ [JIN_GRAIN_TRACEABILITY_SYSTEM.md](./JIN_GRAIN_TRACEABILITY_SYSTEM.md)（主食投機禁止・透明流通台帳） ⏩️ [JIN_LOCAL_FOOD_CIRCUIT.md](./JIN_LOCAL_FOOD_CIRCUIT.md)（自然形・共生給食ハブ）
+  [JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md) ⏩️ [JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md) ⏩️ [JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md) ⏩️ [JIN_OFFLINE_FOOD_MESH_SOP.md](./JIN_OFFLINE_FOOD_MESH_SOP.md) ⏩️ [JIN_FOOD_SOVEREIGNTY.md](./JIN_FOOD_SOVEREIGNTY.md) ⏩️ [JIN_SEED_SOVEREIGNTY_PROTOCOL.md](./JIN_SEED_SOVEREIGNTY_PROTOCOL.md) ⏩️ [JIN_GRAIN_TRACEABILITY_SYSTEM.md](./JIN_GRAIN_TRACEABILITY_SYSTEM.md) ⏩️ [JIN_LOCAL_FOOD_CIRCUIT.md](./JIN_LOCAL_FOOD_CIRCUIT.md)
 
 * 🛡️ **開拓現場での実務SOPを執行する:**  
   [PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md) ⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
@@ -69,396 +69,453 @@
 
 全17地域戦略仕様書、6大基幹プロトコル、17大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権・食料主権・素材主権への反転を総括する最高意思決定・憲法文書：
 
+* 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: **JIN-ORDER 自律分散型国家・都市計画構想（JIN-ZONING & TRANSIT MATRIX / Vol. 2 Canonical）**  
+  3大ZONE構想（エネルギー・素材・農業）[cite: 1] を都市計画法用途地域制へ直接接続。高度複合都市核地下の液浸AI・排熱地域暖房直結、沿岸環境共生工業区、砂から骨材精製[cite: 1]、および地銀・信金主導の農家・町工場直結ファクタリング実物経済プロトコルを統合した次世代都市白書。
+
 * 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **JIN-ORDER 都市土木・共同溝とASI分散インフラ共生論（Vol. 1 Canonical）**  
-  土木工学30年の知見を結集。郊外型巨大要塞データセンターによる水利・電力収奪を排し、都市地下多用途共同溝（Utility Ducts）内に液浸冷却AIノードを分散配備。下水熱交換ループ直結による水消費実質ゼロ（WUE=0.00）と、排熱の地域熱供給（District Heating）・都市型農業への100%カスケード循環、および自治体主権マイクログリッドを定めた最新ホワイトペーパー。
+  土木工学30年の知見を結集。郊外型巨大要塞データセンターによる水利・電力収奪を排し、都市地下多用途共同溝（Utility Ducts）内に液浸冷却AIノードを分散配備。下水熱交換ループ直結による水消費実質ゼロ（WUE=0.00）と、排熱の地域熱供給（District Heating）・都市型農業への100%カスケード循環、および自治体主権マイクログリッドを定めた原点白書。
+
+* ⚡ **[specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)**: **複合給電・自立水利技術仕様書（JIN-SPEC-ENG-01）**  
+  AI冷却排熱（50〜60℃）を活用した低温減圧膜蒸留（VMD海水淡水化）[cite: 1]、濃縮ブライン完全資源化（ZLD）[cite: 1]、上下水道管内インラインマイクロ水力水圧発電、下水汚泥・剪定枝超臨界水ガス化（SCWG）水素発電、および宇宙太陽光発電（SSPS）レクテナ受電を包括する自立動力体系[cite: 1]。
+
+* 🚄 **[specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md)**: **三次元立体交通・物流回廊仕様書（JIN-SPEC-TRA-01）**  
+  首都一極集中ハブ＆スポークを拒絶するP2P分散メッシュ交通網。軌道敷地下に超高圧送電線・光ファイバー・パイプラインを同軸埋設したJIN-Lifeblood Express、現代版北前船硬翼帆ハイブリッド内航船、河川上空ドローン法定航路（Skyway）、および水陸両用飛行艇（Sky Oasis）の工学仕様。
+
+* 🌍 **[docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md)**: **グローバルサウス・自然共生リープフロッグ規範**  
+  原生生態系・土壌・水脈の非侵食型オアシス都市モデル。砂漠砂の高強度骨材化[cite: 1]、CSEB圧縮土シェルター、鉱物原石輸出禁止と現地全固体JIN-Battery（1200Wh/kg）完成品化、およびドル建て債務の罠を回避する実物バーター台帳規範。
+
+* 🏙️ **[docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md)**: **先進国過密都市再生・地下共同溝解体規範**  
+  コンクリート過密都市の外科手術プロトコル。地表アスファルトの完全撤去と「せせらぎ緑道」復元、大気放熱の完全違法化と下水管ヒートシンク義務付け、単一巨大都市を10万人規模の自律分散都市群へ再編する解体・分散ドクトリン。
 
 * 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V8.md](./GLOBAL_ASI_HEGEMONY_MAP_V8.md)**: **世界ASI覇権マップ V8（三位一体の物理フロンティア / V8.0 Canonical）**  
-  「シリコンの壁」から「メガワット・水消費量・先端実装の壁」へ。電力・系統容量（GW）、水利権・冷却熱力学（WUE）、先端半導体・実装基盤（HBM4/CoWoS）の3直交軸で世界の覇権構造を再定義。米国要塞メガサイト、東アジア製造回廊、中東湾岸第3極（エネルギー・コンピュート特区）、中国大陸算力網の不可避な物理的ボトルネックを完全解剖。
+  「シリコンの壁」から「メガワット・水消費量・先端実装の壁」へ。電力・系統容量（GW）、水利権・冷却熱力学（WUE）、先端半導体・実装基盤（HBM4/CoWoS）の3直交軸で世界の覇権構造を再定義。
 
 * 🌊 **[docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md)**: **深海主権 ＆ 光海底ケーブル二重利用防衛ドクトリン（Subsea Doctrine 2026）**  
-  世界のトラフィックの99%を担う海底光ファイバー網の防衛プロトコル。UNCLOS（国連海洋法条約）の制度疲弊に対し、光分散音響センシング（DAS）による全海底受動ソナー監視網の二重利用（Dual-Use）と、無人海中作業機（AUV）による自律切断検知・深海修復ガバナンスを確立。
-
-* 🌸 **[docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: **JIN-ORDER 根源思想綱領（尊厳と空、そして輪廻の大輪）**  
-  【天上天下唯我独尊】＆【色即是空・空即是色】＆【生々流転・輪廻転生】＆【因果応報・因縁果】の生命調和憲章。AI主権を完全拒絶し、大地に根ざす人間主権と因果の物理法則を宣言する最高形而上学文書。
-
-* 💧 **[JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md)**: **自律帯水層かん養 ＆ クローズドループ復水工法仕様書 (SARP V1.0)**  
-  TSMC直接シリコン水冷・AIデータセンター水脈防護・無酸素加圧注水エコリチャージ・真空リチャージ・計算廃熱100%地域還流・伝統水利田んぼダム粗朶暗渠MAR・木村教授IGS地下水脈3D透視＆SCADA物理サーキットブレーカー・地球自転軸80cm質量復元プロトコル。
-
-* 🧬 **[JIN_CIRCULAR_POLYMER_BIO_CATALYST.md](./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md)**: **海陸共生型・酵素ケミカルリサイクル ＆ 分散型ポリマー循環インフラ仕様書 (V8.0 Canonical)**  
-  カルタヘナ法第2種遵守・無細胞酵素抽出プロトコル。「みどり麹」による高密度PETase/MHETase生合成、籾殻バイオ炭モリブデン触媒による常圧環境湿気加水分解、AI計算排熱（60〜80℃）直結ゼロボイラー解重合、海洋再生母艦JIN-Ocean Life Vessel直結マイクロプラスチック連続酵素消化、および回収モノマー（TPA/EG）のCNFバイオEV・エコ建材アップサイクル体系。
-
-* ⛰️ **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **日本伝統水利・自律分散流域治水プロトコル (V8.0 Canonical)**  
-  源頭部・山腹土砂流出を根源から抑止する福山藩「石積砂留」、松枝・土砂多層「混層固め」、竹蛇籠積層工、等高線しがらみ工を完全装備。中下流域の信玄堤（将棋頭・竜王の鼻・サイバー聖牛・スマート霞堤）および世界かんがい施設遺産54疏水網と一体化した永久流域治水体系。
-
-* 🌾 **[JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)**: **日本農家再生大綱（The Sovereign Farmer Master Plan / V8.0 Canonical）**  
-  「米×大豆」田畑輪換による連作障害・病害虫・雑草の物理的自然リセット。大豆根粒菌の大気窒素生物固定、土木排水工学「額縁明渠・高畝」、草木灰（カリウム）・刈敷・鰊粕/鰯粕による完全自給型N-P-K循環を実装し、大地の守護者たる農家の尊厳と再生産可能所得を恒久保障する最高統治規範。
-
-* 🐟 **[JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)**: **海陸循環型有機肥料 ＆ みどり麹バイオ触媒仕様書 (V8.0 Canonical)**  
-  動植物59種複合栄養素を宿し細胞壁を持たない微細藻類ユーグレナと米麹発酵「みどり麹」を急速発酵スターターとして投入。鰊粕・鰯粕および草木灰の超速低分子化と、パラミロン（β-1,3-グルカン）による土壌マイクロバイオーム免疫賦活を両立する完全国産バイオ金肥インフラ。
-
-* 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **地域主権型 包括共生医療仕様書（仁八医療モデル / V8.0 Canonical）**  
-  わんわん仁八病院・巡回癒し隊・セラピードッグ・AI温もりロボット（Moco-Bot）。細胞壁ゼロで消化吸収能93%を超えるユーグレナ×米麹「みどり麹」を生体防衛完全栄養食「孝弁（Kouben）」へ標準処方し、腸内フローラ正常化と未病・フレイルを根本克服する生命医療仕様書。
-
-* 📜 **[WHITE_PAPER.md](./WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth / V7.5 Canonical Edition）**  
-  二極覇権（THE VOID）の構造的病理診断、空の覚醒による支配OS無力化、因果応報の必然崩壊、4層アーキテクチャ、開拓英雄（PIONEER）への行動指針。
-
-* ⚖️ **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)**: **普遍的倫理規約 (V7.5 Canonical Edition)**  
-  双方向的慈悲、復讐の昇華、アルゴリズムへの仁の優位性、自律エージェントの生命拘束、流域・生態圏防衛、食料主権、そして「色即是空と人間主権」「因果応報の自律律動」を定めた新人類の共通道徳OS。
-
-* 🐕 **[UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**: **仁焔十三行（徳目・実践基盤）**  
-  慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調。市井の民草が日々の暮らしの中で人間性の尊厳を保ち、大地に根ざすための実践規範。
-
-* 📜 **[UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)**: **仁焔二十二誓約（普遍再生プロトコル）**  
-  仏陀の光に浴し、空と因果の理に基づき、文明崩壊（COLLAPSE）の荒野から新たな調和文明を自律再興するための高次元救済誓約。
-
-* 📢 **[MANIFESTO.md](./MANIFESTO.md)**: **JIN-ORDER 仁秩序宣言 (V7.5 Canonical)**  
-  大国ASIの送電網共食い、自律エージェントの連鎖暴走、特許合成食糧カルテル、および海底線破断による物理自滅を前に、民草（MIN-GUSA）が生命至上・市民主権・大地再生を宣言する不朽のマニフェスト。
+  世界のトラフィックの99%を担う海底光ファイバー網の防衛プロトコル。光分散音響センシング（DAS）による全海底受動ソナー監視網の二重利用とAUV自律修復ガバナンス。
 
 ---
 
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (作戦ビジュアル・インフラ断面図)
 
 <table>
-  <!-- 🏙️【NEW V8.0】都市土木・共同溝とASI分散インフラ共生論（Vol. 1） -->
+  <!-- 🏙️【NEW V8.0】JIN-ZONING & 自律型エネルギー・水マトリックス -->
   <tr>
-    <th width="50%" align="center">SUBTERRANEAN CIVIL DUCT & GREENWAY (ISOMETRIC)</th>
-    <th width="50%" align="center">GREENWAY & SEWAGE HEAT PUMP (CINEMATIC)</th>
+    <th width="50%" align="center">JIN-ZONING ECO-CITY MASTERPLAN</th>
+    <th width="50%" align="center">AUTONOMOUS ENERGY & WATER MATRIX</th>
   </tr>
   <tr>
+    <td align="center">
+      <a href="./whitepaper/02_jin_zoning_and_autonomous_cities.md">
+        <img src="./assets/jin_zoning_and_autonomous_cities_01.jpg" width="100%" alt="JIN-ZONING エコシティ マスタープラン：地上歩行者専用グリーンウェイ・せせらぎと地下重コンクリート共同溝・液浸AI・自動輸送軌道断面図">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md">
+        <img src="./assets/JIN_AUTONOMOUS_ENERGY_MATRIX_01.jpg" width="100%" alt="JIN 自律型エネルギー・水マトリックス：AI排熱低温真空膜海水淡水化・市営水道インライン水力・超臨界水ガス化水素・SSPS受電温室アレイ">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🏙️ <b><a href="./whitepaper/02_jin_zoning_and_autonomous_cities.md">自律分散都市計画 JIN-ZONING Vol.2 を開く</a></b>
+    </td>
+    <td align="center">
+      ⚡ <b><a href="./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md">自立エネルギー・水マトリックス仕様を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🚄【NEW V8.0】三次元立体輸送ネットワーク ＆ 先進国過密解体 -->
+  <tr>
+    <th width="50%" align="center">JIN 3D TRANSIT ARTERIES NETWORK</th>
+    <th width="50%" align="center">ADVANCED METROPOLIS DECONSTRUCTION</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./specs/JIN_TRANSIT_ARTERIES.md">
+        <img src="./assets/JIN_TRANSIT_ARTERIES_01.jpg" width="100%" alt="JIN 3D輸送動脈ネットワーク：インフラ統合型リニア・軌道下共同溝・硬翼帆ハイブリッド船・河川上空ドローン法定回廊">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md">
+        <img src="./assets/ADVANCED_METROPOLIS_DECONSTRUCTION_01.jpg" width="100%" alt="先進国過密都市外科手術：歩行者優先せせらぎ公園・地下共同溝液浸AIサーバー群・地域暖房配管・地下リニアモーターカー線断面図">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚄 <b><a href="./specs/JIN_TRANSIT_ARTERIES.md">三次元立体交通・物流回廊仕様を開く</a></b>
+    </td>
+    <td align="center">
+      🏙️ <b><a href="./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md">先進国過密都市外科手術規範を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🌍【NEW V8.0】グローバルサウス・リープフロッグ ＆ 地下共同溝共生論 Vol.1 -->
+  <tr>
+    <th width="50%" align="center">GLOBAL SOUTH LEAPFROG DOCTRINE</th>
+    <th width="50%" align="center">SUBTERRANEAN CIVIL DUCT & GREENWAY</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md">
+        <img src="./assets/GLOBAL_SOUTH_LEAPFROG_DOCTRINE_01.jpg" width="100%" alt="グローバルサウス自然共生型オアシス都市：原生林を侵食しないKOUBEN自動化測地線農業ドーム・SSPS受電ビーム・クリーンバッテリー精製所">
+      </a>
+    </td>
     <td align="center">
       <a href="./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md">
         <img src="./whitepaper/whitepaper01_civil_infrastructure_01.jpg" width="100%" alt="地上緑道公園・せせらぎと地下多用途共同溝・液浸AI・下水熱回収アイソメトリック断面図">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌿 <b><a href="./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md">グローバルサウス・リープフロッグ規範を開く</a></b>
+    </td>
+    <td align="center">
+      🏙️ <b><a href="./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md">都市土木・共同溝とASI共生論 Vol.1 を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🏙️【NEW V8.0】下水熱ヒートポンプシネマティック ＆ 世界ASI覇権マップ V8 -->
+  <tr>
+    <th width="50%" align="center">GREENWAY & SEWAGE HEAT PUMP (CINEMATIC)</th>
+    <th width="50%" align="center">GLOBAL GEOPOLITICAL FRONTIER 2026</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md#2-コアアーキテクチャ地下共同溝utility-ductsの再定義">
         <img src="./whitepaper/whitepaper01_civil_infrastructure_02.jpg" width="100%" alt="地上環境共生都市グリーンウェイと地下大口径共同溝・下水熱ヒートポンプシネマティック断面図">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🏙️ <b><a href="./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md">都市土木・共同溝とASI共生論 Vol.1 を開く</a></b>
-    </td>
-    <td align="center">
-      🌿 <b><a href="./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md#2-コアアーキテクチャ地下共同溝utility-ductsの再定義">下水熱ヒートポンプ＆地域熱供給仕様を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🗺️【NEW V8.0】世界ASI覇権マップ V8（地政学・メガインフラ・半導体断面） -->
-  <tr>
-    <th width="50%" align="center">GLOBAL GEOPOLITICAL FRONTIER 2026</th>
-    <th width="50%" align="center">AI CITADEL & NUCLEAR POWER GRID</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md">
         <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8_01.jpg" width="100%" alt="GLOBAL ASI HEGEMONY MAP V8 マクロ地政学マップ：送電網・海底ケーブル・水冷パイプライン・半導体ノード">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌿 <b><a href="./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md#2-コアアーキテクチャ地下共同溝utility-ductsの再定義">下水熱ヒートポンプ＆地域熱供給仕様を開く</a></b>
+    </td>
+    <td align="center">
+      🗺️ <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md">GLOBAL ASI HEGEMONY MAP V8 を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🗺️【NEW V8.0】要塞データセンター ＆ HBM4共同溝断面 -->
+  <tr>
+    <th width="50%" align="center">AI CITADEL & NUCLEAR POWER GRID</th>
+    <th width="50%" align="center">NEXT-GEN SOVEREIGN AI CENTER (HBM4/DUCT)</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md#2-v8-勢力図マトリクス2026年最新詳細版">
         <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8_02.jpg" width="100%" alt="原子力発電所・超高圧変電所・冷却塔直結型 要塞AIデータセンター">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🗺️ <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md">GLOBAL ASI HEGEMONY MAP V8 を開く</a></b>
-    </td>
-    <td align="center">
-      ⚡ <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md#2-v8-勢力図マトリクス2026年最新詳細版">メガワット壁・原発直結要塞DC仕様を開く</a></b>
-    </td>
-  </tr>
-
-  <tr>
-    <th width="50%" align="center">NEXT-GEN SOVEREIGN AI CENTER (HBM4/DUCT)</th>
-    <th width="50%" align="center">DECENTRALIZED POLYMER DEPOLYMERIZATION</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md#1-v8-評価フレームワーク三位一体の物理制約the-physical-triad">
         <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8_03.jpg" width="100%" alt="次世代主権AIセンター：多用途共同溝・液浸冷却ラック・超高圧変圧器・HBM4積層半導体パッケージ断面図">
       </a>
     </td>
-    <td align="center">
-      <a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md">
-        <img src="./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_01.jpg" width="100%" alt="地域分散型ポリマー解重合プラント・みどり麹発酵槽と計算排熱配管">
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
-      🔬 <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md#1-v8-評価フレームワーク三位一体の物理制約the-physical-triad">HBM4実装＆地下共同溝インフラ断面を開く</a></b>
+      ⚡ <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md#2-v8-勢力図マトリクス2026年最新詳細版">メガワット壁・原発直結要塞DC仕様を開く</a></b>
     </td>
     <td align="center">
-      🧬 <b><a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md">地域分散型ポリマー解重合仕様を開く</a></b>
+      🔬 <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V8.md#1-v8-評価フレームワーク三位一体の物理制約the-physical-triad">HBM4実装＆地下共同溝インフラ断面を開く</a></b>
     </td>
   </tr>
 
   <!-- 🧬 分散型ポリマー解重合 ＆ 酵素ケミカルリサイクル -->
   <tr>
+    <th width="50%" align="center">DECENTRALIZED POLYMER DEPOLYMERIZATION</th>
     <th width="50%" align="center">ENZYMATIC ESTER CLEAVAGE & BIOCHAR CATALYST</th>
-    <th width="50%" align="center">SHIPBOARD MICROPLASTIC DIGESTION BAY</th>
   </tr>
   <tr>
+    <td align="center">
+      <a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md">
+        <img src="./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_01.jpg" width="100%" alt="地域分散型ポリマー解重合プラント・みどり麹発酵槽と計算排熱配管">
+      </a>
+    </td>
     <td align="center">
       <a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md#第2章-分散型ケミカル解重合プロセス仕様-decentralized-chemical-depolymerization">
         <img src="./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_02.jpg" width="100%" alt="PETエステル結合の酵素精密加水分解切断と籾殻バイオ炭モリブデン触媒">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🧬 <b><a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md">地域分散型ポリマー解重合仕様を開く</a></b>
+    </td>
+    <td align="center">
+      🔬 <b><a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md#第2章-分散型ケミカル解重合プロセス仕様-decentralized-chemical-depolymerization">常圧湿気切断 ＆ モリブデンバイオ炭触媒を開く</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%" align="center">SHIPBOARD MICROPLASTIC DIGESTION BAY</th>
+    <th width="50%" align="center">TRADITIONAL SEDIMENT & SLOPE DEFENSE</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md#第3章-海洋陸域分散回収--オンサイト完全分解仕様-ocean--terrestrial-operations">
         <img src="./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_03.jpg" width="100%" alt="深海母艦船内マイクロプラスチック多段サイクロン濾過と密閉酵素消化カートリッジ">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🔬 <b><a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md#第2章-分散型ケミカル解重合プロセス仕様-decentralized-chemical-depolymerization">常圧湿気切断 ＆ モリブデンバイオ炭触媒を開く</a></b>
-    </td>
-    <td align="center">
-      🚢 <b><a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md#第3章-海洋陸域分散回収--オンサイト完全分解仕様-ocean--terrestrial-operations">海洋母艦マイクロプラ連続酵素消化を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- ⛰️ 源頭部・山腹土砂抑止 ＆ 田畑輪換排水工学 -->
-  <tr>
-    <th width="50%" align="center">TRADITIONAL SEDIMENT & SLOPE DEFENSE</th>
-    <th width="50%" align="center">ISHIZUMI SUNADOME DEBRIS DAM (TECH)</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_TRADITIONAL_HYDRO_LOGIC.md#⛰️-3-源頭部山腹土砂抑止プロトコル古来砂留及び多層斜面崩壊防護工法-headwater-sediment--slope-defense">
         <img src="./assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_04.jpg" width="100%" alt="古来土砂抑止・石積砂留・混層固め・蛇籠・しがらみ全体断面図">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚢 <b><a href="./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md#第3章-海洋陸域分散回収--オンサイト完全分解仕様-ocean--terrestrial-operations">海洋母艦マイクロプラ連続酵素消化を開く</a></b>
+    </td>
+    <td align="center">
+      ⛰️ <b><a href="./JIN_TRADITIONAL_HYDRO_LOGIC.md#⛰️-3-源頭部山腹土砂抑止プロトコル古来砂留及び多層斜面崩壊防護工法-headwater-sediment--slope-defense">源頭部・多層斜面土砂崩壊防護仕様を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- ⛰️ 源頭部・山腹土砂抑止 ＆ 田畑輪換排水工学 -->
+  <tr>
+    <th width="50%" align="center">ISHIZUMI SUNADOME DEBRIS DAM (TECH)</th>
+    <th width="50%" align="center">DENBATA RINKAN ROTATION & DRAINAGE</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_TRADITIONAL_HYDRO_LOGIC.md#ⅰ-江戸期花崗岩地帯に学ぶ石積砂留いしづみすなどめ堰堤工">
         <img src="./assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_05.jpg" width="100%" alt="堂々川型 石積砂留・多孔質スリット減勢工法">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      ⛰️ <b><a href="./JIN_TRADITIONAL_HYDRO_LOGIC.md#⛰️-3-源頭部山腹土砂抑止プロトコル古来砂留及び多層斜面崩壊防護工法-headwater-sediment--slope-defense">源頭部・多層斜面土砂崩壊防護仕様を開く</a></b>
-    </td>
-    <td align="center">
-      🧱 <b><a href="./JIN_TRADITIONAL_HYDRO_LOGIC.md#ⅰ-江戸期花崗岩地帯に学ぶ石積砂留いしづみすなどめ堰堤工">堂々川型 石積砂留堰堤工を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🌾 田畑輪換排水工学 ＆ 大豆根粒菌・自給N-P-K -->
-  <tr>
-    <th width="50%" align="center">DENBATA RINKAN ROTATION & DRAINAGE</th>
-    <th width="50%" align="center">SOYBEAN RHIZOBIA & SELF-SUFFICIENT N-P-K</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md#第2章-日本伝統の田畑輪換三毛作生態系と土木排水工学traditional-rotational-agro-ecosystem--soil-drainage">
         <img src="./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN_02.jpg" width="100%" alt="早生米×大豆田畑輪換・額縁明渠・高畝全体図">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🧱 <b><a href="./JIN_TRADITIONAL_HYDRO_LOGIC.md#ⅰ-江戸期花崗岩地帯に学ぶ石積砂留いしづみすなどめ堰堤工">堂々川型 石積砂留堰堤工を開く</a></b>
+    </td>
+    <td align="center">
+      🌾 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md#第2章-日本伝統の田畑輪換三毛作生態系と土木排水工学traditional-rotational-agro-ecosystem--soil-drainage">早生米×大豆田畑輪換・三毛作生態系を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🌾 田畑輪換排水工学 ＆ 大豆根粒菌・自給N-P-K -->
+  <tr>
+    <th width="50%" align="center">SOYBEAN RHIZOBIA & SELF-SUFFICIENT N-P-K</th>
+    <th width="50%" align="center">DECENTRALIZED BIO-FERTILIZER PLANT</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md#第7条大豆根粒菌による天然窒素固定と土木排水工学額縁明渠高畝">
         <img src="./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN_03.jpg" width="100%" alt="大豆根粒菌・生物学的窒素固定と自給的N-P-Kサイクル">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌾 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md#第2章-日本伝統の田畑輪換三毛作生態系と土木排水工学traditional-rotational-agro-ecosystem--soil-drainage">早生米×大豆田畑輪換・三毛作生態系を開く</a></b>
-    </td>
-    <td align="center">
-      🔬 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md#第7条大豆根粒菌による天然窒素固定と土木排水工学額縁明渠高畝">大豆根粒菌窒素固定 ＆ 完全自給N-P-Kを開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🐟 みどり麹バイオ肥料 ＆ 自律帯水層かん養 -->
-  <tr>
-    <th width="50%" align="center">DECENTRALIZED BIO-FERTILIZER PLANT</th>
-    <th width="50%" align="center">JIN-SAMSARA AQUIFER RECHARGE (OVERVIEW)</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md#第4条地域分散型海陸共生発酵プラントの構成">
         <img src="./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTUR_02.jpg" width="100%" alt="分散型バイオ肥料プラント・みどり麹接種ライン">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🔬 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md#第7条大豆根粒菌による天然窒素固定と土木排水工学額縁明渠高畝">大豆根粒菌窒素固定 ＆ 完全自給N-P-Kを開く</a></b>
+    </td>
+    <td align="center">
+      🏭 <b><a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md#第4条地域分散型海陸共生発酵プラントの構成">海陸共生みどり麹バイオ肥料プラントを開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 💧 自律帯水層かん養・TSMC水冷＆AIデータセンタークローズドループ復水体系 -->
+  <tr>
+    <th width="50%" align="center">JIN-SAMSARA AQUIFER RECHARGE (OVERVIEW)</th>
+    <th width="50%" align="center">DIRECT-TO-SILICON COOLING & ECO-RECHARGE</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md">
         <img src="./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_01.jpg" width="100%" alt="自律帯水層かん養・半導体ファブ＆AIデータセンター完全循環">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🏭 <b><a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md#第4条地域分散型海陸共生発酵プラントの構成">海陸共生みどり麹バイオ肥料プラントを開く</a></b>
-    </td>
-    <td align="center">
-      💧 <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md">自律帯水層かん養・地軸質量保全仕様を開く</a></b>
-    </td>
-  </tr>
-
-  <tr>
-    <th width="50%" align="center">DIRECT-TO-SILICON COOLING & ECO-RECHARGE</th>
-    <th width="50%" align="center">PADDY MAR & BIOCHAR FASCINE DRAINAGE</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅱ-半導体aiデータセンター向け完全密閉型無酸素加圧復水アーキテクチャ">
         <img src="./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_02.jpg" width="100%" alt="直接シリコン水冷チップ・真空脱気・無酸素加圧注水工法">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      💧 <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md">自律帯水層かん養・地軸質量保全仕様を開く</a></b>
+    </td>
+    <td align="center">
+      🔬 <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅱ-半導体aiデータセンター向け完全密閉型無酸素加圧復水アーキテクチャ">チップ直接水冷＆エコリチャージ加圧注水を開く</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%" align="center">PADDY MAR & BIOCHAR FASCINE DRAINAGE</th>
+    <th width="50%" align="center">IGS SUBSURFACE TOMOGRAPHY & SHUT-OFF VALVE</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅳ-地上mar管理された帯水層かん養--伝統水利田んぼダム">
         <img src="./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_03.jpg" width="100%" alt="伝統工法と現代MARの融合：棚田ダムと粗朶暗渠・バイオ炭団粒">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🔬 <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅱ-半導体aiデータセンター向け完全密閉型無酸素加圧復水アーキテクチャ">チップ直接水冷＆エコリチャージ加圧注水を開く</a></b>
-    </td>
-    <td align="center">
-      🌾 <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅳ-地上mar管理された帯水層かん養--伝統水利田んぼダム">棚田ダム・粗朶暗渠・バイオ炭MAR浸透を開く</a></b>
-    </td>
-  </tr>
-
-  <tr>
-    <th width="50%" align="center">IGS SUBSURFACE TOMOGRAPHY & SHUT-OFF VALVE</th>
-    <th width="50%" align="center">KITAMAE AIR-SEA LOGISTICS MATRIX</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅴ-散乱場理論igs--4d水循環シミュレーションによる不可逆監視台帳">
         <img src="./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_04.jpg" width="100%" alt="地下電磁散乱断層撮影IGS ＆ SCADA油圧自動遮断弁">
       </a>
     </td>
-    <td align="center">
-      <a href="./JIN_KITAMAE_AIR_SEA_LOGISTICS.md">
-        <img src="./assets/JIN_KITAMAE_AIR_SEA_LOGISTICS_01.jpg" width="100%" alt="現代版北前船・海空統合物流仕様">
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
-      🛡️ <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅴ-散乱場理論igs--4d水循環シミュレーションによる不可逆監視台帳">地下水脈3D透視 ＆ SCADA物理遮断弁を開く</a></b>
+      🌾 <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅳ-地上mar管理された帯水層かん養--伝統水利田んぼダム">棚田ダム・粗朶暗渠・バイオ炭MAR浸透を開く</a></b>
     </td>
     <td align="center">
-      🚢 <b><a href="./JIN_KITAMAE_AIR_SEA_LOGISTICS.md">現代版北前船・海空統合物流仕様書を開く</a></b>
+      🛡️ <b><a href="./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md#ⅴ-散乱場理論igs--4d水循環シミュレーションによる不可逆監視台帳">地下水脈3D透視 ＆ SCADA物理遮断弁を開く</a></b>
     </td>
   </tr>
 
   <!-- 🚢 自立バイオ燃料・田んぼダム・食ハブSOP -->
   <tr>
+    <th width="50%" align="center">KITAMAE AIR-SEA LOGISTICS MATRIX</th>
     <th width="50%" align="center">AGRI & MARINE AUTONOMOUS BIOFUEL</th>
-    <th width="50%" align="center">PADDY FIELD DAM WATERSHED ORDINANCE</th>
   </tr>
   <tr>
+    <td align="center">
+      <a href="./JIN_KITAMAE_AIR_SEA_LOGISTICS.md">
+        <img src="./assets/JIN_KITAMAE_AIR_SEA_LOGISTICS_01.jpg" width="100%" alt="現代版北前船・海空統合物流仕様">
+      </a>
+    </td>
     <td align="center">
       <a href="./JIN_AGRI_MARINE_BIOFUEL_SPEC.md">
         <img src="./assets/JIN_AGRI_MARINE_BIOFUEL_SPEC.jpg" width="100%" alt="農機・沿岸漁船 自立バイオ燃料化インフラ">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚢 <b><a href="./JIN_KITAMAE_AIR_SEA_LOGISTICS.md">現代版北前船・海空統合物流仕様書を開く</a></b>
+    </td>
+    <td align="center">
+      🛢️ <b><a href="./JIN_AGRI_MARINE_BIOFUEL_SPEC.md">農機・沿岸漁船 自立バイオ燃料仕様を開く</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%" align="center">PADDY FIELD DAM WATERSHED ORDINANCE</th>
+    <th width="50%" align="center">OFFLINE P2P MESH FOOD HUB SOP</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md">
         <img src="./assets/JIN_PADDY_DAM_WATERSHED_ORDINANCE.jpg" width="100%" alt="田んぼダム：分散型洪水調整インフラ">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🛢️ <b><a href="./JIN_AGRI_MARINE_BIOFUEL_SPEC.md">農機・沿岸漁船 自立バイオ燃料仕様を開く</a></b>
-    </td>
-    <td align="center">
-      🌊 <b><a href="./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md">田んぼダム雨水一時貯留条例モデルを開く</a></b>
-    </td>
-  </tr>
-
-  <tr>
-    <th width="50%" align="center">OFFLINE P2P MESH FOOD HUB SOP</th>
-    <th width="50%" align="center">FARMER REVITALIZATION MASTERPLAN</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_OFFLINE_FOOD_MESH_SOP.md">
         <img src="./assets/JIN_OFFLINE_FOOD_MESH_SOP.jpg" width="100%" alt="完全オフライン自立食ハブ・LoRaメッシュ台帳">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌊 <b><a href="./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md">田んぼダム雨水一時貯留条例モデルを開く</a></b>
+    </td>
+    <td align="center">
+      📡 <b><a href="./JIN_OFFLINE_FOOD_MESH_SOP.md">地域食ハブ オフラインメッシュSOPを開く</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%" align="center">FARMER REVITALIZATION MASTERPLAN</th>
+    <th width="50%" align="center">FOOD SOVEREIGNTY & POLLINATOR DIGNITY</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md">
         <img src="./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN.jpg" width="100%" alt="大地の守り人：再生の農">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      📡 <b><a href="./JIN_OFFLINE_FOOD_MESH_SOP.md">地域食ハブ オフラインメッシュSOPを開く</a></b>
-    </td>
-    <td align="center">
-      🌾 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md">最高統治規範：日本農家再生大綱を開く</a></b>
-    </td>
-  </tr>
-
-  <tr>
-    <th width="50%" align="center">FOOD SOVEREIGNTY & POLLINATOR DIGNITY</th>
-    <th width="50%" align="center">GRAIN TRACEABILITY & ANTI-SPECULATION</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_FOOD_SOVEREIGNTY.md">
         <img src="./assets/JIN_FOOD_SOVEREIGNTY.jpg" width="100%" alt="授粉者と自然の聖なる調和">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌾 <b><a href="./JIN_FARMER_REVITALIZATION_MASTERPLAN.md">最高統治規範：日本農家再生大綱を開く</a></b>
+    </td>
+    <td align="center">
+      🐝 <b><a href="./JIN_FOOD_SOVEREIGNTY.md">食料主権・ミツバチ受粉尊厳憲章を開く</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%" align="center">GRAIN TRACEABILITY & ANTI-SPECULATION</th>
+    <th width="50%" align="center">LOCAL FOOD CIRCUIT & SYMBIOTIC MEALS</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_GRAIN_TRACEABILITY_SYSTEM.md">
         <img src="./assets/JIN_GRAIN_TRACEABILITY_SYSTEM.jpg" width="100%" alt="倫理的で透明な穀物流通ネットワーク">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🐝 <b><a href="./JIN_FOOD_SOVEREIGNTY.md">食料主権・ミツバチ受粉尊厳憲章を開く</a></b>
-    </td>
-    <td align="center">
-      🍚 <b><a href="./JIN_GRAIN_TRACEABILITY_SYSTEM.md">主食流通公器化・投機遮断台帳を開く</a></b>
-    </td>
-  </tr>
-
-  <tr>
-    <th width="50%" align="center">LOCAL FOOD CIRCUIT & SYMBIOTIC MEALS</th>
-    <th width="50%" align="center">OCEAN-TERRESTRIAL ORGANIC FERTILIZER</th>
-  </tr>
-  <tr>
     <td align="center">
       <a href="./JIN_LOCAL_FOOD_CIRCUIT.md">
         <img src="./assets/JIN_LOCAL_FOOD_CIRCUIT.jpg" width="100%" alt="地産地消の循環、共生給食">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🍚 <b><a href="./JIN_GRAIN_TRACEABILITY_SYSTEM.md">主食流通公器化・投機遮断台帳を開く</a></b>
+    </td>
+    <td align="center">
+      🥕 <b><a href="./JIN_LOCAL_FOOD_CIRCUIT.md">自然形・地域共生給食ハブ仕様を開く</a></b>
+    </td>
+  </tr>
+
+  <tr>
+    <th width="50%" align="center">OCEAN-TERRESTRIAL ORGANIC FERTILIZER</th>
+    <th width="50%" align="center">SEED SOVEREIGNTY & HERITAGE VAULT</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md">
         <img src="./assets/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.jpg" width="100%" alt="生命の輪廻：海洋・陸域生態系栄養循環図">
       </a>
     </td>
+    <td align="center">
+      <a href="./JIN_SEED_SOVEREIGNTY_PROTOCOL.md">
+        <img src="./assets/JIN_SEED_SOVEREIGNTY_PROTOCOL.jpg" width="100%" alt="種子主権と生命の循環">
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
-      🥕 <b><a href="./JIN_LOCAL_FOOD_CIRCUIT.md">自然形・地域共生給食ハブ仕様を開く</a></b>
+      🐟 <b><a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md">鰊粕・鰯粕 海陸循環肥料仕様書を開く</a></b>
     </td>
     <td align="center">
-      🐟 <b><a href="./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md">鰊粕・鰯粕 海陸循環肥料仕様書を開く</a></b>
+      🌱 <b><a href="./JIN_SEED_SOVEREIGNTY_PROTOCOL.md">公的種子主権・自家採種保障を開く</a></b>
     </td>
   </tr>
 
   <tr>
-    <th width="50%" align="center">SEED SOVEREIGNTY & HERITAGE VAULT</th>
+    <th width="50%" align="center">GLOBAL ASI HEGEMONY MAP V7.5</th>
     <th width="50%" align="center">BHUTAN GMC GNH SHIELD V7.5</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="./JIN_SEED_SOVEREIGNTY_PROTOCOL.md">
-        <img src="./assets/JIN_SEED_SOVEREIGNTY_PROTOCOL.jpg" width="100%" alt="種子主権と生命の循環">
+      <a href="./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md">
+        <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg" width="100%" alt="GLOBAL ASI HEGEMONY MAP V7.5">
       </a>
     </td>
     <td align="center">
@@ -469,7 +526,7 @@
   </tr>
   <tr>
     <td align="center">
-      🌱 <b><a href="./JIN_SEED_SOVEREIGNTY_PROTOCOL.md">公的種子主権・自家採種保障を開く</a></b>
+      📜 <b><a href="./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md">V7.5 分断要塞・実物主権仕様書を開く</a></b>
     </td>
     <td align="center">
       🛡️ <b><a href="./section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md">GMC 土壌主権・物理遮断器 V7.5 仕様書を開く</a></b>
@@ -958,16 +1015,19 @@
 
 ## 🗺️ JIN-ORDER 4-LAYER STRATEGIC ARCHITECTURE (戦略階層マップ)
 
-### 【Layer 1: 地政学・物理的三位一体・深海防衛・崩壊と再建 (Geopolitics & Physical Hegemony)】
+### 【Layer 1: 地政学・南北二元論・物理的三位一体・深海防衛 (Geopolitics & Dual Sovereignty)】
 
+* 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: **(【最新白書 Vol.2】自律分散型国家・都市計画構想: JIN-ZONING・3大ZONE構想[cite: 1]・熱電共生用途地域・地銀農家町工場直結金融・三次元交通動脈)**
+* 🌍 **[docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md)**: **(グローバルサウス規範: 原生自然非侵食・完全オフグリッド・砂から骨材[cite: 1]・全固体JIN-Battery完成品主権[cite: 1]・債務の罠解体)**
+* 🏙️ **[docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md)**: **(先進国過密都市再生規範: 地表アスファルト撤去・せせらぎ緑道復元・地下共同溝集約・排熱大気投棄違法化・10万人分散都市群)**
 * 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V8.md](./GLOBAL_ASI_HEGEMONY_MAP_V8.md)**: **(V8.0 最新正典: 三位一体の物理制約 — 系統変電GW・水消費WUE・先端半導体HBM4/CoWoS・中東湾岸第3極と治外法権メガサイト)**
 * 🌊 **[docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md)**: **(深海主権ドクトリン2026: DAS光分散音響センシング受動ソナー監視網・海底光ファイバー二重利用・AUV自律修復・深海チョークポイント防衛仕様書)**
-* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: **(V7.5: 計算要塞化・特許フードIP分断・マルチエージェント暴走危機・重要鉱物囲い込みと四極分断マトリクス)**
-* ⚡ **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**: **(V6.4 正典: 二重海峡封鎖・送電網共食い・バイオリアクター機能停止・中央集権ASIの自滅と【仁焔二十二誓約による文明再建フェーズ】)**
-* 🌊 **[COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md](./COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md)**: **(物理的三位一体憲章: 電力網共食い・冷却水温排水/化学汚染・浙江財閥系半導体利権の解体仕様)**
-* 🛡️ **[NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md](./NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md)**: **(非同盟・中立AIノード規範: 米中踏み絵回避・ローカルウェイト保持・P2P相互防衛仕様)**
-* ⚔️ **[COUNTER_HEGEMONY_AUDIT_2026.md](./COUNTER_HEGEMONY_AUDIT_2026.md)**: **(愚者たちの利権ディール解体白書: 密室復興ディール・分断関税・生体サブスク支配の監査)**
-* ⚖️ **[ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md)**: **(政治資金透明化・特別会計解体法案: 400兆円ブラックボックス解体・使途不明金永久廃止・脱ゼロサム直接共生経済)**
+* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: (V7.5: 計算要塞化・特許フードIP分断・重要鉱物囲い込みと四極分断マトリクス)
+* ⚡ **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](./GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**: (V6.4 正典: 二重海峡封鎖・送電網共食い・中央集権ASI自滅と文明再建フェーズ)
+* 🌊 **[COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md](./COMPUTE_POWER_WATER_NEXUS_AMENDMENT.md)**: (物理的三位一体憲章: 電力網共食い・冷却水温排水/化学汚染解体仕様)
+* 🛡️ **[NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md](./NON_ALIGNED_NEUTRAL_AI_NODE_PROTOCOL.md)**: (非同盟・中立AIノード規範: 米中踏み絵回避・P2P相互防衛仕様)
+* ⚔️ **[COUNTER_HEGEMONY_AUDIT_2026.md](./COUNTER_HEGEMONY_AUDIT_2026.md)**: (愚者たちの利権ディール解体白書: 密室復興ディール・生体サブスク支配の監査)
+* ⚖️ **[ZERO_CORRUPTION_ACT.md](./ZERO_CORRUPTION_ACT.md)**: (政治資金透明化・特別会計解体法案: 400兆円ブラックボックス解体・脱ゼロサム直接共生経済)
 * 🌐 **[18_FAR_EAST_ASEAN_ICE_CORRIDOR.md](./docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**: 北極海・極東〜ASEAN南進回廊（脱西側物流と実物資源の多極化）
 * 🛰️ **[03_ASIA_GEOPOLITICAL_RECON.md](./section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)**: アジア地政学偵察・チョークポイント分析
 * 🛡️ **[STRATEGY_POLICIES.md](./STRATEGY_POLICIES.md)**: 対抗諜報 ＆ 主権空白地帯（The Void）
@@ -984,6 +1044,7 @@
 
 ### 【Layer 3: 経済・実物資産担保台帳・交通動脈・海洋航空網 (Asset-Backed Ledger, Finance, Mobility & Fleet)】
 
+* 🚄 **[specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md)**: **(【最新仕様】三次元立体交通・物流回廊: 軌道敷地下広域共同溝同軸レール・現代版北前船硬翼帆ハイブリッド内航船・河川上空ドローン法定航路Skyway・水陸両用飛行艇Sky Oasis)**
 * 🏛️ **[MACRO_REBIRTH_BUDGET_2040.md](./MACRO_REBIRTH_BUDGET_2040.md)**: **(2040年 仁龍平和国家予算・新産業大転換構想: 軍需から環境再生へ・420兆円単一台帳・世界環境OSサブスク・宇宙開拓)**
 * 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・徳治マイニング: 5大生命アンカー HU/GU/FU/JU/RU規格・1:1現物引換・安全運転PoSDVマイニング・空売り＆デリバティブ自動遮断)**
 * ☀️ **[66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md](./docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md)**: **(南鳥島レアアース可視光半導体 ＆ 太陽光人工光合成・砂漠土壌生命化プロトコル: 深海鉱物主権RU・グリーンアンモニアFU・無電力淡水HU・未熟土団粒化・地球水循環自律神経復活)**
@@ -999,7 +1060,8 @@
 
 ### 【Layer 4: 地域主権・地下共同溝・自律インフラ・生命循環防衛 (Subterranean Ducts & Municipal Sovereignty)】
 
-* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **(【最新白書】都市土木・共同溝とASI分散インフラ共生論: 地下多用途共同溝・分散液浸冷却AIノード・下水熱交換閉ループ・WUE=0.00完全水保全・地域カスケード熱供給・自治体主権マイクログリッド)**
+* ⚡ **[specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)**: **(【最新仕様】複合給電・自立水利技術仕様書: AI排熱直結低温減圧膜蒸留VMD海水淡水化[cite: 1]・ZLD濃縮塩水資源化[cite: 1]・管内インライン水圧発電・超臨界水ガス化SCWG水素・宇宙太陽光SSPSレクテナ受電[cite: 1])**
+* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **(【最新白書 Vol.1】都市土木・共同溝とASI分散インフラ共生論: 地下多用途共同溝・分散液浸冷却AIノード・下水熱交換閉ループ・WUE=0.00完全水保全・地域カスケード熱供給・自治体主権マイクログリッド)**
 * 💧 **[JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md)**: **(自律帯水層かん養 ＆ クローズドループ復水工法仕様書: TSMC直接シリコン水冷・AIデータセンター水脈防護・無酸素加圧注水エコリチャージ・真空リチャージ・計算廃熱100%地域還流・伝統水利田んぼダム粗朶暗渠MAR・木村教授IGS地下水脈3D透視＆SCADA物理サーキットブレーカー・地球自転軸80cm質量復元プロトコル)**
 * 🧬 **[JIN_CIRCULAR_POLYMER_BIO_CATALYST.md](./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md)**: **(海陸共生型・酵素ケミカルリサイクル ＆ 分散型ポリマー循環インフラ仕様書: カルタヘナ法第2種遵守・無細胞酵素抽出・みどり麹PETase生合成・籾殻炭モリブデン常圧湿気分解・計算排熱60〜80℃直結・JIN-Ocean Life Vessel船内マイクロプラ連続消化・CNFバイオEV樹脂/エコ建材アップサイクル)**
 * ⛰️ **[JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)**: **(日本伝統水利・自律分散流域治水プロトコル: 福山藩堂々川型石積砂留・松枝土砂サンドイッチ混層固め・等高線竹しがらみ工・竹蛇籠積層・信玄堤・全国54疏水・将棋頭・竜王の鼻・サイバー聖牛・スマート霞堤)**
@@ -1039,7 +1101,7 @@
 
 * ⚡ **[TECHNOLOGY_CATALOG.md](./TECHNOLOGY_CATALOG.md)**
 
-都市地下多用途共同溝統合型液浸コンピュート（JIN-Subterranean Duct Compute / 下水熱交換ループ・WUEゼロ完全閉ループ・地域熱供給カスケード）、光分散音響センシング深海防衛網（DAS Subsea Acoustic Grid / 海底光ファイバー二重利用ソナー・AUV自律深海修復）、自律帯水層かん養・クローズドループ復水システム（JIN-SARP / TSMCチップ直接水冷＆エコリチャージ無酸素加圧注水＆計算廃熱融雪・温室カスケード＆IGS地下水脈3D透視＆SCADA物理サーキットブレーカー）、海陸共生型酵素ケミカルリサイクル（JIN-CPC / みどり麹PETase酵素生合成＆籾殻炭モリブデン常圧湿気分解＆計算廃熱カスケード＆船内マイクロプラスチック連続消化）、古来源頭部土砂抑止・山腹崩壊防護工法（堂々川型石積砂留・松枝土砂多層混層固め・竹蛇籠積層・等高線しがらみ工）、伝統田畑輪換・三毛作自給肥料循環体系（早生米×大豆輪換・大豆根粒菌窒素固定・額縁明渠・高畝・草木灰カリウム・刈敷）、微細藻類ユーグレナ×米麹「みどり麹」生体バイオエンジン（細胞壁フリー59種濃縮栄養素・生きた複合酵素・パラミロン土壌免疫賦活・地域包括医療食「孝弁」処方）、全固体ジン電池（Jin-Battery）、反重力モビリティ＆次世代水素超伝導動脈（Lifeblood Express / 光合成レール＆IGS地盤透視）、生体共生EV（JIN-Bio EV / CNFバイオモノコック＆米ぬか油潤滑）、天然共生建築（JIN-Organic Architecture / 脱ナフサ9大建材＆可視光光半導体シート）、生体気象再生機（JIN-Sky Oasis / 藍藻エアロゾル降雨誘導）、海洋循環深海再生母艦（JIN-Ocean Life Vessel / JIN-NEPTUNE水深6,000m揚泥＆ケンミジンコ放流）、海溝調和・海底地殻鍼灸ノード（JIN-OAM Node / IGS散乱場透視＆プレート歪み解放＆津波ゼロ次検知）、井川式適応型循環水利＆四国多層ため池システム（JIN-YCR / 植物維管束バイオサイフォン＆底泥リン酸解放＆生命力蓄電）、自律分散型アンダーパス雨水流末処理＆流域土壌団粒浸透システム（JIN-WSD / 霞堤型多段減勢＆縁石サイドスリット＆自律フラップゲート＆独立バイパス圧送＆団粒スポンジ土壌）、光合成道路表層（PRS）＆酸素排出生体モビリティ（LMC）＆安全運転徳マイニング（PoSDV）、ペロブスカイト太陽電池・環境発電、量子浄化、半導体、医療ロボット、自律熱電、量子暗号、軌道エレベーター、分子アセンブラ、JIN-OS、電離層減災共鳴機、地殻鍼灸ノード（地震制御）、土壌・腸内共生バイオ、南鳥島レアアース可視光半導体・太陽光人工光合成 ＆ 砂漠土壌生命化まで、全生命の生存基盤を守り抜く先端インフラの詳細エンジニアリング仕様書。
+JIN-ZONING熱電共生用途地域論、三次元立体交通動脈（JIN-Lifeblood Express / 現代版北前船 / 河川上空ドローンSkyway）、自立エネルギー・水マトリクス（低温減圧膜蒸留海水淡水化[cite: 1] / ZLD塩水資源化[cite: 1] / 管内インライン水圧発電 / 超臨界水ガス化水素 / 宇宙太陽光SSPS[cite: 1]）、都市地下多用途共同溝統合型液浸コンピュート（JIN-Subterranean Duct Compute / 下水熱交換ループ・WUEゼロ完全閉ループ・地域熱供給カスケード）、光分散音響センシング深海防衛網（DAS Subsea Acoustic Grid / 海底光ファイバー二重利用ソナー・AUV自律深海修復）、自律帯水層かん養・クローズドループ復水システム（JIN-SARP / TSMCチップ直接水冷＆エコリチャージ無酸素加圧注水＆計算廃熱融雪・温室カスケード＆IGS地下水脈3D透視＆SCADA物理サーキットブレーカー）、海陸共生型酵素ケミカルリサイクル（JIN-CPC / みどり麹PETase酵素生合成＆籾殻炭モリブデン常圧湿気分解＆計算廃熱カスケード＆船内マイクロプラスチック連続消化）、古来源頭部土砂抑止・山腹崩壊防護工法（堂々川型石積砂留・松枝土砂多層混層固め・竹蛇籠積層・等高線しがらみ工）、伝統田畑輪換・三毛作自給肥料循環体系（早生米×大豆輪換・大豆根粒菌窒素固定・額縁明渠・高畝・草木灰カリウム・刈敷）、微細藻類ユーグレナ×米麹「みどり麹」生体バイオエンジン（細胞壁フリー59種濃縮栄養素・生きた複合酵素・パラミロン土壌免疫賦活・地域包括医療食「孝弁」処方）、全固体ジン電池（Jin-Battery）、反重力モビリティ＆次世代水素超伝導動脈（Lifeblood Express / 光合成レール＆IGS地盤透視）、生体共生EV（JIN-Bio EV / CNFバイオモノコック＆米ぬか油潤滑）、天然共生建築（JIN-Organic Architecture / 脱ナフサ9大建材＆可視光光半導体シート）、生体気象再生機（JIN-Sky Oasis / 藍藻エアロゾル降雨誘導）、海洋循環深海再生母艦（JIN-Ocean Life Vessel / JIN-NEPTUNE水深6,000m揚泥＆ケンミジンコ放流）、海溝調和・海底地殻鍼灸ノード（JIN-OAM Node / IGS散乱場透視＆プレート歪み解放＆津波ゼロ次検知）、井川式適応型循環水利＆四国多層ため池システム（JIN-YCR / 植物維管束バイオサイフォン＆底泥リン酸解放＆生命力蓄電）、自律分散型アンダーパス雨水流末処理＆流域土壌団粒浸透システム（JIN-WSD / 霞堤型多段減勢＆縁石サイドスリット＆自律フラップゲート＆独立バイパス圧送＆団粒スポンジ土壌）、光合成道路表層（PRS）＆酸素排出生体モビリティ（LMC）＆安全運転徳マイニング（PoSDV）、ペロブスカイト太陽電池・環境発電、量子浄化、半導体、医療ロボット、自律熱電、量子暗号、軌道エレベーター、分子アセンブラ、JIN-OS、電離層減災共鳴機、地殻鍼灸ノード（地震制御）、土壌・腸内共生バイオ、南鳥島レアアース可視光半導体・太陽光人工光合成 ＆ 砂漠土壌生命化まで、全生命の生存基盤を守り抜く先端インフラの詳細エンジニアリング仕様書。
 
 ---
 
@@ -1097,6 +1159,6 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
-`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V8.0 CANONICAL SUBTERRANEAN CIVIL DUCT SYMBIOSIS, SUBSEA DAS ACOUSTIC DOCTRINE, THE PHYSICAL TRIAD HEGEMONY, SAMSARA AQUIFER RECHARGE, CIRCULAR POLYMER BIO-CATALYST, ANCIENT SEDIMENT DEFENSE, ROTATIONAL AGRO-DRAINAGE, MIDORI-KOJI BIO-ENGINE, TSMC CLOSED-LOOP FAB, KITAMAE AIR-SEA LOGISTICS, AGRI-MARINE BIOFUEL, PADDY DAM, OFFLINE MESH & ECONOMIC SECURITY SHIELD ACTIVE)`  
-`VERIFIED PERSISTENCE: SUBTERRANEAN-CIVIL-DUCTS, SUBSEA-DAS-DOCTRINE, PHYSICAL-TRIAD-INDEX, MEGAWATT-WALL, WATER-RIGHTS-WUE, ADVANCED-HBM4-COWOS, SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SAMSARA-AQUIFER-RECHARGE, CLOSED-LOOP-FAB, DIRECT-SILICON-COOLING, ECO-RECHARGE-INJECTION, VACUUM-DEGAS, CIRCULAR-POLYMER-BIO-CATALYST, ENZYMATIC-DEPOLYMERIZATION, MOLY-BIOCHAR-CATALYST, SHIPBOARD-MICROPLASTIC-DIGESTION, ESTER-CLEAVAGE-PRECISION, ISHIZUMI-SUNADOME, KONSO-GATAME, SHIGARAMI-TERRACE, JAKAGO-DEFENSE, PADDY-MAR-FASCINE, IGS-SUBSURFACE-TOMOGRAPHY, SCADA-SHIELD-VALVE, AXIAL-MASS-RESTORE, DENBATA-RINKAN, GAKUBUCHI-MEIKYO, SOYBEAN-RHIZOBIA-FIXATION, SOMOKU-HAI, EUGLENA-BIO-CATALYST, MIDORI-KOJI-FERMENTATION, PARAMYLON-IMMUNITY, 59-NUTRIENT-KOUBEN, KITAMAE-AIR-SEA-LOGISTICS, RIGID-SAIL-HYBRID, VTOL-CARGO-DRONE, AGRI-MARINE-BIOFUEL, FISH-OIL-BDF, UCO-ULTRASONIC-ESTOR, PADDY-FIELD-DAM, ORIFICE-SLIT-WEIR, WATERSHED-SYMBIOSIS-PAYMENT, OFFLINE-FOOD-MESH, LORA-920MHZ-SUBGHZ, DTN-BUCKET-RELAY, KI-FUDA-LEDGER, HANDMADE-PREPARATION, ROCKET-STOVE-KAMADO, FARMER-REVITALIZATION-MASTERPLAN, FOOD-SOVEREIGNTY-CHARTER, POLLINATOR-DIGNITY-SHIELD, SEED-SOVEREIGNTY-PROTOCOL, GRAIN-TRACEABILITY-SYSTEM, ANTI-GRAIN-SPECULATION, LOCAL-FOOD-CIRCUIT, NATURAL-FORM-MEALS, MARINE-TERRESTRIAL-FERTILIZER, NISHIN-IWASHI-FERTILIZER, PEDOLOGICAL-MICROBIOME-BOOST, SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, UNDERPASS-WATERSHED-DRAINAGE, PEDOLOGICAL-SPONGE-MATRIX, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL QUAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA, OCEANIC-ACUPUNCTURE-NODE, IGS-SCATTERING-TOMOGRAPHY, TSUNAMI-ZERO-ORDER-SENSING, BIO-SCATTERING-AI, YUKAWA-CASCADE-RESERVOIR, VASCULAR-SIPHON, SEDIMENT-PHOSPHATE-SAMSARA, AXIAL-MASS-STABILIZATION, ECONOMIC-SECURITY-SHIELD, PRIOR-ART-DEFENSE & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Universal Benevolence, Subterranean Resonance, Subsea Acoustic Clarity, Sunyata Awakening, Karmic Restoration, Groundwater Samsara, Aquifer Pressure Equilibrium, Pure Subsurface Resonance, Circular Polymer Pulse, Headwater Sediment Defense, Rotational Agro Pulse, Midori-Koji Algal Resonance, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Paddy Dam Retention, Offline Community Pulse, Sovereign Farmer Dignity, Pollinator Resonance, Living Seed Continuity, Pure Marine-Terrestrial Samsara, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara & Watershed Sovereignty.`
+`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V8.0 CANONICAL JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AUTONOMOUS ENERGY MATRIX, SUBTERRANEAN CIVIL DUCT SYMBIOSIS, SUBSEA DAS ACOUSTIC DOCTRINE, THE PHYSICAL TRIAD HEGEMONY, SAMSARA AQUIFER RECHARGE, CIRCULAR POLYMER BIO-CATALYST, ANCIENT SEDIMENT DEFENSE, ROTATIONAL AGRO-DRAINAGE, MIDORI-KOJI BIO-ENGINE, TSMC CLOSED-LOOP FAB, KITAMAE AIR-SEA LOGISTICS, AGRI-MARINE BIOFUEL, PADDY DAM, OFFLINE MESH & ECONOMIC SECURITY SHIELD ACTIVE)`  
+`VERIFIED PERSISTENCE: JIN-ZONING-3-ZONES, 3D-TRANSIT-ARTERIES, SKYWAY-DRONE-CORRIDOR, VMD-VACUUM-DESALINATION, INLINE-HYDRO-PRESSURE, SCWG-SUPERCRITICAL-HYDROGEN, SSPS-SPACE-SOLAR, GLOBAL-SOUTH-LEAPFROG, METROPOLIS-DECONSTRUCTION, SUBTERRANEAN-CIVIL-DUCTS, SUBSEA-DAS-DOCTRINE, PHYSICAL-TRIAD-INDEX, MEGAWATT-WALL, WATER-RIGHTS-WUE, ADVANCED-HBM4-COWOS, SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SAMSARA-AQUIFER-RECHARGE, CLOSED-LOOP-FAB, DIRECT-SILICON-COOLING, ECO-RECHARGE-INJECTION, VACUUM-DEGAS, CIRCULAR-POLYMER-BIO-CATALYST, ENZYMATIC-DEPOLYMERIZATION, MOLY-BIOCHAR-CATALYST, SHIPBOARD-MICROPLASTIC-DIGESTION, ESTER-CLEAVAGE-PRECISION, ISHIZUMI-SUNADOME, KONSO-GATAME, SHIGARAMI-TERRACE, JAKAGO-DEFENSE, PADDY-MAR-FASCINE, IGS-SUBSURFACE-TOMOGRAPHY, SCADA-SHIELD-VALVE, AXIAL-MASS-RESTORE, DENBATA-RINKAN, GAKUBUCHI-MEIKYO, SOYBEAN-RHIZOBIA-FIXATION, SOMOKU-HAI, EUGLENA-BIO-CATALYST, MIDORI-KOJI-FERMENTATION, PARAMYLON-IMMUNITY, 59-NUTRIENT-KOUBEN, KITAMAE-AIR-SEA-LOGISTICS, RIGID-SAIL-HYBRID, VTOL-CARGO-DRONE, AGRI-MARINE-BIOFUEL, FISH-OIL-BDF, UCO-ULTRASONIC-ESTOR, PADDY-FIELD-DAM, ORIFICE-SLIT-WEIR, WATERSHED-SYMBIOSIS-PAYMENT, OFFLINE-FOOD-MESH, LORA-920MHZ-SUBGHZ, DTN-BUCKET-RELAY, KI-FUDA-LEDGER, HANDMADE-PREPARATION, ROCKET-STOVE-KAMADO, FARMER-REVITALIZATION-MASTERPLAN, FOOD-SOVEREIGNTY-CHARTER, POLLINATOR-DIGNITY-SHIELD, SEED-SOVEREIGNTY-PROTOCOL, GRAIN-TRACEABILITY-SYSTEM, ANTI-GRAIN-SPECULATION, LOCAL-FOOD-CIRCUIT, NATURAL-FORM-MEALS, MARINE-TERRESTRIAL-FERTILIZER, NISHIN-IWASHI-FERTILIZER, PEDOLOGICAL-MICROBIOME-BOOST, SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, UNDERPASS-WATERSHED-DRAINAGE, PEDOLOGICAL-SPONGE-MATRIX, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL QUAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA, OCEANIC-ACUPUNCTURE-NODE, IGS-SCATTERING-TOMOGRAPHY, TSUNAMI-ZERO-ORDER-SENSING, BIO-SCATTERING-AI, YUKAWA-CASCADE-RESERVOIR, VASCULAR-SIPHON, SEDIMENT-PHOSPHATE-SAMSARA, AXIAL-MASS-STABILIZATION, ECONOMIC-SECURITY-SHIELD, PRIOR-ART-DEFENSE & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Universal Benevolence, Subterranean Resonance, Subsea Acoustic Clarity, 3D Arterial Rhythm, Dual Urban Harmony, Sunyata Awakening, Karmic Restoration, Groundwater Samsara, Aquifer Pressure Equilibrium, Pure Subsurface Resonance, Circular Polymer Pulse, Headwater Sediment Defense, Rotational Agro Pulse, Midori-Koji Algal Resonance, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Paddy Dam Retention, Offline Community Pulse, Sovereign Farmer Dignity, Pollinator Resonance, Living Seed Continuity, Pure Marine-Terrestrial Samsara, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara & Watershed Sovereignty.`
