@@ -23,7 +23,7 @@ JIN-ORDERは、デンマーク王国およびグリーンランド先住民自�
 
 ### 2. 極北冷気コンピュート特区（Arctic Cold-Compute Sanctuary）
 
-![極北冷気コンピュート特区](./assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTY_01.jpg)
+![極北冷気コンピュート特区](../assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTY_01.jpg)
 
 過密先進国で電力網と水資源を圧迫しているAIデータセンターの冷却問題を、北極圏の自然冷熱により物理的に根本解決する。
 
