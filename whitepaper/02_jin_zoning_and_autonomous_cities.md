@@ -10,7 +10,7 @@
 ## 自律分散型国家・都市計画構想（JIN-ZONING & TRANSIT MATRIX）
 ### 3大ZONE構想・熱電共生用途地域・地域実物金融・三次元交通回廊の統合体系
 
-![自律分散型国家](./assets/jin_zoning_and_autonomous_cities_01.jpg)
+![自律分散型国家](../assets/jin_zoning_and_autonomous_cities_01.jpg)
 
 ---
 
