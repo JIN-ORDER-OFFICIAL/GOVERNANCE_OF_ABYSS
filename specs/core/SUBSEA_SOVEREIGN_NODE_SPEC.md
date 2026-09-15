@@ -13,7 +13,7 @@
 
 ## 1. システム概要 (System Overview)
 
-![自律型海底カプセル](./assets/SUBSEA_SOVEREIGN_NODE_SPEC_01.jpg)
+![自律型海底カプセル](../assets/SUBSEA_SOVEREIGN_NODE_SPEC_01.jpg)
 
 海底通信ケーブルの切断事案および公海・EEZ境界におけるグレーゾーン工作の急増を受け、海底光ファイバー網の生残性確保と、深海水冷型ゼロPUE計算環境を一体化した自律型海底カプセル「SSCN-01 (Subsea Sovereign Compute & Cable Sentry Node)」の技術仕様を定義する。
 
@@ -23,7 +23,7 @@
 
 ## 2. 構造力学・熱力学仕様 (Mechanical & Thermal Design)
 
-![自律型海底カプセル](./assets/SUBSEA_SOVEREIGN_NODE_SPEC_02.jpg)
+![自律型海底カプセル](../assets/SUBSEA_SOVEREIGN_NODE_SPEC_02.jpg)
 
 ### 2.1 耐圧カプセル構造
 * **主船体素材**: チタン合金（Ti-6Al-4V Grade 5）鍛造デュアル・シェル構造。
