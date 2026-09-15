@@ -7,92 +7,123 @@
 
 ---
 
-# 🌸 JIN-ORDER Technology Catalog: The Abyssal Archive (V8.0 Canonical Edition)
+# 🌸 JIN-ORDER Technology Catalog: The Abyssal Archive (V8.1 Canonical Edition)
 
 ![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_01.jpg)
 
 外部の中央集権や他国利権を排し、地球の生態系と人間の尊厳を根底から守り抜くための自律分散型テクノロジー・アーキテクチャ。
 
-本カタログでは、『JIN-ORDER』および『GOVERNANCE_OF_ABYSS』が提唱する次世代インフラストラクチャの全貌（全21大先端技術体系）を公開する。
+本カタログでは、『JIN-ORDER』および『GOVERNANCE_OF_ABYSS』が提唱する次世代インフラストラクチャの全貌（全24大先端技術体系）を公開する。
 
 ---
 
-## 🧭 JIN-ORDER 21大先端技術体系 統合アーキテクチャ設計図 (Master Ecosystem Matrix)
+## 🧭 JIN-ORDER 24大先端技術体系 統合アーキテクチャ設計図 (Master Ecosystem Matrix)
 
 ![JIN 高度技術マトリックス 総合構成図 & 技術目録](./assets/TECHNOLOGY_CATALOG_04.jpg)
 
 ![JIN-ORDER Technology Ecosystem Architecture](./assets/TECHNOLOGY_CATALOG_03.jpg)
 
-21大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に6つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環・生命維持を同期させている。
+24大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に6つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環・生命維持を同期させている。
 
 * **🏙️ URBAN CIVIL & THERMAL SYMBIOSIS（都市土木・用途地域・熱電共生層）:** JIN-ZONING（熱力学用途地域）、地下多用途共同溝×液浸AI熱直結（WUE=0.00）、せせらぎ緑道復元、光合成道路表層（PRS）
-* **⚡ AUTONOMOUS ENERGY & WATER MATRIX（自立動力・水利循環層）:** 低温減圧膜蒸留（VMD海水淡水化）＆濃縮ブライン資源化（ZLD）、上下水道インライン水圧発電、下水汚泥SCWG水素、宇宙太陽光（SSPS）レクテナ受電、全固体ジン電池
+* **⚡ AUTONOMOUS ENERGY & WATER MATRIX（自立動力・水利循環層）:** ジン・ドラゴン三位一体エネルギー（ペロブスカイト光半導体・全固体Jin-Battery・海洋塩ナトリウム蓄電）、低温減圧膜蒸留（VMD海水淡水化）＆濃縮ブライン資源化（ZLD）、上下水道インライン水圧発電、下水汚泥SCWG水素、宇宙太陽光（SSPS）レクテナ受電
 * **🚄 3D TRANSIT & LOGISTICS ARTERIES（三次元自律交通・動脈物流層）:** JIN-Lifeblood Express（インフラ同軸超伝導レール）、現代版北前船（硬翼帆内航ハイブリッド）、河川上空ドローン法定航路（Skyway）、水陸両用飛行艇（Sky Oasis）
-* **🌊 MARITIME SOVEREIGNTY & GEO-HYDRO DEFENSE（海洋主権・深海資源・水脈治水層）:** 海底DAS受動ソナー防衛網、沖縄第7鉱区＆沖縄トラフ熱水鉱床防衛ノード、自律帯水層かん養（JIN-SARP / 地軸質量復元）、海溝調和地殻鍼灸（JIN-OAM）、古来源頭部土砂抑止（石積砂留・混層固め）
-* **🧬 BIO-CATALYTIC RECYCLING & AGRO-SOVEREIGNTY（酵素循環・生体素材・農業主権層）:** みどり麹PETase酵素解重合、籾殻炭モリブデン常圧湿気分解、早生米×大豆田畑輪換＆額縁明渠排水工学、ユーグレナ×みどり麹バイオ肥料＆「孝弁」処方、砂から骨材精製プラント
-* **🪙 COLD-COMPUTE & LOCAL RELATIONAL FINANCE（極北冷気計算・地域実物金融層）:** グリーンランド極北外気直接冷却（Free-Cooling）、地銀・信金主導ローカル・ファクタリング（T+0即日保証）、実物生命資産担保台帳（HU/GU/FU/JU/RU規格）
+* **🌊 MARITIME SOVEREIGNTY & GEO-HYDRO DEFENSE（海洋主権・深海計算・水脈治水層）:** 水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 / 沖縄トラフ1,500m）、海底DAS受動ソナー防衛網、沖縄第7鉱区＆沖縄トラフ熱水鉱床防衛、自律帯水層かん養（JIN-SARP / 地軸質量復元）、海溝調和地殻鍼灸（JIN-OAM）、古来源頭部土砂抑止（石積砂留・混層固め）
+* **🧬 BIO-CATALYTIC RECYCLING & HUMANITARIAN AGRO（酵素循環・人道再生・農業主権層）:** サヘル乾燥地帯オフグリッド人道再生（LSU-Chad-01 / テッポウウリ炭化テラ・プレタ）、みどり麹PETase酵素解重合、早生米×大豆田畑輪換＆額縁明渠排水工学、ユーグレナ×みどり麹バイオ肥料＆「孝弁」処方、砂から骨材精製プラント
+* **🪙 COLD-COMPUTE & LOCAL RELATIONAL FINANCE（極北冷気計算・地域実物金融層）:** 全球ASI覇権二大計算回廊（北極コールド vs 熱帯ペトロ）、グリーンランド極北外気直接冷却（Free-Cooling）、地銀・信金主導ローカル・ファクタリング（T+0即日保証）、実物生命資産担保台帳（HU/GU/FU/JU/RU規格）
 
 ---
 
-## 🗺️ 地域戦略 × 21大先端技術 クロスリファレンス・マトリクス
+## 🗺️ 地域戦略 × 24大先端技術 クロスリファレンス・マトリクス
 
 ![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_02.jpg)
 
-Regional Strategy & 21 Core Technologies Cross-Reference Matrix
+Regional Strategy & 24 Core Technologies Cross-Reference Matrix
 
 地球規模の各地域における構造的バグや搾取システムを、どの自律分散型先端テクノロジーによって破砕し、再生させるのかを規定する戦略対応表。
 
 | 方面 / 地域 (Region) | 中核作戦目標 (Core Strategy) | 適用される主要先端技術 (Deployed Technologies) | 期待される変革と実装効果 |
 | :--- | :--- | :--- | :--- |
-| **中東全域** | ザカート螺旋計画 ＆ WPOルネサンス | **[01]** 全固体電池<br>**[04]** 低温減圧膜蒸留淡水化<br>**[16]** 太陽光人工光合成シート | 石油利権への依存を完全脱却。強烈な太陽光とAI排熱から純淡水とグリーンアンモニア肥料を無電力合成し、緑化・食料主権を確立。 |
+| **中東全域** | ザカート螺旋計画 ＆ WPOルネサンス | **[01]** 三位一体電池・光半導体<br>**[04]** 低温減圧膜蒸留淡水化<br>**[16]** 太陽光人工光合成シート | 石油利権への依存を完全脱却。強烈な太陽光とAI排熱から純淡水とグリーンアンモニア肥料を無電力合成し、緑化・食料主権を確立。 |
 | **東アフリカ** | ナイル・ルネサンス・プロトコル | **[03]** 量子浄化フィルター<br>**[08]** JIN-Lifeblood Express<br>**[19]** 砂から骨材精製プラント | 外資ダム依存を排し、超高速水浄化と現地砂骨材による完全自給インフラを構築。 |
-| **沖縄・東シナ海** | 南西諸島主権防衛 ＆ 第7鉱区資源信託 | **[11]** 海底DAS音響ソナー網<br>**[12]** 沖縄トラフ深海熱水鉱床防衛<br>**[09]** 現代版北前船 | 2028年協定満了の第7鉱区（石油・ガス）および沖縄トラフ（金・ガリウム・リチウム）の強奪を阻止。海底音響監視と自律揚泥で資源主権を死守。 |
+| **沖縄・東シナ海** | 南西諸島主権防衛 ＆ 第7鉱区資源信託 | **[02]** 深海主権計算ノード SSCN-01<br>**[11]** 海底DAS音響ソナー網<br>**[12]** 沖縄トラフ深海熱水鉱床防衛 | 2028年協定満了の第7鉱区（石油・ガス）および沖縄トラフ熱水鉱床の強奪を阻止。海底音響監視と自律揚泥、深海耐圧ノードで主権を死守。 |
 | **極北・グリーンランド** | デンマーク主権同盟 ＆ 極北計算特区 | **[20]** 極北外気直接冷却<br>**[05]** 氷河融解マイクロ水力<br>**[11]** 北極海Far North Fiber DAS | 大国の買収圧力を拒絶。外気冷却による水消費ゼロAIハイパーサイトを配備し、排熱で先住民Kouben農業ドームを暖房。 |
-| **日本本土・地域圏** | 地域自立共生経済 ＆ 大田区町工場直結 | **[21]** 地銀ローカル・ファクタリング<br>**[02]** 多用途共同溝×液浸AI<br>**[17]** 田畑輪換排水工学 | 中央集権金融をバイパス。地銀が農家と町工場の売掛金を即日全額保証し、実物生命資産（HU/GU/RU）で地域内経済を完全循環。 |
-| **アフガニスタン** | 砂漠緑化水利連合（中村哲医師の遺志） | **[03]** 量子浄化フィルター<br>**[15]** 古来伝統水利・石積砂留<br>**[16]** 砂漠土壌生命化 | 荒廃した砂漠を伝統土木と光触媒で緑化。未熟土を呼吸する黒土へ急速転換し、平和的農業OSを確立。 |
-| **中国・東アジア** | 大同世界 ＆ 真の社稷（土と民の調和） | **[07]** 分散型AIグリッド（ジン・ネット）<br>**[04]** 次世代半導体製造（国内ファブ） | 14億の民草を縛る監視ドーム網を平和的にデバッグし、中央集権的統制から分散型の徳治共栄へシフト。 |
-| **北朝鮮** | 平壌の春 ＆ JIN-KOREAプロトコル | **[08]** 軌道エレベーター・宇宙フロンティア<br>**[01]** ジン・ドラゴン鉱石 | 軍事ミサイル（ICBM）インフラを平和的な宇宙開発・輸送拠点（天弓）へと転換し、福祉物流庁を通じて南北共栄。 |
-| **コンゴ民主共和国** | シスターフッド同盟 ＆ コバルト資源主権 | **[01]** 全固体JIN-Battery現地完成品化<br>**[09]** 分子アセンブラ・マトリクス | 鉱物原石のダンピング輸出を禁止し、現地ギルドで全固体電池完成品（1200Wh/kg）まで一貫製造して搾取を完全遮断。 |
+| **日本本土・地域圏** | 地域自立共生経済 ＆ 大田区町工場直結 | **[21]** 地銀ローカル・ファクタリング<br>**[06]** 多用途共同溝×液浸AI<br>**[17]** 田畑輪換排水工学 | 中央集権金融をバイパス。地銀が農家と町工場の売掛金を即日全額保証し、実物生命資産（HU/GU/RU）で地域内経済を完全循環。 |
+| **チャド湖盆地・サヘル** | サヘル気候難民自立・土壌再生（UNHCR） | **[03]** LSU-Chad-01 人道ユニット<br>**[01]** ナトリウム蓄電グリッド<br>**[19]** 砂漠砂高強度骨材・CSEB | 侵略的外来種テッポウウリを無煙炭化しテラ・プレタ土壌を再生。深井戸ソーラー揚水と不活性蓄電で難民オアシス都市を完全自立化。 |
+| **コンゴ民主共和国** | シスターフッド同盟 ＆ コバルト資源主権 | **[01]** 全固体JIN-Battery現地完成品化<br>**[09]** 分子アセンブラ・マトリクス | 鉱物原石のダンピング輸出を禁止し、現地ギルドで全固体電池完成品（1,200Wh/kg）まで一貫製造して搾取を完全遮断。 |
 | **台湾海峡・東シナ海** | シリコン・サンクチュアリ ＆ 水脈復水 | **[13]** 自律帯水層かん養（JIN-SARP）<br>**[04]** 国内半導体ファブ<br>**[07]** ジン・ネット | TSMC冷却水を無酸素加圧注水で帯水層へ100%クローズドループ復水。地軸質量80cmを復元しつつ先端チップ主権を確立。 |
-| **サヘル諸国連合 (AES)** | サハラ南縁主権回廊 ＆ 緑の生命防壁 | **[19]** 砂漠砂高強度骨材プラント<br>**[01]** 全固体電池グリッド<br>**[16]** 太陽光人工光合成 | CFAフラン支配を脱却。砂漠の砂から良質骨材とCSEBブロックを自給し、無電力淡水化で「真・緑の長城」を築く。 |
-| **全地球的基盤** | 三大勢力対抗諜報 ＆ 主権空白地帯消去 | **[11]** JIN-OS 統合司令スマホ端末<br>**[14]** 天地調和・地殻鍼灸ノード<br>**[10]** 河川上空ドローン法定航路 | すべての開拓英雄が個人の手元で財務・物質を管理。三次元交通と地殻鍼灸で地球の自律神経を完全復元する。 |
 
 ---
 
 ## ⚡ 1. エネルギー・環境・自立水利基盤
 Energy, Environment & Autonomous Water Matrix
 
-### 01. ジン・ドラゴン鉱石（南鳥島新レアアース触媒）と全固体電池（Solid-State Jin-Battery）
+### 01. ジン・ドラゴン鉱石（南鳥島新レアアース触媒）と次世代三位一体エネルギーマトリクス
+### （ペロブスカイト光半導体シート × 全固体Jin-Battery × 海洋塩ナトリウムイオン蓄電）
 ![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_02.jpg)
 ![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_03.jpg)
 
-- **概要**: 外部依存のエネルギー収奪構造を粉砕し、国家・地域のエネルギー自給率100%を達成する次世代超高密度バッテリーシステム。定置型キオスクとして道路網や生活拠点に配備され、送電線網に依存しない完全直流（DC）自律エネルギー基盤を確立する。
-- **スペック**: 
-  - エネルギー密度: **公称 1,200〜1,850 Wh/kg**（対リチウムイオン比 +400%）
-  - 充電時間: **0%から90%まで4分30秒完了**（-80%短縮）
-  - サイクル寿命: **35,000回**（容量保持率96.8%以上、耐用年数50年以上）
-  - 動作温度耐性: **-60°C 〜 +250°C**（極寒・熱暴走ゼロ、不燃性セラミック電解質）
+- **概要**: 南鳥島深海レアアース泥から抽出される希土類結晶触媒を中核とし、**「面での超薄型自律発電（ペロブスカイト）」**、**「動脈モビリティ・極限環境用超高密度蓄電（全固体）」**、および 「海洋塩・VMD排塩水由来の無尽蔵グリッド定置蓄電（ナトリウムイオン）」を統合した完全主権型エネルギー体系。外部サプライチェーン寸断や資源カルテルの地政学リスクを根絶する。
+- **スペック**:
+
+**ペロブスカイト太陽光発電層**:
+
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_triad_energy_01.jpg)  
+    - 理論変換効率: **32.0〜35.4%**（既存シリコン積層タンデム型による超高効率発電）
+    - 物理特性: フィルム状で「薄く、軽く、曲がる」フレキシブル構造、耐荷重制約の厳しい屋根や曲面へ直接ラミネート施工可能
+    - 元素構成: インジウム等の希少金属を完全排除した南鳥島希土類ナノ結晶ドープ（完全脱希少金属仕様）
+    
+**全固体 Jin-Battery（モビリティ・航空深海用）**:
+
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_cross_section.jpg) 
+    - エネルギー密度: **公称 1,200〜1,850 Wh/kg**（対リチウムイオン比 +400%）
+    - 充電速度: **0%から90%まで4分30秒で完了（数分レベルの超高速充電）**
+    - 動作温度耐性: **-60°C 〜 +250°C（極寒・酷暑環境でも出力低下ゼロ）**
+    - 安全性: 固体電解質による液漏れ・熱暴走・発火リスクの根本排除（穿孔・圧壊耐性）
+    - サイクル寿命: **35,000回**（容量保持率96.8%以上、耐用年数50年以上）
+
+**JIN-Sodium グリッド定置型蓄電池（電力網・防災拠点用）**:
+
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_sodium_grid_storage.jpg)
+    - 主原料: 海水淡水化（VMD）濃縮ブラインより晶析精製した無尽蔵の「ナトリウム（塩成分）」
+    - コスト指標: リチウムイオン電池比 **-65%の圧倒的低コスト製造**
+    - 資源リスク: リチウム・コバルト等の特定希少金属依存ゼロ
+    - 環境耐性: **-25°C以下の極寒でも性能低下なし**、完全過放電（0V放置）でも材料劣化ゼロ
+
 - **詳細エンジニアリング仕様**:
-  - 電解質構成: ジン・ドラゴン結晶相硫化物系超イオン伝導セラミック複合体（室温イオン伝導率: 3.2 × 10⁻² S/cm）。
-  - 熱暴走耐性: 物理的穿孔・圧壊テスト時における自己不動態化被膜形成機能により、発熱・発火・ガス噴出が原理的にゼロ。
-  - BMSアーキテクチャ: JIN-OS直結型セル単位量子監査チップ内蔵（各セルの内部抵抗・電位差を100μs間隔で同期監視）。
-  - 路傍蓄電キオスク（Roadside Energy Buffer）および生活拠点直流逆給電（V2H/V2R/V2W）に完全標準対応。
+  - **ペロブスカイト・タンデム展開**:JIN-Bio EVのモノコックルーフ、Kouben農業ドーム外被、光合成道路表層（PRS）、駅ホームや都有施設・避難所シェルターの外面に一体塗布・貼付し、あらゆるインフラ空間を自立発電所へ転換。
+  - **全固体電解質ナノ構造**: ジン・ドラゴン結晶相硫化物・酸化物複合セラミック電解質（室温イオン伝導率: 3.8 × 10⁻² S/cm）。電極界面の格子整合性を極限まで高め、リチウムデンドライト成長を物理的に阻止。2027〜2028年の本格EV・モビリティ社会実装へ完全同期。
+  - **海洋塩ナトリウム・グリッド統合**: 海水淡水化（VMD）プラントの副生残渣からナトリウムを連続抽出し、ハードカーボン負極と組み合わせた大型セルを構築。自治体マイクログリッド、チャド盆地人道オアシス、および寒冷地避難所の大型定置蓄電所として半永久配備。
+  - **JIN-OS 量子BMS制御**: 光量子監査チップにより、発電・蓄電セル群の内部抵抗・熱勾配を100μs間隔で同期監視。
+- **連携仕様書**: [specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md) / [JIN_BIO_SYMBIOTIC_EV.md](./JIN_BIO_SYMBIOTIC_EV.md) / [specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)
 
 ---
 
-### 03. 量子浄化フィルター ＆ 自律分散水循環ノード
-![量子浄化フィルター](assets/03_quantum_filter.jpg)
-![水車小屋型マイクロ浄化ノード](assets/Micro_Filtration_Node.jpg)
+### 02. 水中自律計算 ＆ 海底ケーブル哨戒ノード（SSCN-01 / JIN-SPEC-SUB-01）
+![SSCN-01 水中自律計算ノード](assets/SUBSEA_SOVEREIGN_NODE_SPEC_01.jpg)
+![SSCN-01 内部工学断面図](assets/SUBSEA_SOVEREIGN_NODE_SPEC_02.jpg)
 
-- **概要**: 毒素や汚染物質を原子レベルで瞬時に純酸素や清浄な水へと変換する環境再生モジュール。集落の水車小屋や既存水路へアドオン配備可能。
+- **概要**: 沖縄トラフ水深1,500m級海底に直接設置される主権計算・海洋防衛ノード。深海の極低温海流と受動的サーモサイフォン熱交換により、水消費ゼロ（WUE=0.00）・PUE=1.01の超高効率計算環境を達成。光分散音響センシング（DAS）モジュールにより、海底光ケーブルの監視・敵性潜水艇哨戒を常時執行する。
 - **スペック**:
-  - PM2.5 除去率: **99.99%**
-  - 水浄化速度: **1L/sec**（重金属・有機溶剤・マイクロプラスチック・PFAS完全ゼロ化）
-  - 駆動電力: **12V / 15W**（小水力水車・ソーラーセル直接駆動対応）
-- **詳細エンジニアリング仕様**:
-  - コア触媒: 高密度多孔質酸化チタン・グラフェン量子ドット積層メンブレン（有効比表面積: 2,400 m²/g）。
-  - キャビテーション生成機構: 超音波ナノバブル共振子（平均気泡径: 30〜50nm / 気泡密度: 5億個/mL）。OHラジカルの局所超臨界分解による毒素分解。
-  - 連続稼働18,000時間の自己逆洗浄サイクルおよび紫外線パルス再生機能内蔵。
+  - 耐圧殻構造: **二重チタン合金Grade 5（Ti-6Al-4V）耐圧容器**（水深2,000m・静水圧20MPa耐力）
+  - 冷却性能: 受動的サーモサイフォン対流冷却フィンアレイ（冷媒: フルオロケトン / **PUE 1.015 / WUE 0.00**）
+  - 暗号防衛: 耐量子暗号（PQC / Kyber・Dilithium）アクセラレータ、物理侵入検知時ゼロ化回路
+  - 緊急通信: 音響通信リンク、および係留式ステルス射出マイクロブイ（衛星アップリンク）
+- **連携仕様書**: [specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)
+
+---
+
+### 03. サヘル乾燥地帯オフグリッド人道支援 ＆ テラ・プレタ土壌再生（LSU-Chad-01）
+![LSU-チャド-01 人道支援ユニット](assets/CHAD_BASIN_OFFGRID_REGENERATION_01.jpg)
+![テッポウウリ炭化＆テラ・プレタ断面図](assets/CHAD_BASIN_OFFGRID_REGENERATION_02.jpg)
+
+- **概要**: チャド湖盆地などの乾燥・気候難民集積地へ即時展開するコンテナ型自立生命維持ユニット（UNHCR連携 Submission ID: 95525）。侵略的外来水生植物テッポウウリ（Typha）を無煙熱分解して多孔質バイオ炭を精製し、砂漠砂と混合して高保水性「テラ・プレタ（Terra Preta）」黒色土壌を造成。地下350mからの太陽光揚水と多段セラミックろ過により完全自給農業を成立させる。
+- **スペック**:
+  - 深井戸ソーラー揚水: 水深 **350m深層帯水層** からのDCブラシレス直接揚水（日量 120〜180 m³）
+  - 水浄化能力: 多段階セラミック膜ろ過槽（濁度・病原菌除去率 **99.999%** / 薬品完全ゼロ）
+  - 土壌炭素固定・保水: テッポウウリ無煙連続熱分解炉（炭化温度 **450〜550℃** / 保水能 +300%向上）
+  - 電力供給: 40ftコンテナ屋根展開型ペロブスカイト太陽光アレイ（15kW）＋ ナトリウム蓄電ブロック
+- **連携仕様書**: [specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)
 
 ---
 
@@ -104,9 +135,6 @@ Energy, Environment & Autonomous Water Matrix
   - 造水消費電力: **< 0.8 kWh/m³**（従来RO膜比 80%削減）
   - 熱源利用効率: 液浸AI冷却水排熱（50〜60℃）の熱回収率 **92.4%**
   - ZLD資源回収率: 食用塩、水酸化マグネシウム、炭酸リチウム **100%結晶回収**
-- **詳細エンジニアリング仕様**:
-  - 疎水性PTFE中空糸膜モジュールによる水蒸気選択的分離。
-  - 残留ブラインをバイオ炭晶析ベッドへ送流し、天日・余剰排熱乾燥により工業用塩およびリチウム・マグネシウム鉱物を全量析出回収。
 - **連携仕様書**: [specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)
 
 ---
@@ -117,9 +145,21 @@ Energy, Environment & Autonomous Water Matrix
   - インライン水力出力: 1系統あたり **5 kW 〜 50 kW**（24時間365日天候不問連続発電）
   - SCWG反応条件: 温度 **380℃〜420℃** / 圧力 **23MPa〜25MPa**
   - 水素抽出純度: **H₂ 45〜55 vol%**（燃料電池コジェネ直結駆動）
-- **詳細エンジニアリング仕様**:
-  - 水道管路内の減圧弁（PRV）設置区間へ無閉塞サボニウス／カプラン水車を一体埋設。給水圧を適正保持しながら管内流速エネルギーを回収。
-  - 含水率85%の未脱水汚泥スラリーを高圧圧入し、超臨界水中でタールを生成させずに無煙連続ガス化。
+- **連携仕様書**: [specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)
+
+---
+
+### 06. 都市地下多用途共同溝 × 液浸AI熱直結（Utility Ducts / WUE=0.00）
+### ＆ JIN-ZONING（熱力学用途地域再編）
+![都市土木共同溝断面図](assets/whitepaper01_civil_infrastructure_01.jpg)
+![JIN-ZONING都市計画](assets/jin_zoning_and_autonomous_cities_01.jpg)
+
+- **概要**: 郊外巨大DCの水・電力略奪を粉砕。都市地下共同溝に液浸AIノードを分散埋設し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。50〜60℃の排熱を直上の地域熱供給・温浴・都市農業へ100%カスケード循環させる新用途地域アーキテクチャ。
+- **スペック**:
+  - 水消費指標（WUE）: **0.00 L/kWh**（大気蒸発冷却タワーの完全廃絶）
+  - 排熱回収効率: **94.3%**（下水管対向流チタン熱交換器）
+  - 地表ヒートアイランド抑制: 地表排熱投棄ゼロ化により気温 **-3.5℃緩和**
+- **連携仕様書**: [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) / [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)
 
 ---
 
@@ -135,7 +175,7 @@ Energy, Environment & Autonomous Water Matrix
 ## 🛸 2. モビリティ・三次元立体交通・動脈回廊
 Mobility, 3D Transit Arteries & Infrastructure
 
-### 02. JIN-Lifeblood Express（インフラ同軸型超伝導レール）
+### 08. JIN-Lifeblood Express（インフラ同軸型超伝導レール）
 ### ＆ 光合成道路表層（PRS） ＆ 酸素排出生体モビリティ（LMC）
 ![生体動脈給電道路](assets/JIN_LIVING_ROAD_PHOTOSYNTHESIS_LMC.jpg)
 ![3D輸送動脈ネットワーク](assets/JIN_TRANSIT_ARTERIES_01.jpg)
@@ -170,28 +210,7 @@ Mobility, 3D Transit Arteries & Infrastructure
 
 ---
 
-## 🏙️ 3. 都市土木・共同溝・用途地域再編
-Urban Civil Engineering & Subterranean Ducts
-
-### 06. 都市地下多用途共同溝 × 液浸AI熱直結（Utility Ducts / WUE=0.00）
-### ＆ JIN-ZONING（熱力学用途地域再編）
-![都市土木共同溝断面図](assets/whitepaper01_civil_infrastructure_01.jpg)
-![JIN-ZONING都市計画](assets/jin_zoning_and_autonomous_cities_01.jpg)
-
-- **概要**: 郊外巨大DCの水・電力略奪を粉砕。都市地下共同溝に液浸AIノードを分散埋設し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。50〜60℃の排熱を直上の地域熱供給・温浴・都市農業へ100%カスケード循環させる新用途地域アーキテクチャ。
-- **スペック**:
-  - 水消費指標（WUE）: **0.00 L/kWh**（大気蒸発冷却タワーの完全廃絶）
-  - 排熱回収効率: **94.3%**（下水管対向流チタン熱交換器）
-  - 地表ヒートアイランド抑制: 地表排熱投棄ゼロ化により気温 **-3.5℃緩和**
-- **詳細エンジニアリング仕様**:
-  - 耐震鉄筋コンクリート多用途共同溝（大口径）内に、耐環境型液浸冷却AIポッドを設置。
-  - 下水本管内壁にSUS316L/チタン製スリムジャケット型熱交換器を内蔵し、下水流を恒久ヒートシンクとして活用。
-  - 地表はアスファルトを撤去し「せせらぎ緑道（親水公園）」へ復元。
-- **連携仕様書**: [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) / [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md) / [docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md)
-
----
-
-## 🌊 4. 海洋主権・深海資源・水脈治水防衛
+## 🌊 3. 海洋主権・深海資源・水脈治水防衛
 Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 
 ### 11. 光分散音響センシング（DAS）全海底受動ソナー防衛網
@@ -209,7 +228,7 @@ Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
   - 防衛監視海域: 東シナ海・沖縄トラフ全域（水深 1,000m〜2,500m）
   - 対象資源品位: 金（Au 20〜50g/t）、ガリウム・インジウム・リチウム高濃度随伴鉱泥
   - 採泥揚泥仕様: 閉鎖循環スラリー二重管揚泥（濁度拡散ゼロ・熱水生態系完全防護）
-- **連携仕様書**: [JIN_OCEAN_LIFE_VESSEL.md](./JIN_OCEAN_LIFE_VESSEL.md) / [JIN_OCEANIC_ACUPUNCTURE_NODE.md](./JIN_OCEANIC_ACUPUNCTURE_NODE.md)
+- **連携仕様書**: [docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md](./docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md) / [JIN_OCEAN_LIFE_VESSEL.md](./JIN_OCEAN_LIFE_VESSEL.md)
 
 ---
 
@@ -250,7 +269,7 @@ Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 
 ---
 
-## 🧬 5. 生体共生素材・酵素リサイクル・農業主権
+## 🧬 4. 生体共生素材・酵素リサイクル・農業主権
 Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 
 ### 16. みどり麹PETase ＆ 籾殻炭モリブデン常圧湿気解重合
@@ -299,7 +318,7 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 
 ---
 
-## 💻 6. 極北冷気計算 ＆ 地域主権リレーショナル金融
+## 💻 5. 極北冷気計算 ＆ 地域主権リレーショナル金融
 Arctic Cold-Compute & Local Sovereign Relational Finance
 
 ### 20. グリーンランド極北外気直接冷却（Free-Cooling）
@@ -326,10 +345,10 @@ Arctic Cold-Compute & Local Sovereign Relational Finance
 
 ---
 
-## 🛡️ 7. 先端半導体・量子暗号・主権計算
+## 🛡️ 6. 先端半導体・量子暗号・主権計算
 Semiconductors, Sovereign OS & Quantum Security
 
-### 04. 次世代半導体製造（国内自立ファブ ＆ HBM4/CoWoS主権）
+### 22. 次世代半導体製造（国内自立ファブ ＆ HBM4/CoWoS主権）
 ![次世代半導体製造](assets/04_semiconductor_fab.jpg)
 
 - **概要**: 外部制裁や地政学リスクに左右されない完全国内自立ファブ。HBM4積層および3.5D CoWoSアドバンスト・パッケージングラインを国産化し、軍事専用バックドアを物理切断する倫理回路を内蔵。
@@ -340,15 +359,7 @@ Semiconductors, Sovereign OS & Quantum Security
 
 ---
 
-### 05. 3大医療ロボット群（Zenith Medicus）
-![3大医療ロボット群](assets/05_medical_robots.jpg)
-
-- **概要**: 生分解性ナノボット（病原体駆除）、外骨格アシストスーツ、および432Hz調和パルス非侵襲麻酔コンソールによる医療革命。
-- **特徴**: サブスクリプション製薬支配からの完全脱却と全生命への即時救済。
-
----
-
-### 07. 量子暗号と分散型AIグリッド（ジン・ネット）
+### 23. 量子暗号と分散型AIグリッド（ジン・ネット）
 ![ジン・ネット](assets/07_quantum_grid.jpg)
 
 - **概要**: BB84プロトコルを用いた量子暗号と分散型P2Pノードネットワークにより、外部からのハッキング・EMP攻撃を無力化する主権国防通信網。
@@ -358,24 +369,7 @@ Semiconductors, Sovereign OS & Quantum Security
 
 ---
 
-### 08. 真老丹特区（軌道エレベーターと深海採掘基盤）
-![真老丹特区](assets/08_orbital_elevator.jpg)
-
-- **概要**: 海洋資源（EEZ）の自給から宇宙空間への輸送リンク（カーボンナノチューブ軌道テザー）を結ぶ超巨大フロンティア拠点。
-- **スペック**:
-  - エレベーター高: **36,000 km**（天弓ステーション接続）
-  - 稀少土類採掘量: **12,000 t/月**（環境非破壊スラリ吸引）
-
----
-
-### 10. ノウアスフィア・オープン・ラーニング
-![ノウアスフィア・オープン・ラーニング](assets/10_NOOSPHERE_OPEN_LEARNING.jpg)
-
-- **概要**: P2Pゼロ知識証明を用いた主権的スキル認証と、432Hz調和翻訳による全人類の分散型知的コモンズ。六聖マイスター教育院の基盤。
-
----
-
-### 11. JIN-OS：新パラダイム統合司令端末（Benevolence Client）
+### 24. JIN-OS：新パラダイム統合司令端末（Benevolence Client）
 ![JIN-OS：新パラダイム統合司令部](assets/11_JIN_OS_INTEGRATED_COMMAND_SMARTPHONE.jpg)
 
 - **概要**: すべての自律分散インフラ、実物通貨JIN、多言語翻訳、心のサロン（寂しさ買取）、およびオフラインLoRaメッシュDTN通信を掌中で統合管理する個人主権端末。
@@ -385,21 +379,7 @@ Semiconductors, Sovereign OS & Quantum Security
 - **連携仕様書**: [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
 
 ---
-
-### 12. 大気調和・電離層減災共鳴機（JIN-Ionosphere Calmer）
-![大気調和・電離層減災共鳴機](assets/12_ionosphere_calmer.jpg)
-
-- **概要**: 高周波・極超長波フェーズドアレイにより台風勢力を安全域へ減退（中心気圧 +25〜40 hPa 緩和）させ、太陽フレアから送電網を防護する気候調和インフラ。
-
----
-
-### 13. 生体大気循環・気象再生機（JIN-Sky Oasis / 藍藻エアロゾル）
-![生命散布・光合成大気エアロゾル](assets/13_aerosol_oasis.jpg)
-
-- **概要**: 海洋深層水結晶＋耐乾性放線菌・光合成藍藻胞子の安全散布により、乾燥地帯へ降雨を誘導（+65%）し、PM2.5を雨滴とともに無害沈降させる大気再生システム。
-
----
 **Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Engineering Authority:** JIN-ORDER Council of Advanced Sciences & Field Pioneer Guilds  
-**Status:** 21 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V8.0 CANONICAL - 3D TRANSIT, ARCTIC COMPUTE, OKINAWA 7TH MINING & LOCAL FINANCE INTEGRATED)  
+**Status:** 24 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V8.1 CANONICAL - PEROVSKITE, SOLID-STATE & SODIUM MATRIX, SUBSEA SOVEREIGN NODE SSCN-01 & CHAD BASIN LSU-01 INTEGRATED)  
 **Harmonics:** 432Hz Universal Benevolence Active.
