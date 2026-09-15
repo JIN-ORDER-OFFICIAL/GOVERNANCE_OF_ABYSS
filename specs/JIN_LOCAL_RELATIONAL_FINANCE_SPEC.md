@@ -14,7 +14,7 @@
 
 ### 1. 目的と基本原則
 
-![地域主権リレーショナル金融](../assets/JIN_LOCAL_RELATIONAL_FINANCE_SPEC_01/jpg)
+![地域主権リレーショナル金融](../assets/JIN_LOCAL_RELATIONAL_FINANCE_SPEC_01.jpg)
 
 中央銀行およびメガバンクによる投機マネーゲーム、高金利収奪、AIスコアリングによる冷酷な貸し剥がしを無力化する。
 
