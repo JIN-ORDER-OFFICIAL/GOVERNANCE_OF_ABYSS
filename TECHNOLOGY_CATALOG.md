@@ -19,6 +19,8 @@
 
 ## 🧭 JIN-ORDER 21大先端技術体系 統合アーキテクチャ設計図 (Master Ecosystem Matrix)
 
+![JIN 高度技術マトリックス 総合構成図 & 技術目録](./assets/TECHNOLOGY_CATALOG_04.jpg)
+
 ![JIN-ORDER Technology Ecosystem Architecture](./assets/TECHNOLOGY_CATALOG_03.jpg)
 
 21大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に6つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環・生命維持を同期させている。
