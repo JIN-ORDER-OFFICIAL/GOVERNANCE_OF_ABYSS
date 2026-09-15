@@ -65,7 +65,7 @@ Energy, Environment & Autonomous Water Matrix
 ![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_03.jpg)
 
 ![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_triad_energy_01.jpg)  
-[ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_cross_section.jpg) 
+![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_cross_section.jpg) 
 ![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_sodium_grid_storage.jpg)
 
 - **概要**: 南鳥島深海レアアース泥から抽出される希土類結晶触媒を中核とし、**「面での超薄型自律発電（ペロブスカイト）」**、**「動脈モビリティ・極限環境用超高密度蓄電（全固体）」**、および**「海洋塩・VMD排塩水由来の無尽蔵グリッド定置蓄電（ナトリウムイオン）」**を統合した完全主権型エネルギー体系。外部サプライチェーン寸断や資源カルテルの地政学リスクを根絶する。
