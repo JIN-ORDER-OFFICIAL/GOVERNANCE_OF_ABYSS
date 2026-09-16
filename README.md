@@ -25,7 +25,29 @@
 * 🚨 **【利権簒奪・無断仕様化 告発窓口】**: [監査・不正通報Issueテンプレート (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
 ---
+<!-- INTERNATIONAL MULTILATERAL REGISTRATION & COMMONS DEFENSE STATUS -->
+<p align="left">
+  <img src="https://img.shields.io/badge/DPGA-Nominee%20(GID0094240)-0077b6?style=for-the-badge&logo=unicef&logoColor=white" alt="DPGA Nominee" />
+  <img src="https://img.shields.io/badge/UNDRR-PreventionWeb%20Deposited-1d3557?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNDRR PreventionWeb" />
+  <img src="https://img.shields.io/badge/UNHCR%20UNPP-Chad%20(ID%3A%2095525)-2a9d8f?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNHCR Chad" />
+  <img src="https://img.shields.io/badge/UNHCR%20UNPP-Mozambique%20(ID%3A%20108498)-264653?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNHCR Mozambique" />
+  <img src="https://img.shields.io/badge/License-Dual%20V8.1%20Commons-e76f51?style=for-the-badge" alt="Dual License" />
+</p>
 
+> **International Registry & Prior Art Legal Notice**
+> 
+> All engineering architectures, specifications, and decentralized civil blueprints under **JIN-ORDER** are officially deposited and under multilateral review across United Nations agencies and global public commons frameworks:
+> 
+> 1. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
+> 2. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
+> 3. **UNHCR / United Nations Partner Portal (UNPP)**:
+>    - **LSU-Chad-01 Architecture**: Autonomous Oasis Cities for Refugee Self-Reliance & Climate Resilience (Application ID: `95525`).
+>    - **Mozambique Resilience Mission**: Housing and Settlement Solutions / Cyclone & Flood Civil Defense (Application ID: `108498`).
+> 
+> **Legal Covenants**:  
+> All base technologies, civil codes, and ecological defense mechanisms belong to the global commons under Tier A Commons (CC-BY-4.0). Any attempt at private patent monopolization, closed commercial capture, or unauthorized appropriation is invalid against these established prior art registries.
+
+---
 ## 🇺🇳 UN Partner Portal Submissions & Field Implementation Pipeline
 
 | Application ID | Project Title | Agency | Target Country | Modality / Sector | Status | Submitted Date |
