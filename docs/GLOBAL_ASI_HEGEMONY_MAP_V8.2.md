@@ -61,6 +61,8 @@ $$GSI = \frac{D_{compute} + D_{industrial}}{C_{transmission} \times (1 - \lambda
 
 ## 3. 二極コンピュート回廊の地政マトリクス
 
+![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_02.jpg)
+
 ![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.1_02.jpg)
 
 世界は、熱力学的特性と資本投下の形態により、対極をなす2つの巨大コンピュート回廊へ分極化している。
@@ -120,6 +122,9 @@ $$GSI = \frac{D_{compute} + D_{industrial}}{C_{transmission} \times (1 - \lambda
 ---
 
 ## 5. 東アジア海洋実物主権とチョークポイント速度防衛線
+
+![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg)
+
 東アジアおよびインド洋・中東を結ぶ海洋回廊は、エネルギー輸送と海底暗黒光ファイバーが交差する世界最大の物理的アキレス腱である。
 
 ```text
@@ -141,6 +146,8 @@ $$GSI = \frac{D_{compute} + D_{industrial}}{C_{transmission} \times (1 - \lambda
 ---
 
 ### 5.1 海洋要衝の物理防衛と深海主権
+
+![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_04.jpg)
 
 1. **沖縄第7鉱区（日韓共同開発区域・大陸棚境界）:**  
    未開発の大規模炭化水素資源およびレアアース埋蔵帯。ASI駆動型ロボティクス社会における物理的原材料供給源として、再度の領有権主張摩擦が激化。
