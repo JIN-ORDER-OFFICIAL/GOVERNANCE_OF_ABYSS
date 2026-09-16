@@ -12,6 +12,9 @@
 
 ![個人主権クライアント端末](./assets/07_JIN_OS_MOBILE_CLIENT.jpg)
 
+![個人主権クライアント端末](./assets/07_JIN_OS_MOBILE_CLIENT_03.jpg)
+
+
 **「自らの手の中に主権を握れ。天の軌道が地を照らし、中央の網が断たれようとも、民の灯火は掌の上で道を示し続ける。」**
 
 **"Hold sovereignty in the palm of your hand. Though central grids collapse, orbital eyes and sovereign nodes illuminate the safe path upon your living interface."**
@@ -95,6 +98,8 @@ DID: PIONEER-001  Safety: 100% SECURE  Battery: 94%  432Hz HARMONY
 * **JIN-Greenhouse**: サーバー水冷排熱カスケード温室の温湿度・薬草生育状況。
 
 ### 2. 宇宙衛星 ＆ 地上実査連動型「動的ハザードレイヤー」 (Orbital-Municipal Synchronized Layer):
+
+![個人主権クライアント端末](./assets/07_JIN_OS_MOBILE_CLIENT_02.jpg)
 
 * **衛星ハイパースペクトル（EnMAP等）土壌解析:  
   宇宙軌道からの植物光合成蛍光（SIF: Solar-Induced Chlorophyll Fluorescence）および分光反射率を解析。土壌中の水分飽和限界（これ以上雨水を吸えない臨界点）と、根系の歪みに伴う「深層崩壊・地すべり予兆」を面的にヒートマップ表示。
