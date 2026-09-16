@@ -101,7 +101,7 @@ DID: PIONEER-001  Safety: 100% SECURE  Battery: 94%  432Hz HARMONY
 
 ![個人主権クライアント端末](./assets/07_JIN_OS_MOBILE_CLIENT_02.jpg)
 
-* **衛星ハイパースペクトル（EnMAP等）土壌解析:  
+* **衛星ハイパースペクトル（EnMAP等）土壌解析**:  
   宇宙軌道からの植物光合成蛍光（SIF: Solar-Induced Chlorophyll Fluorescence）および分光反射率を解析。土壌中の水分飽和限界（これ以上雨水を吸えない臨界点）と、根系の歪みに伴う「深層崩壊・地すべり予兆」を面的にヒートマップ表示。
 
 * **自治体土木パトロール現場実査（Ground-Truth）同期**:  
