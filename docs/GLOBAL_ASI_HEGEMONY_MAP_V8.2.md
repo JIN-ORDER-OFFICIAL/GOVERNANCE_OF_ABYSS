@@ -11,7 +11,7 @@
 
 ### 「二極コンピュート回廊、非対称シャドー資本網、および海洋実物防衛マトリクス」
 
-![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.1_01.jpg)
+![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_01.jpg)
 
 ## 1. 執行要約 (Executive Summary)
 
@@ -34,6 +34,8 @@
 ---
 
 ## 2. メガワットの壁と電力グリッド飽和指数 (GSI)
+
+![二極コンピュート回廊](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.1_01.jpg)
 
 米欧主要都市圏におけるデータセンター新設は、変電設備および高圧送電線の受電容量枯渇（Interconnection Queueの平均待機期間が5〜7年へ延伸）により物理的限界に達した。
 
