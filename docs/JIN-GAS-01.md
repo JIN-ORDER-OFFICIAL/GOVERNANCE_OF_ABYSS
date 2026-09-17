@@ -44,7 +44,7 @@
   下水処理場の脱水汚泥、生ゴミ残渣、河川剪定枝を、乾燥工程を経ずに超臨界水環境下（374°C、22.1MPa以上）で熱化学分解し、高純度メタン、水素、および濃縮CO₂ガスを連続抽出する。
 
 * **残渣ミネラルの完全回収:**
-  反応後に生じる固形残渣からリンおよびカリウムを結晶抽出（MAP沈殿法等）し、[JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md) に規定する国産有機肥料原料として土壌へ全量還元する。
+  反応後に生じる固形残渣からリンおよびカリウムを結晶抽出（MAP沈殿法等）し、[JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE](../JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md) に規定する国産有機肥料原料として土壌へ全量還元する。
 
 ### 2. PEM CO₂還元 ＆ コアシェル型触媒メタネーション
 * **PEM（固体高分子膜）直接還元技術:**
@@ -94,7 +94,7 @@
 
 ### 2. 現代版北前船への大型水素燃料エンジン直結
 * **硬翼帆 × 水素混焼95%エンジン:**
-  [JIN_KITAMAE_AIR_SEA_LOGISTICS](./JIN_KITAMAE_AIR_SEA_LOGISTICS.md) に規定する内航トリマラン貨物船に、混焼率95%の水素燃料低速2ストロークエンジンを搭載。
+  [JIN_KITAMAE_AIR_SEA_LOGISTICS](../JIN_KITAMAE_AIR_SEA_LOGISTICS.md) に規定する内航トリマラン貨物船に、混焼率95%の水素燃料低速2ストロークエンジンを搭載。
 
 * **ゼロカーボン・フィーダー輸送体系:**
   自動制御カーボン硬翼帆による風力推進を主動力とし、出入港時および無風時に地域余剰水素エンジンを駆動させることで、化石重油消費ゼロの完全グリーン内航海上回廊を実体化する。
