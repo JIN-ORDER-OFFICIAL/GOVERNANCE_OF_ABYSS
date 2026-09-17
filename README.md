@@ -277,7 +277,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="./docs/governance/SMCP-01.md">
-        <img src="./assets/JIN_SMCP_01.jpg" width="100%" alt="SMCP-01 自律分散型地域共創統治：1.四層分散型共創エンジン、2.草の根準公務員のエンパワーメント、3.高セキュリティ市民データ要塞（税務・戸籍）、4.独立評議会室（SAB）">
+        <img src="./docs/governance/JIN_SMCP_01.jpg" width="100%" alt="SMCP-01 自律分散型地域共創統治：1.四層分散型共創エンジン、2.草の根準公務員のエンパワーメント、3.高セキュリティ市民データ要塞（税務・戸籍）、4.独立評議会室（SAB）">
       </a>
     </td>
     <td width="50%" align="center">
