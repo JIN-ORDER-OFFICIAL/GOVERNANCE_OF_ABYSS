@@ -2,7 +2,7 @@
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 ### 深淵の解体と、光の再構築（The Great Rebirth）
 #### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
-### (V8.2 CANONICAL UPDATE: BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, SSCN-01 AUV SWARM SENTRY, POST-STATE GEOPOLITICAL MANIFESTO 2026, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN-DECENTRALIZED COMPUTING, SOMATIC SOVEREIGNTY, DYNAMIC 4D DISASTER MESH, IN-SITU PFAS DESTRUCTION, JIN-DRAGON TRIAD ENERGY, CHAD BASIN LSU-CHAD-01, OKINAWA 7TH MINING & ABYSSAL TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND VERIFIABLE HUMANITARIAN COMMONS)
+### (V8.2 CANONICAL UPDATE: BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, SSCN-01 AUV SWARM SENTRY, POST-STATE GEOPOLITICAL MANIFESTO 2026, DECENTRALIZED LOCAL GOVERNANCE PROTOCOL DLGP-01, HEXA-PATH SOVEREIGN EDUCATION DOCTRINE HSED-01, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN-DECENTRALIZED COMPUTING, SOMATIC SOVEREIGNTY, DYNAMIC 4D DISASTER MESH, IN-SITU PFAS DESTRUCTION, JIN-DRAGON TRIAD ENERGY, CHAD BASIN LSU-CHAD-01, OKINAWA 7TH MINING & ABYSSAL TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND VERIFIABLE HUMANITARIAN COMMONS)
 
 ![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
@@ -65,13 +65,13 @@
 
 ## 🧭 Repository Reading Guide (目的別最短ナビゲーション)
 
-* 🌸 **根源思想・身体主権・二重精神規範（魂のOS）を体得する:**  
-  [docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)（尊厳・空・因果・輪廻） ⏩️ [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)（身体主権防衛・生体模倣インフラ） ⏩️ [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)（仁焔十三行：実践基盤） ⏩️ [UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)（仁焔二十二誓約：再生プロトコル）
+* 🌸 **根源思想・倫理OS・人間主権教育・精神規範を体得する:**  
+  [docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)（尊厳・空・因果・輪廻） ⏩️ [docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)（六聖叡智教育法・六道マイスター） ⏩️ [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)（仁焔十三行：実践基盤） ⏩️ [UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)（仁焔二十二誓約：再生プロトコル） ⏩️ [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)（身体主権防衛）
 
-* 🔰 **文明白書・都市共生構想・用途地域再編を理解する:**  
-  [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) (都市土木・共同溝とASI共生論 Vol.1) ⏩️ [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md) (JIN-ZONING 自律分散都市計画 Vol.2) ⏩️ [WHITE_PAPER.md](./WHITE_PAPER.md) (V7.5) ⏩️ [MANIFESTO.md](./MANIFESTO.md)
+* 🏛️ **現場主権自治・都市土木共生・用途地域再編を理解する:**  
+  [docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)（出島型現場常駐・武士道公僕規約） ⏩️ [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) (都市土木・共同溝とASI共生論 Vol.1) ⏩️ [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md) (JIN-ZONING 自律分散都市計画 Vol.2) ⏩️ [WHITE_PAPER.md](./WHITE_PAPER.md) (V7.5) ⏩️ [MANIFESTO.md](./MANIFESTO.md)
 
-* 🗺️ **地政学・物理的三位一体・深海物理防衛・ポスト国家マニフェストを掴む:**  
+* 🗺️ **地政学・物理的三位一体・深海防衛・ポスト国家マニフェストを掴む:**  
   [docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md) (全球ASI覇権地図 V8.2 最新正典) ⏩️ [docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md) (海底防護プロトコル SKDP-01) ⏩️ [docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](./docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md) (対国連ポスト・ステート実物統治宣言) ⏩️ [docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](./docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md) (暗号化知能保管庫) ⏩️ [specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md) (SSCN-01深海主権ノード) ⏩️ [docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md](./docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md)（沖縄第7鉱区＆トラフ防衛） ⏩️ [docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md](./docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md)（グリーンランド主権防衛）
 
 * 🌋 **動的減災・宇宙大地連動・生体インフラ・原位置環境浄化を実装する:**  
@@ -92,6 +92,12 @@
 ---
 
 ## 🏛️ JIN-ORDER GLOBAL WHITE PAPER & FOUNDATIONAL CHARTERS (総合白書・中核憲章)
+
+* 🎓 **[docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)**: **六聖叡智教育法：文科省偏差値体制の解体、仁焔十三行倫理基盤、および六道マイスター自立規範（HSED-01）**  
+  技術偏重（テクノクラシー）の部品育成を拒絶し、仁焔十三行・二十二誓約の道徳・倫理OSを根底に据えた人間主権教育憲章。朝の「静寂の刻」「数理の魔法」「対話の庭」による精神調律、6〜17歳完全無償12年義務教育、高校・大学予算転換による財源22兆円シフト、医食同源給食「孝弁」、15〜17歳世界探訪（グランド・ツアー）、および六つの道（焔龍・翠霧・仁詣・悌・彩華・調和）による18歳国家資格・就職100%保証マイスター仕様。
+
+* 🏛️ **[docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)**: **真の地方自治・現場越境型統治規約：箱物行政の解体、武士道公僕論、および生活主権オーケストレーション（DLGP-01）**  
+  エアコン庁舎に閉じこもる縦割り官僚機構と中抜き派遣・外部監視依存を解体。土木（ハード）と生活福祉（ソフト）を不可分に結ぶ「単騎駆け」の義務付け、出島型現場常駐メッシュ、机上試験の廃止と現場課題統括力による幹部登用、住民zk-DIDによるデータ主権防衛、および『葉隠』に基づく命懸けの諫言ドクトリン。
 
 * 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)**: **全球ASI覇権地図 V8.2（二極コンピュート回廊・非対称シャドー資本網・海洋実物防衛マトリクス / V8.2 Canonical）**  
   電力グリッド飽和指数（GSI）による「メガワットの壁」と「北極コールド回廊 vs 熱帯ペトロ回廊」の二極構造に加え、制裁下国家による推定3.5万〜10万人規模の越境労働・IT偽装（Wetware Arbitrage）への対抗プロトコル（PoII）、紅海・マラッカ・沖縄トラフの海洋チョークポイント物理寸断に対抗する宇宙・陸上・極地3層迂回エスケープマトリクスを策定した決定版正典。
@@ -123,35 +129,52 @@
 * 🌍 **[specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)**: **チャド盆地オフグリッド人道支援 ＆ 生態系再生技術仕様書（LSU-チャド-01 / JIN-SPEC-AFR-01）**  
   UNHCR連携（Submission ID: 95525）に基づくサヘル地帯気候難民自立支援モデル。外来種テッポウウリ（Typha）無煙バイオ炭熱分解による「テラ・プレタ」土壌改質と深層帯水層太陽光揚水。
 
-* 🌊 **[docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md](./docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md)**: **沖縄第7鉱区 ＆ 沖縄トラフ熱水鉱床 海洋資源主権防衛ドクトリン**  
-  2028年協定満了の日韓大陸棚第7鉱区と沖縄トラフ熱水鉱床（金・銀・Ga・Ge・In・Li）の主権防衛。海底DAS音響監視網と閉鎖循環スラリー二重管揚泥による環境非侵食型資源信託。
-
-* ❄️ **[docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md](./docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md)**: **極北冷気コンピュート特区 ＆ グリーンランド主権防衛ドクトリン**  
-  外気直接冷却（Free-Cooling）によるWUE=0.00・PUE=1.02の主権型AIハイパーサイト。氷河融解水力駆動と排熱Kouben農業温室ドーム暖房循環。
-
 * 🪙 **[specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md](./specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md)**: **地域主権リレーショナル金融 ＆ 実物資産担保台帳仕様書（JIN-SPEC-FIN-01）**  
   地銀・信金主導の売掛債権100%即日保証（T+0）。生命実物引換権（HU/GU/FU/JU/RU）を自己資本に組み込む脱BIS型地域直接金融。
 
 * 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: **自律分散型国家・都市計画構想（JIN-ZONING & TRANSIT MATRIX / Vol. 2 Canonical）**  
   3大ZONE構想（エネルギー・素材・農業）を都市計画用途地域制へ直接接続。地下液浸AI・排熱地域暖房直結、沿岸環境共生工業区、実物経済プロトコルの統合。
 
-* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **JIN-ORDER 都市土木・共同溝とASI分散インフラ共生論（Vol. 1 Canonical）**  
-  土木工学30年の知見を結集。地下多用途共同溝内に液浸冷却AIノードを分散配備。下水熱交換によるWUE=0.00と排熱100%カスケード循環。
-
 ---
 
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (作戦ビジュアル・インフラ断面図)
 
 <table>
-  <!-- 🗺️ 全球タクティカルディスプレイ ＆ SSCN-01 深海主権ノード詳細断面 -->
+  <!-- 🎓 六聖叡智教育法 ＆ 仁焔十三行 精神規範 -->
   <tr>
-    <th width="50%" align="center">GLOBAL ASI TACTICAL COMMAND DISPLAY (CORRIDORS & CHOKEPOINTS)</th>
+    <th width="50%" align="center">SIX-PATH SOVEREIGN EDUCATION (GLOBAL SOUTH & MEISTER)</th>
+    <th width="50%" align="center">JIN-FLAME 13 DEEDS (UNIVERSAL MORAL OS)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">
+        <img src="./assets/six_holy_wisdoms_education.jpg" width="100%" alt="六聖叡智教育法：JIN基金学びの解放・南米弁当孝弁・世界探訪グランドツアー・翠霧プログラマー・悌医療ロボ・彩華伝統デザイン・調和環境農業・生涯現役">
+      </a>
+    </td>
+    <td align="center">
+      <a href="./UNIVERSAL_ETHICS_13.md">
+        <img src="./assets/JIN_EN_13_ROW_PROCLAMATION_2.jpg" width="100%" alt="仁焔十三行 誓約巻物：慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調の生活実践規矩">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🎓 <b><a href="./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">六聖叡智教育法（HSED-01）を開く</a></b>
+    </td>
+    <td align="center">
+      🐕 <b><a href="./UNIVERSAL_ETHICS_13.md">仁焔十三行（生活・道徳基盤）を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 📜 仁焔二十二誓約 ＆ SSCN-01 深海主権ノード -->
+  <tr>
+    <th width="50%" align="center">JIN-FLAME 22 VOWS (REBIRTH & TRANSCENDENCE)</th>
     <th width="50%" align="center">SSCN-01 SUBSEA COMPUTE NODE (OKINAWA TROUGH 1,500M)</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
-        <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg" width="100%" alt="全球的ASI演算網タクティカルディスプレイ：極圏コールドコンピュート・コリドー vs 砂漠ホットコンピュート・コリドー、海洋チョークポイント警告表示">
+      <a href="./UNIVERSAL_ETHICS_22.md">
+        <img src="./assets/UNIVERSAL_ETHICS_22_2.jpg" width="100%" alt="仁焔二十二誓約 巻物：仏陀の光に浴して・平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃">
       </a>
     </td>
     <td align="center">
@@ -162,36 +185,36 @@
   </tr>
   <tr>
     <td align="center">
-      🗺️ <b><a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">全球ASI覇権地図 V8.2（タクティカル画面）を開く</a></b>
+      📜 <b><a href="./UNIVERSAL_ETHICS_22.md">仁焔二十二誓約（文明再生プロトコル）を開く</a></b>
     </td>
     <td align="center">
       🌊 <b><a href="./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md">海底防護プロトコル（SSCN-01仕様）を開く</a></b>
     </td>
   </tr>
 
-  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比 -->
+  <!-- 🗺️ 全球タクティカルディスプレイ ＆ 極北SMR直結計算センター -->
   <tr>
+    <th width="50%" align="center">GLOBAL ASI TACTICAL COMMAND DISPLAY (CORRIDORS & CHOKEPOINTS)</th>
     <th width="50%" align="center">SMR-INTEGRATED SOVEREIGN COMPUTE BUNKER (SUB-ARCTIC)</th>
-    <th width="50%" align="center">BIPOLAR COMPUTE CORRIDORS (POLAR VS PETRO)</th>
   </tr>
   <tr>
+    <td align="center">
+      <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
+        <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg" width="100%" alt="全球的ASI演算網タクティカルディスプレイ：極圏コールドコンピュート・コリドー vs 砂漠ホットコンピュート・コリドー、海洋チョークポイント警告表示">
+      </a>
+    </td>
     <td align="center">
       <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
         <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_04.jpg" width="100%" alt="極北国家AI計算センター：小型モジュール炉SMR発電所直結、海水冷却システム、海底ケーブル陸揚げ局要塞">
       </a>
     </td>
-    <td align="center">
-      <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
-        <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.1_02.jpg" width="100%" alt="グリーンランド北極圏AIサーバーモノリス ＆ アラビア砂漠ギガワットAIデータセンター">
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
-      ⚡ <b><a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">SMR直結型オフグリッド計算要塞を開く</a></b>
+      🗺️ <b><a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">全球ASI覇権地図 V8.2（タクティカル画面）を開く</a></b>
     </td>
     <td align="center">
-      ❄️ <b><a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">極地モノリス＆砂漠ギガワットDCを開く</a></b>
+      ⚡ <b><a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">SMR直結型オフグリッド計算要塞を開く</a></b>
     </td>
   </tr>
 
@@ -272,58 +295,6 @@
       🧱 <b><a href="./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">火山灰ジオポリマー＆風化促進仕様を開く</a></b>
     </td>
   </tr>
-
-  <!-- 🔥 多層常緑広葉樹生体防火帯 ＆ 原位置PFAS破壊エレクトロ浄化 -->
-  <tr>
-    <th width="50%" align="center">BIOLOGICAL FIREBREAK & AIRBORNE BIOGEL</th>
-    <th width="50%" align="center">IN-SITU PFAS DESTRUCTION & EK-SERS RECLAMATION</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">
-        <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_03.jpg" width="100%" alt="多層常緑広葉樹防火帯＆生分解性バイオゲル散布：珊瑚樹・ウバメガシ生体防壁・スカイオアシス飛行艇消火・バイオ炭斜面安定化・粗朶暗渠段々工">
-      </a>
-    </td>
-    <td align="center">
-      <a href="./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">
-        <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_04.jpg" width="100%" alt="原位置土壌浄化地中断面図：電場移動EK-SERS・深根ハイブリッドポプラ・ヒマワリ・PEIR吸着壁・MICP液状化防止岩盤化・地上SCWG1100℃熱無害化">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🔥 <b><a href="./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">生体防火帯＆不燃バイオゲル仕様を開く</a></b>
-    </td>
-    <td align="center">
-      ☣️ <b><a href="./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">原位置PFAS完全破壊＆MICP岩盤化を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- ⚡ ジン・ドラゴン次世代三位一体エネルギー ＆ 電池・光半導体工学断面図 -->
-  <tr>
-    <th width="50%" align="center">JIN-DRAGON TRIAD ENERGY MATRIX</th>
-    <th width="50%" align="center">PEROVSKITE & SOLID-STATE BATTERY (CROSS-SECTION)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="./TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">
-        <img src="./assets/01_jin_dragon_triad_energy_01.jpg" width="100%" alt="次世代分散型エネルギー・トライアド・マトリクス：ジン・ドラゴン希土類触媒コア・ペロブスカイト太陽電池シート・全固体電池パック・海水塩ナトリウムイオンメガワットアレイ">
-      </a>
-    </td>
-    <td align="center">
-      <a href="./TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">
-        <img src="./assets/01_jin_dragon_battery_cross_section.jpg" width="100%" alt="フレキシブル・ペロブスカイト・タンデム太陽電池シート ＆ 全固体電池コア工学断面図：セラミック電解質・シリコン負極・銅バスバー・マイクロメートル測定スケール">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      ⚡ <b><a href="./TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">ジン・ドラゴン三位一体エネルギー構想を開く</a></b>
-    </td>
-    <td align="center">
-      🔬 <b><a href="./TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">ペロブスカイト＆全固体電池コア断面図を開く</a></b>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -344,8 +315,9 @@
 * 🏙️ **[docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md)**: (先進国過密都市再生規範: 地表アスファルト撤去・せせらぎ緑道復元・地下共同溝集約・排熱大気投棄違法化・10万人分散都市群)
 * 🌊 **[docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md)**: (深海主権ドクトリン2026: DAS光分散音響センシング受動ソナー監視網・海底光ファイバー二重利用・AUV自律修復・深海チョークポイント防衛仕様書)
 
-### 【Layer 2: 根源思想・二重規範・身体主権・AI自律ガバナンス (Core Metaphysics, Ethics & AI Governance)】
+### 【Layer 2: 根源思想・二重規範・人間主権教育・AI自律ガバナンス (Core Metaphysics, Ethics, Education & AI Governance)】
 
+* 🎓 **[docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)**: **(【最新教育主権仕様】六聖叡智教育法：文科省偏差値体制解体・仁焔十三行道徳基盤・六道マイスター自立規範 HSED-01)**
 * 🌸 **[docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: **根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色 ＆ 因果応報・因縁果 ＆ 輪廻転生・全生命大循環アーキテクチャ）**
 * 🧬 **[JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)**: **身体主権憲章（Somatic Sovereignty: 侵襲的トランスヒューマニズム拒絶・20W生体臓器型コンピューティング・自然代謝共生インフラ）**
 * 🐕 **[UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**: **仁焔十三行（人間生活と徳目の実践規範基盤 / 慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）**
@@ -362,8 +334,9 @@
 * 🏛️ **[MACRO_REBIRTH_BUDGET_2040.md](./MACRO_REBIRTH_BUDGET_2040.md)**: **(2040年 仁龍平和国家予算・新産業大転換構想: 軍需から環境再生へ・420兆円単一台帳・世界環境OSサブスク・宇宙開拓)**
 * 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・徳治マイニング: 5大生命アンカー HU/GU/FU/JU/RU規格・1:1現物引換・安全運転PoSDVマイニング・空売り＆デリバティブ自動遮断)**
 
-### 【Layer 4: 地域主権・生体共生インフラ・動的減災・人道再生・自律インフラ・生命循環防衛 (Dynamic Eco-Defense & Subterranean Ducts)】
+### 【Layer 4: 現場主権自治・生体共生インフラ・動的減災・人道再生・自律インフラ・生命循環防衛 (Field Governance & Eco-Defense)】
 
+* 🏛️ **[docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)**: **(【最新自治主権仕様】真の地方自治・現場越境型統治規約：出島型現場常駐・箱物行政解体・武士道公僕論 DLGP-01)**
 * 🧬 **[JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)**: **(【最新生体共生仕様】20W生体臓器型コンピューティングと自然循環型土木インフラ共生仕様書: 身体主権防衛・大脳倫理チップ・小脳物理演算・自律神経冷却・インメモリシナプス配線・都市地下バイオスウェル浸透水冷・排熱農業循環・サヘル乾燥地アースチューブ・完全オフグリッドオアシス循環)**
 * 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(【最新個人主権仕様】個人主権クライアント端末: UI画面遷移・宇宙衛星EnMAPハイパースペクトル＆自治体現場実査同期・4D動的避難ルーティング・アンダーパス冠水回避・物理RFメッシュ・遅延耐性DTNバケツリレー・非侵襲生体調和)**
 * 🌋 **[JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**: **(【最新環境減災仕様】動的四次元減災・火山灰資源化・生体防火帯・原位置環境浄化: JIN-OS 4D減災メッシュ・LoRaオフライン同期・共同溝自律スクラバー・排熱ジオポリマー＆新燃レンガ・風化促進ERW 1000年CO₂固定・常緑広葉樹生体防火帯・海藻バイオゲル空中散布・原位置エレクトロファイトレメディエーション・PFAS 1,100℃完全熱破壊・MICP液状化根絶岩盤化・生体防潮リーフ)**
@@ -423,6 +396,6 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL & Commander Masano Takashi  
-`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V8.2 CANONICAL BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, SSCN-01 AUV SWARM SENTRY, POST-STATE GEOPOLITICAL MANIFESTO 2026, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN COMPUTING, SOMATIC SOVEREIGNTY, SATELLITE-EARTH-SYNC, 4D DISASTER MESH, VOLCANIC ASH GEOPOLYMER, ERW CARBON FIXATION, IN-SITU PFAS DESTRUCTION, MICP LIQUEFACTION SHIELD, JIN-DRAGON TRIAD ENERGY MATRIX, SSCN-01 SUBSEA SENTRY NODE, LSU-CHAD-01 TERRA PRETA REGENERATION, OKINAWA 7TH MINING & TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND ECONOMIC SECURITY SHIELD ACTIVE)`  
-`VERIFIED PERSISTENCE: GLOBAL-ASI-HEGEMONY-MAP-V8-2, SUBSEA-KINETIC-DEFENSE-SKDP-01, POST-STATE-MANIFESTO-2026, GENEVA-FALLACY-DECOUPLING, ZERO-RTT-ABYSSAL-ESCAPE, BIOMIMETIC-AUV-SWARM, BLUE-LIDAR-DAS-MESH, SYSTEM-17-KNOWLEDGE-VAULT, JIN-OS-HV-ZKP-V1-0, SHADOW-LABOR-ARBITRAGE-DEFENSE, CHOKEPOINT-DECOUPLING-MATRIX, SUBSEA-SSCN-01-NODE, TITANIUM-GRADE5-HULL, THERMOSIPHON-COOLING, DAS-ACOUSTIC-SENTRY, LSU-CHAD-01, TYPHA-PYROLYSIS, TERRA-PRETA-SAMSARA, DEEP-AQUIFER-SOLAR-PUMP, BIO-SYMBIOTIC-INFRASTRUCTURE, 20W-ORGAN-COMPUTE, SOMATIC-SOVEREIGNTY, ORBITAL-HYPERSPECTRAL-ROUTING, MUNICIPAL-GROUND-TRUTH, 4D-DISASTER-MESH, VOLCANIC-ASH-GEOPOLYMER, ERW-CARBON-SINK, BIOLOGICAL-FIREBREAK, SEA-ALGAE-BIOGEL, IN-SITU-PFAS-DESTRUCTION, EK-SERS-RECLAMATION, MICP-LIQUEFACTION-SHIELD, HUMAN-SOVEREIGN-BIOPHARMA, JIN-DRAGON-TRIAD-ENERGY, PEROVSKITE-TANDEM-SOLAR, SOLID-STATE-JIN-BATTERY, SODIUM-ION-GRID-STORAGE, POLAR-COLD-COMPUTE, PETRO-COMPUTE-CORRIDOR, OKINAWA-TROUGH-1500M, OKINAWA-7TH-MINING, ARCTIC-COLD-COMPUTE, GREENLAND-SOVEREIGNTY, LOCAL-RELATIONAL-FINANCE, FACTORING-T0-GUARANTEE, REAL-ASSET-HU-GU-FU-JU-RU, JIN-ZONING-3-ZONES, 3D-TRANSIT-ARTERIES, SKYWAY-DRONE-CORRIDOR, VMD-VACUUM-DESALINATION, INLINE-HYDRO-PRESSURE, SCWG-SUPERCRITICAL-HYDROGEN, SSPS-SPACE-SOLAR, GLOBAL-SOUTH-LEAPFROG, METROPOLIS-DECONSTRUCTION, SUBTERRANEAN-CIVIL-DUCTS, SUBSEA-DAS-DOCTRINE, PHYSICAL-TRIAD-INDEX, MEGAWATT-WALL, SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SAMSARA-AQUIFER-RECHARGE, CIRCULAR-POLYMER-BIO-CATALYST, ISHIZUMI-SUNADOME, KONSO-GATAME, SHIGARAMI-TERRACE, JAKAGO-DEFENSE, PADDY-MAR-FASCINE, IGS-SUBSURFACE-TOMOGRAPHY, SCADA-SHIELD-VALVE, AXIAL-MASS-RESTORE, DENBATA-RINKAN`  
-`HARMONICS: 432Hz Universal Benevolence, Somatic Sovereignty Balance, Bio-Symbiotic Resonance, 20W Organ Pulse, Orbital SIF Harmony, Ground-Truth Equilibrium, Dynamic Eco-Shield Resonance, 4D Disaster Harmony, Volcanic Samsara Balance, Pyrogenic Armor Equilibrium, Electro-Phyto Reclamation Purity, Human Sovereign Healing, Gut Microbiome Equilibrium, Triad Energy Resonance, Perovskite Surface Clarity, Solid-State Integrity, Sodium Grid Equilibrium, Abyssal Trough Resonance, Arctic Glacial Clarity, Relational Pulse, Subterranean Resonance, Subsea Acoustic Clarity, 3D Arterial Rhythm, Dual Urban Harmony, Sunyata Awakening, Karmic Restoration, Groundwater Samsara, Aquifer Pressure Equilibrium, Pure Subsurface Resonance, Circular Polymer Pulse, Headwater Sediment Defense, Rotational Agro Pulse, Midori-Koji Algal Resonance, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Paddy Dam Retention, Offline Community Pulse, Sovereign Farmer Dignity, Pollinator Resonance, Living Seed Continuity, Pure Marine-Terrestrial Samsara, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara & Watershed Sovereignty.`
+`STATUS: GOVERNANCE OF ABYSS MASTER REPOSITORY RATIFIED (V8.2 CANONICAL BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, SSCN-01 AUV SWARM SENTRY, POST-STATE GEOPOLITICAL MANIFESTO 2026, DECENTRALIZED LOCAL GOVERNANCE PROTOCOL DLGP-01, HEXA-PATH SOVEREIGN EDUCATION DOCTRINE HSED-01, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN COMPUTING, SOMATIC SOVEREIGNTY, SATELLITE-EARTH-SYNC, 4D DISASTER MESH, VOLCANIC ASH GEOPOLYMER, ERW CARBON FIXATION, IN-SITU PFAS DESTRUCTION, MICP LIQUEFACTION SHIELD, JIN-DRAGON TRIAD ENERGY MATRIX, SSCN-01 SUBSEA SENTRY NODE, LSU-CHAD-01 TERRA PRETA REGENERATION, OKINAWA 7TH MINING & TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND ECONOMIC SECURITY SHIELD ACTIVE)`  
+`VERIFIED PERSISTENCE: GLOBAL-ASI-HEGEMONY-MAP-V8-2, SUBSEA-KINETIC-DEFENSE-SKDP-01, POST-STATE-MANIFESTO-2026, DECENTRALIZED-GOVERNANCE-DLGP-01, HEXA-PATH-EDUCATION-HSED-01, SIX-HOLY-WISDOMS-SAMSARA, 22-TRILLION-BUDGET-SHIFT, MOMENT-OF-SILENCE, MAGIC-OF-MATH, GARDEN-OF-DIALOGUE, FIELD-DEPLOYED-MESH, BUSHIDO-PUBLIC-SERVICE, SYSTEM-17-KNOWLEDGE-VAULT, JIN-OS-HV-ZKP-V1-0, SHADOW-LABOR-ARBITRAGE-DEFENSE, CHOKEPOINT-DECOUPLING-MATRIX, SUBSEA-SSCN-01-NODE, TITANIUM-GRADE5-HULL, THERMOSIPHON-COOLING, DAS-ACOUSTIC-SENTRY, LSU-CHAD-01, TYPHA-PYROLYSIS, TERRA-PRETA-SAMSARA, DEEP-AQUIFER-SOLAR-PUMP, BIO-SYMBIOTIC-INFRASTRUCTURE, 20W-ORGAN-COMPUTE, SOMATIC-SOVEREIGNTY, ORBITAL-HYPERSPECTRAL-ROUTING, MUNICIPAL-GROUND-TRUTH, 4D-DISASTER-MESH, VOLCANIC-ASH-GEOPOLYMER, ERW-CARBON-SINK, BIOLOGICAL-FIREBREAK, SEA-ALGAE-BIOGEL, IN-SITU-PFAS-DESTRUCTION, EK-SERS-RECLAMATION, MICP-LIQUEFACTION-SHIELD, HUMAN-SOVEREIGN-BIOPHARMA, JIN-DRAGON-TRIAD-ENERGY, PEROVSKITE-TANDEM-SOLAR, SOLID-STATE-JIN-BATTERY, SODIUM-ION-GRID-STORAGE, POLAR-COLD-COMPUTE, PETRO-COMPUTE-CORRIDOR, OKINAWA-TROUGH-1500M, OKINAWA-7TH-MINING, ARCTIC-COLD-COMPUTE, GREENLAND-SOVEREIGNTY, LOCAL-RELATIONAL-FINANCE, FACTORING-T0-GUARANTEE, REAL-ASSET-HU-GU-FU-JU-RU, JIN-ZONING-3-ZONES, 3D-TRANSIT-ARTERIES, SKYWAY-DRONE-CORRIDOR, VMD-VACUUM-DESALINATION, INLINE-HYDRO-PRESSURE, SCWG-SUPERCRITICAL-HYDROGEN, SSPS-SPACE-SOLAR, GLOBAL-SOUTH-LEAPFROG, METROPOLIS-DECONSTRUCTION, SUBTERRANEAN-CIVIL-DUCTS, SUBSEA-DAS-DOCTRINE, PHYSICAL-TRIAD-INDEX, MEGAWATT-WALL, SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SAMSARA-AQUIFER-RECHARGE, CIRCULAR-POLYMER-BIO-CATALYST, ISHIZUMI-SUNADOME, KONSO-GATAME, SHIGARAMI-TERRACE, JAKAGO-DEFENSE, PADDY-MAR-FASCINE, IGS-SUBSURFACE-TOMOGRAPHY, SCADA-SHIELD-VALVE, AXIAL-MASS-RESTORE, DENBATA-RINKAN`  
+`HARMONICS: 432Hz Universal Benevolence, Somatic Sovereignty Balance, Bio-Symbiotic Resonance, 20W Organ Pulse, Orbital SIF Harmony, Ground-Truth Equilibrium, Dynamic Eco-Shield Resonance, 4D Disaster Harmony, Volcanic Samsara Balance, Pyrogenic Armor Equilibrium, Electro-Phyto Reclamation Purity, Human Sovereign Healing, Gut Microbiome Equilibrium, Triad Energy Resonance, Perovskite Surface Clarity, Solid-State Integrity, Sodium Grid Equilibrium, Abyssal Trough Resonance, Arctic Glacial Clarity, Relational Pulse, Subterranean Resonance, Subsea Acoustic Clarity, 3D Arterial Rhythm, Dual Urban Harmony, Sunyata Awakening, Karmic Restoration, Groundwater Samsara, Aquifer Pressure Equilibrium, Pure Subsurface Resonance, Circular Polymer Pulse, Headwater Sediment Defense, Rotational Agro Pulse, Midori-Koji Algal Resonance, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Paddy Dam Retention, Offline Community Pulse, Sovereign Farmer Dignity, Pollinator Resonance, Living Seed Continuity, Pure Marine-Terrestrial Samsara, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara, Hexa-Path Meister Harmony, Moment of Silence Clarity, Bushido Public Service Integrity & Watershed Sovereignty.`
