@@ -2,7 +2,7 @@
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 ### 深淵の解体と、光の再構築（The Great Rebirth）
 #### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
-> (V8.2 CANONICAL UPDATE: BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, SSCN-01 AUV SWARM SENTRY, POST-STATE GEOPOLITICAL MANIFESTO 2026, DECENTRALIZED LOCAL GOVERNANCE PROTOCOL DLGP-01, HEXA-PATH SOVEREIGN EDUCATION DOCTRINE HSED-01, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN-DECENTRALIZED COMPUTING, SOMATIC SOVEREIGNTY, DYNAMIC 4D DISASTER MESH, IN-SITU PFAS DESTRUCTION, JIN-DRAGON TRIAD ENERGY, CHAD BASIN LSU-CHAD-01, OKINAWA 7TH MINING & ABYSSAL TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND VERIFIABLE HUMANITARIAN COMMONS)
+### (V8.2 CANONICAL UPDATE: BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, SSCN-01 AUV SWARM SENTRY, POST-STATE GEOPOLITICAL MANIFESTO 2026, DECENTRALIZED LOCAL GOVERNANCE PROTOCOL DLGP-01, HEXA-PATH SOVEREIGN EDUCATION DOCTRINE HSED-01, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN-DECENTRALIZED COMPUTING, SOMATIC SOVEREIGNTY, DYNAMIC 4D DISASTER MESH, IN-SITU PFAS DESTRUCTION, JIN-DRAGON TRIAD ENERGY, CHAD BASIN LSU-CHAD-01, OKINAWA 7TH MINING & ABYSSAL TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND VERIFIABLE HUMANITARIAN COMMONS)
 
 ![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
@@ -135,6 +135,9 @@
 * 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: **自律分散型国家・都市計画構想（JIN-ZONING & TRANSIT MATRIX / Vol. 2 Canonical）**  
   3大ZONE構想（エネルギー・素材・農業）を都市計画用途地域制へ直接接続。地下液浸AI・排熱地域暖房直結、沿岸環境共生工業区、実物経済プロトコルの統合。
 
+* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **JIN-ORDER 都市土木・共同溝とASI分散インフラ共生論（Vol. 1 Canonical）**  
+  土木工学30年の知見を結集。地下多用途共同溝内に液浸冷却AIノードを分散配備。下水熱交換によるWUE=0.00と排熱100%カスケード循環。
+
 ---
 
 ## 🖼️ OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (作戦ビジュアル・インフラ断面図)
@@ -153,7 +156,7 @@
     </td>
     <td align="center">
       <a href="./UNIVERSAL_ETHICS_13.md">
-        <img src="./assets/JIN_EN_13_ROW_PROCLAMATION_2.jpg" width="100%" alt="仁焔十三行 誓約巻物：慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調の生活実践規矩">
+        <img src="./assets/JIN_EN_13_ROW_PROCLAMATION.jpg" width="100%" alt="仁焔十三行 誓約巻物：慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調の生活実践規矩">
       </a>
     </td>
   </tr>
@@ -174,7 +177,7 @@
   <tr>
     <td align="center">
       <a href="./UNIVERSAL_ETHICS_22.md">
-        <img src="../assets/UNIVERSAL_ETHICS_22_2.jpg" width="100%" alt="仁焔二十二誓約 巻物：仏陀の光に浴して・平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃">
+        <img src="./assets/UNIVERSAL_ETHICS_22.jpg" width="100%" alt="仁焔二十二誓約 巻物：仏陀の光に浴して・平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃">
       </a>
     </td>
     <td align="center">
@@ -296,74 +299,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🗺️ JIN-ORDER 4-LAYER STRATEGIC ARCHITECTURE (戦略階層マップ)
-
-### 【Layer 1: 地政学・南北二元論・海洋資源防衛・極北主権 (Geopolitics & Dual Sovereignty)】
-
-* 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)**: **(【最新正典 V8.2】全球ASI覇権地図 V8.2: 二極コンピュート回廊・非対称シャドー資本網・海洋チョークポイント3層迂回防衛マトリクス)**
-* 🌊 **[docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)**: **(【最新深海防衛仕様】深海インフラ物理防護・生体模倣型AUV群スウォーム哨戒・動的アトリビューション SKDP-01)**
-* 📢 **[docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](./docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)**: **(【最新宣言】ポスト・ステート実物統治宣言：国連ジュネーブ体制の虚構と物理基盤自律ドクトリン)**
-* 🧠 **[docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](./docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)**: **(【拡張主権仕様】頭脳出国統制対抗・暗号化知能保管庫 System-17 SKV: 生体知能拘束拒絶・zk-Knowledge Proof・秘密分散閾値保管)**
-* 🌊 **[specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)**: **(【最新深海主権仕様】水中自律計算＆海底ケーブル哨戒ノード SSCN-01: 沖縄トラフ1,500m・二重チタン耐圧容器・DAS受動ソナー・受動サーモサイフォン・係留マイクロブイ・PQC暗号)**
-* 🌊 **[docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md](./docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md)**: **(【最新防衛ドクトリン】沖縄第7鉱区 ＆ 沖縄トラフ熱水鉱床 海洋資源主権防衛: 2028年協定満了危機・中国大陸棚延長論粉砕・海底DAS音響ソナー網・閉鎖循環スラリー二重管オンサイト揚泥・沖縄県民主権信託基金)**
-* ❄️ **[docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md](./docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md)**: **(【最新主権ドクトリン】極北冷気コンピュート特区 ＆ グリーンランド主権防衛: デンマーク首相直談判・外気直接冷却WUE=0.00・氷河融解マイクロ水力・排熱Koubenドーム暖房)**
-* 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: **(【最新白書 Vol.2】自律分散型国家・都市計画構想: JIN-ZONING・3大ZONE構想・熱電共生用途地域・地銀農家町工場直結金融・三次元交通動脈)**
-* 🌍 **[docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md)**: (グローバルサウス規範: 原生自然非侵食・完全オフグリッド・砂から骨材・全固体JIN-Battery完成品主権・債務の罠解体)
-* 🏙️ **[docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](./docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md)**: (先進国過密都市再生規範: 地表アスファルト撤去・せせらぎ緑道復元・地下共同溝集約・排熱大気投棄違法化・10万人分散都市群)
-* 🌊 **[docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md)**: (深海主権ドクトリン2026: DAS光分散音響センシング受動ソナー監視網・海底光ファイバー二重利用・AUV自律修復・深海チョークポイント防衛仕様書)
-
-### 【Layer 2: 根源思想・二重規範・人間主権教育・AI自律ガバナンス (Core Metaphysics, Ethics, Education & AI Governance)】
-
-* 🎓 **[docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)**: **(【最新教育主権仕様】六聖叡智教育法：文科省偏差値体制解体・仁焔十三行道徳基盤・六道マイスター自立規範 HSED-01)**
-* 🌸 **[docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)**: **根源思想綱領（天上天下唯我独尊 ＆ 色即是空・空即是色 ＆ 因果応報・因縁果 ＆ 輪廻転生・全生命大循環アーキテクチャ）**
-* 🧬 **[JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)**: **身体主権憲章（Somatic Sovereignty: 侵襲的トランスヒューマニズム拒絶・20W生体臓器型コンピューティング・自然代謝共生インフラ）**
-* 🐕 **[UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)**: **仁焔十三行（人間生活と徳目の実践規範基盤 / 慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）**
-* 📜 **[UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)**: **仁焔二十二誓約（人間主権・執着解放・極限崩壊克復の普遍再生プロトコル / 〜仏陀の光に浴して〜）**
-* ⚖️ **[UNIVERSAL_ETHICS.md](./UNIVERSAL_ETHICS.md)**: **JIN-Order 普遍的倫理規約 (V7.5 Canonical Edition / 第6原則：食料主権・第7原則：空の覚醒と人間主権・第8原則：因果応報の物理法則・双方向的慈悲・復讐昇華・生命至上拘束・エージェント不可逆行動抑止・生態圏尊厳)**
-* 📢 **[MANIFESTO.md](./MANIFESTO.md)**: **JIN-ORDER 仁秩序宣言 (V7.5 Canonical / 民草による主権奪還と物理生命圏解放)**
-* 🛡️ **[JIN_AI_ETHICS_GOVERNANCE.md](./JIN_AI_ETHICS_GOVERNANCE.md)**: **(V7.5 Canonical / Rule 10.2 マルチエージェント連鎖暴走抑止・物理サーキットブレーカー・Rule 14.0・14.1 テックフード知財遮断・CBDC配給檻無効化・市民ゼロ知識倫理検証(ZKP)・オフグリッド自立保全)**
-
-### 【Layer 3: 経済・人道監査台帳・実物資産担保・交通動脈・海洋航空網 (Asset-Backed Ledger, Finance, Mobility & Fleet)】
-
-* 📜 **[docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](./docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)**: **(【最新人道暗号仕様】ゼロ知識証明に基づく人道支援物資・多通貨分散フロー検証台帳 HV-ZKP V1.0: UNHCR/WFP連携・ピンハネ根絶・生体ID秘匿検証・Calorie/Hydration/Power実物担保)**
-* 🪙 **[specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md](./specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md)**: **(【最新仕様】地域主権リレーショナル金融 ＆ 実物資産担保台帳: 地銀・信金主導の売掛金即日100%保証ファクタリングT+0・実物生命資産HU/GU/FU/JU/RU会計基準・町工場5軸加工機シェア融資)**
-* 🚄 **[specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md)**: **(【最新仕様】三次元立体交通・物流回廊: 軌道敷地下広域共同溝同軸レール・現代版北前船硬翼帆ハイブリッド内航船・河川上空ドローン法定航路Skyway・水陸両用飛行艇Sky Oasis)**
-* 🏛️ **[MACRO_REBIRTH_BUDGET_2040.md](./MACRO_REBIRTH_BUDGET_2040.md)**: **(2040年 仁龍平和国家予算・新産業大転換構想: 軍需から環境再生へ・420兆円単一台帳・世界環境OSサブスク・宇宙開拓)**
-* 🪙 **[JIN_CURRENCY_ECONOMY.md](./JIN_CURRENCY_ECONOMY.md)**: **(実物生命資産担保型地域通貨『JIN』循環・万民配当・徳治マイニング: 5大生命アンカー HU/GU/FU/JU/RU規格・1:1現物引換・安全運転PoSDVマイニング・空売り＆デリバティブ自動遮断)**
-
-### 【Layer 4: 現場主権自治・生体共生インフラ・動的減災・人道再生・自律インフラ・生命循環防衛 (Field Governance & Eco-Defense)】
-
-* 🏛️ **[docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)**: **(【最新自治主権仕様】真の地方自治・現場越境型統治規約：出島型現場常駐・箱物行政解体・武士道公僕論 DLGP-01)**
-* 🧬 **[JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)**: **(【最新生体共生仕様】20W生体臓器型コンピューティングと自然循環型土木インフラ共生仕様書: 身体主権防衛・大脳倫理チップ・小脳物理演算・自律神経冷却・インメモリシナプス配線・都市地下バイオスウェル浸透水冷・排熱農業循環・サヘル乾燥地アースチューブ・完全オフグリッドオアシス循環)**
-* 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **(【最新個人主権仕様】個人主権クライアント端末: UI画面遷移・宇宙衛星EnMAPハイパースペクトル＆自治体現場実査同期・4D動的避難ルーティング・アンダーパス冠水回避・物理RFメッシュ・遅延耐性DTNバケツリレー・非侵襲生体調和)**
-* 🌋 **[JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**: **(【最新環境減災仕様】動的四次元減災・火山灰資源化・生体防火帯・原位置環境浄化: JIN-OS 4D減災メッシュ・LoRaオフライン同期・共同溝自律スクラバー・排熱ジオポリマー＆新燃レンガ・風化促進ERW 1000年CO₂固定・常緑広葉樹生体防火帯・海藻バイオゲル空中散布・原位置エレクトロファイトレメディエーション・PFAS 1,100℃完全熱破壊・MICP液状化根絶岩盤化・生体防潮リーフ)**
-* 🏥 **[JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)**: **(【最新医療主権仕様】地域主権型 包括共生医療 ＆ 人間主権型統合バイオ創薬: わんわん仁八病院・医師の全人的裁量権・生薬バイオコンバージョン発酵漢方・ユーグレナみどり麹パラミロン免疫・AI精密標的抗菌Enterololin・次世代生菌製剤LBP・生体主権栄養食「孝弁」処方)**
-* 🌍 **[specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)**: **(【最新人道再生仕様】チャド盆地オフグリッド人道支援 ＆ 生態系再生: LSU-チャド-01・地下350mソーラー揚水・テッポウウリ(Typha)バイオ炭熱分解炉・テラ・プレタ(Terra Preta)保水土壌改質・多段セラミックろ過・UNHCR Submission ID:95525完全連動)**
-* ⚡ **[specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)**: **(【最新仕様】複合給電・自立水利技術仕様書: AI排熱直結低温減圧膜蒸留VMD海水淡水化・ZLD濃縮塩水資源化・管内インライン水圧発電・超臨界水ガス化SCWG水素・宇宙太陽光SSPSレクテナ受電)**
-* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **(【最新白書 Vol.1】都市土木・共同溝とASI分散インフラ共生論: 地下多用途共同溝・分散液浸冷却AIノード・下水熱交換閉ループ・WUE=0.00完全水保全・地域カスケード熱供給・自治体主権マイクログリッド)**
-* 💧 **[JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md)**: 自律帯水層かん養 ＆ クローズドループ復水工法仕様書
-* 🌾 **[JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)**: 日本農家再生大綱（早生米×大豆輪換・額縁明渠・自給肥料）
-* 🐟 **[JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)**: 海陸循環型有機肥料 ＆ 生体土壌・腸管双対バイオエンジン仕様書
-
----
-
-## 📱 JIN-OS SOVEREIGN MOBILE INTERFACE (Benevolence Client)
-### 仁（Benevolence）をOSとする個人主権クライアント端末・UI仕様
-
-[![JIN-OS Mobile Client 02](./assets/07_JIN_OS_MOBILE_CLIENT_02.jpg)](./JIN_OS_CLIENT_SPEC.md)
-
-* **新通貨『JIN（仁）』全般管理:** 実物生命資産（水・種子・エネルギー）担保型台帳と連動した直感的分散決済、安全運転徳ポイント（PoSDV）の即時ミント受取。
-* **宇宙・地上同期型 4D動的減災ナビゲーション:**  
-  ドイツ最新鋭環境衛星（EnMAP等）の光合成蛍光（SIF）土壌飽和度解析と、自治体土木職員の現場目視データ（アンダーパス冠水実測・擁壁クラック）を完全同期。基地局途絶時でも920MHz帯Sub-GHz LoRaメッシュにより、浸水フロントを秒単位で回避する安全脱出ルートをオフライン動的案内。
-* **非侵襲型・身体主権防衛:** 人体へのチップ埋設を完全排除し、端末内の閉鎖環境でECGや自律神経（HRV）をケアするパーソナル調和機能。
-* **多言語リアルタイム翻訳:** JIN-Eye / Ear / Voice 連携による現場コミュニケーション。
-* **ブロックチェーン・市民監査システム:** 公共インフラ調達・特別会計解体・使途不明金排除・フードテック知財独占のリアルタイム監査。
-* **心のサロン（寂しさ買取）:** 孤独や孤立を解消し、一人ひとりの生命と感情に常時寄り添う自律エージェント対話網（Mocoたんウィジェット連動）。
-* **オフライン緊急避難モード:** 半径数km〜十数km圏内で相互通信・救難位置同期するDTNバケツリレープロトコル。
-* 📄 **[詳細UI・画面遷移仕様書を開く（JIN_OS_CLIENT_SPEC.md）](./JIN_OS_CLIENT_SPEC.md)**
 
 ---
 
