@@ -66,76 +66,169 @@
 ## 🧭 Repository Reading Guide (目的別最短ナビゲーション)
 
 * 🌸 **根源思想・倫理OS・人間主権教育・精神規範を体得する:**  
-  [docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)（尊厳・空・因果・輪廻） ⏩️ [docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)（六聖叡智教育法・六道マイスター） ⏩️ [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)（仁焔十三行：実践基盤） ⏩️ [UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)（仁焔二十二誓約：再生プロトコル） ⏩️ [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)（身体主権防衛）
+⏩️ [docs/JIN_CORE_PHILOSOPHY.md](./docs/JIN_CORE_PHILOSOPHY.md)【尊厳・空・因果・輪廻】
+
+⏩️ [docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)【六聖叡智教育法・六道マイスター】
+
+⏩️ [UNIVERSAL_ETHICS_13.md](./UNIVERSAL_ETHICS_13.md)【仁焔十三行：実践基盤】
+
+⏩️ [UNIVERSAL_ETHICS_22.md](./UNIVERSAL_ETHICS_22.md)【仁焔二十二誓約：再生プロトコル】
+
+⏩️ [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)【身体主権防衛】
 
 * 🏛️ **現場主権自治・都市土木共生・用途地域再編を理解する:**  
-  [docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)（出島型現場常駐・武士道公僕規約） ⏩️ [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) (都市土木・共同溝とASI共生論 Vol.1) ⏩️ [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md) (JIN-ZONING 自律分散都市計画 Vol.2) ⏩️ [WHITE_PAPER.md](./WHITE_PAPER.md) (V7.5) ⏩️ [MANIFESTO.md](./MANIFESTO.md)
+⏩️ [docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)【出島型現場常駐・武士道公僕規約】
+
+⏩️ [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)【都市土木・共同溝とASI共生論 Vol.1】
+
+⏩️ [whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)【(JIN-ZONING 自律分散都市計画 Vol.2】
+
+⏩️ [WHITE_PAPER.md](./WHITE_PAPER.md)【総合白書】
+
+⏩️ [MANIFESTO.md](./MANIFESTO.md)【マニュフェスト】
 
 * 🗺️ **地政学・物理的三位一体・深海防衛・ポスト国家マニフェストを掴む:**  
-  [docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md) (全球ASI覇権地図 V8.2 最新正典) ⏩️ [docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md) (海底防護プロトコル SKDP-01) ⏩️ [docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](./docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md) (対国連ポスト・ステート実物統治宣言) ⏩️ [docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](./docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md) (暗号化知能保管庫) ⏩️ [specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md) (SSCN-01深海主権ノード) ⏩️ [docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md](./docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md)（沖縄第7鉱区＆トラフ防衛） ⏩️ [docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md](./docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md)（グリーンランド主権防衛）
+⏩️ [docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)【全球ASI覇権地図 V8.2 最新正典】
+
+⏩️ [docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)【海底防護プロトコル SKDP-01】
+
+⏩️ [docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](./docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)【対国連ポスト・ステート実物統治宣言】
+
+⏩️ [docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](./docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)【暗号化知能保管庫】
+
+⏩️ [specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)【SSCN-01深海主権ノード】
+
+⏩️ [docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md](./docs/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY.md)【沖縄第7鉱区＆トラフ防衛】
+
+⏩️ [docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md](./docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md)【グリーンランド主権防衛】
 
 * 🌋 **動的減災・宇宙大地連動・生体インフラ・原位置環境浄化を実装する:**  
-  [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)（20W生体臓器型コンピューティング・自然循環土木） ⏩️ [JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)（動的4D減災メッシュ・ジオポリマー・生体防火・PFAS破壊） ⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)（衛星EnMAP＋自治体目視同期4D動的避難） ⏩️ [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)（古来源頭部土砂抑止・石積砂留） ⏩️ [JIN_PADDY_DAM_WATERSHED_ORDINANCE.md](./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md)（田んぼダム条例） ⏩️ [JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md](./JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md)（アンダーパス雨水流末処理）
+⏩️ [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)【20W生体臓器型コンピューティング・自然循環土木】
+
+⏩️ [JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)【動的4D減災メッシュ・ジオポリマー・生体防火・PFAS破壊】
+
+⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)【衛星EnMAP＋自治体目視同期4D動的避難】
+
+⏩️ [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)【古来源頭部土砂抑止・石積砂留】
+
+⏩️ [JIN_PADDY_DAM_WATERSHED_ORDINANCE.md](./JIN_PADDY_DAM_WATERSHED_ORDINANCE.md)【田んぼダム条例】
+
+⏩️ [JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md](./JIN_WATERSHED_SOIL_DRAINAGE_SPEC.md)【アンダーパス雨水流末処理】
 
 * 🛠️ **分散エネルギー・次世代蓄電・人間主権創薬・帯水層かん養を実装する:**  
-  [TECHNOLOGY_CATALOG.md](./TECHNOLOGY_CATALOG.md)（三位一体電池 ＆ 統合バイオ創薬） ⏩️ [specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)（チャド盆地オフグリッド人道再生） ⏩️ [specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)（複合給電・自立水利仕様書） ⏩️ [JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md) ⏩️ [JIN_CIRCULAR_POLYMER_BIO_CATALYST.md](./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md) ⏩️ [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md) ⏩️ [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)
+⏩️ [TECHNOLOGY_CATALOG.md](./TECHNOLOGY_CATALOG.md)【三位一体電池・統合バイオ創薬】
+
+⏩️ [specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)【チャド盆地オフグリッド人道再生】
+
+⏩️ [specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](./specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)【複合給電・自立水利仕様書】
+
+⏩️ [JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md](./JIN_SAMSARA_AQUIFER_RECHARGE_SPEC.md)【自律帯水層かん養・クローズドループ復水工法仕様書】
+
+⏩️ [JIN_CIRCULAR_POLYMER_BIO_CATALYST.md](./JIN_CIRCULAR_POLYMER_BIO_CATALYST.md)【酵素ケミカルリサイクル・分散型ポリマー循環インフラ仕様書】
+
+⏩️ [JIN_LIVING_ROAD_INFRASTRUCTURE.md](./JIN_LIVING_ROAD_INFRASTRUCTURE.md)【自律修復道路・生体動脈インフラ仕様書】
+
+⏩️ [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)【地域分散型オフグリッド生命水利網・地中空洞化根絶仕様書】
 
 * 🪙 **地域実物金融・人道ZKP監査台帳・三次元交通動脈・海空物流を巡る:**  
-  [specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md](./specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md)（地域主権金融・売掛100%保証） ⏩️ [docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](./docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md) (ゼロ知識人道検証台帳) ⏩️ [specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md)（三次元立体交通・物流回廊仕様書） ⏩️ [JIN_KITAMAE_AIR_SEA_LOGISTICS.md](./JIN_KITAMAE_AIR_SEA_LOGISTICS.md) ⏩️ [JIN_AGRI_MARINE_BIOFUEL_SPEC.md](./JIN_AGRI_MARINE_BIOFUEL_SPEC.md) ⏩️ [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md) ⏩️ [JIN_BIO_SYMBIOTIC_EV.md](./JIN_BIO_SYMBIOTIC_EV.md)
+⏩️ [specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md](./specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md)【地域主権金融・売掛100%保証】
+
+⏩️ [docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](./docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)【ゼロ知識人道検証台帳】
+
+⏩️ [specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md)【三次元立体交通・物流回廊仕様書】
+
+⏩️ [JIN_KITAMAE_AIR_SEA_LOGISTICS.md](./JIN_KITAMAE_AIR_SEA_LOGISTICS.md)【現代版北前船・海空統合物流仕様書】
+
+⏩️ [JIN_AGRI_MARINE_BIOFUEL_SPEC.md](./JIN_AGRI_MARINE_BIOFUEL_SPEC.md)【農業機械・沿岸漁船 自立バイオ燃料化技術仕様書】
+
+⏩️ [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md)【次世代水素・高温超伝導自律動脈交通網 仕様書】
+
+⏩️ [JIN_BIO_SYMBIOTIC_EV.md](./JIN_BIO_SYMBIOTIC_EV.md)【生体共生型次世代EV 仕様書】
 
 * 🌾 **食料主権・三毛作田畑輪換・完全国産有機肥料・包括医療を確立する:**  
-  [JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md) ⏩️ [JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md) ⏩️ [JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md) ⏩️ [JIN_OFFLINE_FOOD_MESH_SOP.md](./JIN_OFFLINE_FOOD_MESH_SOP.md) ⏩️ [JIN_FOOD_SOVEREIGNTY.md](./JIN_FOOD_SOVEREIGNTY.md) ⏩️ [JIN_SEED_SOVEREIGNTY_PROTOCOL.md](./JIN_SEED_SOVEREIGNTY_PROTOCOL.md) ⏩️ [JIN_GRAIN_TRACEABILITY_SYSTEM.md](./JIN_GRAIN_TRACEABILITY_SYSTEM.md) ⏩️ [JIN_LOCAL_FOOD_CIRCUIT.md](./JIN_LOCAL_FOOD_CIRCUIT.md)
+⏩️ [JIN_FARMER_REVITALIZATION_MASTERPLAN.md](./JIN_FARMER_REVITALIZATION_MASTERPLAN.md)【日本農家再生大綱】
+
+⏩️ [JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md](./JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)【海陸循環型・完全国産有機肥料・生体土壌仕様書】
+
+⏩️ [JIN_REGIONAL_HEALTHCARE_SPEC.md](./JIN_REGIONAL_HEALTHCARE_SPEC.md)【地域主権型包括共生医療・人間主権型統合バイオ創薬基本仕様書】
+
+⏩️ [JIN_OFFLINE_FOOD_MESH_SOP.md](./JIN_OFFLINE_FOOD_MESH_SOP.md)【地域食ハブ オフラインP2P自律メッシュ台帳・実務SOP】
+
+⏩️ [JIN_FOOD_SOVEREIGNTY.md](./JIN_FOOD_SOVEREIGNTY.md)【食料主権・生命循環基本憲章】
+
+⏩️ [JIN_SEED_SOVEREIGNTY_PROTOCOL.md](./JIN_SEED_SOVEREIGNTY_PROTOCOL.md)【公的種子・在来品種保護およびオープンソース種子プロトコル】
+
+⏩️ [JIN_GRAIN_TRACEABILITY_SYSTEM.md](./JIN_GRAIN_TRACEABILITY_SYSTEM.md)【主要穀物リアルタイム流通追跡および投機抑止システム構想】
+
+⏩️ [JIN_LOCAL_FOOD_CIRCUIT.md](./JIN_LOCAL_FOOD_CIRCUIT.md)【地域共生給食・分配プロトコル】
 
 * 🛡️ **開拓現場での実務SOPを執行する:**  
-  [PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md) ⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
+⏩️ [PIONEER_FIELD_MANUAL.md](./PIONEER_FIELD_MANUAL.md)【地域主権奪還・拠点展開マニュアル】
+
+⏩️ [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)【個人主権クライアント端末】
 
 ---
 
 ## 🏛️ JIN-ORDER GLOBAL WHITE PAPER & FOUNDATIONAL CHARTERS (総合白書・中核憲章)
 
-* 🎓 **[docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)**: **六聖叡智教育法：文科省偏差値体制の解体、仁焔十三行倫理基盤、および六道マイスター自立規範（HSED-01）**  
-  技術偏重（テクノクラシー）の部品育成を拒絶し、仁焔十三行・二十二誓約の道徳・倫理OSを根底に据えた人間主権教育憲章。朝の「静寂の刻」「数理の魔法」「対話の庭」による精神調律、6〜17歳完全無償12年義務教育、高校・大学予算転換による財源22兆円シフト、医食同源給食「孝弁」、15〜17歳世界探訪（グランド・ツアー）、および六つの道（焔龍・翠霧・仁詣・悌・彩華・調和）による18歳国家資格・就職100%保証マイスター仕様[cite: 1, 2]。
+* 🎓 **[docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md](./docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)**: 六聖叡智教育法：文科省偏差値体制の解体、仁焔十三行倫理基盤、および六道マイスター自立規範（HSED-01）
 
-* 🏛️ **[docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)**: **真の地方自治・現場越境型統治規約：箱物行政の解体、武士道公僕論、および生活主権オーケストレーション（DLGP-01）**  
-  エアコン庁舎に閉じこもる縦割り官僚機構と中抜き派遣・外部監視依存を解体。土木（ハード）と生活福祉（ソフト）を不可分に結ぶ「単騎駆け」の義務付け、出島型現場常駐メッシュ、机上試験の廃止と現場課題統括力による幹部登用、住民zk-DIDによるデータ主権防衛、および『葉隠』に基づく命懸けの諫言ドクトリン。
+  技術偏重（テクノクラシー）の部品育成を拒絶し、仁焔十三行・二十二誓約の道徳・倫理OSを根底に据えた人間主権教育憲章。<br>朝の「静寂の刻」「数理の魔法」「対話の庭」による精神調律、6〜17歳完全無償12年義務教育、高校・大学予算転換による財源22兆円シフト、医食同源給食「孝弁」、15〜17歳世界探訪（グランド・ツアー）、および六つの道（焔龍・翠霧・仁詣・悌・彩華・調和）による18歳国家資格・就職100%保証マイスター仕様。
 
-* 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)**: **全球ASI覇権地図 V8.2（二極コンピュート回廊・非対称シャドー資本網・海洋実物防衛マトリクス / V8.2 Canonical）**  
+* 🏛️ **[docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md](./docs/DECENTRALIZED_LOCAL_GOVERNANCE_PROTOCOL.md)**: 真の地方自治・現場越境型統治規約：箱物行政の解体、武士道公僕論、および生活主権オーケストレーション（DLGP-01）  
+  
+  エアコン庁舎に閉じこもる縦割り官僚機構と中抜き派遣・外部監視依存を解体。<br>土木（ハード）と生活福祉（ソフト）を不可分に結ぶ「縦割り行政廃止」の義務付け、出島型現場常駐メッシュ、机上試験の廃止と現場課題統括力による幹部登用、住民zk-DIDによるデータ主権防衛、および『葉隠』に基づく命懸けの諫言ドクトリン。
+
+* 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)**: 全球ASI覇権地図 V8.2（二極コンピュート回廊・非対称シャドー資本網・海洋実物防衛マトリクス / V8.2 Canonical）  
+  
   電力グリッド飽和指数（GSI）による「メガワットの壁」と「北極コールド回廊 vs 熱帯ペトロ回廊」の二極構造に加え、制裁下国家による推定3.5万〜10万人規模の越境労働・IT偽装（Wetware Arbitrage）への対抗プロトコル（PoII）、紅海・マラッカ・沖縄トラフの海洋チョークポイント物理寸断に対抗する宇宙・陸上・極地3層迂回エスケープマトリクスを策定した決定版正典。
 
-* 🌊 **[docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)**: **深海インフラ物理防護・生体模倣型AUV群スウォーム哨戒・動的アトリビューション技術仕様書（SKDP-01）**  
+* 🌊 **[docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](./docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)**: 深海インフラ物理防護・生体模倣型AUV群スウォーム哨戒・動的アトリビューション技術仕様書（SKDP-01）
+  
   公海下水深1,000m〜4,000mにおける商船偽装の錨引きずり攻撃や工作UUVの物理切断に対し、二重チタン耐圧殻ノード（SSCN-01）、生体模倣型AUVスウォームによる青色レーザー（450nm）/DAS音響メッシュ走査、およびゼロ知識証明（zk-STARKs）による不可逆アトリビューションと30ms以内ゼロ遅延エスケープ迂回を定めた防衛仕様書。
 
-* 📢 **[docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](./docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)**: **ポスト・ステート実物統治宣言：国連ジュネーブ体制の虚構と物理基盤自律ドクトリン（Canonical 2026）**  
+* 📢 **[docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](./docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)**: ポスト・ステート実物統治宣言：国連ジュネーブ体制の虚構と物理基盤自律ドクトリン（Canonical 2026）  
+  
   物理的送電網も計算資源も持たない国連ジュネーブ体制の形式的「倫理憲章」を論破。生体知能の非囲い込み、深淵・送電基盤の不可逆自律性、熱力学的生命至上原則の3大物理不可侵を掲げ、言葉ではなくコードと土木によって主権と生命を守り抜く決別・自立宣言。
 
-* 🧠 **[docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](./docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)**: **国家主権拘束下における知能・暗号知見保全システム（System-17 SKV Protocol）**  
+* 🧠 **[docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](./docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)**: 国家主権拘束下における知能・暗号知見保全システム（System-17 SKV Protocol） 
+  
   国家による先端技術者・知能労働者に対する「頭脳出国統制（Brain Exit Control）」に対抗し、個人の思考・設計思想・暗号プロトコルを非中央集権的に保全する耐接収・分散型記憶防護アーキテクチャ。zk-Knowledge Proof、秘密分散閾値保管、非常時論理自己消却（Dead-Man's Proof）を定義。
 
-* 📜 **[docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](./docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)**: **ゼロ知識証明に基づく人道支援物資・多通貨分散フロー検証台帳（HV-ZKP V1.0）**  
+* 📜 **[docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](./docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)**: ゼロ知識証明に基づく人道支援物資・多通貨分散フロー検証台帳（HV-ZKP V1.0）  
+  
   UNHCR等の国際機関およびドナーに向けたオープン人道監査規格。支援受給者の生体プライバシーを秘匿しながら、カロリー（Calorie-Unit）、飲用水（Hydration-Unit）、主権電力（Power-Unit）の実物引換到達を数学的に100%証明し、横領・ピンハネを根絶する実物資産台帳仕様。
 
-* 🧬 **[JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)**: **生体模倣型自立分散コンピューティングと身体主権防衛・自然共生インフラ仕様書（JIN-SPEC-BIO-01）**  
+* 🧬 **[JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)**: 生体模倣型自立分散コンピューティングと身体主権防衛・自然共生インフラ仕様書（JIN-SPEC-BIO-01）
+  
   侵略的トランスヒューマニズムを拒絶し、人体の身体主権（Somatic Sovereignty）を防衛する憲章。約20Wの低電力で動く人体の代謝を模倣した「臓器分散型チップレット」と都市地下バイオスウェル浸透水冷・排熱農業循環を統合。
 
-* 🌋 **[JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**: **動的四次元減災・火山灰資源化・生体防火帯・原位置環境浄化仕様書（JIN-SPEC-GEO-01）**  
+* 🌋 **[JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](./JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**: 動的四次元減災・火山灰資源化・生体防火帯・原位置環境浄化仕様書（JIN-SPEC-GEO-01）  
+  
   「水に常形なし」の孫子治水思想に基づく。静的ハザードマップを全廃し、JIN-OS 4D災害メッシュ、共同溝自律スクラバー、排熱ジオポリマー・新燃レンガ建材化、常緑広葉樹生体防火帯、PFAS 1,100℃完全熱破壊、MICP地盤岩盤化を定めた環境減災正典。
 
-* 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: **個人主権クライアント端末 ＆ 宇宙・地上同期型動的避難仕様書（V8.1 Canonical）**  
+* 📱 **[JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)**: 個人主権クライアント端末 ＆ 宇宙・地上同期型動的避難仕様書（V8.1 Canonical）  
+  
   ドイツ観測衛星（EnMAP等）の分光土壌飽和度解析と、地方自治体土木職員の現場実査を直結。920MHz帯LoRaメッシュとNTNにより、4D動的脱出ベクトルを完全オフラインで算出・案内する主権端末。
 
-* 🌊 **[specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)**: **水中自律計算 ＆ 海底ケーブル哨戒ノード仕様書（SSCN-01 / JIN-SPEC-SUB-01）**  
+* 🌊 **[specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](./specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)**: 水中自律計算 ＆ 海底ケーブル哨戒ノード仕様書（SSCN-01 / JIN-SPEC-SUB-01）  
+  
   沖縄トラフ水深1,500m級海底配備仕様。二重チタン合金Grade 5耐圧容器、受動的サーモサイフォン海流冷却フィン（PUE=1.01・WUE=0.00）、DAS全方位受動ソナー哨戒、耐量子暗号（PQC）を統合した深海主権中核ノード。
 
-* 🌍 **[specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)**: **チャド盆地オフグリッド人道支援 ＆ 生態系再生技術仕様書（LSU-チャド-01 / JIN-SPEC-AFR-01）**  
+* 🌍 **[specs/CHAD_BASIN_OFFGRID_REGENERATION.md](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)**: チャド盆地オフグリッド人道支援 ＆ 生態系再生技術仕様書（LSU-チャド-01 / JIN-SPEC-AFR-01）  
+  
   UNHCR連携（Submission ID: 95525）に基づくサヘル地帯気候難民自立支援モデル。外来種テッポウウリ（Typha）無煙バイオ炭熱分解による「テラ・プレタ」土壌改質と深層帯水層太陽光揚水。
 
-* 🪙 **[specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md](./specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md)**: **地域主権リレーショナル金融 ＆ 実物資産担保台帳仕様書（JIN-SPEC-FIN-01）**  
+* 🪙 **[specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md](./specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md)**: 地域主権リレーショナル金融 ＆ 実物資産担保台帳仕様書（JIN-SPEC-FIN-01）
+  
   地銀・信金主導の売掛債権100%即日保証（T+0）。生命実物引換権（HU/GU/FU/JU/RU）を自己資本に組み込む脱BIS型地域直接金融。
 
-* 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: **自律分散型国家・都市計画構想（JIN-ZONING & TRANSIT MATRIX / Vol. 2 Canonical）**  
+* 🏙️ **[whitepaper/02_jin_zoning_and_autonomous_cities.md](./whitepaper/02_jin_zoning_and_autonomous_cities.md)**: 自律分散型国家・都市計画構想（JIN-ZONING & TRANSIT MATRIX / Vol. 2 Canonical）  
+  
   3大ZONE構想（エネルギー・素材・農業）を都市計画用途地域制へ直接接続。地下液浸AI・排熱地域暖房直結、沿岸環境共生工業区、実物経済プロトコルの統合。
 
-* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **JIN-ORDER 都市土木・共同溝とASI分散インフラ共生論（Vol. 1 Canonical）**  
+* 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: JIN-ORDER 都市土木・共同溝とASI分散インフラ共生論（Vol. 1 Canonical） 
+  
   土木工学30年の知見を結集。地下多用途共同溝内に液浸冷却AIノードを分散配備。下水熱交換によるWUE=0.00と排熱100%カスケード循環。
 
 ---
