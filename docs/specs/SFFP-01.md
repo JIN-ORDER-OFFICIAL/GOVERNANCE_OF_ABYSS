@@ -14,7 +14,7 @@
 
 ---
 
-![施工方法](../assets/PIONEER_FIELD_SOP_TECH_DIAGRAM.jpg)
+![施工方法](../docs/PIONEER_FIELD_SOP_TECH_DIAGRAM.jpg)
 
 ---
 
