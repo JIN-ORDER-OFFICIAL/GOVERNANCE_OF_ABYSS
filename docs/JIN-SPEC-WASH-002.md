@@ -16,13 +16,13 @@ Target Domain: Decentralized Water Treatment, Physical Bypass, Aeration Civics
 ## 1. 目的（Objective）
 物理的インフラ破壊（管路切断・爆破・地滑り）および急激な水質悪化（溶存酸素欠乏・有害物質混入）に対し、中央集権的ポンプ施設に依存せず、現場作業者・住民レベルで即座に迂回・復旧・放流再生を行える多重冗長化（Fault-Tolerant）土木仕様を定義する。
 
-![多重冗長化土木仕様書](../assets/JIN_SPEC_WASH_002_01.jpg)
+![多重冗長化土木仕様書](../assets/JIN_SPEC_WASH_002_02.jpg)
 
 ---
 
 ## 2. 土木・配管トポロジー（Piping & Bypass Topologies）
 
-![多重冗長化土木仕様書](../assets/JIN_SPEC_WASH_002_02.jpg)
+![多重冗長化土木仕様書](../assets/JIN_SPEC_WASH_002_01.jpg)
 
 ### 2.1 3重リング型バイパス（Tri-Ring Bypass Architecture）
 単一流路の直列配置を廃止し、管路網を閉じた環状（リング）＋交差バイパスで構成する。
