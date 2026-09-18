@@ -83,8 +83,8 @@ Target Domain: Decentralized Water Treatment, Physical Bypass, Aeration Civics
 ---
 
 ## 5. 依存関係（Dependencies）
-- Upstream: `JIN-SPEC-ECO-001`（溶存酸素・水生態基盤）
-- Downstream: `JIN-SPEC-PWR-003`（エネルギーバジェット＆強制曝気制御）
+- Upstream: [JIN-SPEC-ECO-001](./JIN-SPEC-ECO-001.md)（溶存酸素・水生態基盤）
+- Downstream: [JIN-SPEC-PWR-003](./JIN-SPEC-PWR-003.md)（エネルギーバジェット＆強制曝気制御）
 
 ---
 
