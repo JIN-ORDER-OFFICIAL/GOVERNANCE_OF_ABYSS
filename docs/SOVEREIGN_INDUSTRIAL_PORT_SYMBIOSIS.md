@@ -7,7 +7,7 @@
 ---
 
 ## SOVEREIGN INDUSTRIAL & PORT SYMBIOSIS PROTOCOL (SIPSP-01)
-#### 臨海工場集積・自立港湾共生仕様書：工場立地法オフサイト緑化・熱電閉ループ・港湾直結極小輸送動脈・物流待機ウェルビーイング＆異業種共創ハブ
+### 臨海工場集積・自立港湾共生仕様書：工場立地法オフサイト緑化・熱電閉ループ・港湾直結極小輸送動脈・物流待機ウェルビーイング＆異業種共創ハブ
 
 ![臨海工場集積](../assets/SOVEREIGN_INDUSTRIAL_PORT_SYMBIOSIS_01.jpg)
 
