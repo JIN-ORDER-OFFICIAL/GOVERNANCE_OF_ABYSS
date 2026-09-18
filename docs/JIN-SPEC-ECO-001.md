@@ -68,9 +68,9 @@ Target Domain: Basin-wide Eco-Hydrology, Regenerative Discharge, Aeration Dynami
 
 ## 4. 下位仕様への接続（Interface & Dependencies）
 - **物理・土木構造層**:
-  - [docs/JIN-SPEC-WASH-002.md](./docs/JIN-SPEC-WASH-002.md)（パッシブ多段落差工、多孔質蛇行水路、人工湿地浸透設計）
+  - [docs/JIN-SPEC-WASH-002.md](./JIN-SPEC-WASH-002.md)（パッシブ多段落差工、多孔質蛇行水路、人工湿地浸透設計）
 - **エネルギー・プロトコル層**:
-  - [docs/JIN-SPEC-PWR-003.md](./docs/JIN-SPEC-PWR-003.md])（Dump Load調停、余剰電力によるマイクロバブル能動曝気トリガー）
+  - [docs/JIN-SPEC-PWR-003.md](./JIN-SPEC-PWR-003.md)（Dump Load調停、余剰電力によるマイクロバブル能動曝気トリガー）
 
 ---
 
