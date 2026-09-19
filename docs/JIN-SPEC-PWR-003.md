@@ -41,16 +41,16 @@ Target Domain: Micro-grid Balance, Dynamic Load Shedding, Active Aeration Contro
 ### 3.1 曝気・計算調停ロジック（Aeration vs. Computation）
 JIN-OSのルーティング・プロトコルは、現場ノードの`Available_Dump_Power`（mg/L単位）を参照し、L3負荷（能動曝気と非緊急計算）の配分をリアルタイムに決定する。
 
-```mermaid
+```text
 graph TD
     A[Power Monitor] -->|SOC / Generation| B(Budget Calculator);
-    B ⏩️ |Dump Load Available?| C{Decision Gate};
-    C ⏩️ |No| D[L3 Shedding: All Passive];
-    C ⏩️ |Yes| E(Calculate Required DO Lift);
-    E ⏩️ |DO < Threshold| F[Priority: Active Aeration];
-    E ⏩️ |DO OK| G[Priority: Opportunistic Computing];
-    F ⏩️ |Activate| H[Micro-bubble Generators];
-    G ⏩️ |Activate| I[Non-urgent Cryptographic Tasks];
+    B  ⏩️  |Dump Load Available?| C{Decision Gate};
+    C  ⏩️  |No| D[L3 Shedding: All Passive];
+    C  ⏩️  |Yes| E(Calculate Required DO Lift);
+    E  ⏩️  |DO < Threshold| F[Priority: Active Aeration];
+    E  ⏩️  |DO OK| G[Priority: Opportunistic Computing];
+    F  ⏩️  |Activate| H[Micro-bubble Generators];
+    G  ⏩️  |Activate| I[Non-urgent Cryptographic Tasks];
 ```
 ---
 
