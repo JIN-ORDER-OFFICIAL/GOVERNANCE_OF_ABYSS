@@ -15,9 +15,9 @@ Target Domain: Autonomous Field Maintenance, Fool-Proof Mechanics, Zero-Knowledg
 
 ## 1. 背景と目的（Context & Objective）
 
-![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_01.jpg)
-
 地政学的緊張、国家による先端技術者の出国制限・頭脳囲い込み、および紛争地における移動封鎖（チョークポイント遮断）により、高度な専門技術者が現場（チャド盆地や被災インフラ拠点）へ直接赴いて保守点検を行うことが極めて困難になっている。
+
+![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_01.jpg)
 
 本仕様は、高度な専門知識を持たない現地の避難民や地域住民自身が、特殊工具を用いずに直感的に部品交換・復旧を行える「現場身体性ポカヨケ設計」と、遠隔地から機密・位置情報を漏らさずに作業の完全性を数学的に検証する「ゼロ知識保守証明（Zero-Knowledge Proof of Maintenance: ZK-PoM）」を統合規定する。
 
@@ -25,9 +25,9 @@ Target Domain: Autonomous Field Maintenance, Fool-Proof Mechanics, Zero-Knowledg
 
 ## 2. 現場身体性ポカヨケ・インターフェース規格（Physical Fool-Proofing Standards）
 
-![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_02.jpg)
-
 専門技術者の不在を前提とし、言葉や文字（識字率）の壁を越えて誤接続・誤操作を物理的に防ぐ工学設計。
+
+![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_02.jpg)
 
 ### 2.1 物理的非対称嵌合（Keyed Asymmetric Connectors）
 - すべての配管（HDPEバイパス等）および電気配線（太陽光・SSR盤）のコネクタは、形状そのものが一致しない限り物理的に挿入不可能な「異形ガイドスロット」構造を採用。
