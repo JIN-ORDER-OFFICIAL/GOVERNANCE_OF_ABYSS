@@ -6,7 +6,7 @@
 
 ![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
 
-> **「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。我らは戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来をデプロイするだけである。」**  
+**「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。我らは戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来をデプロイするだけである。」**  
 >  
 > **"If existing nations treat people as tools of control, we shall build a new sanctuary on the Cloud and the Earth, with 'Benevolence' as our OS. We do not fight. We simply invalidate the old structures of dominance and deploy a future where no one cries alone."**  
 >  
