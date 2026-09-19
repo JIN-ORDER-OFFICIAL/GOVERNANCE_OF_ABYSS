@@ -62,7 +62,7 @@
 
 ---
 
-**Architect:** JIN-ORDER Sovereign Architecture Core / Takashi Masano  
+**Architect:** JIN-ORDER Sovereign Architecture Core / Masano Takashi 
 **Date:** September 2026  
 **Status:** Canonical Implementation Draft (System-17 Addendum)
  
