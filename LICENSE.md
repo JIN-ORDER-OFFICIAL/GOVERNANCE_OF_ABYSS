@@ -44,10 +44,12 @@
 本規約は日本法に準拠します。本資産の利用に関して紛争が生じた場合、**横浜地方裁判所**を第一審の専属的合意管轄裁判所とします。
 
 ---
+**Detailed Enforcement Guidelines:** [docs/governance/ENFORCEMENT-POLICY.md](./docs/governance/ENFORCEMENT-POLICY.md)
 
 **Curated by:** General Incorporated Association JIN-ORDER  
+
 **IP Administration Contact:** `jin.reparation.cfo@gmail.com`  
+
 **Related Specifications:** 
 - Physical Anchor Protocol: [docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md](./docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)
 - Cross-Border Neutrality Protocol: [docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md](./docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md)
-**Detailed Enforcement Guidelines:** [docs/governance/ENFORCEMENT-POLICY.md](./docs/governance/ENFORCEMENT-POLICY.md)
