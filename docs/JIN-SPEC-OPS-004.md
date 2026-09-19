@@ -15,7 +15,7 @@ Target Domain: Autonomous Field Maintenance, Fool-Proof Mechanics, Zero-Knowledg
 
 ## 1. 背景と目的（Context & Objective）
 
-![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_02.jpg)
+![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_01.jpg)
 
 地政学的緊張、国家による先端技術者の出国制限・頭脳囲い込み、および紛争地における移動封鎖（チョークポイント遮断）により、高度な専門技術者が現場（チャド盆地や被災インフラ拠点）へ直接赴いて保守点検を行うことが極めて困難になっている。
 
@@ -25,7 +25,7 @@ Target Domain: Autonomous Field Maintenance, Fool-Proof Mechanics, Zero-Knowledg
 
 ## 2. 現場身体性ポカヨケ・インターフェース規格（Physical Fool-Proofing Standards）
 
-![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_01.jpg)
+![ゼロ知識保守証明](../assets/JIN_SPEC_OPS_004_02.jpg)
 
 専門技術者の不在を前提とし、言葉や文字（識字率）の壁を越えて誤接続・誤操作を物理的に防ぐ工学設計。
 
