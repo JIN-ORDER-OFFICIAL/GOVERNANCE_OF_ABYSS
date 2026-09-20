@@ -13,7 +13,7 @@
 * **想定脅威**: 全地球的通信遮断（海底ケーブル破断、衛星キルスイッチ、国家検閲ファイアウォール、広域EMP攻撃）。
 * **対抗原則**: 「インフラが途絶しても現場のデータは死なない」。光回線や携帯網が完全途絶した孤立環境下で、現場ノード群が自律的にローカル通信網を形成し、実物資源決済と減災データを伝送・蓄積する。
 
-![エアギャップ・オフライン現場](./assets/JIN_AIRGAPPED_MESH_ROUTING_01.jpg)
+![Air-Gapped Mesh & Delay-Tolerant Routing](./assets/JIN_AIRGAPPED_MESH_ROUTING_01.jpg)
 
 ---
 
