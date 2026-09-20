@@ -9,6 +9,8 @@
 # 六道マイスター現場技術伝承シラバス（30日間自立型フィールド育成プログラム）
 ## Six-Path Meister Field Apprenticeship Syllabus (30-Day Substrate Transmission)
 
+![Six-Path Meister Field Apprenticeship Training](./assets/JIN_MEISTER_TRAINING_SYLLABUS_01.jpg)
+
 ## 1. 育成理念
 「資格や学歴に人間を従属させるな。泥を掴み、音を聴き、大地の呼吸を整える現場の手にこそ真の技術が宿る。」  
 本シラバスは、過疎地、被災地、難民居住区において、18歳以上の現地住民を30日間で「自立型インフラ維持管理者（六道マイスター）」として育成・認定するための実務カリキュラムである。
