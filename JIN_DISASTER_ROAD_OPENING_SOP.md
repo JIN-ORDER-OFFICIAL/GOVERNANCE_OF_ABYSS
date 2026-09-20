@@ -9,6 +9,8 @@
 # 都市土木防災実務：豪雨・アンダーパス冠水即応および震災道路啓開標準作業手順書（SOP）
 # Sovereign Urban Disaster Road Opening & Emergency Arterial Clearing SOP
 
+![Sovereign Urban Disaster Road Opening & Emergency Arterial Clearing](./assets/JIN_DISASTER_ROAD_OPENING_SOP_01.jpg)
+
 ## 1. 目的と出動基準
 大地震、線状降水帯による局地豪雨、または中央集権的通信途絶時において、消防・救急・人道物資輸送の生命動脈（グリーン回廊）を**発災後72時間以内**に確保するための現場直結型SOPである。
 
