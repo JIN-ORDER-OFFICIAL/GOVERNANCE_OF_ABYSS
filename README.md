@@ -925,7 +925,7 @@
     </td>
   </tr>
 
-  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比 -->
+  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比（修正済み） -->
   <tr>
     <th width="50%" align="center">SMR-INTEGRATED SOVEREIGN COMPUTE BUNKER (SUB-ARCTIC)</th>
     <th width="50%" align="center">BIPOLAR COMPUTE CORRIDORS (POLAR VS PETRO)</th>
@@ -937,7 +937,8 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1_02.jpg" width="100%" alt="グリーンランド北極圏AIサーバーモノリス ＆ アラビア砂漠ギガワットAIデータセンター">
+      <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
+        <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.1_02.jpg" width="100%" alt="グリーンランド北極圏AIサーバーモノリス ＆ アラビア砂漠ギガワットAIデータセンター">
       </a>
     </td>
   </tr>
@@ -1106,7 +1107,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (25大先端技術体系)
