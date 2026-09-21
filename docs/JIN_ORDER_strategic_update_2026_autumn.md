@@ -8,13 +8,13 @@
 
 # JIN-ORDER 戦略提言アップデート資料 2026秋
 
-![戦略提言アップデート](../assets/JIN_ORDER_strategic_update_2026_autumn_01.jpg)
-
 **DOCUMENT REF:** `JIN-STRAT-UPD-2026-002`  
 **DATE:** 2026-09-22  
 **ISSUER:** 一般社団法人JIN-ORDER（UN Partner Portal ID: 64636）  
 **MISSION:** "Nobody Cries"（誰も泣かない世界）  
 **ARCHITECTS:** Masano Takashi（Founder & Chief Architect） / Masano Miyo（Co-Founder & Director）
+
+![戦略提言アップデート](../assets/JIN_ORDER_strategic_update_2026_autumn_01.jpg)
 
 ---
 
