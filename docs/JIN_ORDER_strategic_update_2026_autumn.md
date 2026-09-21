@@ -11,7 +11,7 @@
 **DATE:** 2026-09-22  
 **ISSUER:** 一般社団法人JIN-ORDER（UN Partner Portal ID: 64636）  
 **MISSION:** "Nobody Cries"（誰も泣かない世界）  
-**ARCHITECTS:** Takashi Masano（Founder & Chief Architect） / Miyo Masano（Co-Founder & Director）
+**ARCHITECTS:** Masano Takashi（Founder & Chief Architect） / Masano Miyo（Co-Founder & Director）
 
 ---
 
