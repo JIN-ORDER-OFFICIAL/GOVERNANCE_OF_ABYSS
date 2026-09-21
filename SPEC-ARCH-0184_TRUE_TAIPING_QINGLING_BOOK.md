@@ -9,7 +9,7 @@
 # [SPEC-ARCH-0184] 真・太平清領書：東洋統治システム・リブート仕様
 ## Subtitle: 物理インフラ・民草主権・全球螺旋回廊による三国志の超克
 
-![画像](./assets/SPEC-0184_TRUE_TAIPING_03.jpg)
+![画像](./assets/SPEC-0184_TRUE_TAIPING_01.jpg)
 
 ### 1. システム概要（Overview）
 本仕様は、西暦184年（中平元年）の後漢末期における構造的破局（飢饉・疫病・宦官専横・群雄割拠）に対し、
@@ -60,7 +60,7 @@
 
 ### 3. 文化プロトコル：蔡文姫による詩篇昇華（Cultural Protocol）
 
-![画像](./assets/SPEC-0184_TRUE_TAIPING_01.jpg)
+![画像](./assets/SPEC-0184_TRUE_TAIPING_03.jpg)
 
 #### 【旧世界の慟哭：Legacy Exception】
 かつて戦乱と断絶のなか、蔡文姫が遺した『胡笳十八拍』第一拍の絶望
