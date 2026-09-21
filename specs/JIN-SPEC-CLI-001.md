@@ -13,7 +13,7 @@
 - **文書番号**: JIN-SPEC-CLI-001
 - **策定日**: 2026-09-22
 - **技術成熟度**: Level 2（既存技術統合実証） / Level 3（先進研究仮説）
-- **管轄**: JIN-ORDER 大気海洋共生工学タスクフォース & Commander Pome-Mama
+- **管轄**: JIN-ORDER 大気海洋共生工学タスクフォース & Commander Masano Takashi
 
 ---
 
@@ -61,7 +61,7 @@
 ```
 ---
 
-#### Layer 1: 宇宙分光精密診断（EnMAP Hyperspectral Diagnostics）
+### Layer 1: 宇宙分光精密診断（EnMAP Hyperspectral Diagnostics）
 
 ![太平洋大気海洋代謝調律仕様書](../assets/JIN-SPEC-CLI-001_02.jpg)
 
@@ -74,7 +74,7 @@
 - **雲微物理パラメータ解析**: 
   既存の層積雲（Marine Stratocumulus）の液水パス（LWP）と雲粒有効半径（$r_e$）を宇宙から直接計測し、海塩粒子を吸合して白化（反射率向上）しやすい海域を先回り判定。
 
-#### Layer 2: 受動的シースプレー生成（Passive Sea-Spray Generation）
+### Layer 2: 受動的シースプレー生成（Passive Sea-Spray Generation）
 
 ![太平洋大気海洋代謝調律仕様書](../assets/JIN-SPEC-CLI-001_03.jpg)
 
@@ -86,14 +86,14 @@
   - 噴霧機構: ベンチュリ効果と波の上下揺動（波力ポンピング）を利用し、フィルターで濾過した海水を自然微細化（粒子径 0.1〜0.5μm の至適凝結核）。
   - 配置: EnMAPが指示した「風上側の境界領域」へ漂泊・巡航し、自然のシースプレー（波飛沫）を気流に乗せて上空へ届ける。
 
-#### Layer 3: ENSO双方向シーソー制動（Dual-Action ENSO Balancing）
+### Layer 3: ENSO双方向シーソー制動（Dual-Action ENSO Balancing）
 
 | 局面 | 発生トリガー | 介入海域 | 介入メカニズム | 到達効果 |
 | :--- | :--- | :--- | :--- | :--- |
 | **エルニーニョ抑制モード** | ペルー沖・東太平洋の異常昇温兆候 | 東部・中部熱帯太平洋 | 既存の層積雲に海塩粒子を供給し、トゥーミー効果（Twomey effect）により雲を白色化・長寿命化。日射を反射。 | 海面水温の過剰上昇を抑え、冷水湧昇帯の崩壊を阻止。 |
 | **ラニーニャ抑制モード** | 西太平洋（インドネシア沖）の過熱と強すぎる貿易風 | 西部熱帯太平洋・多島海域 | 猛烈な上昇気流が発生する海域の「風上側」において、局所的な蒸発・対流の集中を分散化。 | 東西気圧傾度力を緩和し、**暴走する貿易風（東風）を穏やかに減速**。深海の過剰冷水湧昇を防止。 |
 
-#### Layer 4: 大地湿潤保障と山火事未然防止（Continental Moisture & Wildfire Shield）
+### Layer 4: 大地湿潤保障と山火事未然防止（Continental Moisture & Wildfire Shield）
 
 ![太平洋大気海洋代謝調律仕様書](../assets/JIN-SPEC-CLI-001_04.jpg)
 
