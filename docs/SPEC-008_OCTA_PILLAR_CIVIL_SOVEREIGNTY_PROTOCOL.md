@@ -44,10 +44,10 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/SPEC-008_OCTA_PILLAR_01.jpg" width="100%" alt="宮大工木組み・石場建て免震・伝統工芸徒弟実習">
+      <img src="../assets/SPEC-008_OCTA_PILLAR_01.jpg" width="100%" alt="宮大工木組み・石場建て免震・伝統工芸徒弟実習">
     </td>
     <td width="50%" align="center">
-      <img src="./assets/SPEC-008_OCTA_PILLAR_02.jpg" width="100%" alt="天然素材衣服・伝統和食医食同源・ポメちゃんと縁側">
+      <img src="../assets/SPEC-008_OCTA_PILLAR_02.jpg" width="100%" alt="天然素材衣服・伝統和食医食同源・ポメちゃんと縁側">
     </td>
   </tr>
   <tr>
@@ -66,10 +66,10 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/SPEC-008_OCTA_PILLAR_03.jpg" width="100%" alt="地下水脈保護・路床触診・小規模道路調整会議">
+      <img src="../assets/SPEC-008_OCTA_PILLAR_03.jpg" width="100%" alt="地下水脈保護・路床触診・小規模道路調整会議">
     </td>
     <td width="50%" align="center">
-      <img src="./assets/SPEC-008_OCTA_PILLAR_04.jpg" width="100%" alt="新地域銀行ハンズオン伴走・身体性臨床手当て">
+      <img src="../assets/SPEC-008_OCTA_PILLAR_04.jpg" width="100%" alt="新地域銀行ハンズオン伴走・身体性臨床手当て">
     </td>
   </tr>
   <tr>
@@ -233,7 +233,8 @@
 
 ---
 
-**Ratified by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo 
+**Ratified by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo
+
 `STATUS: SPEC-008 OCTA-PILLAR SOVEREIGNTY SPECIFICATION RATIFIED & CANONICAL PERSISTENCE DEPLOYED`  
 `HARMONICS: 432Hz Universal Benevolence, Somatic Ground-Truth Equilibrium, Traditional Craft Ecosystem Harmony,<br>
 Silk-Cotton-Washi Breath Resonance, Washoku Microbial Purity, Miya-Daiku Timber Friction Cadence,<br>
