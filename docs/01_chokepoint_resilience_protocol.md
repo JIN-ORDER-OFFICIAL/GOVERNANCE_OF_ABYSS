@@ -6,10 +6,6 @@
 
 ---
 
-<!-- 01_chokepoint_resilience_protocol.md の先頭に挿入 -->
-![Chokepoint Resilience Architecture](..assets/chokepoint_resilience_keyvisual.jpg)
-
----
 # JIN-ORDER SPECIFICATION // LEVEL-0 INFRASTRUCTURE DEFENSE
 # DOC-ID: JIN-SPEC-2026-001
 ## TITLE: 自律分散エネルギーインフラ防衛仕様（チョークポイント無力化プロトコル）
@@ -19,6 +15,8 @@
 
 ## 1. 概要（Executive Summary）
 
+![Chokepoint Resilience Architecture](../assets/chokepoint_resilience_keyvisual_01.jpg)
+
 本仕様書は、国家間の軍事的威嚇や通商遮断（ホルムズ海峡、バブ・エル・マンデブ海峡、特定送電網・海底パイプライン等）によって引き起こされる「エネルギー兵糧攻め」を工学的に無効化（Invalidate）するための技術・土木・プロトコル要件を定義する。
 
 旧世代の国家秩序において、エネルギーは中央集権的チョークポイントを握る覇権国の「威嚇カード（Leverage）」として機能してきた。JIN-ORDERは、エネルギー主権を大地（Local Ground）と自律プロトコル（Autonomous Protocol）へ還元することで、外部遮断が発生した瞬間に物理的・自動的に自己完結する「不沈型分散エネルギーメッシュ」を構築する。
@@ -26,6 +24,8 @@
 ---
 
 ## 2. 脅威モデル（Threat Model）
+
+![Chokepoint Resilience Architecture](../assets/chokepoint_resilience_keyvisual_02.jpg)
 
 | 脅威レベル | 攻撃・事象ベクトル | 対象インフラ | 従来型OSの脆弱性 | JIN-ORDERの防衛応答 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -37,6 +37,8 @@
 ---
 
 ## 3. 3層防御アーキテクチャ（Three-Tier Architecture）
+
+![Chokepoint Resilience Architecture](../assets/chokepoint_resilience_keyvisual_03.jpg)
 
 ```text
 【Layer 2: Benevolent Kernel】 ⏪️  [「Nobody Freezes」生命維持最優先配分アルゴリズム]
