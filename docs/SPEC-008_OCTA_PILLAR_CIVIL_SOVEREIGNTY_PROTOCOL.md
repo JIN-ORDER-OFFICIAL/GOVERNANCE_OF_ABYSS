@@ -1,11 +1,3 @@
-### ⚠️ JIN-ORDER RESTRICTED DATA
-
-**このファイルは [JIN-ORDER Global Humanity License](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**
-
-**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざんを固く禁じます。**
-
----
-
 # 🏛️ SPEC-008: OCTA-PILLAR CIVIL SOVEREIGNTY & GROUND-TRUTH RECONSTRUCTION PROTOCOL
 ## 八柱民草主権・生活基盤自立連盟および身体性現場統治仕様書 (JIN-SPEC-LIV-008 / OCTA-01)
 
