@@ -23,7 +23,7 @@
 
 本仕様書は、30年の土木排水実務知見と先端生命科学を融合させ、以下の4大柱により「機械に頼らない完全自然代謝型の地球規模CO2固定・土壌炭素肥沃化」を規定する。
 
-![SPEC-013 Mitochondrial Carbon Sequestration Keyvisual](assets/SPEC-013_BIO_CARBON_01.jpg)
+![SPEC-013 Mitochondrial Carbon Sequestration Keyvisual](../assets/SPEC-013_BIO_CARBON_01.jpg)
 
 1. **マイトファジー ＆ ATP高産生強化型「みどり麹」バイオエンジン（光合成＋超代謝）**
 2. **籾殻炭・モリブデン（Mo）複合ナノ多孔質触媒担体（PET常圧解重合 ＆ 炭素固定）**
@@ -64,7 +64,7 @@
 
 ## 第2章：籾殻炭・モリブデン（Mo）複合触媒担体仕様
 
-![SPEC-013 Bio-Molybdenum & Soil Hydrology Blueprint](assets/SPEC-013_BIO_CARBON_02.jpg)
+![SPEC-013 Bio-Molybdenum & Soil Hydrology Blueprint](../assets/SPEC-013_BIO_CARBON_02.jpg)
 
 米作りの未利用残渣である「籾殻」を無煙熱分解炭化し、希少遷移金属モリブデン（Mo）を原子レベルで担持（ドープ）した複合資材を規定する。
 
@@ -132,7 +132,7 @@
 
 ## 第4章：世界規模ネガティブ・エミッション ＆ テラ・プレタ化
 
-![SPEC-013 Husk Pyrolysis & Bio-Reactor Outpost](assets/SPEC-013_BIO_CARBON_03.jpg)
+![SPEC-013 Husk Pyrolysis & Bio-Reactor Outpost](../assets/SPEC-013_BIO_CARBON_03.jpg)
 
 本プロトコルを世界の農地・退化土壌へ配備し、大気中CO2の吸収・固定・永久貯留を同時達成する。
 
