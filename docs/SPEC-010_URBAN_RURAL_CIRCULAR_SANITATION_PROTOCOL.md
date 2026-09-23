@@ -14,7 +14,7 @@
 
 ---
 
-![SPEC-010 Urban & Rural Circular Sanitation](assets/SPEC-010_SANITATION_01.jpg)
+![SPEC-010 Urban & Rural Circular Sanitation](../assets/SPEC-010_SANITATION_01.jpg)
 
 ## 序文：生活衛生は「地上の片付け」ではなく「立体の空間統治」である
 
@@ -50,7 +50,7 @@
 
 ## 第2章：上空・空間立体型 鳥獣害防衛工学（Aerial Deterrence）
 
-![SPEC-010 Urban & Rural Circular Sanitation](assets/SPEC-010_SANITATION_02.jpg)
+![SPEC-010 Urban & Rural Circular Sanitation](../assets/SPEC-010_SANITATION_02.jpg)
 
 カラスや鳩によるゴミ散乱および糞害の根絶は、地上のゴミ箱だけでは達成できない。集積所を見下ろす「上空の足場」を物理的に無力化する。
 
@@ -109,7 +109,7 @@
 
 ## 第5章：小型分散型・無煙熱分解炭化ノード（Micro Clean Plant）
 
-![SPEC-010 Urban & Rural Circular Sanitation](assets/SPEC-010_SANITATION_03.jpg)
+![SPEC-010 Urban & Rural Circular Sanitation](../assets/SPEC-010_SANITATION_03.jpg)
 
 昭和型のメガ清掃工場（巨大焼却炉・高煙突・遠距離運搬）を解体し、各地区完結型の環境循環ノードを配備する。
 
