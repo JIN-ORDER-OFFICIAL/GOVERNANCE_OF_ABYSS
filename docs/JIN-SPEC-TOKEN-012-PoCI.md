@@ -13,6 +13,8 @@
 - **コンセンサス:** Proof-of-Civic-Infrastructure (PoCI)
 - **基本単位:** $1 \text{ JIN} = 10^{18} \text{ wei-jin}$
 
+![Proof of Civic Infrastructure PoCI Mechanism](assets/jin_token_poci_minting.jpg)
+
 ---
 
 ## 1. 設計思想
