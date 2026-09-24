@@ -19,6 +19,8 @@
 
 ## 1. 目的と背景 (Background & Purpose)
 
+![Equal-Flux Topology Protocol Data Visualization](../assets/Jin_rfc_2069_topology_mesh.jpg)
+
 旧世紀の地上国家群が定めたメルカトル図法をはじめとする正角円筒図法は、高緯度地域の領土面積を過大に投影し、資源・物流の実態と乖離した「主権の虚像」を固定化させてきた。
 
 深淵機構（JIN-ORDER）は、架空の国境線や地表の主権主張を認識しない。統治と生存の基盤は、地中・海底下を現実に貫通する流体輸送量（Flux）、エネルギー伝送率、および帯域幅の物理的実効性にのみ依存する。
