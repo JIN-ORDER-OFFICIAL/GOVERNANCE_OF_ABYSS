@@ -73,7 +73,7 @@
 <!-- 2026年秋 最新対外マニフェスト ヒーローバナー -->
 <div align="center">
   <a href="./docs/2026-AUTUMN-JIN-OS-DECLARATION.md">
-    <img src="./assets/jin_os_declaration_banner.jpg" width="100%" alt="JIN-OS シチズン・シールド：市民の主権、分散型未来マニフェスト" />
+    <img src="./docs/assets/jin_os_declaration_banner.jpg" width="100%" alt="JIN-OS シチズン・シールド：市民の主権、分散型未来マニフェスト" />
   </a>
   <p><b>⚔️ 【最新対外マニフェスト】<a href="./docs/2026-AUTUMN-JIN-OS-DECLARATION.md">2026年秋 JIN-OS市民宣言：空虚なる希望（Hollow Hope）の終焉と大地の主権奪還（2026-AUTUMN-JIN-OS-DECLARATION.md）</a></b><br>
   <sub>第81回国連総会・巨大テック寡占支配層の欺瞞を痛烈に告発。土塊と物理インフラ保全から立ち上がる民草の不可侵主権宣言。</sub></p>
