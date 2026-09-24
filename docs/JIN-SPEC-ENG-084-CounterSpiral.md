@@ -13,6 +13,8 @@
 - **起草:** JIN-ORDER Civil Engineering Working Group
 - **適用対象:** 自治体土木局、地域自治防衛隊、自律分散セル運用管理者
 
+![Counter-Spiral Urban Cell Architecture](assets/counter_spiral_auc_schematic.jpg)
+
 ---
 
 ## 1. 背景と目的
