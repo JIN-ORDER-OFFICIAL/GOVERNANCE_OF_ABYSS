@@ -152,12 +152,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="./docs/JIN-SPEC-ENG-084-CounterSpiral.md">
-        <img src="./assets/counter_spiral_auc_schematic.jpg" width="100%" alt="自律型都市セル(AUC)弾力性街区：透水性舗装・バイオスウェル・光ファイバー埋設" />
+        <img src="./docs/assets/counter_spiral_auc_schematic.jpg" width="100%" alt="自律型都市セル(AUC)弾力性街区：透水性舗装・バイオスウェル・光ファイバー埋設" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="./docs/JIN-SPEC-TOKEN-012-PoCI.md">
-        <img src="./assets/jin_token_poci_minting.jpg" width="100%" alt="市民インフラ保全証明(PoCI)：道路修繕・現場物理労働による新通貨JIN直接ミント" />
+        <img src="./docs/assets/jin_token_poci_minting.jpg" width="100%" alt="市民インフラ保全証明(PoCI)：道路修繕・現場物理労働による新通貨JIN直接ミント" />
       </a>
     </td>
   </tr>
