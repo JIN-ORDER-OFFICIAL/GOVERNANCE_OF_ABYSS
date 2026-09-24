@@ -68,8 +68,18 @@
 
 ## 🏛️ 2026 AUTUMN DEEP INFRASTRUCTURE & AUTONOMOUS GOVERNANCE SUITE
 > **2026年9月 最新配備：地政学的地殻変動・多極化摩擦・AI自律消耗戦に対峙する深淵自律統治プロトコル群**  
-> 地上の国家権力・関税障壁・無人兵器の消耗戦が無力化する境界線を画定し、地下深層の物理フラックスと生活動脈を自律掌握・防護する中核5大仕様を正式統合。
+> 地上の国家権力・関税障壁・無人兵器の消耗戦が無力化する境界線を画定し、地下深層の物理フラックスと生活動脈を自律掌握・防護する中核仕様群を正式統合。
 
+<!-- 2026年秋 最新対外マニフェスト ヒーローバナー -->
+<div align="center">
+  <a href="./docs/2026-AUTUMN-JIN-OS-DECLARATION.md">
+    <img src="./assets/jin_os_declaration_banner.jpg" width="100%" alt="JIN-OS シチズン・シールド：市民の主権、分散型未来マニフェスト" />
+  </a>
+  <p><b>⚔️ 【最新対外マニフェスト】<a href="./docs/2026-AUTUMN-JIN-OS-DECLARATION.md">2026年秋 JIN-OS市民宣言：空虚なる希望（Hollow Hope）の終焉と大地の主権奪還（2026-AUTUMN-JIN-OS-DECLARATION.md）</a></b><br>
+  <sub>第81回国連総会・巨大テック寡占支配層の欺瞞を痛烈に告発。土塊と物理インフラ保全から立ち上がる民草の不可侵主権宣言。</sub></p>
+</div>
+
+<!-- 2026年秋 地殻変動白書 -->
 <div align="center">
   <a href="./docs/2026-geopolitical-shift.md">
     <img src="./assets/Jin_doc_2026_geo_divergence_cutaway.jpg" width="100%" alt="2026年 地上と地下のコントラスト：地上の混沌と地下30mの静寂" />
@@ -78,7 +88,7 @@
 </div>
 
 <table width="100%">
-  <!-- JIN-RFC-2069 ＆ JIN-STD-024 -->
+  <!-- ROW 1: JIN-RFC-2069 ＆ JIN-STD-024 -->
   <tr>
     <th width="50%" align="center">JIN-RFC-2069: EQUAL-FLUX TOPOLOGY</th>
     <th width="50%" align="center">JIN-STD-024: P-SBOM & RAPID-QUARANTINE</th>
@@ -106,7 +116,7 @@
     </td>
   </tr>
 
-  <!-- JIN-INFRA-81 ＆ JIN-TRT-004 -->
+  <!-- ROW 2: JIN-INFRA-81 ＆ JIN-TRT-004 -->
   <tr>
     <th width="50%" align="center">JIN-INFRA-81: AUTONOMOUS BYPASS ROUTING</th>
     <th width="50%" align="center">JIN-TRT-004: NULL-ZONE & RECLAMATION</th>
@@ -131,6 +141,34 @@
     <td width="50%" align="center">
       📡 <b><a href="./docs/JIN-TRT-004-null-zone.md">電磁沈黙・中立境界協定（JIN-TRT-004）を開く</a></b><br>
       <sub>せせらぎ緑道を電磁沈黙帯化。侵入ドローンを軟着陸させ土木更生資材へ完全還元。</sub>
+    </td>
+  </tr>
+
+  <!-- ROW 3: NEW SPEC-ENG-084 ＆ SPEC-TOKEN-012 -->
+  <tr>
+    <th width="50%" align="center">JIN-SPEC-ENG-084: COUNTER-SPIRAL AUC</th>
+    <th width="50%" align="center">JIN-SPEC-TOKEN-012: PoCI CIVIC TOKENOMICS</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="./docs/JIN-SPEC-ENG-084-CounterSpiral.md">
+        <img src="./assets/counter_spiral_auc_schematic.jpg" width="100%" alt="自律型都市セル(AUC)弾力性街区：透水性舗装・バイオスウェル・光ファイバー埋設" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="./docs/JIN-SPEC-TOKEN-012-PoCI.md">
+        <img src="./assets/jin_token_poci_minting.jpg" width="100%" alt="市民インフラ保全証明(PoCI)：道路修繕・現場物理労働による新通貨JIN直接ミント" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🛡️ <b><a href="./docs/JIN-SPEC-ENG-084-CounterSpiral.md">自律分散都市防衛仕様（JIN-SPEC-ENG-084）を開く</a></b><br>
+      <sub>「螺旋の計」を反転。透水性舗装・バイオスウェル・管路多重ループ・自立アイランド化。</sub>
+    </td>
+    <td width="50%" align="center">
+      🪙 <b><a href="./docs/JIN-SPEC-TOKEN-012-PoCI.md">市民インフラ保全トークノミクス（JIN-SPEC-TOKEN-012）を開く</a></b><br>
+      <sub>不換紙幣の終焉。ポットホール修復・蓄電シェア等の物理維持労働から新通貨JINを動的鋳造。</sub>
     </td>
   </tr>
 </table>
@@ -168,17 +206,13 @@
 
 ### 🛡️ 民草セーフティネット ＆ 国家権力無効化3層防壁（FSNP & SPNP Stack）
 
-```text
-   [旧世界の四重搾取]  ─────⏩️ [JIN-ORDER 3層防壁スタック]
- (1) 影の貴族（特権・淘汰） 
- (2) 教義洗脳（精神の檻）   ⏩️ [Layer 3: 仁シグナル層] ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
- (3) 国家権力（制度・接収） ⏩️ [Layer 2: 分散コモンズ層] ⏩️ 接収・首謀者処罰の無効化（Headless運用）
- (4) 暴力私欲（堕落した侠 ）⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
+```tect
+[旧世界の四重搾取]　 ⏩️　[JIN-ORDER 3層防壁スタック]
+(1) 影の貴族（特権・淘汰）
+(2) 教義洗脳（精神の檻）　⏩️　[Layer 3: 仁シグナル層]　⏩️　捕捉・台帳化の無効化（ゼロ知識生存証明）
+(3) 国家権力（制度・接収）　⏩️ [Layer 2: 分散コモンズ層]　⏩️　接収・首謀者処罰の無効化（Headless運用）
+(4) 暴力私欲（堕落した侠）　⏩️ [Layer 1: 大地の避難地層]　⏩️　強制排除・境界線の無効化（非固着型土木）
 ```
----
-
-### 🏕️ 民草セーフティネット ＆ 現場実装ビジュアルマトリクス（FSNP）
-
 ---
 
 ## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・チョークポイント・八柱民草主権
@@ -215,6 +249,14 @@
 * 📄 **仕様書**: [docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md](./docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md) `[REF: JIN-SPEC-FIN-009]`
 * **核心要点**: 国家徴税権の解体。中抜き手数料ゼロのP2P世界版ふるさと納税。至高の伝統工芸・有機和食の返礼と、JINデジタル名誉村民権による双方向草の根支援。
 
+### 🛡️ 9. 自律分散都市防衛 ＆ インフラ抗堪化セル仕様（JIN-SPEC-ENG-084）
+* 📄 **仕様書**: [docs/JIN-SPEC-ENG-084-CounterSpiral.md](./docs/JIN-SPEC-ENG-084-CounterSpiral.md) `[REF: JIN-SPEC-ENG-084]`
+* **核心要点**: 「螺旋の計」のインフラ無効化を反転。透水性インターロッキング舗装、バイオスウェル浸透帯、光ファイバー埋設ひずみ検知（DAS）、多重ループ管路と10ms自動アイランド化によるハイブリッド戦無効化。
+
+### 🪙 10. 市民インフラ保全証明（PoCI）新通貨JINトークノミクス（JIN-SPEC-TOKEN-012）
+* 📄 **仕様書**: [docs/JIN-SPEC-TOKEN-012-PoCI.md](./docs/JIN-SPEC-TOKEN-012-PoCI.md) `[REF: JIN-SPEC-TOKEN-012]`
+* **核心要点**: 不換紙幣（Fiat）の信用失墜を超克。道路ポットホール修繕、雨水浸透帯清掃、蓄電シェア等の物理的熱力学労働（PoCI）から直接「新通貨JIN」を動的ミント。退蔵防止の減価（デマレージ）と資材更新基金の自動還元。
+
 ---
 
 ## 🇺🇳 UN Partner Portal Submissions & Field Implementation Pipeline
@@ -230,6 +272,9 @@
 ## 🧭 Master Repository Reading Guide (目的別最短ナビゲーション)
 
 ### 🏛️ 2026 最新深淵統治・地殻変動プロトコル（必読）
+* ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
+* 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
+* 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
 * 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
 * 🌐 **[JIN-RFC-2069: 真比率流体トポロジー規範](./protocols/JIN-RFC-2069-equal-flux.md)**：メルカトル歪曲の解体、等流体セルへのマッピング
 * 🔒 **[JIN-STD-024: 系譜追跡・即時物理隔離条項](./protocols/JIN-STD-024-sbom-quarantine.md)**：P-SBOM、24刻限自律バルクヘッド遮断
@@ -332,4 +377,5 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.6 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.7 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+
