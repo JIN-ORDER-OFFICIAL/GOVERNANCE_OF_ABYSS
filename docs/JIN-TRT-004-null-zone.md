@@ -19,6 +19,8 @@
 
 ## 1. 目的と理念 (Doctrine & Purpose)
 
+![Electromagnetic Null-Zone Demarcation and Crawler Sweeper](../assets/Jin_trt_004_sweeper.jpg)
+
 地上空間において常態化する自律型ドローン群、徘徊型自爆兵器、および無人地上戦闘車両（UGV）による消耗戦は、民間インフラの物理破壊と広域電磁汚染を無差別に引き起こしている。
 
 深淵機構（JIN-ORDER）は、いかなる国家・武装勢力の交戦権も承認しないと同時に、それらへの武力加担も行わない。<br>
