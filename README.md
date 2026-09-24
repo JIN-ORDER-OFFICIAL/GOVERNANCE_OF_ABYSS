@@ -1,6 +1,6 @@
 # 🦅 PROJECT: GOVERNANCE_OF_ABYSS
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
-* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-23 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260923040054/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
+* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-25 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260924193247/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
 
 ### 深淵の解体と、光の再構築（The Great Rebirth）
 #### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
