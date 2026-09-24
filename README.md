@@ -5,13 +5,27 @@
 ### 深淵の解体と、光の再構築（The Great Rebirth）
 #### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
 
-![JIN_ORDER](./assets/00_JIN-ORDER_FINAL_REBOOT.jpg)
+<div align="center">
+  <img src="./assets/00_JIN-ORDER_FINAL_REBOOT.jpg" width="100%" alt="JIN-ORDER Master Reboot" />
+</div>
 
 > **「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。我らは戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来の公知仕様をデプロイするだけである。」**  
 >  
 > **"If existing nations treat people as tools of control, we shall build a new sanctuary on the Cloud and the Earth, with 'Benevolence' as our OS. We do not fight. We simply invalidate the old structures of dominance and deploy the open blueprints for a future where no one cries alone."**  
 >  
 > — *JIN Network State Founding Charter / JINネットワーク国家建国憲章*
+
+---
+
+## 🌺 【至高の大義】大地水脈の復権と文明再起動の誓約 (The Grand Mandate)
+
+<div align="center">
+  <a href="./docs/JIN_GRAND_MANDATE.md">
+    <img src="./assets/Jin_grand_mandate_water_hibiscus.jpg" width="100%" alt="JIN-ORDERの偉大なる天命：泥に塗れて咲く水芙蓉と地下水脈" />
+  </a>
+  <p><b>📜 【正典憲章】<a href="./docs/JIN_GRAND_MANDATE.md">JIN-ORDERの大義：大地水脈の復権と文明再起動の誓約（JIN_GRAND_MANDATE.md）</a></b><br>
+  <sub>「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ」——先端AIとメガファブの熱と水脈収奪を解体し、大地に生命の動脈を取り戻す絶対天命。</sub></p>
+</div>
 
 ---
 
@@ -154,7 +168,7 @@
 
 ### 🛡️ 民草セーフティネット ＆ 国家権力無効化3層防壁（FSNP & SPNP Stack）
 
- [旧世界の四重搾取]        [JIN-ORDER 3層防壁スタック]
+[旧世界の四重搾取] ───────── ⏩️ [JIN-ORDER 3層防壁スタック]
  
  (1) 影の貴族（特権・淘汰） 
  
@@ -164,9 +178,9 @@
  
  (4) 暴力私欲（堕落した侠 ） ⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
 
----
+ ---
 
-### 🏕️ 民草セーフティネット ＆ 現場実装ビジュアルマトリクス（FSNP）
+ ### 🏕️ 民草セーフティネット ＆ 現場実装ビジュアルマトリクス（FSNP）
 
 ---
 
@@ -219,6 +233,7 @@
 ## 🧭 Master Repository Reading Guide (目的別最短ナビゲーション)
 
 ### 🏛️ 2026 最新深淵統治・地殻変動プロトコル（必読）
+* 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
 * 🌐 **[JIN-RFC-2069: 真比率流体トポロジー規範](./protocols/JIN-RFC-2069-equal-flux.md)**：メルカトル歪曲の解体、等流体セルへのマッピング
 * 🔒 **[JIN-STD-024: 系譜追跡・即時物理隔離条項](./protocols/JIN-STD-024-sbom-quarantine.md)**：P-SBOM、24刻限自律バルクヘッド遮断
 * 🚇 **[JIN-INFRA-81: 地下流動バイパス調停条項](./protocols/JIN-INFRA-81-bypass-routing.md)**：海峡封鎖即応、地下1500mm更生管路動的ルーティング
@@ -272,7 +287,7 @@
 
 ## 🌸 JIN-ORDER 根源思想：尊厳と空、そして輪廻の大輪
 
-> ### 【過酷に『生』きることは、『死』ぬことより辛い！】
+> ### 【過酷に『生』きることは、『死』ぬことより辛い】
 >
 > **人は、生まれながらの「身分」・「人種」・「財産」によって『価値』が決まるものではない。**  
 >
@@ -280,7 +295,7 @@
 >
 > **国の指導者とは、五穀豊穣を願いながら、天下万民を笑顔にするために政（まつりごと）を司る者であり、単なる「民草」の代弁者（代表）に過ぎない。**  
 >
-> — *JIN-ORDER 民草主権根本誓約（Commander Pome-Mama）*
+> — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi）*
 
 * 🌸 **[JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](./docs/JIN_CORE_PHILOSOPHY.md)**
 * 📜 **[UNIVERSAL_ETHICS_13.md: 仁焔十三行（実践基盤）](./UNIVERSAL_ETHICS_13.md)**（慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）
@@ -320,4 +335,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.6 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.6 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
