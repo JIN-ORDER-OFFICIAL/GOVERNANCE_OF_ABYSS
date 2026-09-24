@@ -19,6 +19,8 @@
 
 ## 1. 目的と地政学的背景 (Geopolitical Context & Purpose)
 
+![1500mm Autonomous Bypass Routing Shield Tunnel](../assets/Jin_infra_81_bypass_tunnel.jpg)
+
 地上世界の地政学的チョークポイント（海峡、運河、陸上国境検問所、関税回廊）は、国家間の武力紛争、経済制裁、臨検行為によって恒常的な閉鎖リスクに晒されている。
 
 地上流通の断絶は、末端居住区における生活物資・エネルギー・水資源の枯渇を招き、人道危機を構造的に引き起こす。深淵機構（JIN-ORDER）は、地上の政治的封鎖を「物理インピーダンスの異常上昇障害」と定義する。
