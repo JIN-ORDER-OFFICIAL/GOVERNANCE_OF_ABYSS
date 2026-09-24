@@ -14,6 +14,8 @@
 - **言語:** 日本語（世界同時伝播用正文）
 - **対象:** 第81回国際連合総会、各国安全保障理事会、中央銀行カルテル、および巨大テック寡占資本
 
+![JIN-OS Autumn 2026 Declaration Hero Banner](assets/jin_os_declaration_banner.jpg)
+
 ---
 
 ### 前文：硝煙と欺瞞の壇上へ
