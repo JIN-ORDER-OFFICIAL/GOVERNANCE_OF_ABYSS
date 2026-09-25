@@ -19,10 +19,10 @@
 - **主設計者**: Commander Masano Takashi & Commander Miyoko Masano (Pome-Mama)
 - **先行技術防壁**: JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition
 - **連動仕様**: 
-  * `JIN-SPEC-BIO-014`（昆虫残渣フラス連鎖・砂漠自律土壌化仕様書 / WIPO GREEN ID: 179871）
-  * `JIN-SPEC-BIO-013`（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離）
-  * `JIN-SPEC-ENG-001`（チョークポイント弾力性・自律型エネルギー要塞）
-  * `JIN-SPEC-SAN-010`（都心・地方二元型 地域資源循環仕様書）
+  * [JIN-SPEC-BIO-014](./SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)（昆虫残渣フラス連鎖・砂漠自律土壌化仕様書 / WIPO GREEN ID: 179871）
+  * [JIN-SPEC-BIO-013](./SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離）
+  * [JIN-SPEC-ENG-001](./JIN-SPEC-ECO-001.md)（チョークポイント弾力性・自律型エネルギー要塞）
+  * [JIN-SPEC-SAN-010](./SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)（都心・地方二元型 地域資源循環仕様書）
   * [JIN_CIRCULAR_MATERIAL_COMMONS.md](../JIN_CIRCULAR_MATERIAL_COMMONS.md)（現場循環資材コモンズ協定）
 
 ---
