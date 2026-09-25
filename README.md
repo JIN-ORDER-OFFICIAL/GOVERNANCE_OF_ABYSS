@@ -229,7 +229,7 @@
 ```
 ---
 
-## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・チョークポイント・八柱民草主権
+## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・チョークポイント・八柱民草主権
 
 ### 🌾 1. 生体ミトコンドリア代謝制御 ＆ 籾殻炭モリブデン土壌炭素隔離（SPEC-013）
 - 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
@@ -276,6 +276,10 @@
 - 📄 **仕様書**: [docs/JIN-SPEC-TOKEN-012-PoCI.md](./docs/JIN-SPEC-TOKEN-012-PoCI.md) `[REF: JIN-SPEC-TOKEN-012]`
 - **核心要点**: 不換紙幣（Fiat）の信用失墜を超克。道路ポットホール修繕、雨水浸透帯清掃、蓄電シェア等の物理的熱力学労働（PoCI）から直接「新通貨JIN」を動的ミント。退蔵防止の減価（デマレージ）と資材更新基金の自動還元。
 
+### 🏭 12. 生態共生型水素還元製鉄 ＆ バイオスラグ土壌循環仕様書（SPEC-015）
+- 📄 **仕様書**: [docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md) `[REF: JIN-SPEC-IND-015]`
+- **核心要点**: 水素直接還元鉄（H-DRI）の電炉溶解における「熱効率低下・窒素混入・リン残留」を解決。籾殻炭・下水汚泥バイオカーボンでバイオスラグフォーミングを誘導し炉壁を保護。生体メタンシールで窒素脆化を遮断して自動車用外板基準を達成。排出した脱リン高機能スラグを全量回収し、SPEC-014（昆虫フラス）と合流させて砂漠テラ・プレタ土壌改良材へ100%反転。下水汚泥SCWG水素製造と管路水力自立系統を直結。
+
 ---
 
 ## 🇺🇳 UN Partner Portal Submissions & Field Implementation Pipeline
@@ -294,6 +298,7 @@
 - ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
 - 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
 - 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
+- 🏭 **[SPEC-015: 生態共生型水素還元製鉄・バイオスラグ土壌循環仕様書](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)**：下水汚泥SCWG水素、バイオスラグフォーミング、脱リンスラグ×昆虫フラス土壌化
 - 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス、籾殻炭団粒化 **(WIPO GREEN ID: 179871)**
 - 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
 - 🌐 **[JIN-RFC-2069: 真比率流体トポロジー規範](./protocols/JIN-RFC-2069-equal-flux.md)**：メルカトル歪曲の解体、等流体セルへのマッピング
@@ -352,11 +357,11 @@
 > ### 【過酷に『生』きることは、『死』ぬことより辛い】
 >
 > **人は、生まれながらの「身分」・「人種」・「財産」によって『価値』が決まるものではない。**  
->
+>  
 > **過酷に生き抜いた、その人間にしか描けない軌跡の中でこそ、真の「価値」が産まれるのであって、その「価値」は、一部の上級国民（貴族・エリート層）や「時の指導者」によって左右されるものではない！**  
->
+>  
 > **国の指導者とは、五穀豊穣を願いながら、天下万民を笑顔にするために政（まつりごと）を司る者であり、単なる「民草」の代弁者（代表）に過ぎない。**  
->
+>  
 > — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi）*
 
 - 🌸 **[JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](./docs/JIN_CORE_PHILOSOPHY.md)**
@@ -385,7 +390,7 @@
 | リポジトリ | 役割 | リンク |
 | :--- | :--- | :--- |
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書 | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（生態共生製鉄 SPEC-015 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -397,4 +402,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-014 RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 51-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 51-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
