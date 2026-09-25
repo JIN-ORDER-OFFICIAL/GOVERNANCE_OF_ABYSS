@@ -6,16 +6,27 @@
 
 ---
 
+<!-- 国際知的所有権・先行技術防壁バッジ -->
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
+
 # 🦗 JIN-SPEC-BIO-014: TENEBRIONID-FRASS ENTOMOLOGICAL SOIL REGENERATION PROTOCOL
 ## （昆虫残渣フラス連鎖・砂漠自律土壌化 ＆ 籾殻炭ハイブリッド団粒化仕様書）
 
-* **文書分類**: JIN-ORDER 規範的生態工学仕様書 (Canonical Bio-Engineering Standard)
-* **文書番号**: `JIN-SPEC-BIO-014`
-* **対象階層**: Tier A Commons / Global Public Good
-* **技術成熟度**: Level 2（サヘル・乾燥地帯 PoC 即応配備仕様）
-* **主設計者**: Commander Masano Takashi & Commander Miyoko Masano (Pome-Mama)
-* **先行技術防壁**: JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition
-* **連動仕様**: 
+- **文書分類**: JIN-ORDER 規範的生態工学仕様書 (Canonical Bio-Engineering Standard)
+- **文書番号**: `JIN-SPEC-BIO-014`
+- **対象階層**: Tier A Commons / Global Public Good
+- **技術成熟度**: Level 2（サヘル・乾燥地帯 PoC 即応配備仕様）
+- **国連登録**: **WIPO GREEN Registered Technology (ID: `179871`)**
+  * **公式公開台帳**: [WIPO GREEN Database Article 179871](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+  * **分類**: Farming & Forestry > Soil Improvement
+  * **保有法人**: General Incorporated Association JIN ORDER
+- **主設計者**: Commander Masano Takashi & Commander Miyoko Masano (Pome-Mama)
+- **先行技術防壁**: 
+  * WIPO GREEN 国際持続可能技術台帳登録済（Technology ID: `179871`）
+  * CERN Zenodo 国際DOI永久台帳（Prior-Art Certified）
+  * JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition
+- **連動仕様**: 
   * `JIN-SPEC-BIO-013`（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離）
   * `LSU-CHAD-01`（サヘル乾燥地帯オフグリッド人道再生）
   * `JIN-OP-OASIS-2026-003`（アフガニスタン・砂漠緑化オアシス作戦）
@@ -64,9 +75,9 @@
   ・キチン質（Chitin / 殻残渣）
   ・モリブデン（Mo）触媒微量担持
 ⏬️[降雨・毛管浸透]
-　・土壌放線菌（Streptomyces）覚醒・抗生機能放出
-　・キチナーゼ酵素誘導 ➡️ 糸状菌病原体・線虫抑制  
-　・大豆・マメ科根粒菌ニトロゲナーゼ活性化     
+  ・土壌放線菌（Streptomyces）覚醒・抗生機能放出
+  ・キチナーゼ酵素誘導 ➡️ 糸状菌病原体・線虫抑制  
+  ・大豆・マメ科根粒菌ニトロゲナーゼ活性化
 ```
 ---
 
@@ -87,12 +98,12 @@
 
 ### 3.1 キチン質（Chitin）による植物全身獲得抵抗性（SAR）の覚醒
 甲虫類のフラスおよび脱皮殻に含まれるキチンおよびキトサンオリゴ糖は、植物の根系受容体（CERK1等）にエリシター（生体防御応答誘導物質）として直接認識される。
-* 植物は「病原菌や害虫に攻撃された」と擬似的にシグナルを検出し、ファイトアレキシン（抗菌物質）およびリグニン沈着を自発的に促進。
-* 砂漠の強烈な乾燥ストレス・紫外線ストレス・高塩分濃度に対する浸透圧調整物質（プロリン・ベタイン）の合成が平常時の2.5〜3.8倍に向上する。
+- 植物は「病原菌や害虫に攻撃された」と擬似的にシグナルを検出し、ファイトアレキシン（抗菌物質）およびリグニン沈着を自発的に促進。
+- 砂漠の強烈な乾燥ストレス・紫外線ストレス・高塩分濃度に対する浸透圧調整物質（プロリン・ベタイン）の合成が平常時の2.5〜3.8倍に向上する。
 
 ### 3.2 放線菌（Streptomyces）の選択的爆発と病原体自律検疫
-* 土壌中に昆虫フラスが混合されると、キチンを唯一の炭素・窒素源として資化できる有用放線菌が爆発的にコロニーを形成。
-* 放線菌が分泌するキチナーゼ（細胞壁溶解酵素）により、土壌病害を引き起こすフザリウム菌やピシウム菌、有害センチュウの卵殻が分解・溶解され、外部農薬を用いない自律的土壌生物検疫（Bio-Quarantine）が成立する。
+- 土壌中に昆虫フラスが混合されると、キチンを唯一の炭素・窒素源として資化できる有用放線菌が爆発的にコロニーを形成。
+- 放線菌が分泌するキチナーゼ（細胞壁溶解酵素）により、土壌病害を引き起こすフザリウム菌やピシウム菌、有害センチュウの卵殻が分解・溶解され、外部農薬を用いない自律的土壌生物検疫（Bio-Quarantine）が成立する。
 
 ### 3.3 尿酸態窒素の耐熱徐放性メカニズム
 家畜糞（牛糞・鶏糞等）に含まれるアンモニア態窒素は、40℃を超える熱帯砂漠環境下ではアンモニアガスとして大気中に揮散する。<br>
@@ -101,19 +112,18 @@
 ---
 
 ## 4. 現場土木施工 ＆ 生態系配備SOP（Field Civil Engineering Integration）
-
 本プロトコルは、単なる肥料散布ではなく、道路・水利・土木構造物と一体化した「現場施工手順」として実施する。
 
 ```text
 【断面図：昆虫フラス連鎖・高畝バイオセル（AUC-Bio-Mound）】
 ──────────────────────────────────────────────────────
 [ミツバチ受粉植栽帯 / マメ科被覆作物]
-　　⏫️        
-400mm　籾殻炭・昆虫フラス混合団粒表土層 (200mm)
-　　⏬️        
+  ⏫️        
+400mm 籾殻炭・昆虫フラス混合団粒表土層 (200mm)
+  ⏬️        
 現地風成砂・粗朶（そだ）浸透基礎層 (200mm) ⏩️ 現況地盤高
-　　⏬️                           ⏬️
-【額縁明渠】                  【額縁明渠】
+  ⏬️                            ⏬️
+【額縁明渠】                   【額縁明渠】
 （雨水浸透・バイオスウェル）    （余剰塩分排出・地下水脈直結）
 ```
 ---
@@ -161,4 +171,5 @@ Supreme Judgment: Masano Takashi (The Guide)
 
 Executed by: JIN-ORDER-OFFICIAL
 
-`STATUS: JIN-SPEC-BIO-014 CANONICAL SPECIFICATION RATIFIED (AUTUMN LTS Prior-Art Certified)`
+`STATUS: JIN-SPEC-BIO-014 CANONICAL SPECIFICATION RATIFIED (WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / AUTUMN LTS Prior-Art Certified)`
+
