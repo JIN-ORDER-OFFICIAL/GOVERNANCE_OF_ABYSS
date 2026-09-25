@@ -206,12 +206,12 @@
 
 ### 🛡️ 民草セーフティネット ＆ 国家権力無効化3層防壁（FSNP & SPNP Stack）
 
-```tect
-[旧世界の四重搾取]　 ⏩️　[JIN-ORDER 3層防壁スタック]
+```text
+[旧世界の四重搾取]  ⏩️ [JIN-ORDER 3層防壁スタック]
 (1) 影の貴族（特権・淘汰）
-(2) 教義洗脳（精神の檻）　⏩️　[Layer 3: 仁シグナル層]　⏩️　捕捉・台帳化の無効化（ゼロ知識生存証明）
-(3) 国家権力（制度・接収）　⏩️ [Layer 2: 分散コモンズ層]　⏩️　接収・首謀者処罰の無効化（Headless運用）
-(4) 暴力私欲（堕落した侠）　⏩️ [Layer 1: 大地の避難地層]　⏩️　強制排除・境界線の無効化（非固着型土木）
+(2) 教義洗脳（精神の檻） ⏩️ [Layer 3: 仁シグナル層] ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
+(3) 国家権力（制度・接収） ⏩️ [Layer 2: 分散コモンズ層] ⏩️ 接収・首謀者処罰の無効化（Headless運用）
+(4) 暴力私欲（堕落した侠） ⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
 ```
 ---
 
@@ -221,39 +221,43 @@
 * 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
 * **核心要点**: 機械的CCSを完全解体。マイトファジー耐性「みどり麹」と籾殻炭モリブデン触媒担体により常温PET解重合と根粒菌窒素固定を両立。額縁明渠・高畝の土木水位制御により年間16.5〜27.5t/haの純炭素隔離とテラ・プレタ肥沃土化を実現。
 
-### 🏞️ 2. 公共公園公営管理 ＆ 地下循環雨水調整池・消火水利（SPEC-012）
+### 🦗 2. 昆虫残渣フラス連鎖 ＆ 砂漠自律土壌化仕様書（SPEC-014）
+* 📄 **仕様書**: [docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-014]`
+* **核心要点**: アタカマ砂漠の生体模倣。ミツバチ受粉残渣をゴミムシダマシ等の甲虫が捕食・排泄した「昆虫フラス（不溶性徐放性尿酸態窒素・キチン質）」と籾殻炭を複合担体化。外部化学肥料ゼロで砂漠砂を団粒化・放線菌増殖・テラ・プレタ化する自律土壌再生仕様。
+
+### 🏞️ 3. 公共公園公営管理 ＆ 地下循環雨水調整池・消火水利（SPEC-012）
 * 📄 **仕様書**: [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md) `[REF: JIN-SPEC-PRK-012]`
 * **核心要点**: 公園管理を行政直営化。地下プレキャストRC雨水調整池による内水氾濫防止と、震災時の耐震消火水利開放。樹木士崖地鑑識および帰宅困難者支援オアシス回廊の設置。
 
-### 🛡️ 3. 公共道路本位型 防犯灯・プライバシー配慮型AIカメラ（SPEC-011）
+### 🛡️ 4. 公共道路本位型 防犯灯・プライバシー配慮型AIカメラ（SPEC-011）
 * 📄 **仕様書**: [docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-SEC-011]`
 * **核心要点**: 防犯灯の行政直営化（72時間復旧）。不可逆プライバシーマスキングAIカメラ、愛犬わんわんパトロール、道路ポットホール早期通報、こども110番日常サンクチュアリ化。
 
-### ♻️ 4. 都心・地方二元型 地域資源循環 ＆ 上空鳥獣害防衛（SPEC-010）
+### ♻️ 5. 都心・地方二元型 地域資源循環 ＆ 上空鳥獣害防衛（SPEC-010）
 * 📄 **仕様書**: [docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md) `[REF: JIN-SPEC-SAN-010]`
 * **核心要点**: 道路法32条準拠の折りたたみ高強度メッシュ集積カゴ。電線防鳥スパイクと高架下ネット。粗大ゴミ行政戸別搬出と、小型分散バイオ炭排熱地域足湯。
 
-### ⚡ 5. チョークポイント弾力性・自律型エネルギー要塞プロトコル
+### ⚡ 6. チョークポイント弾力性・自律型エネルギー要塞プロトコル
 * 📄 **仕様書**: [docs/01_chokepoint_resilience_protocol.md](./docs/01_chokepoint_resilience_protocol.md) `[REF: JIN-SPEC-ENG-001]`
 * **核心要点**: 海洋海峡封鎖の無効化。大深度地熱（5,000m+）、地下岩盤超高圧水素サイロ、ミリ秒動的アイランディング、生命維持直結の仁優先配分カーネル。
 
-### 🌱 6. 国連SDGsの構造的限界超克 ＆「Nobody Cries」15ヵ年ロードマップ（2026-2040）
+### 🌱 7. 国連SDGsの構造的限界超克 ＆「Nobody Cries」15ヵ年ロードマップ（2026-2040）
 * 📄 **仕様書**: [docs/02_sdgs_vs_nobody_cries_roadmap.md](./docs/02_sdgs_vs_nobody_cries_roadmap.md) `[REF: JIN-SPEC-ROADMAP-2040]`
 * **核心要点**: ESGウォッシュを論理解体。第1フェーズ（2026-2029 生存分散基盤）、第2フェーズ（2030-2034 循環地域聖域）、第3フェーズ（2035-2040 文明再生主権）による誰も泣かせない実装確約。
 
-### 🌾 7. 八柱民草主権・生活基盤自立連盟仕様（SPEC-008: 技・衣・食・住・地・道・金・医）
+### 🌾 8. 八柱民草主権・生活基盤自立連盟仕様（SPEC-008: 技・衣・食・住・地・道・金・医）
 * 📄 **仕様書**: [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md) `[REF: JIN-SPEC-LIV-008]`
 * **核心要点**: 伝統産業（技）・生体調律ウェア（衣）・医食同源孝弁（食）・宮大工木組み（住）・地下水脈防護（地）・道路現状復旧欺瞞粉砕（道）・現場触診型信金（金）・急性期臨床本位（医）の統合。
 
-### 🌐 8. 世界民族コモンズ納税仕様書（SPEC-009: 越境P2P実物互恵）
+### 🌐 9. 世界民族コモンズ納税仕様書（SPEC-009: 越境P2P実物互恵）
 * 📄 **仕様書**: [docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md](./docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md) `[REF: JIN-SPEC-FIN-009]`
 * **核心要点**: 国家徴税権の解体。中抜き手数料ゼロのP2P世界版ふるさと納税。至高の伝統工芸・有機和食の返礼と、JINデジタル名誉村民権による双方向草の根支援。
 
-### 🛡️ 9. 自律分散都市防衛 ＆ インフラ抗堪化セル仕様（JIN-SPEC-ENG-084）
+### 🛡️ 10. 自律分散都市防衛 ＆ インフラ抗堪化セル仕様（JIN-SPEC-ENG-084）
 * 📄 **仕様書**: [docs/JIN-SPEC-ENG-084-CounterSpiral.md](./docs/JIN-SPEC-ENG-084-CounterSpiral.md) `[REF: JIN-SPEC-ENG-084]`
 * **核心要点**: 「螺旋の計」のインフラ無効化を反転。透水性インターロッキング舗装、バイオスウェル浸透帯、光ファイバー埋設ひずみ検知（DAS）、多重ループ管路と10ms自動アイランド化によるハイブリッド戦無効化。
 
-### 🪙 10. 市民インフラ保全証明（PoCI）新通貨JINトークノミクス（JIN-SPEC-TOKEN-012）
+### 🪙 11. 市民インフラ保全証明（PoCI）新通貨JINトークノミクス（JIN-SPEC-TOKEN-012）
 * 📄 **仕様書**: [docs/JIN-SPEC-TOKEN-012-PoCI.md](./docs/JIN-SPEC-TOKEN-012-PoCI.md) `[REF: JIN-SPEC-TOKEN-012]`
 * **核心要点**: 不換紙幣（Fiat）の信用失墜を超克。道路ポットホール修繕、雨水浸透帯清掃、蓄電シェア等の物理的熱力学労働（PoCI）から直接「新通貨JIN」を動的ミント。退蔵防止の減価（デマレージ）と資材更新基金の自動還元。
 
@@ -275,6 +279,7 @@
 * ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
 * 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
 * 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
+* 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス、籾殻炭団粒化
 * 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
 * 🌐 **[JIN-RFC-2069: 真比率流体トポロジー規範](./protocols/JIN-RFC-2069-equal-flux.md)**：メルカトル歪曲の解体、等流体セルへのマッピング
 * 🔒 **[JIN-STD-024: 系譜追跡・即時物理隔離条項](./protocols/JIN-STD-024-sbom-quarantine.md)**：P-SBOM、24刻限自律バルクヘッド遮断
@@ -377,5 +382,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.7 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
-
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-014 RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 51-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
