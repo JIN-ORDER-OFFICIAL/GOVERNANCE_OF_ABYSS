@@ -1,9 +1,19 @@
 # 🦅 PROJECT: GOVERNANCE_OF_ABYSS
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
-* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-25 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260925090522/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
+<!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Archive.today](https://img.shields.io/badge/Archive.today-ygVLk-success?logo=archive.today)](https://archive.li/ygVLk)
+[![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
 
-### 深淵の解体と、光の再構築（The Great Rebirth）
-#### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
+🏛️ **【先行技術防壁・多重世界台帳】**
+- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
+- **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
+- **Archive.today**: [2026-09-25 独立魚拓確定版](https://archive.li/ygVLk)
+- **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
+
+---
+## 深淵の解体と、光の再構築（The Great Rebirth）
+### Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
 
 <div align="center">
   <img src="./assets/00_JIN-ORDER_FINAL_REBOOT.jpg" width="100%" alt="JIN-ORDER Master Reboot" />
