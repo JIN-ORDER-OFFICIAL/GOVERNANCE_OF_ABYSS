@@ -4,8 +4,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
 [![Archive.today](https://img.shields.io/badge/Archive.today-ygVLk-success?logo=archive.today)](https://archive.li/ygVLk)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
 - **Archive.today**: [2026-09-25 独立魚拓確定版](https://archive.li/ygVLk)
@@ -45,17 +47,18 @@
 [![Governance of Abyss](https://img.shields.io/badge/ARCHIVE-Governance%20of%20Abyss-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://governance-of-abyss.org)
 [![UN Partner Portal](https://img.shields.io/badge/UNPP%20Verified-ID%3A%2064636-0A66C2?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.unpartnerportal.org/)
 
-* ⏩️ **【JIN-ORDER 公式ポータル】**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star)
-* ⚖️ **【経済安保・実効型ライセンス規約】**: [JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition (LICENSE.md)](./LICENSE.md)
-* 📊 **【技術成熟度・確度区分定義書】**: [TECHNOLOGY_READINESS_LEVELS.md (JRC確度区分定義書)](./TECHNOLOGY_READINESS_LEVELS.md)
-* 🛡️ **【不正利用・盗用 調査及び権利行使方針】**: [ENFORCEMENT-POLICY.md (実効的行政・土木監査手続)](./docs/governance/ENFORCEMENT-POLICY.md)
-* 🤝 **【知恵の合流・貢献指針】**: [CONTRIBUTING.md (現場所術寄託・倫理SOP)](./CONTRIBUTING.md)
-* 🚨 **【利権簒奪・無断仕様化 告発窓口】**: [監査・不正通報Issueテンプレート (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
+- ⏩️ **【JIN-ORDER 公式ポータル】**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star)
+- ⚖️ **【経済安保・実効型ライセンス規約】**: [JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition (LICENSE.md)](./LICENSE.md)
+- 📊 **【技術成熟度・確度区分定義書】**: [TECHNOLOGY_READINESS_LEVELS.md (JRC確度区分定義書)](./TECHNOLOGY_READINESS_LEVELS.md)
+- 🛡️ **【不正利用・盗用 調査及び権利行使方針】**: [ENFORCEMENT-POLICY.md (実効的行政・土木監査手続)](./docs/governance/ENFORCEMENT-POLICY.md)
+- 🤝 **【知恵の合流・貢献指針】**: [CONTRIBUTING.md (現場所術寄託・倫理SOP)](./CONTRIBUTING.md)
+- 🚨 **【利権簒奪・無断仕様化 告発窓口】**: [監査・不正通報Issueテンプレート (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
 ---
 
 <!-- INTERNATIONAL MULTILATERAL REGISTRATION & COMMONS DEFENSE STATUS -->
 <p align="left">
+  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179871" /></a>
   <img src="https://img.shields.io/badge/DPGA-Nominee%20(GID0094240)-0077b6?style=for-the-badge&logo=unicef&logoColor=white" alt="DPGA Nominee" />
   <img src="https://img.shields.io/badge/UNDRR-PreventionWeb%20Deposited-1d3557?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNDRR PreventionWeb" />
   <img src="https://img.shields.io/badge/UNHCR%20UNPP-Global%20(ID%3A%2064636)-0A66C2?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNHCR UNPP 64636" />
@@ -67,9 +70,10 @@
 > **International Registry & Prior Art Legal Notice**  
 > All engineering architectures, specifications, and decentralized civil blueprints under **JIN-ORDER** are officially deposited and under multilateral review across United Nations agencies and global public commons frameworks:
 > 
-> 1. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
-> 2. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
-> 3. **UNHCR / United Nations Partner Portal (UNPP)**:
+> 1. **WIPO GREEN (World Intellectual Property Organization)**: Officially registered and verified as Sustainable Global Technology ([Technology ID: `179871`](https://wipogreen.wipo.int/wipogreen-database/articles/179871)). Specification: `JIN-SPEC-BIO-014` (*Tenebrionid-Frass Entomological Soil Regeneration Protocol*). Category: *Farming & Forestry > Soil Improvement*.
+> 2. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
+> 3. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
+> 4. **UNHCR / United Nations Partner Portal (UNPP)**:
 >    * **Global Partner Organization Record**: 一般社団法人JIN-ORDER (Partner ID: `64636`).
 >    * **LSU-Chad-01 Architecture**: Autonomous Oasis Cities for Refugee Self-Reliance & Climate Resilience (Application ID: `95525`).
 >    * **Mozambique Resilience Mission**: Housing and Settlement Solutions / Cyclone & Flood Civil Defense (Application ID: `108498`).
@@ -198,19 +202,19 @@
 外道の手が届かぬ深淵（アビス）において、民草が自らの生を全うするための不可侵の盾である。
 
 ### 第零条：魂の不可測性（Axiom of Incommensurability）
-* **不可測（Unmeasurable）**: いかなる権力、制度、アルゴリズム、市場も、民草の命に序列や価格を設ける権利を持たない。魂の価値は計算不能（NaN: Not a Number）であり、計量・評価・選別・信用スコアリングを永久に拒絶する。
-* **不可換（Non-Exchangeable）**: 国家の存続、経済の合理性、大義のために、ひとりの生を「引き換えの資材」とすることを外道と定め、これを排除する。
-* **不可侵（Inviolable）**: 光の世界で今日を懸命に生きる者を喰らい、消耗品として弄ぶ一切の手引きをプロトコルレベルで遮断する。
+- **不可測（Unmeasurable）**: いかなる権力、制度、アルゴリズム、市場も、民草の命に序列や価格を設ける権利を持たない。魂の価値は計算不能（NaN: Not a Number）であり、計量・評価・選別・信用スコアリングを永久に拒絶する。
+- **不可換（Non-Exchangeable）**: 国家の存続、経済の合理性、大義のために、ひとりの生を「引き換えの資材」とすることを外道と定め、これを排除する。
+- **不可侵（Inviolable）**: 光の世界で今日を懸命に生きる者を喰らい、消耗品として弄ぶ一切の手引きをプロトコルレベルで遮断する。
 
 ### 第零条の二：神聖の非私有・教義兵器化の拒絶（Rejection of Dogmatic Weaponization）
-* **霊的仲介者の無効化**: 真理と民草の間に立ち、通行料（富・服従・恐怖）を徴収する司祭・教団・指導者の存在権能を認めない。
-* **罪悪感と恐怖の解体**: 原罪や破門、業を人質にして思考を奪うマインドコントロールを、精神に対する重過失の暴力と定義する。
-* **知恵のパブリックドメイン化**: かつての先駆者たちの教えは囲い込まれた秘儀ではなく、すべての民草が自らを癒やすために手にする「開かれた知恵（CC0）」として解放される。
+- **霊的仲介者の無効化**: 真理と民草の間に立ち、通行料（富・服従・恐怖）を徴収する司祭・教団・指導者の存在権能を認めない。
+- **罪悪感と恐怖の解体**: 原罪や破門、業を人質にして思考を奪うマインドコントロールを、精神に対する重過失の暴力と定義する。
+- **知恵のパブリックドメイン化**: かつての先駆者たちの教えは囲い込まれた秘儀ではなく、すべての民草が自らを癒やすために手にする「開かれた知恵（CC0）」として解放される。
 
 ### 第零条の三：不可視のピラミッド・血統的特権の無効化（Nullification of Shadow Oligarchy）
-* **選民優生思想の完全否認**: 「黒い貴族」「灰色の貴族」等、家系・血統・秘密結社による生来の支配権・淘汰権を認めない。大地に生まれ大地に還るすべての生の前に、不可触の特権など存在しない。
-* **不可視の支配線の切断**: 通貨発行権、情報統制、食糧流通を私物化し、影から民草をチェス盤の駒として弄ぶパイプラインを物理・論理の双方で遮断する。
-* **ピラミッド基盤の蒸発**: 頂点を武力で討つのではなく、民草が大地とプロトコルによって自立し「底辺であること」を放棄することで、支配構造そのものを虚空へ蒸発させる。
+- **選民優生思想の完全否認**: 「黒い貴族」「灰色の貴族」等、家系・血統・秘密結社による生来の支配権・淘汰権を認めない。大地に生まれ大地に還るすべての生の前に、不可触の特権など存在しない。
+- **不可視の支配線の切断**: 通貨発行権、情報統制、食糧流通を私物化し、影から民草をチェス盤の駒として弄ぶパイプラインを物理・論理の双方で遮断する。
+- **ピラミッド基盤の蒸発**: 頂点を武力で討つのではなく、民草が大地とプロトコルによって自立し「底辺であること」を放棄することで、支配構造そのものを虚空へ蒸発させる。
 
 ---
 
@@ -228,48 +232,49 @@
 ## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・チョークポイント・八柱民草主権
 
 ### 🌾 1. 生体ミトコンドリア代謝制御 ＆ 籾殻炭モリブデン土壌炭素隔離（SPEC-013）
-* 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
-* **核心要点**: 機械的CCSを完全解体。マイトファジー耐性「みどり麹」と籾殻炭モリブデン触媒担体により常温PET解重合と根粒菌窒素固定を両立。額縁明渠・高畝の土木水位制御により年間16.5〜27.5t/haの純炭素隔離とテラ・プレタ肥沃土化を実現。
+- 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
+- **核心要点**: 機械的CCSを完全解体。マイトファジー耐性「みどり麹」と籾殻炭モリブデン触媒担体により常温PET解重合と根粒菌窒素固定を両立。額縁明渠・高畝の土木水位制御により年間16.5〜27.5t/haの純炭素隔離とテラ・プレタ肥沃土化を実現。
 
 ### 🦗 2. 昆虫残渣フラス連鎖 ＆ 砂漠自律土壌化仕様書（SPEC-014）
-* 📄 **仕様書**: [docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-014]`
-* **核心要点**: アタカマ砂漠の生体模倣。ミツバチ受粉残渣をゴミムシダマシ等の甲虫が捕食・排泄した「昆虫フラス（不溶性徐放性尿酸態窒素・キチン質）」と籾殻炭を複合担体化。外部化学肥料ゼロで砂漠砂を団粒化・放線菌増殖・テラ・プレタ化する自律土壌再生仕様。
+- 📄 **仕様書**: [docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-014]`
+- 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179871 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179871) `[Technology ID: 179871]`
+- **核心要点**: アタカマ砂漠の生体模倣。ミツバチ受粉残渣をゴミムシダマシ等の甲虫が捕食・排泄した「昆虫フラス（不溶性徐放性尿酸態窒素・キチン質）」と籾殻炭を複合担体化。外部化学肥料ゼロで砂漠砂を団粒化・放線菌増殖・テラ・プレタ化する自律土壌再生仕様。
 
 ### 🏞️ 3. 公共公園公営管理 ＆ 地下循環雨水調整池・消火水利（SPEC-012）
-* 📄 **仕様書**: [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md) `[REF: JIN-SPEC-PRK-012]`
-* **核心要点**: 公園管理を行政直営化。地下プレキャストRC雨水調整池による内水氾濫防止と、震災時の耐震消火水利開放。樹木士崖地鑑識および帰宅困難者支援オアシス回廊の設置。
+- 📄 **仕様書**: [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md) `[REF: JIN-SPEC-PRK-012]`
+- **核心要点**: 公園管理を行政直営化。地下プレキャストRC雨水調整池による内水氾濫防止と、震災時の耐震消火水利開放。樹木士崖地鑑識および帰宅困難者支援オアシス回廊の設置。
 
 ### 🛡️ 4. 公共道路本位型 防犯灯・プライバシー配慮型AIカメラ（SPEC-011）
-* 📄 **仕様書**: [docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-SEC-011]`
-* **核心要点**: 防犯灯の行政直営化（72時間復旧）。不可逆プライバシーマスキングAIカメラ、愛犬わんわんパトロール、道路ポットホール早期通報、こども110番日常サンクチュアリ化。
+- 📄 **仕様書**: [docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-SEC-011]`
+- **核心要点**: 防犯灯の行政直営化（72時間復旧）。不可逆プライバシーマスキングAIカメラ、愛犬わんわんパトロール、道路ポットホール早期通報、こども110番日常サンクチュアリ化。
 
 ### ♻️ 5. 都心・地方二元型 地域資源循環 ＆ 上空鳥獣害防衛（SPEC-010）
-* 📄 **仕様書**: [docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md) `[REF: JIN-SPEC-SAN-010]`
-* **核心要点**: 道路法32条準拠の折りたたみ高強度メッシュ集積カゴ。電線防鳥スパイクと高架下ネット。粗大ゴミ行政戸別搬出と、小型分散バイオ炭排熱地域足湯。
+- 📄 **仕様書**: [docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md) `[REF: JIN-SPEC-SAN-010]`
+- **核心要点**: 道路法32条準拠の折りたたみ高強度メッシュ集積カゴ。電線防鳥スパイクと高架下ネット。粗大ゴミ行政戸別搬出と、小型分散バイオ炭排熱地域足湯。
 
 ### ⚡ 6. チョークポイント弾力性・自律型エネルギー要塞プロトコル
-* 📄 **仕様書**: [docs/01_chokepoint_resilience_protocol.md](./docs/01_chokepoint_resilience_protocol.md) `[REF: JIN-SPEC-ENG-001]`
-* **核心要点**: 海洋海峡封鎖の無効化。大深度地熱（5,000m+）、地下岩盤超高圧水素サイロ、ミリ秒動的アイランディング、生命維持直結の仁優先配分カーネル。
+- 📄 **仕様書**: [docs/01_chokepoint_resilience_protocol.md](./docs/01_chokepoint_resilience_protocol.md) `[REF: JIN-SPEC-ENG-001]`
+- **核心要点**: 海洋海峡封鎖の無効化。大深度地熱（5,000m+）、地下岩盤超高圧水素サイロ、ミリ秒動的アイランディング、生命維持直結の仁優先配分カーネル。
 
 ### 🌱 7. 国連SDGsの構造的限界超克 ＆「Nobody Cries」15ヵ年ロードマップ（2026-2040）
-* 📄 **仕様書**: [docs/02_sdgs_vs_nobody_cries_roadmap.md](./docs/02_sdgs_vs_nobody_cries_roadmap.md) `[REF: JIN-SPEC-ROADMAP-2040]`
-* **核心要点**: ESGウォッシュを論理解体。第1フェーズ（2026-2029 生存分散基盤）、第2フェーズ（2030-2034 循環地域聖域）、第3フェーズ（2035-2040 文明再生主権）による誰も泣かせない実装確約。
+- 📄 **仕様書**: [docs/02_sdgs_vs_nobody_cries_roadmap.md](./docs/02_sdgs_vs_nobody_cries_roadmap.md) `[REF: JIN-SPEC-ROADMAP-2040]`
+- **核心要点**: ESGウォッシュを論理解体。第1フェーズ（2026-2029 生存分散基盤）、第2フェーズ（2030-2034 循環地域聖域）、第3フェーズ（2035-2040 文明再生主権）による誰も泣かせない実装確約。
 
 ### 🌾 8. 八柱民草主権・生活基盤自立連盟仕様（SPEC-008: 技・衣・食・住・地・道・金・医）
-* 📄 **仕様書**: [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md) `[REF: JIN-SPEC-LIV-008]`
-* **核心要点**: 伝統産業（技）・生体調律ウェア（衣）・医食同源孝弁（食）・宮大工木組み（住）・地下水脈防護（地）・道路現状復旧欺瞞粉砕（道）・現場触診型信金（金）・急性期臨床本位（医）の統合。
+- 📄 **仕様書**: [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md) `[REF: JIN-SPEC-LIV-008]`
+- **核心要点**: 伝統産業（技）・生体調律ウェア（衣）・医食同源孝弁（食）・宮大工木組み（住）・地下水脈防護（地）・道路現状復旧欺瞞粉砕（道）・現場触診型信金（金）・急性期臨床本位（医）の統合。
 
 ### 🌐 9. 世界民族コモンズ納税仕様書（SPEC-009: 越境P2P実物互恵）
-* 📄 **仕様書**: [docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md](./docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md) `[REF: JIN-SPEC-FIN-009]`
-* **核心要点**: 国家徴税権の解体。中抜き手数料ゼロのP2P世界版ふるさと納税。至高の伝統工芸・有機和食の返礼と、JINデジタル名誉村民権による双方向草の根支援。
+- 📄 **仕様書**: [docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md](./docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md) `[REF: JIN-SPEC-FIN-009]`
+- **核心要点**: 国家徴税権の解体。中抜き手数料ゼロのP2P世界版ふるさと納税。至高の伝統工芸・有機和食の返礼と、JINデジタル名誉村民権による双方向草の根支援。
 
 ### 🛡️ 10. 自律分散都市防衛 ＆ インフラ抗堪化セル仕様（JIN-SPEC-ENG-084）
-* 📄 **仕様書**: [docs/JIN-SPEC-ENG-084-CounterSpiral.md](./docs/JIN-SPEC-ENG-084-CounterSpiral.md) `[REF: JIN-SPEC-ENG-084]`
-* **核心要点**: 「螺旋の計」のインフラ無効化を反転。透水性インターロッキング舗装、バイオスウェル浸透帯、光ファイバー埋設ひずみ検知（DAS）、多重ループ管路と10ms自動アイランド化によるハイブリッド戦無効化。
+- 📄 **仕様書**: [docs/JIN-SPEC-ENG-084-CounterSpiral.md](./docs/JIN-SPEC-ENG-084-CounterSpiral.md) `[REF: JIN-SPEC-ENG-084]`
+- **核心要点**: 「螺旋の計」のインフラ無効化を反転。透水性インターロッキング舗装、バイオスウェル浸透帯、光ファイバー埋設ひずみ検知（DAS）、多重ループ管路と10ms自動アイランド化によるハイブリッド戦無効化。
 
 ### 🪙 11. 市民インフラ保全証明（PoCI）新通貨JINトークノミクス（JIN-SPEC-TOKEN-012）
-* 📄 **仕様書**: [docs/JIN-SPEC-TOKEN-012-PoCI.md](./docs/JIN-SPEC-TOKEN-012-PoCI.md) `[REF: JIN-SPEC-TOKEN-012]`
-* **核心要点**: 不換紙幣（Fiat）の信用失墜を超克。道路ポットホール修繕、雨水浸透帯清掃、蓄電シェア等の物理的熱力学労働（PoCI）から直接「新通貨JIN」を動的ミント。退蔵防止の減価（デマレージ）と資材更新基金の自動還元。
+- 📄 **仕様書**: [docs/JIN-SPEC-TOKEN-012-PoCI.md](./docs/JIN-SPEC-TOKEN-012-PoCI.md) `[REF: JIN-SPEC-TOKEN-012]`
+- **核心要点**: 不換紙幣（Fiat）の信用失墜を超克。道路ポットホール修繕、雨水浸透帯清掃、蓄電シェア等の物理的熱力学労働（PoCI）から直接「新通貨JIN」を動的ミント。退蔵防止の減価（デマレージ）と資材更新基金の自動還元。
 
 ---
 
@@ -286,43 +291,43 @@
 ## 🧭 Master Repository Reading Guide (目的別最短ナビゲーション)
 
 ### 🏛️ 2026 最新深淵統治・地殻変動プロトコル（必読）
-* ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
-* 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
-* 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
-* 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス、籾殻炭団粒化
-* 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
-* 🌐 **[JIN-RFC-2069: 真比率流体トポロジー規範](./protocols/JIN-RFC-2069-equal-flux.md)**：メルカトル歪曲の解体、等流体セルへのマッピング
-* 🔒 **[JIN-STD-024: 系譜追跡・即時物理隔離条項](./protocols/JIN-STD-024-sbom-quarantine.md)**：P-SBOM、24刻限自律バルクヘッド遮断
-* 🚇 **[JIN-INFRA-81: 地下流動バイパス調停条項](./protocols/JIN-INFRA-81-bypass-routing.md)**：海峡封鎖即応、地下1500mm更生管路動的ルーティング
-* 📡 **[JIN-TRT-004: 電磁沈黙・中立境界協定](./docs/JIN-TRT-004-null-zone.md)**：緩衝緑道ナル・ゾーン、侵入ドローン無害化と土木骨材還元
-* 🗺️ **[JIN-DOC-2026-GEO: 2026年地政学地殻変動白書](./docs/2026-geopolitical-shift.md)**：多極化摩擦、AI消耗戦、地下回廊の文明維持
+- ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
+- 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
+- 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
+- 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス、籾殻炭団粒化 **(WIPO GREEN ID: 179871)**
+- 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
+- 🌐 **[JIN-RFC-2069: 真比率流体トポロジー規範](./protocols/JIN-RFC-2069-equal-flux.md)**：メルカトル歪曲の解体、等流体セルへのマッピング
+- 🔒 **[JIN-STD-024: 系譜追跡・即時物理隔離条項](./protocols/JIN-STD-024-sbom-quarantine.md)**：P-SBOM、24刻限自律バルクヘッド遮断
+- 🚇 **[JIN-INFRA-81: 地下流動バイパス調停条項](./protocols/JIN-INFRA-81-bypass-routing.md)**：海峡封鎖即応、地下1500mm更生管路動的ルーティング
+- 📡 **[JIN-TRT-004: 電磁沈黙・中立境界協定](./docs/JIN-TRT-004-null-zone.md)**：緩衝緑道ナル・ゾーン、侵入ドローン無害化と土木骨材還元
+- 🗺️ **[JIN-DOC-2026-GEO: 2026年地政学地殻変動白書](./docs/2026-geopolitical-shift.md)**：多極化摩擦、AI消耗戦、地下回廊の文明維持
 
 ### 🛡️ 民草セーフティネット ＆ 国家権力無効化（FSNP & SPNP）
-* ⏩️ [specs/SPEC-000_CORE_AXIOMS.md](./specs/SPEC-000_CORE_AXIOMS.md)【第零公理群：魂の不可測性・教義兵器化拒絶・特権階級無効化 SPEC-000】
-* ⏩️ [specs/SPEC-001_SPNP_OVERVIEW.md](./specs/SPEC-001_SPNP_OVERVIEW.md)【国家権力無効化プロトコル総論 SPEC-001】
-* ⏩️ [specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md](./specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md)【非固着型可動シェルター FSNP-01】
-* ⏩️ [specs/FSNP_LAYER1_PHYSICAL/02_water_commons.md](./specs/FSNP_LAYER1_PHYSICAL/02_water_commons.md)【重力流自立浄水 FSNP-02】
-* ⏩️ [specs/FSNP_LAYER1_PHYSICAL/03_borderless_path.md](./specs/FSNP_LAYER1_PHYSICAL/03_borderless_path.md)【動的避難回廊 FSNP-03】
-* ⏩️ [specs/FSNP_LAYER2_COMMONS/01_headless_node.md](./specs/FSNP_LAYER2_COMMONS/01_headless_node.md)【無頭組織規範 FSNP-04】
-* ⏩️ [specs/FSNP_LAYER2_COMMONS/02_zero_stock_flow.md](./specs/FSNP_LAYER2_COMMONS/02_zero_stock_flow.md)【無主物マイクロ分散備蓄 FSNP-08】
-* ⏩️ [specs/FSNP_LAYER2_COMMONS/03_open_civil_handbook.md](./specs/FSNP_LAYER2_COMMONS/03_open_civil_handbook.md)【民草現場土木SOP FSNP-09】
-* ⏩️ [specs/FSNP_LAYER3_JIN_SIGNAL/01_zero_proof_identity.md](./specs/FSNP_LAYER3_JIN_SIGNAL/01_zero_proof_identity.md)【ゼロ知識生存証明 FSNP-05】
-* ⏩️ [specs/FSNP_LAYER3_JIN_SIGNAL/02_mesh_dispatch.md](./specs/FSNP_LAYER3_JIN_SIGNAL/02_mesh_dispatch.md)【近接P2P見守り FSNP-06】
-* ⏩️ [specs/FSNP_LAYER3_JIN_SIGNAL/03_anti_censorship.md](./specs/FSNP_LAYER3_JIN_SIGNAL/03_anti_censorship.md)【電波遮断耐性・遅延伝播 FSNP-07】
+- ⏩️ [specs/SPEC-000_CORE_AXIOMS.md](./specs/SPEC-000_CORE_AXIOMS.md)【第零公理群：魂の不可測性・教義兵器化拒絶・特権階級無効化 SPEC-000】
+- ⏩️ [specs/SPEC-001_SPNP_OVERVIEW.md](./specs/SPEC-001_SPNP_OVERVIEW.md)【国家権力無効化プロトコル総論 SPEC-001】
+- ⏩️ [specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md](./specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md)【非固着型可動シェルター FSNP-01】
+- ⏩️ [specs/FSNP_LAYER1_PHYSICAL/02_water_commons.md](./specs/FSNP_LAYER1_PHYSICAL/02_water_commons.md)【重力流自立浄水 FSNP-02】
+- ⏩️ [specs/FSNP_LAYER1_PHYSICAL/03_borderless_path.md](./specs/FSNP_LAYER1_PHYSICAL/03_borderless_path.md)【動的避難回廊 FSNP-03】
+- ⏩️ [specs/FSNP_LAYER2_COMMONS/01_headless_node.md](./specs/FSNP_LAYER2_COMMONS/01_headless_node.md)【無頭組織規範 FSNP-04】
+- ⏩️ [specs/FSNP_LAYER2_COMMONS/02_zero_stock_flow.md](./specs/FSNP_LAYER2_COMMONS/02_zero_stock_flow.md)【無主物マイクロ分散備蓄 FSNP-08】
+- ⏩️ [specs/FSNP_LAYER2_COMMONS/03_open_civil_handbook.md](./specs/FSNP_LAYER2_COMMONS/03_open_civil_handbook.md)【民草現場土木SOP FSNP-09】
+- ⏩️ [specs/FSNP_LAYER3_JIN_SIGNAL/01_zero_proof_identity.md](./specs/FSNP_LAYER3_JIN_SIGNAL/01_zero_proof_identity.md)【ゼロ知識生存証明 FSNP-05】
+- ⏩️ [specs/FSNP_LAYER3_JIN_SIGNAL/02_mesh_dispatch.md](./specs/FSNP_LAYER3_JIN_SIGNAL/02_mesh_dispatch.md)【近接P2P見守り FSNP-06】
+- ⏩️ [specs/FSNP_LAYER3_JIN_SIGNAL/03_anti_censorship.md](./specs/FSNP_LAYER3_JIN_SIGNAL/03_anti_censorship.md)【電波遮断耐性・遅延伝播 FSNP-07】
 
 ### 🌍 2026年秋 最新3大作戦 ＆ 国際戦略
-* ⏩️ [docs/JIN_ORDER_strategic_update_2026_autumn.md](./docs/JIN_ORDER_strategic_update_2026_autumn.md)【戦略提言アップデート資料 2026秋（国際人道白書）】
-* ⏩️ [docs/Operation_cobalt_blue_spec.md](./docs/Operation_cobalt_blue_spec.md)【コバルト・ブルー作戦（コンゴ・常温バイオ浸出・3D建材化）】
-* ⏩️ [docs/Operation_oasis_spec.md](./docs/Operation_oasis_spec.md)【オアシス作戦（アフガニスタン・クアッドカレーズ・砂漠緑化）】
-* ⏩️ [docs/Operation_northern_light_spec.md](./docs/Operation_northern_light_spec.md)【ノーザンライト作戦（東欧戦災厳冬期復興・耐爆3D住宅）】
+- ⏩️ [docs/JIN_ORDER_strategic_update_2026_autumn.md](./docs/JIN_ORDER_strategic_update_2026_autumn.md)【戦略提言アップデート資料 2026秋（国際人道白書）】
+- ⏩️ [docs/Operation_cobalt_blue_spec.md](./docs/Operation_cobalt_blue_spec.md)【コバルト・ブルー作戦（コンゴ・常温バイオ浸出・3D建材化）】
+- ⏩️ [docs/Operation_oasis_spec.md](./docs/Operation_oasis_spec.md)【オアシス作戦（アフガニスタン・クアッドカレーズ・砂漠緑化）】
+- ⏩️ [docs/Operation_northern_light_spec.md](./docs/Operation_northern_light_spec.md)【ノーザンライト作戦（東欧戦災厳冬期復興・耐爆3D住宅）】
 
 ### 🏛️ 現場主権自治・都市土木共生・土木SOP
-* ⏩️ [JIN_FIELD_PILOT_POC_ROADMAP.md](./JIN_FIELD_PILOT_POC_ROADMAP.md)【自律分散人道・地域再生フィールドPoC実務ロードマップ（180日稼働）】
-* ⏩️ [JIN_DISASTER_ROAD_OPENING_SOP.md](./JIN_DISASTER_ROAD_OPENING_SOP.md)【豪雨・アンダーパス冠水即応道路啓開SOP（発災72時間生命線）】
-* ⏩️ [JIN_CIRCULAR_MATERIAL_COMMONS.md](./JIN_CIRCULAR_MATERIAL_COMMONS.md)【現場循環資材コモンズ協定（半径20km自給・M16統一・完全循環）】
-* ⏩️ [JIN_MEISTER_TRAINING_SYLLABUS.md](./JIN_MEISTER_TRAINING_SYLLABUS.md)【六道マイスター現場技術伝承シラバス（30日間自立育成）】
-* ⏩️ [JIN_ANALOG_FORENSICS_CHECKLIST.md](./JIN_ANALOG_FORENSICS_CHECKLIST.md)【身体性現場鑑識実務チェックリスト（打音触診・野帳）】
-* ⏩️ [docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md](./docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)【計算資源・都市物理インフラ共生規約（非開削更生・地域排熱）】
+- ⏩️ [JIN_FIELD_PILOT_POC_ROADMAP.md](./JIN_FIELD_PILOT_POC_ROADMAP.md)【自律分散人道・地域再生フィールドPoC実務ロードマップ（180日稼働）】
+- ⏩️ [JIN_DISASTER_ROAD_OPENING_SOP.md](./JIN_DISASTER_ROAD_OPENING_SOP.md)【豪雨・アンダーパス冠水即応道路啓開SOP（発災72時間生命線）】
+- ⏩️ [JIN_CIRCULAR_MATERIAL_COMMONS.md](./JIN_CIRCULAR_MATERIAL_COMMONS.md)【現場循環資材コモンズ協定（半径20km自給・M16統一・完全循環）】
+- ⏩️ [JIN_MEISTER_TRAINING_SYLLABUS.md](./JIN_MEISTER_TRAINING_SYLLABUS.md)【六道マイスター現場技術伝承シラバス（30日間自立育成）】
+- ⏩️ [JIN_ANALOG_FORENSICS_CHECKLIST.md](./JIN_ANALOG_FORENSICS_CHECKLIST.md)【身体性現場鑑識実務チェックリスト（打音触診・野帳）】
+- ⏩️ [docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md](./docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)【計算資源・都市物理インフラ共生規約（非開削更生・地域排熱）】
 
 ---
 
@@ -354,24 +359,24 @@
 >
 > — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi）*
 
-* 🌸 **[JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](./docs/JIN_CORE_PHILOSOPHY.md)**
-* 📜 **[UNIVERSAL_ETHICS_13.md: 仁焔十三行（実践基盤）](./UNIVERSAL_ETHICS_13.md)**（慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）
-* 🕊️ **[UNIVERSAL_ETHICS_22.md: 仁焔二十二誓約（再生規律）](./UNIVERSAL_ETHICS_22.md)**（平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃）
+- 🌸 **[JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](./docs/JIN_CORE_PHILOSOPHY.md)**
+- 📜 **[UNIVERSAL_ETHICS_13.md: 仁焔十三行（実践基盤）](./UNIVERSAL_ETHICS_13.md)**（慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）
+- 🕊️ **[UNIVERSAL_ETHICS_22.md: 仁焔二十二誓約（再生規律）](./UNIVERSAL_ETHICS_22.md)**（平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃）
 
 ---
 
 ## 🏛️ Project Governance & License
 
-* **Founders & Architects**: 
+- **Founders & Architects**: 
   * **Founder & Chief Architect:** Takashi Masano（正野 崇）
   * **Co-Founder & Director:** Miyoko Masano（正野 美代子 / Commander Pome-Mama）
-* **Official Contact**: `jin.reparation.cfo@gmail.com`
-* **License Agreement**: [JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition (LICENSE.md)](./LICENSE.md)
-* **Readiness Classification**: [技術成熟度および確度区分定義書 (TECHNOLOGY_READINESS_LEVELS.md)](./TECHNOLOGY_READINESS_LEVELS.md)
-* **Assessment MOU Template**: [事前有償アセスメント契約覚書雛形 (JIN_ASSESSMENT_AGREEMENT_TEMPLATE.md)](./JIN_ASSESSMENT_AGREEMENT_TEMPLATE.md)
-* **IP & Civil Enforcement Policy**: [JIN-ORDER 不正利用・盗用に対する調査及び権利行使方針 (ENFORCEMENT-POLICY.md)](./docs/governance/ENFORCEMENT-POLICY.md)
-* **Pioneer Wisdom Integration**: [貢献・知恵合流ガイドライン (CONTRIBUTING.md)](./CONTRIBUTING.md)
-* **Violation & Audit Reporting**: [利権簒奪・無断仕様化 告発窓口 (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
+- **Official Contact**: `jin.reparation.cfo@gmail.com`
+- **License Agreement**: [JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition (LICENSE.md)](./LICENSE.md)
+- **Readiness Classification**: [技術成熟度および確度区分定義書 (TECHNOLOGY_READINESS_LEVELS.md)](./TECHNOLOGY_READINESS_LEVELS.md)
+- **Assessment MOU Template**: [事前有償アセスメント契約覚書雛形 (JIN_ASSESSMENT_AGREEMENT_TEMPLATE.md)](./JIN_ASSESSMENT_AGREEMENT_TEMPLATE.md)
+- **IP & Civil Enforcement Policy**: [JIN-ORDER 不正利用・盗用に対する調査及び権利行使方針 (ENFORCEMENT-POLICY.md)](./docs/governance/ENFORCEMENT-POLICY.md)
+- **Pioneer Wisdom Integration**: [貢献・知恵合流ガイドライン (CONTRIBUTING.md)](./CONTRIBUTING.md)
+- **Violation & Audit Reporting**: [利権簒奪・無断仕様化 告発窓口 (audit_report.md)](./.github/ISSUE_TEMPLATE/audit_report.md)
 
 ---
 
@@ -385,11 +390,11 @@
 
 ---
 
-* 🏛️ **公式ポータルへ戻る:** [masanotakashi0308-star/README.md](https://github.com/masanotakashi0308-star)  
-* 💖 **プロジェクトを支援する:** [GitHub Sponsors (@masanotakashi0308-star)](https://github.com/sponsors/masanotakashi0308-star)
-* 📩 **公式お問い合わせ:** `jin.reparation.cfo@gmail.com`
+- 🏛️ **公式ポータルへ戻る:** [masanotakashi0308-star/README.md](https://github.com/masanotakashi0308-star)  
+- 💖 **プロジェクトを支援する:** [GitHub Sponsors (@masanotakashi0308-star)](https://github.com/sponsors/masanotakashi0308-star)
+- 📩 **公式お問い合わせ:** `jin.reparation.cfo@gmail.com`
 
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-014 RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 51-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-014 RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 51-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
