@@ -2,7 +2,7 @@
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
-[![Archive.today](https://img.shields.io/badge/Archive.today-Zk65X-success?logo=archive.today)](https://archive.li/Zk65X)
+[![Archive.today](https://img.shields.io/badge/Archive.today-DLoAO-success?logo=archive.today)](https://archive.li/DLoAO)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871%20%26%20179878)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
@@ -10,7 +10,7 @@
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
-- **Archive.today**: [2026-09-26 独立魚拓確定版 (ID: Zk65X)](https://archive.li/DLoAO)
+- **Archive.today**: [2026-09-26 独立魚拓確定版 (ID: DLoAO)](https://archive.li/DLoAO)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ---
@@ -74,6 +74,7 @@
 > 1. **WIPO GREEN (World Intellectual Property Organization)**: Officially registered and verified as Sustainable Global Technologies:
 >    * [`Technology ID: 179871`](https://wipogreen.wipo.int/wipogreen-database/articles/179871): `JIN-SPEC-BIO-014` (*Tenebrionid-Frass Entomological Soil Regeneration Protocol*).
 >    * [`Technology ID: 179878`](https://wipogreen.wipo.int/wipogreen-database/articles/179878): `JIN-SPEC-IND-015` (*Ecological Hydrogen Steelmaking & Bio-Slag Circular Protocol*).
+>    * `Technology ID: 179879 (Processing)`: `JIN-SPEC-IND-016` (*Tri-Circular Planetary Metabolism & Ceramic Transmigration Protocol*).
 > 2. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
 > 3. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
 > 4. **UNHCR / United Nations Partner Portal (UNPP)**:
@@ -232,7 +233,7 @@
 ```
 ---
 
-## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・八柱民草主権
+## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・八柱民草主権
 
 ### 🌾 1. 生体ミトコンドリア代謝制御 ＆ 籾殻炭モリブデン土壌炭素隔離（SPEC-013）
 - 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
@@ -286,7 +287,12 @@
 
 ### 🌐 13. 三重円環地球再生 ＆ 先端セラミックス熱力学的輪廻転生仕様書（SPEC-016）
 - 📄 **仕様書**: [docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md) `[REF: JIN-SPEC-IND-016]`
-- **核心要点**: 「エネルギーの循環＋人々の生活の循環＋自然環境の循環」の三重円環による地球再生。電炉排熱（800〜1,200℃）をSOEC高温水電解に直結し、サブナノゼオライト膜で下水バイオガスからCO2とメタンを高純度分離。ハニカムリアクターでオンサイトe-fuelを自給し、NAS・全固体セラミックス蓄電で系統瞬低をゼロ化。先端技術と民草の日常が融合し、贅沢なき自然の笑顔を守り抜く文明仕様。
+- 🌐 **国連WIPO GREEN公式登録**: WIPO GREEN Technology ID: 179879 (Processing/Ready)
+- **核心要点**: 「エネルギーの循環＋人々の生活の循環＋自然環境の循環」の三重円環による地球再生[cite: 17, 18]。電炉排熱（800〜1,200℃）をSOEC高温水電解に直結し[cite: 16, 18]、サブナノゼオライト膜で下水バイオガスからCO2とメタンを高純度分離[cite: 16, 18]。ハニカムリアクターでオンサイトe-fuelを自給し[cite: 16, 17, 18]、NAS・全固体セラミックス蓄電で系統瞬低をゼロ化[cite: 16, 18]。先端技術と民草の日常が融合し、贅沢なき自然の笑顔を守り抜く文明仕様[cite: 17, 18]。
+
+### 🛡️ 14. 動的広域減災シールド ＆ 生体複合環境修復仕様書（SPEC-017）
+- 📄 **仕様書**: [docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md](./docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md) `[REF: JIN-SPEC-ENV-017]`
+- **核心要点**: 孫子の兵法「水に常形なし」に基づく非線形減災体系[cite: 24]。EnMAP衛星・無人ヨット海面冷却による大洋気候調律（ラニーニャ・エルニーニョ緩和）[cite: 16, 17, 18]、4D統合災害検知[cite: 20]、火山灰スクラバー・セメントフリー新燃レンガ成型・農地炭素風化（ERWによる千年海洋炭素隔離）[cite: 20, 21, 24]、多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）＆海藻バイオジェル空中消火によるメガファイア阻止[cite: 22, 23, 24]、電場移動（EK-SERS）×植物×バイオ炭壁（PEIR）による深層重金属・PFAS完全熱無害化（1,100℃/SCWG）とファイトマイニング資源回収[cite: 23, 24]。
 
 ---
 
@@ -304,6 +310,7 @@
 
 ### 🏛️ 2026 最新深淵統治・地殻変動プロトコル（必読）
 - ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
+- 🛡️ **[SPEC-017: 動的広域減災シールド・生体複合環境修復仕様書](./docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md)**：孫子治水、火山灰新燃レンガ・ERW炭素風化、広葉樹防火帯、PFAS/重金属電場浄化
 - 🌐 **[SPEC-016: 三重円環地球再生・先端セラミックス熱力学的輪廻転生仕様書](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)**：エネルギー×生活×自然環境、電炉排熱SOEC、サブナノゼオライト膜、ハニカムe-fuel自給
 - 🏭 **[SPEC-015: 生態共生型水素還元製鉄・バイオスラグ土壌循環仕様書](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)**：下水汚泥SCWG水素、バイオスラグフォーミング、脱リンスラグ×昆虫フラス土壌化 **(WIPO GREEN ID: 179878)**
 - 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス、籾殻炭団粒化 **(WIPO GREEN ID: 179871)**
@@ -399,7 +406,7 @@
 | リポジトリ | 役割 | リンク |
 | :--- | :--- | :--- |
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（三重円環 SPEC-016 ＆ 生態共生製鉄 SPEC-015 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（動的減災 SPEC-017 ＆ 三重円環 SPEC-016 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -411,4 +418,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179878-RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 53-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179878-RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 57-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
