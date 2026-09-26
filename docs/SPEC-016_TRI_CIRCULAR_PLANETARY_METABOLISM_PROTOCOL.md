@@ -103,7 +103,7 @@
 
 ## 3. 三重円環の統合マスバランス（Mass & Energy Nexus）
 
-![三重円環の統合](../assets/Jin_spec_016_tri_circular_planetary_metabolism_02).jpg
+![三重円環の統合](../assets/Jin_spec_016_tri_circular_planetary_metabolism_02.jpg)
 
 中核複合プラント（粗鋼100万トン/年・都市人口50万人下水処理区）における物質・熱収支：
 
