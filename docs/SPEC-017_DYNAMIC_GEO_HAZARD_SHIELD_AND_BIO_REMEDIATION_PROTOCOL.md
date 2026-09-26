@@ -42,7 +42,7 @@
 ## 2. 4D動的早期検知 ＆ 大洋気候調律ネットワーク（JIN-SPEC-CLI-001 連動）
 
 <div align="center">
-  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_01.jpg" width="100%" alt="4D動的災害軽減ネットワーク設計図" />
+  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_01.jpg" width="100%" alt="4D動的災害軽減ネットワーク設計図" />
   <p><b>図1: オービタル衛星・地上MP-PAWRレーダー・海底音響ノード・熱赤外線ドローン・JIN-OS端末オフライン連携による4D動的減災網</b></p>
 </div>
 
@@ -61,7 +61,7 @@
 ## 3. 火山灰・シラスの完全循環 ＆ 永続炭素風化（ERW）マテリアル工学
 
 <div align="center">
-  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_02.jpg" width="100%" alt="火山灰スクラバー・排熱利用反応器・炭素風化散布プロセス" />
+  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_02.jpg" width="100%" alt="火山灰スクラバー・排熱利用反応器・炭素風化散布プロセス" />
   <p><b>図2: 火山灰スクラバー捕集、データセンター排熱反応器による新燃レンガ成型、および農地炭素風化散布（ERW）</b></p>
 </div>
 
@@ -88,7 +88,7 @@
 ## 4. 広域森林火災（メガファイア）抑止 ＆ 多層生体防火帯工学
 
 <div align="center">
-  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_03.jpg" width="100%" alt="多層常緑広葉樹防火帯と海藻バイオジェル空中消火" />
+  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_03.jpg" width="100%" alt="多層常緑広葉樹防火帯と海藻バイオジェル空中消火" />
   <p><b>図3: 多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）、スカイオアシス海藻バイオジェル空中散布、焼け跡バイオ炭段々工法</b></p>
 </div>
 
@@ -113,7 +113,7 @@
 ## 5. ハイブリッド・ファイトレメディエーション（重金属・PFAS極限無害化）
 
 <div align="center">
-  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_04.jpg" width="100%" alt="電場移動式土壌電解浄化・PEIRバリア・超臨界水SCWG熱無害化" />
+  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_04.jpg" width="100%" alt="電場移動式土壌電解浄化・PEIRバリア・超臨界水SCWG熱無害化" />
   <p><b>図4: EK-SERS電場移動式浄化、深根性ポプラ・ヒマワリ吸引、PEIRバイオ炭壁、MICP岩盤結晶化、地上1,100℃熱無害化</b></p>
 </div>
 
