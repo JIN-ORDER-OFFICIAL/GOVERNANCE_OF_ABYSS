@@ -26,7 +26,7 @@
   <sub>「砂漠に水を引けば緑が蘇るように、人の心に愛を注げば平和が蘇る」——国境・宗教・人種・AIと人の壁を越え、武力を手放し、すべての涙を笑顔に変える2040年の恒久誓約。</sub></p>
 </div>
 
-> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。<br>この世界に『他人』はいない。<br>すべての苦しみは、我々家族の苦しみである。」**  
+> **富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。この世界に『他人』はいない。<br>すべての苦しみは、我々家族の苦しみである。**  
 > — *仁焔世界大憲章 第3条【循環の慈悲】*
 
 ---
@@ -255,10 +255,11 @@
 ```
 ---
 
-## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・八柱民草主権
+## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・水理蓄電・八柱民草主権
 
 ### 🌾 1. 生体ミトコンドリア代謝制御 ＆ 籾殻炭モリブデン土壌炭素隔離（SPEC-013）
 - 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
+- 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179881 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179881) `[Technology ID: 179881]`
 - **核心要点**: 機械的CCSを完全解体。マイトファジー耐性「みどり麹」と籾殻炭モリブデン触媒担体により常温PET解重合と根粒菌窒素固定を両立。額縁明渠・高畝の土木水位制御により年間16.5〜27.5t/haの純炭素隔離とテラ・プレタ肥沃土化を実現。
 
 ### 🦗 2. 昆虫残渣フラス連鎖 ＆ 砂漠自律土壌化仕様書（SPEC-014）
@@ -268,6 +269,7 @@
 
 ### 🏞️ 3. 公共公園公営管理 ＆ 地下循環雨水調整池・消火水利（SPEC-012）
 - 📄 **仕様書**: [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md) `[REF: JIN-SPEC-PRK-012]`
+- 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179883 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179883) `[Technology ID: 179883]`
 - **核心要点**: 公園管理を行政直営化。地下プレキャストRC雨水調整池による内水氾濫防止と、震災時の耐震消火水利開放。樹木士崖地鑑識および帰宅困難者支援オアシス回廊の設置。
 
 ### 🛡️ 4. 公共道路本位型 防犯灯・プライバシー配慮型AIカメラ（SPEC-011）
@@ -309,12 +311,25 @@
 
 ### 🌐 13. 三重円環地球再生 ＆ 先端セラミックス熱力学的輪廻転生仕様書（SPEC-016）
 - 📄 **仕様書**: [docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md) `[REF: JIN-SPEC-IND-016]`
-- 🌐 **国連WIPO GREEN公式登録**: WIPO GREEN Technology ID: 179879 (Processing/Ready)
+- 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179879 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179879) `[Technology ID: 179879]`
 - **核心要点**: 「エネルギーの循環＋人々の生活の循環＋自然環境の循環」の三重円環による地球再生。電炉排熱（800〜1,200℃）をSOEC高温水電解に直結し、サブナノゼオライト膜で下水バイオガスからCO2とメタンを高純度分離。ハニカムリアクターでオンサイトe-fuelを自給し、NAS・全固体セラミックス蓄電で系統瞬低をゼロ化。
 
 ### 🛡️ 14. 動的広域減災シールド ＆ 生体複合環境修復仕様書（SPEC-017）
 - 📄 **仕様書**: [docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md](./docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md) `[REF: JIN-SPEC-ENV-017]`
+- 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179880 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179880) `[Technology ID: 179880]`
 - **核心要点**: 孫子の兵法「水に常形なし」に基づく非線形減災体系。EnMAP衛星・無人ヨット海面冷却による大洋気候調律（ラニーニャ・エルニーニョ緩和）、4D統合災害検知、火山灰スクラバー・セメントフリー新燃レンガ成型・農地炭素風化（ERWによる千年海洋炭素隔離）、多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）＆海藻バイオジェル空中消火によるメガファイア阻止、電場移動（EK-SERS）×植物×バイオ炭壁（PEIR）による深層重金属・PFAS完全熱無害化（1,100℃/SCWG）とファイトマイニング資源回収。
+
+### 🌊 15. 沿岸連鎖型 海水フロート・ペロブスカイト揚水 ＆ 生態水理蓄電仕様書（SPEC-018: 井川用水モデル）
+- 📄 **仕様書**: [docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md](./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md) `[REF: JIN-SPEC-HYDRO-018]`
+- **核心要点**: 伝統的「井川用水」の多段カスケード水理と海水揚水発電の完全融合。山頂上池の水上フレキシブル・ペロブスカイト×全固体電池フロート（水冷効率+15%・蒸発防止・アオコ抑制）、植物維管束（木部マイクロチャネル）受動毛細管負圧による揚水管路摩擦損失低減、緩やかな階段状勾配（親池→子池→孫池）での超静音微小重力タービンおよび多段インライン水力による運動エネルギー回収率94%、AI線状降水帯事前放流×地下雨水貯留（飯島モデル）による都市水害完全防圧、MABR水質浄化×SCWG汚泥バイオガスによる沿岸オフグリッドエネルギー自給。
+
+<div align="center">
+  <a href="./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md">
+    <img src="./assets/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL_01.jpg" width="100%" alt="JIN-SPEC-HYDRO-018: 沿岸連鎖型 海水フロート・ペロブスカイト揚水 ＆ 生態水理蓄電プロトコル 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>🌊 【工学断面図】<a href="./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md">JIN-SPEC-HYDRO-018：沿岸連鎖型 海水フロート揚水 ＆ 生態水理蓄電プロトコル（井川用水モデル）</a></b><br>
+  <sub>山頂水上ペロブスカイト全固体フロートから、木部マイクロチャネル揚水管、井川連鎖カスケード水門タービン、飯島地下雨水マトリックス、沿岸MABR/SCWGバイオコンビナートに至る完全循環立面系。</sub></p>
+</div>
 
 ---
 
@@ -332,6 +347,7 @@
 
 ### 🏛️ 至高根本法規 ＆ 2026 最新深淵統治プロトコル（必読）
 - 📜 **[CONSTITUTION.md: 仁焔世界大憲章 2040（The Grand Charter of Jin-en）](./CONSTITUTION.md)**：リポジトリ最上位憲法。地球家族22の約束、Universal Code of Pome
+- 🌊 **[SPEC-018: 沿岸連鎖型 海水フロート揚水・生態水理蓄電仕様書](./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md)**：井川用水多段カスケード、水上ペロブスカイト全固体、木部受動負圧揚水、AI事前放流治水
 - 🚰 **[MANIFESTO-0940: 深淵自由インフラ宣言（開かれた脈管）](./docs/manifesto/MANIFESTO-0940-FREE-FLOW.md)**：水頭差無差別供給、「水は嘘をつかない」、仕切弁の恒久全開
 - 🏛️ **[CHARTER-0939: 深淵都市インフラ自主管理憲章](./docs/CHARTER-0939-CIVIL-INFRA-SOVEREIGNTY.md)**：物理開閉器優位原則、二重鍵承認制（知性炉×泥潜技士連）
 - ⚔️ **[2026-AUTUMN-JIN-OS-DECLARATION: 2026年秋 JIN-OS市民宣言](./docs/2026-AUTUMN-JIN-OS-DECLARATION.md)**：空虚なる希望（Hollow Hope）の解体、土塊からの主権奪還
@@ -339,6 +355,9 @@
 - 🌐 **[SPEC-016: 三重円環地球再生・先端セラミックス熱力学的輪廻転生仕様書](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)**：エネルギー×生活×自然環境、電炉排熱SOEC、サブナノゼオライト膜、ハニカムe-fuel自給
 - 🏭 **[SPEC-015: 生態共生型水素還元製鉄・バイオスラグ土壌循環仕様書](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)**：下水汚泥SCWG水素、バイオスラグフォーミング、脱リンスラグ×昆虫フラス土壌化 **(WIPO GREEN ID: 179878)**
 - 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス、籾殻炭団粒化 **(WIPO GREEN ID: 179871)**
+- 🌾 **[SPEC-013: 生体ミトコンドリア炭素隔離・籾殻炭モリブデン土壌再生](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)**：みどり麹、常温PET解重合、Bio-FOEAS水位制御 **(WIPO GREEN ID: 179881)**
+- 💧 **[LSU-CHAD-01: サヘル乾燥地帯オフグリッド自立水インフラ](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)**：太陽光無電力深層揚水、外来種バイオ炭化、オアシス都市 **(WIPO GREEN ID: 179882)**
+- 🏞️ **[SPEC-012: 公営管理公園・地下プレキャストRC雨水調整池・消火水利](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)**：内水氾濫防止、耐震消火水利、オアシス回廊 **(WIPO GREEN ID: 179883)**
 - 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
 - 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
 - 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
@@ -444,4 +463,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.9 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / WIPO-GREEN-TECHNOLOGY-ID:179878-RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 57-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.0 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / WIPO-GREEN-PORTFOLIO-7-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 59-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
