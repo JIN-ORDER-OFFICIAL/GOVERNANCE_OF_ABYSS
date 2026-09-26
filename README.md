@@ -2,7 +2,7 @@
 ## JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
-[![Archive.today](https://img.shields.io/badge/Archive.today-DLoAO-success?logo=archive.today)](https://archive.li/DLoAO)
+[![Archive.today](https://img.shields.io/badge/Archive.today-DLoAO-success?logo=archive.today)](https://archive.li/xxEuT)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871%20%26%20179878)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
@@ -10,7 +10,7 @@
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
-- **Archive.today**: [2026-09-26 独立魚拓確定版 (ID: DLoAO)](https://archive.li/DLoAO)
+- **Archive.today**: [2026-09-26 独立魚拓確定版 (ID: xxEuT)](https://archive.li/xxEuT)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ---
