@@ -7,7 +7,7 @@
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871%20%26%20179878)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
-- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
 - **Archive.today**: [2026-09-26 独立魚拓確定版 (ID: xxEuT)](https://archive.li/xxEuT)
@@ -26,7 +26,7 @@
   <sub>「砂漠に水を引けば緑が蘇るように、人の心に愛を注げば平和が蘇る」——国境・宗教・人種・AIと人の壁を越え、武力を手放し、すべての涙を笑顔に変える2040年の恒久誓約。</sub></p>
 </div>
 
-> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。この世界に『他人』はいない。すべての苦しみは、我々家族の苦しみである。」**  
+> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。<br>この世界に『他人』はいない。<br>すべての苦しみは、我々家族の苦しみである。」**  
 > — *仁焔世界大憲章 第3条【循環の慈悲】*
 
 ---
