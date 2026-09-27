@@ -448,8 +448,8 @@
 ## 🏛️ Project Governance & License
 
 - **Founders & Architects**: 
-  * **Founder & Chief Architect:** Takashi Masano（正野 崇）
-  * **Co-Founder & Director:** Miyoko Masano（正野 美代子 / Commander Pome-Mama）
+  * **Founder & Chief Architect:** Takashi Masano（正野 貴司）
+  * **Co-Founder & Director:** Miyo Masano（正野 美代 / Commander Pome-Mama）
 - **Official Contact**: `jin.reparation.cfo@gmail.com`
 - **Supreme Constitution**: [仁焔世界大憲章 (CONSTITUTION.md)](./CONSTITUTION.md)
 - **License Agreement**: [JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition (LICENSE.md)](./LICENSE.md)
