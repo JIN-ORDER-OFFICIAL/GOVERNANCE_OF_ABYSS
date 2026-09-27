@@ -7,7 +7,7 @@
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871%20%26%20179878)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
-- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)[cite: 4]
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
 - **Archive.today**: [2026-09-27 独立魚拓確定版 (ID: LP2c9)](https://archive.li/LP2c9)
@@ -347,14 +347,14 @@
 
 ### 🌋 17. 地殻歪み振動回収・深層地熱自立発電 ＆ IGS散乱逆問題非破壊極限防災通信仕様書（SPEC-020）
 - 📄 **仕様書**: [docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md) `[REF: JIN-SPEC-GEO-020]`
-- **核心要点**: 観測所そのものを「地殻の熱と振動を直接電力化する発電所」へ昇華。大深度ケーシング管による閉ループ有機ランキン（ORC）地熱バイナリー発電で24時間365日のベースロード電力を自給。スピーカー構造を反転させた大口径動電ハーベスター群により、断層アスペリティの歪みや地震動（0.1〜10Hz）を大電力へ変換しつつ電磁ダンピングで地震規模を減勢。完全無電源下で神戸大学発IGS（Integral Geometry Science）UWBマルチスタティックアレイを駆動し、散乱逆問題解析によって地中空洞、埋没共同溝の鉄筋破断、被災者の生体電磁場を非破壊3D透視。地殻弾性波メッシュにより壊滅的被災時にも途絶しない極限防災通信を確立[cite: 26]。
+- **核心要点**: 観測所そのものを「地殻の熱と振動を直接電力化する発電所」へ昇華。大深度ケーシング管による閉ループ有機ランキン（ORC）地熱バイナリー発電で24時間365日のベースロード電力を自給。スピーカー構造を反転させた大口径動電ハーベスター群により、断層アスペリティの歪みや地震動（0.1〜10Hz）を大電力へ変換しつつ電磁ダンピングで地震規模を減勢。完全無電源下で神戸大学発IGS（Integral Geometry Science）UWBマルチスタティックアレイを駆動し、散乱逆問題解析によって地中空洞、埋没共同溝の鉄筋破断、被災者の生体電磁場を非破壊3D透視。地殻弾性波メッシュにより壊滅的被災時にも途絶しない極限防災通信を確立。
 
 <div align="center">
   <a href="./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md">
     <img src="./assets/SPEC-020_PROTOCOL_02.jpg" width="100%" alt="JIN-SPEC-GEO-020: 地熱・地震エネルギー採取およびIGS災害トモグラフィー・ステーション断面図" />
   </a>
   <p><b>🌋 【工学断面図】<a href="./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md">JIN-SPEC-GEO-020：地殻歪み振動回収・深層地熱自立発電 ＆ IGS散乱逆問題非破壊極限防災通信プロトコル</a></b><br>
-  <sub>ジオデシック耐災ドーム、JVCKENWOOD型電磁振動ハーベスター群、閉ループ地熱蒸気循環ケーシング、断層アスペリティ減衰アキュパンクチャーノズル、IGS逆散乱3D地下断層トモグラフィーの全貌。</sub>[cite: 26]</p>
+  <sub>ジオデシック耐災ドーム、JVCKENWOOD型電磁振動ハーベスター群、閉ループ地熱蒸気循環ケーシング、断層アスペリティ減衰アキュパンクチャーノズル、IGS逆散乱3D地下断層トモグラフィーの全貌。</sub></p>
 </div>
 
 ---
