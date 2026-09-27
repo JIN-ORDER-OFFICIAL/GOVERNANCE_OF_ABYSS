@@ -16,6 +16,8 @@
   - `civil/tunnel/deep_artery_v4.cad`
   - `logistics/capsule/failover_routing.rs`
 
+![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_02.jpg)
+
 ---
 
 ## 1. 統治規程：不可侵調停及び複合障害自律委譲プロトコル (CCNP)
@@ -40,6 +42,8 @@
 
 地上爆撃や地表水害から物理隔離するため、大深度地下（GL -45.0m以深、洪積不透水層内）に外径φ13.5mの泥土圧シールドトンネルを配置する。
 
+![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg)
+
 ### 2.1 主要諸元一覧
 | 項目 | 設計仕様 | 備考 |
 | :--- | :--- | :--- |
@@ -52,6 +56,8 @@
 ---
 
 ## 3. 地下インフラ断面図面仕様（Standard Cross Section）
+
+![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_01.jpg)
 
 ```text
 　　　　　　　　　　　　　　[ 地表部 GL ±0.00m ]
@@ -92,6 +98,12 @@
 
 2. **非常時流況制御:**
    - 放水ピーク時、ゾーンA（物流）およびゾーンB（通信）へ水蒸気・圧力が逆流しないよう、各ブロック立坑に高圧気密逆流防止ゲート（Air-Tight Flap Gate）を展開する。
+
+---
+
+## 5. Visual Architectural Blueprint & Generation Prompts (ANNEX-A)
+
+The following generation prompts are calibrated for Midjourney v6, FLUX.1, and Stable Diffusion XL to render accurate architectural schematics and high-fidelity interior cutaways of the φ13.5m Abyssal Artery.
 
 ---
 
