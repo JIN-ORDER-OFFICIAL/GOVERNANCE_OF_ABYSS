@@ -7,6 +7,9 @@
 ---
 
 # [SPEC-088] CRITICAL CHOKEPOINT NEUTRALITY & DEEP-ARTERY INFRASTRUCTURE SPECIFICATION
+
+![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_02.jpg)
+
 - **Document ID:** SPEC-JIN-ORDER-088-REV3
 - **Classification:** ABYSSAL GOVERNANCE STANDARD / LEVEL-4 CLEARANCE
 - **Status:** DRAFT / PROPOSED
@@ -15,8 +18,6 @@
   - `governance/arbitration/iaac.proto`
   - `civil/tunnel/deep_artery_v4.cad`
   - `logistics/capsule/failover_routing.rs`
-
-![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_02.jpg)
 
 ---
 
