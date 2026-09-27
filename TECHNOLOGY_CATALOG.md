@@ -166,7 +166,7 @@ Energy, Environment & Autonomous Water Matrix
 
 ### 07. 都市地下多用途共同溝 × 液浸AI熱直結（Utility Ducts / WUE=0.00） `[Level 2: 既存技術統合]`
 ### ＆ JIN-ZONING（生活インフラ SPEC-010 / 011 / 012 / 015 / 016 連動）
-![都市土木共同溝断面図](assets/whitepaper01_civil_infrastructure_01.jpg)
+![都市土木共同溝断面図](whitepaper/whitepaper01_civil_infrastructure_01.jpg)
 ![JIN-ZONING都市計画](assets/jin_zoning_and_autonomous_cities_01.jpg)
 
 - **概要**: 都市地下共同溝に液浸AIノードを分散配備し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。**三重円環地球再生（SPEC-016）** **生態共生水素製鉄（SPEC-015）**、**公園地下の循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、**行政直営AI防犯灯＆こども110番（SPEC-011）**、および**折りたたみメッシュ集積カゴ（SPEC-010）**を包含する総合都市土木体系。
