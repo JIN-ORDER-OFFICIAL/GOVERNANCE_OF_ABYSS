@@ -8,8 +8,6 @@
 
 # [SPEC-088] CRITICAL CHOKEPOINT NEUTRALITY & DEEP-ARTERY INFRASTRUCTURE SPECIFICATION
 
-![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_02.jpg)
-
 - **Document ID:** SPEC-JIN-ORDER-088-REV3
 - **Classification:** ABYSSAL GOVERNANCE STANDARD / LEVEL-4 CLEARANCE
 - **Status:** DRAFT / PROPOSED
@@ -43,8 +41,6 @@
 
 地上爆撃や地表水害から物理隔離するため、大深度地下（GL -45.0m以深、洪積不透水層内）に外径φ13.5mの泥土圧シールドトンネルを配置する。
 
-![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg)
-
 ### 2.1 主要諸元一覧
 | 項目 | 設計仕様 | 備考 |
 | :--- | :--- | :--- |
@@ -57,8 +53,6 @@
 ---
 
 ## 3. 地下インフラ断面図面仕様（Standard Cross Section）
-
-![複合障害自律委譲プロトコル](../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_01.jpg)
 
 ```text
 　　　　　　　　　　　　　　[ 地表部 GL ±0.00m ]
@@ -102,9 +96,25 @@
 
 ---
 
-## 5. Visual Architectural Blueprint & Generation Prompts (ANNEX-A)
+## 5. Visual Engineering Schematics & Blueprints (ANNEX-A)
 
-The following generation prompts are calibrated for Midjourney v6, FLUX.1, and Stable Diffusion XL to render accurate architectural schematics and high-fidelity interior cutaways of the φ13.5m Abyssal Artery.
+<div align="center">
+  <img src="../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_01.jpg" width="100%" alt="超深層シールドトンネル技術図面 詳細断面図 (S=1:100)" />
+  <p><b>📐 【土木詳細断面図 S=1:100】超深層シールドトンネル技術図面（図面番号: IAAC-SDT-XS-001）</b><br>
+  <sub>内径φ13,500mm / 掘削径φ14,500mm / GL -48.50m / 3層複合（上層: 自動磁気浮上物流カプセル軌道、中層: IAAC量子調停・極低温超電導ダクト、下層: 現場硬化樹脂更生半円形洪水転流路）</sub></p>
+</div>
+
+<div align="center">
+  <img src="../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_02.jpg" width="100%" alt="超深層シールドトンネル 内部実写シネマティック断面" />
+  <p><b>🚇 【実稼働シネマティック】大深度複合地下回廊（Abyssal Artery）内部実写パース</b><br>
+  <sub>上層リニア物流カプセルの高速運行、中層断熱IAACサーバー・ケーブルラック、下層激甚豪雨時高速水理流動の三位一体抗堪空間。</sub></p>
+</div>
+
+<div align="center">
+  <img src="../assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg" width="100%" alt="地表からGL -48.5mまでの地盤・都市土木アイソメトリック断面図" />
+  <p><b>🏛️ 【全層アイソメトリック断面】ソーラーパンク地上緑道から深層洪積粘土層シールドトンネルへの連成構造</b><br>
+  <sub>地表バイオレテンションスウェイル・透水性舗装 ➔ 浅層共同溝 ➔ 中層雨水調整池（ボックスカルバート） ➔ 渦流式ドロップシャフト ➔ GL -48.5m 大深度複合シールドトンネル。</sub></p>
+</div>
 
 ---
 
