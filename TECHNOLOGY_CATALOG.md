@@ -19,7 +19,7 @@
     - [ID: 179883 (SPEC-012 公園地下防災調整池)](https://wipogreen.wipo.int/wipogreen-database/articles/179883)
     - [ID: 179884 (SPEC-018 沿岸連鎖海水水理蓄電)](https://wipogreen.wipo.int/wipogreen-database/articles/179884)
     - [ID: 179886 (SPEC-019 風・海流複合深海係留)](https://wipogreen.wipo.int/wipogreen-database/articles/179886)
-    - `ID: 179888 (SPEC-020 地殻振動地熱発電IGS通信 / 受理審査中)`
+    - [ID: 179888 (SPEC-020 地殻振動地熱発電IGS通信](https://wipogreen.wipo.int/wipogreen-database/articles/179888)
   - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)
   - **Archive.today**: 確定魚拓保存済 (ID: 6jAve / LP2c9 / DLoAO / V2oV2)
   - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
