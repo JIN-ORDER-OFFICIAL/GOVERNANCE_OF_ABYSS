@@ -17,7 +17,7 @@ Authority: Autonomous Core Verification Authority (ACVA) / Rapid Response Divisi
 
 幹線導管網、廃止放水路、および旧都市暗渠における非公認分岐管（Unregistered Tap-Ins）の探査・位置特定、ならびに自律的物理閉塞（Surgical Plugging）の執行。
 
-![自律的物理閉塞](../assets/SPEC-0928-ACVA-SEEKER-MOLE_01.jpg)
+![自律的物理閉塞](./assets/SPEC-0928-ACVA-SEEKER-MOLE_01.jpg)
 
 ---
 
