@@ -9,7 +9,7 @@
 # 🏛️ SPEC-021: INTEGRATED CIVIC COMMONS & MULTI-TIER COMMUNITY SANCTUARY MATRIX
 ## 地域社会生活基盤・自立分散型多層防衛マトリクス ＆ 出島公僕・法務・土木・警察・福祉統合結界仕様書 (JIN-SPEC-CIV-021)
 
-![自立分散型多層防衛マトリクス](./assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01/jpg)
+![自立分散型多層防衛マトリクス](./assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg)
 
 - 📜 **【先行技術防壁台帳】**: `JIN-SPEC-CIV-021-V1.0-CANONICAL`
 - ⚖️ **【適用ライセンス】**: [JIN-ORDER Dual License V8.3-A (Tier A: Humanitarian Commons)](../LICENSE.md)
