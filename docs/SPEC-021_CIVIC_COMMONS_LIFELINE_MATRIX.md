@@ -1,11 +1,3 @@
-### ⚠️ JIN-ORDER RESTRICTED DATA
-
-**このファイルは [JIN-ORDER Global Humanity License](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**
-
-**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざんを固く禁じます。**
-
----
-
 # 🏛️ SPEC-021: INTEGRATED CIVIC COMMONS & MULTI-TIER COMMUNITY SANCTUARY MATRIX
 ## 地域社会生活基盤・自立分散型多層防衛マトリクス ＆ 出島公僕・法務・土木・警察・福祉統合結界仕様書 (JIN-SPEC-CIV-021)
 
