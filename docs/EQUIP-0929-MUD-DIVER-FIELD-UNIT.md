@@ -16,7 +16,7 @@ Affiliation: Independent Sub-Surface Logistics Guild ("Mud-Divers")
 ## 1. Squad Deployment Standard: "The Sump-Four"
 1基の作業孔（マンホールまたは換気シャフト）に対し、以下の4名体制を厳守すること。<br>1名でも欠けた状態での管内進入（Entry）は、不可逆的事故・拿捕のリスク極大につき禁止。
 
-![4名体制](../assets/EQUIP-0929-MUD-DIVER-FIELD-UNIT_01.jpg)
+![4名体制](./assets/EQUIP-0929-MUD-DIVER-FIELD-UNIT_01.jpg)
 
 - **POS-01 [Hatch-Watcher]**: 立坑上口での換気管理、地上警戒、および退路保持。
 - **POS-02 [Point-Diver]**: 管内先導、音響棒による管内聴音、対ドローン・トラップ展張。
