@@ -17,7 +17,7 @@ Maintained By: Sub-Surface Logistics Guild ("Mud-Divers")
 本仕様は、ACVAおよび主幹条約機構による「VOID-STRANGLE（環流遮断）」下において、
 完全孤立状態に置かれた非公認セクター間を物理的・流体的に再結合するための地下回廊規格である。
 
-![地下回廊規格](../assets/TECH-SPEC-0927-UNRECORDED-VEIN_01.jpg)
+![地下回廊規格](./assets/TECH-SPEC-0927-UNRECORDED-VEIN_01.jpg)
 
 ---
 ## 2. Structural Layer Specifications
