@@ -12,7 +12,12 @@ Category: Passive Sub-Surface Transport Capsule (Siphon-Runner)
 Standard Size: Length 950mm / Diameter 180mm / Dry Weight 14.5kg
 Affiliation: Independent Sub-Surface Logistics Guild ("Mud-Divers")
 
+---
+
 ## 1. Operating Envelope
+
+![非磁性キャッチ・グリッド](./assets/SPEC-0930-HYDRO-CRYPT_01.jpg)
+
 - **Conduit Compatibility:** Nominal Dia. DN200 to DN1200 (Sewer, Stormwater, Siphon Conduits)
 - **Max Flow Velocity Tolerance:** 0.2 m/s to 4.5 m/s
 - **Acoustic Signature:** < 3.5 dB (Neutral water-mass equivalent)
