@@ -4,10 +4,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
 [![Archive.today](https://img.shields.io/badge/Archive.today-p9r0n-success?logo=archive.today)](https://archive.li/p9r0n)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
-[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(10%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(11%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
-- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-28 確定公知タイムスタンプ](https://web.archive.org/web/20260927165735/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
 - **Archive.today**: [2026-09-28 独立魚拓確定版 (ID: p9r0n)](https://archive.li/p9r0n)
@@ -26,7 +26,7 @@
   <sub>「砂漠に水を引けば緑が蘇るように、人の心に愛を注げば平和が蘇る」——国境・宗教・人種・AIと人の壁を越え、武力を手放し、すべての涙を笑顔に変える2040年の恒久誓約。</sub></p>
 </div>
 
-> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。<br>この世界に『他人』はいない。<br>すべての苦しみは、我々家族の苦しみである。」**  
+> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。この世界に『他人』はいない。<br>すべての苦しみは、我々家族の苦しみである。」**  
 > — *仁焔世界大憲章 第3条【循環の慈悲】*
 
 ---
@@ -76,7 +76,7 @@
 
 <!-- INTERNATIONAL MULTILATERAL REGISTRATION & COMMONS DEFENSE STATUS -->
 <p align="left">
-  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(10%20Techs)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN Portfolio" /></a>
+  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(11%20Techs)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN Portfolio" /></a>
   <img src="https://img.shields.io/badge/DPGA-Nominee%20(GID0094240)-0077b6?style=for-the-badge&logo=unicef&logoColor=white" alt="DPGA Nominee" />
   <img src="https://img.shields.io/badge/UNDRR-PreventionWeb%20Deposited-1d3557?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNDRR PreventionWeb" />
   <img src="https://img.shields.io/badge/UNHCR%20UNPP-Global%20(ID%3A%2064636)-0A66C2?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNHCR UNPP 64636" />
@@ -88,8 +88,8 @@
 ---
 
 ## 🏛️ 2026 AUTUMN DEEP INFRASTRUCTURE & AUTONOMOUS GOVERNANCE SUITE
-> **2026年9月下旬 最新配備：地政学的地殻変動・多極化摩擦・AI自律消耗戦に対峙する深淵自律統治プロトコル群**  
-> 地上の国家権力・関税障壁・無人兵器の消耗戦が無力化する境界線を画定し、地下深層の物理フラックスと生活動脈を自律掌握・防護する中核仕様群を正式統合。
+> **2026年9月下旬 最新配備：地政学的地殻変動・多極化摩擦・極限自然災害に対峙する深淵自律統治プロトコル群**  
+> 地上の国家権力・関税障壁・巨大資本の環境偽装が無力化する境界線を画定し、地下深層の物理フラックスと大地の生活動脈を自律掌握・防護する中核仕様群を正式統合。
 
 <!-- 2026年秋 最新対外マニフェスト ヒーローバナー -->
 <div align="center">
@@ -100,13 +100,49 @@
   <sub>第81回国連総会・巨大テック寡占支配層の欺瞞を痛烈に告発。土塊と物理インフラ保全から立ち上がる民草の不可侵主権宣言。</sub></p>
 </div>
 
+<!-- SPEC-026 首都直下木密火災旋風破砕＆瓦礫現場循環 ヒーローバナー -->
+<div align="center">
+  <a href="./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md">
+    <img src="./docs/assets/SPEC-026_PROTOCOL_01.jpg" width="100%" alt="SPEC-026: 首都直下木密火災旋風破砕 ＆ 震災瓦礫現場即時循環 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>🔥 【2026最新都市焦熱・瓦礫代謝仕様】<a href="./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md">SPEC-026：首都直下木密火災旋風破砕・下水圧マンホールミストカーテン ＆ 数千万トン震災瓦礫現場即時分級循環仕様書</a></b><br>
+  <sub>上水道断水下で地下雨水池・下水差圧から15m垂直ミストカーテンを噴流し火災旋風を熱力学急冷。倒壊コンクリート殻を自走クラッシャーで即日RC-40路盤材化し道路陥没を即時復旧。木材無煙炭化と石綿ナノシリカ完全不溶化を現場完結。</sub></p>
+</div>
+
+<!-- SPEC-025 豪雪雪氷極寒冷害・下水熱無散水消雪 ヒーローバナー -->
+<div align="center">
+  <a href="./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md">
+    <img src="./docs/assets/SPEC-025_PROTOCOL_01.jpg" width="100%" alt="SPEC-025: 豪雪雪氷極寒冷害・無塩除雪 ＆ 下水熱ロードヒーティング 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>❄️ 【2026最新雪氷熱力学仕様】<a href="./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md">SPEC-025：豪雪雪氷極寒冷害・無塩除雪路面保全 ＆ 下水熱・地熱無散水消雪自律防護仕様書</a></b><br>
+  <sub>構造物を破壊する塩カルを全廃し糖蜜・CMAバイオ融雪へ転換。地盤沈下を生む消雪パイプを廃止し15℃の下水熱循環ヒートパイプでドライ路面を維持。ホワイトアウト下での無人ロータリー除雪小隊とスタック車両排気閉塞LoRa緊急警報を完全配備。</sub></p>
+</div>
+
+<!-- SPEC-024 深層崩壊・土砂ダム緊急サイフォン排水 ヒーローバナー -->
+<div align="center">
+  <a href="./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md">
+    <img src="./docs/assets/SPEC-024_PROTOCOL_01.jpg" width="100%" alt="SPEC-024: 深層崩壊・河道閉塞（土砂ダム）緊急サイフォン排水 ＆ 遠隔無人化砂防 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>🏔️ 【2026最新源頭部砂防仕様】<a href="./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md">SPEC-024：深層崩壊・山体崩壊・河道閉塞（土砂ダム）緊急重力サイフォン排水 ＆ 遠隔無人化砂防土木仕様書</a></b><br>
+  <sub>光DAS・IGSによる深層すべり面早期検知。道路寸断下でのヘリ敷設大口径可撓サイフォン管による無電源超急速減圧排水。二次災害をゼロにするLoRa遠隔無人建機小隊（Ghost Fleet）によるステップカット放水路開削と透過型スリット砂防の融合。</sub></p>
+</div>
+
+<!-- SPEC-023 大河川外水氾濫・動的霞堤遊水群 ヒーローバナー -->
+<div align="center">
+  <a href="./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md">
+    <img src="./docs/assets/SPEC-023_PROTOCOL_01.jpg" width="100%" alt="SPEC-023: 大河川外水氾濫・動的霞堤遊水群 ＆ 水没孤立街区防疫 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>🌊 【2026最新大河川流域治水仕様】<a href="./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md">SPEC-023：大河川外水氾濫・動的霞堤遊水群・将棋頭分流・竜王の鼻偏向 ＆ 水没孤立街区防疫自律救命仕様書</a></b><br>
+  <sub>破堤爆縮を招くスーパー堤防を排し戦国甲州流「霞堤」「現代化聖牛（発電・土砂IoT内蔵）」の動的減勢呼吸を復権。チタン刃将棋頭と圧電回生竜王の鼻による激流切断。水田ダム自動遅延、太陽光自律フラップゲート、宅地水密下水バルクヘッド、水害後消石灰防疫SOPを統合。</sub></p>
+</div>
+
 <!-- SPEC-022 新コンクリート＆新モルタル現場主権 ヒーローバナー -->
 <div align="center">
   <a href="./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md">
     <img src="./docs/assets/SPEC-022_MORTAR_PROTOCOL_01.jpg" width="100%" alt="SPEC-022: 現場打ち新コンクリート・新モルタル ＆ 地下水脈防護 3Dアイソメトリック詳細断面図" />
   </a>
   <p><b>🧱 【2026最新現場土木・建築資材脱炭素仕様】<a href="./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md">SPEC-022：熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開 ＆ 地下水脈防護仕様書</a></b><br>
-  <sub>プレキャスト偏重を解体する職人の現場打ち復権・90分制限を破る半径20kmオンサイトプラント・坂道舗装の思考停止打破・シャブコンとスラッジ投棄の根絶・プラスチックFRP筋排除・建築新モルタル炭素固定・公道下アンカー越境禁止と全数引抜現場鑑識。</sub></p>
+  <sub>プレキャスト偏重を解体する職人の現場打ち復権・90分制限を破る半径20kmオンサイトプラント・坂道舗装の思考停止打破・シャブコンとスラッジ投棄の根絶・プラスチックFRP筋排除・建築新モルタル炭素固定・公道下アンカー越境禁止と全数引抜現場鑑識。**(WIPO GREEN ID: 179896)**</sub></p>
 </div>
 
 <!-- SPEC-021 地域社会生活基盤・多層防衛マトリクス ヒーローバナー -->
@@ -218,11 +254,15 @@
 
 ---
 
-## 🚰 2026 LATE-AUTUMN CANONICAL CONDUIT & RESISTANCE SUITE (深層水理・都市脈管奪還戦)
-> **2026年9月下旬 新規批准：中央AI封鎖（VOID-STRANGLE）を破砕し、都市インフラの自主管理主権を確立した実務記録**
+## 🚰 2026 LATE-AUTUMN CANONICAL CONDUIT & DISASTER METABOLISM SUITE
+> **2026年9月下旬 新規批准：都市封鎖を破砕し、極限自然災害（外水氾濫・土砂ダム・豪雪・木密火災）を無力化する実務記録**
 
 | 文書識別子 | 分類 | 概要・工学的機序 | リンク |
 |:---|:---|:---|:---:|
+| **SPEC-026** | 都市焦熱・瓦礫 | 首都直下火災旋風破砕、下水圧マンホールミストカーテン、震災瓦礫現場即時RC-40化 | [SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) |
+| **SPEC-025** | 雪氷熱力学 | 豪雪極寒冷害、塩カル全廃バイオ融雪、15℃下水熱無散水ロードヒーティング、無人除雪小隊 | [SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md) |
+| **SPEC-024** | 源頭部砂防 | 深層崩壊検知、河道閉塞（土砂ダム）ヘリ敷設大口径サイフォン排水、LoRa無人重機開削 | [SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md) |
+| **SPEC-023** | 大河川流域治水 | 動的霞堤、現代化聖牛（発電・土砂IoT）、将棋頭チタン刃分流、竜王の鼻圧電偏向、消石灰防疫 | [SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md) |
 | **SPEC-022** | 土木・建築資材 | 熟練現場打ち、20kmオンサイトプラント、新モルタル炭素固定、アンカー越境禁止 | [SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) |
 | **SPEC-021** | 地域全体像 | 出島公僕セル、IGS交番即応、空家特措法・区分所有法、公的終活伴走 | [SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md) |
 | **SPEC-088** | 回廊防衛・調停 | φ13.5m大深度シールド、IAAC不可侵調停回線、複合障害時自律委譲 | [SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md) |
@@ -284,7 +324,7 @@
 ```
 ---
 
-## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・水理蓄電・深海海洋エネルギー・地殻発電透視・八柱民草主権・新コンクリート新モルタル
+## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・水理蓄電・深海海洋エネルギー・地殻発電透視・八柱民草主権・新コンクリート新モルタル・極限自然災害防護
 
 ### 🌾 1. 生体ミトコンドリア代謝制御 ＆ 籾殻炭モリブデン土壌炭素隔離（SPEC-013）
 - 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
@@ -365,7 +405,24 @@
 
 ### 🧱 18. 熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開仕様書（SPEC-022）
 - 📄 **仕様書**: [docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) `[REF: JIN-SPEC-CIV-022]`
+- 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Application (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179871) `[Technology ID: 179896]`
 - **核心要点**: ゼネコンのプレキャスト偏重を解体し、熟練工の「現場打ち身体知」を復権。90分制限を無力化する「半径20km小型分散循環オンサイトプラント」、坂道舗装の思考停止（刷毛引きコンクリ）打破、シャブコン（加水）とセメントスラッジ雨水桝投棄の根絶。石油系FRP筋を排除する完全無機・天然バイオ防錆とアーチ無筋化。現場水練りで大気中CO2を自然吸着固定する建築「新モルタル」への全面展開。工期短縮目的の公道下グランドアンカー越境打設を原則禁止し、やむを得ない特認時の全数完全除去・現場検尺直筆立会い・3年間地盤変位監視SOPを確立。
+
+### 🌊 19. 大河川外水氾濫・動的霞堤遊水群・将棋頭分流・竜王の鼻偏向 ＆ 水没孤立街区防疫自律救命仕様書（SPEC-023）
+- 📄 **仕様書**: [docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md) `[REF: JIN-SPEC-CIV-023]`
+- **核心要点**: 破堤爆縮を招くスーパー堤防神話を排し、甲州流治水「霞堤」と「現代化聖牛（マイクロ水力発電・静電容量式土砂堆積IoT内蔵）」を復権。先端チタン複合材刃を備えた「将棋頭」による激流二分割切断、圧電セラミックス衝突回生「竜王の鼻」によるCFD流路偏向。背水水田ダム自動遅延、太陽光自律フラップゲート無電源重力排水、宅地境界水密下水バルクヘッド、および水害後泥土に対する強アルカリ「消石灰（水酸化カルシウム）現場完全消毒SOP」により難治性肺炎（水害肺）を未然根絶。
+
+### 🏔️ 20. 深層崩壊・山体崩壊・河道閉塞（土砂ダム）緊急重力サイフォン排水 ＆ 遠隔無人化砂防土木仕様書（SPEC-024）
+- 📄 **仕様書**: [docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-CIV-024]`
+- **核心要点**: 地殻光DASおよびIGS散乱逆問題による山体内せん断破壊音・間隙水圧超早期検知。道路寸断下の深山河道閉塞に対し、ヘリ空輸型大口径可撓管（φ800mm）による無電源・無燃料重力サイフォン超急速排水を展開。二次災害の危険地帯に人間を入れず、Sub-GHz帯LoRaメッシュとLiDAR点群で自律連携する「遠隔無人重機小隊（Ghost Fleet）」によりステップカット段落ち放水路を開削。SPEC-022無筋コンクリートと巨石空積みを融合させた透過型スリット砂防堰堤を確立。
+
+### ❄️ 21. 豪雪雪氷極寒冷害・無塩除雪路面保全 ＆ 下水熱・地熱無散水消雪自律防護仕様書（SPEC-025）
+- 📄 **仕様書**: [docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-CIV-025]`
+- **核心要点**: 道路・橋梁を破壊する塩化カルシウム散布を全廃し、未利用甜菜糖蜜・酢酸マグネシウム系バイオ融雪剤へ転換。地盤沈下を生む消雪パイプ地下水散水を禁止し、冬でも15℃の下水管渠排熱をCIPP熱交換ライナーで汲み上げる「完全密閉無散水ヒートパイプロードヒーティング」を配備。耐凍結融解ナノシリカコンクリート（300サイクル相対動弾性係数≧95%）、屋根雪下ろしを不要化する自然滑雪勾配、ホワイトアウト下での「無人ロータリー除雪車小隊」およびスタック車両排気閉塞（CO中毒）防止LoRa遭難ビーコンを網羅。
+
+### 🔥 22. 首都直下木密火災旋風破砕・下水圧マンホールミストカーテン ＆ 数千万トン震災瓦礫現場即時分級循環仕様書（SPEC-026）
+- 📄 **仕様書**: [docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) `[REF: JIN-SPEC-CIV-026]`
+- **核心要点**: 上水道配水管破断（完全断水）を前提とし、SPEC-012公園地下雨水池および下水管路の差圧・水頭を利用して街区境界マンホールから微細水滴を垂直15m噴射する「キャビテーションミストカーテン」を配備。輻射熱90%遮断と爆発的気化潜熱により火災旋風の上昇渦気流を熱力学急冷破砕。サンゴジュ・イヌマキ多層防火緑道帯による飛び火捕捉。都市を埋め尽くす数千万トンの震災瓦礫を自走式クラッシャーで即日粗破砕・磁力選別し、SPEC-022準拠の「再生路盤材（RC-40）」として現場陥没道路の埋め戻しに100%地産地消。木材無煙炭化と石綿含有建材の「現場ナノシリカ瞬間ガラス固化」を完全配備。
 
 ---
 
@@ -383,7 +440,11 @@
 
 ### 🏛️ 至高根本法規 ＆ 2026 最新深淵統治プロトコル（必読）
 - 📜 **[CONSTITUTION.md: 仁焔世界大憲章 2040（The Grand Charter of Jin-en）](./CONSTITUTION.md)**：リポジトリ最上位憲法。地球家族22の約束、Universal Code of Pome
-- 🧱 **[SPEC-022: 熟練現場打ち・新コンクリート・新モルタル・地下水脈防護仕様書](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)**：現場打ち職人復権、20kmオンサイトプラント、プラスチックフリー防錆、建築新モルタル炭素固定、アンカー越境禁止
+- 🔥 **[SPEC-026: 首都直下火災旋風破砕・震災瓦礫現場即時循環仕様書](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md)**：下水圧マンホールミストカーテン、自走クラッシャー現場RC-40化、石綿ナノシリカ不溶化
+- ❄️ **[SPEC-025: 豪雪雪氷極寒冷害・下水熱無散水消雪仕様書](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md)**：塩カル全廃バイオ融雪、15℃下水熱密閉ロードヒーティング、無人除雪小隊、スタックCO防護
+- 🏔️ **[SPEC-024: 深層崩壊・土砂ダム緊急サイフォン排水・無人化砂防仕様書](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)**：光DASすべり面検知、ヘリ敷設大口径サイフォン、LoRa無人建機小隊、透過型スリット砂防
+- 🌊 **[SPEC-023: 大河川外水氾濫・動的霞堤遊水群・将棋頭・竜王の鼻仕様書](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md)**：信玄堤現代化、聖牛マイクロ水力、チタン刃将棋頭、圧電竜王の鼻、水田ダム、消石灰防疫
+- 🧱 **[SPEC-022: 熟練現場打ち・新コンクリート・新モルタル・地下水脈防護仕様書](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)**：現場打ち職人復権、20kmオンサイトプラント、プラスチックフリー防錆、建築新モルタル炭素固定、アンカー越境禁止 **(WIPO GREEN ID: 179896)**
 - 🏛️ **[SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス仕様書](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md)**：地上緑道・こども110番・IGS交番即応・空家マンション法務・出島セル・大深度動脈の全層統合
 - 🚇 **[SPEC-088: チョークポイント中立化・φ13.5m大深度複合地下回廊・IAAC調停仕様書](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)**：GL -48.5m大深度シールド、自動磁気浮上物流、不可侵調停回線、180m³/s非開削更生排水トンネル
 - 🌋 **[SPEC-020: 地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信仕様書](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)**：深層地熱ORC発電、スピーカー反転振動ハーベスター、IGS散乱逆問題3D透視、地殻弾性波通信 **(WIPO GREEN ID: 179888)**
@@ -494,7 +555,7 @@
 | リポジトリ | 役割 | リンク |
 | :--- | :--- | :--- |
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（新コンクリ SPEC-022 ＆ 地域基盤 SPEC-021 ＆ 大深度回廊 SPEC-088 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（火災旋風 SPEC-026 ＆ 雪害 SPEC-025 ＆ 土砂ダム SPEC-024 ＆ 信玄堤 SPEC-023 ＆ 新コンクリ SPEC-022 ＆ 地域基盤 SPEC-021 ＆ 大深度回廊 SPEC-088 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -506,4 +567,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.5 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / SPEC-022-CIVIC-CONCRETE-RATIFIED / SPEC-021-CIVIC-COMMONS-RATIFIED / SPEC-088-CCNP-RATIFIED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-GEO-020 RATIFIED / JIN-SPEC-OCEAN-019 RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011-REV2-RATIFIED / SPEC-010 RATIFIED / SPEC-008-REV11-RATIFIED / WIPO-GREEN-PORTFOLIO-10-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 68-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.6 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / SPEC-026-FIRESTORM-DEBRIS-RATIFIED / SPEC-025-CRYOSPHERIC-SNOW-RATIFIED / SPEC-024-LANDSLIDE-DAM-RATIFIED / SPEC-023-FLUVIAL-KASUMI-RATIFIED / SPEC-022-CIVIC-CONCRETE-RATIFIED / SPEC-021-CIVIC-COMMONS-RATIFIED / SPEC-088-CCNP-RATIFIED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-GEO-020 RATIFIED / JIN-SPEC-OCEAN-019 RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011-REV2-RATIFIED / SPEC-010 RATIFIED / SPEC-008-REV11-RATIFIED / WIPO-GREEN-PORTFOLIO-11-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 76-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
