@@ -7,7 +7,7 @@
 
 ---
 
-# 🌸 JIN-ORDER Technology Catalog: The Abyssal Archive (V11.2 Canonical Autumn LTS Edition)
+# 🌸 JIN-ORDER Technology Catalog: The Abyssal Archive (V11.6 Canonical Autumn LTS Edition)
 - 🏛️ **【先行技術防壁・世界魚拓（多重世界台帳）】**:
   - **WIPO GREEN (国連世界知的所有権機関)**: 
     - [ID: 179871 (SPEC-014 昆虫フラス土壌化)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
@@ -19,9 +19,15 @@
     - [ID: 179883 (SPEC-012 公園地下防災調整池)](https://wipogreen.wipo.int/wipogreen-database/articles/179883)
     - [ID: 179884 (SPEC-018 沿岸連鎖海水水理蓄電)](https://wipogreen.wipo.int/wipogreen-database/articles/179884)
     - [ID: 179886 (SPEC-019 風・海流複合深海係留)](https://wipogreen.wipo.int/wipogreen-database/articles/179886)
-    - [ID: 179888 (SPEC-020 地殻振動地熱発電IGS通信](https://wipogreen.wipo.int/wipogreen-database/articles/179888)
-  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)
-  - **Archive.today**: 確定魚拓保存済 (ID: 6jAve / LP2c9 / DLoAO / V2oV2)
+    - [ID: 179888 (SPEC-020 地殻振動地熱発電IGS通信)](https://wipogreen.wipo.int/wipogreen-database/articles/179888)
+    - [ID: 179896 (SPEC-022 現場打ち新コンクリ新モルタル)](https://wipogreen.wipo.int/wipogreen-database/articles/179896)
+    - [ID: 179898 (SPEC-023 動的霞堤信玄堤治水)](https://wipogreen.wipo.int/wipogreen-database/articles/179898)
+    - [ID: 179899 (SPEC-024 深層崩壊土砂ダム緊急サイフォン)](https://wipogreen.wipo.int/wipogreen-database/articles/179899)
+    - [ID: 179900 (SPEC-025 豪雪下水熱無散水消雪)](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
+    - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901)
+  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426)
+  - **Archive.today**: [2026-09-29 独立魚拓確定版 (ID: AfyTS)](https://archive.li/AfyTS)
+  - **Wayback Machine**: 2026-09-29 確定公知タイムスタンプ
   - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_01.jpg)
@@ -38,14 +44,14 @@
 
 ![JIN-ORDER Technology Ecosystem Architecture](./assets/TECHNOLOGY_CATALOG_03.jpg)
 
-25大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に6つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環・生命維持を同期させている。
+25大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に6つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環・極限減災を同期させている。
 
-- **🏙️ URBAN CIVIL, DISASTER & THERMAL SYMBIOSIS（都市土木・防災避難・熱電共生層）:** 生体臓器分散型コンピューティング（20W代謝）、JIN-ZONING（熱力学用途地域）、地下多用途共同溝×液浸AI熱直結（WUE=0.00）、**三重円環地球再生＆先端セラミックス熱力学的輪廻転生（SPEC-016 / WIPO ID: 179879）**、**生態共生型水素還元製鉄＆バイオスラグ土壌循環（SPEC-015 / WIPO ID: 179878）**、**公共公園地下循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**行政直営AIスマート防犯灯＆こども110番サンクチュアリ（SPEC-011）、折りたたみ式メッシュ集積カゴ＆架線防鳥スパイク立体防衛（SPEC-010）、せせらぎ緑道復元、光合成道路表層（PRS）
-- **⚡ AUTONOMOUS ENERGY & WATER MATRIX（自立動力・水利循環層）:** **沿岸連鎖型海水フロート・ペロブスカイト揚水＆生態水理蓄電（SPEC-018 / WIPO ID: 179884: 井川用水モデル）** **風・海流複合デュアル運動エネルギー変換＆深海DASハイブリッド係留（SPEC-019 / WIPO ID: 179886）**、**地殻歪み振動回収・深層地熱自立発電＆IGS散乱逆問題非破壊防災通信（SPEC-020 / WIPO ID: 179888）**、ジン・ドラゴン三位一体エネルギー（ペロブスカイト光半導体・全固体Jin-Battery・海洋塩ナトリウム蓄電・NAS蓄電バッファ）、低温減圧膜蒸留（VMD海水淡水化）＆濃縮ブライン資源化（ZLD）、上下水道インライン水圧発電、下水汚泥SCWG水素＆電炉排熱直結SOEC高温水電解、宇宙太陽光（SSPS）レクテナ受電、チョークポイント弾力性大深度地熱
-- **🚄 3D TRANSIT & LOGISTICS ARTERIES（三次元自律交通・動脈物流層）:** JIN-Lifeblood Express（インフラ同軸超伝導レール）、現代版北前船（硬翼帆内航ハイブリッド）、河川上空ドローン法定航路（Skyway）、水陸両用飛行艇（Sky Oasis）
-- **🌊 MARITIME SOVEREIGNTY & GEO-HYDRO DEFENSE（海洋主権・深海計算・水脈治水防衛層）:** 水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 / 沖縄トラフ1,500m）、**深海DAS光ファイバー全海底受動ソナー防衛網（SPEC-019連動）**、**海溝調和地殻鍼灸ノード＆IGS非破壊トモグラフィ断層透視（JIN-OAM / SPEC-020連動）**、沖縄第7鉱区＆沖縄トラフ熱水鉱床防衛、自律帯水層かん養（JIN-SARP / 地軸質量復元）、古来源頭部土砂抑止（石積砂留・混層固め）
+- **🏙️ URBAN CIVIL, DISASTER & THERMAL SYMBIOSIS（都市土木・防災避難・熱電共生層）:** 生体臓器分散型コンピューティング（20W代謝）、JIN-ZONING（熱力学用途地域）、地下多用途共同溝×液浸AI熱直結（WUE=0.00）、**首都直下木密火災旋風破砕・下水圧マンホールミストカーテン＆数千万トン震災瓦礫現場即時分級循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・無塩除雪路面保全＆下水熱・地熱無散水消雪自律防護（SPEC-025 / WIPO ID: 179900）**、**熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開＆地下水脈防護（SPEC-022 / WIPO ID: 179896）**、**地域社会生活基盤・自立分散型多層防衛マトリクス（SPEC-021）**、**三重円環地球再生＆先端セラミックス熱力学的輪廻転生（SPEC-016 / WIPO ID: 179879）**、**生態共生型水素還元製鉄＆バイオスラグ土壌循環（SPEC-015 / WIPO ID: 179878）**、**公共公園地下循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、行政直営AIスマート防犯灯＆IGS危険物透視＆最短交番即応（SPEC-011-REV2）、折りたたみ式メッシュ集積カゴ＆架線防鳥スパイク立体防衛（SPEC-010）、せせらぎ緑道復元、光合成道路表層（PRS）
+- **⚡ AUTONOMOUS ENERGY & WATER MATRIX（自立動力・水利循環層）:** **沿岸連鎖型海水フロート・ペロブスカイト揚水＆生態水理蓄電（SPEC-018 / WIPO ID: 179884: 井川用水モデル）**、**風・海流複合デュアル運動エネルギー変換＆深海DASハイブリッド係留（SPEC-019 / WIPO ID: 179886）**、**地殻歪み振動回収・深層地熱自立発電＆IGS散乱逆問題非破壊防災通信（SPEC-020 / WIPO ID: 179888）**、ジン・ドラゴン三位一体エネルギー（ペロブスカイト光半導体・全固体Jin-Battery・海洋塩ナトリウム蓄電・NAS蓄電バッファ）、低温減圧膜蒸留（VMD海水淡水化）＆濃縮ブライン資源化（ZLD）、上下水道インライン水圧発電、下水汚泥SCWG水素＆電炉排熱直結SOEC高温水電解、宇宙太陽光（SSPS）レクテナ受電、チョークポイント弾力性大深度地熱
+- **🚄 3D TRANSIT & LOGISTICS ARTERIES（三次元自律交通・動脈物流層）:** **φ13.5m大深度複合地下回廊・IAAC調停（SPEC-CCNP-088）**、JIN-Lifeblood Express（インフラ同軸超伝導レール）、現代版北前船（硬翼帆内航ハイブリッド）、河川上空ドローン法定航路（Skyway）、水陸両用飛行艇（Sky Oasis）
+- **🌊 MARITIME SOVEREIGNTY & GEO-HYDRO DEFENSE（海洋主権・深海計算・水脈治水防衛層）:** **大河川外水氾濫・動的霞堤遊水群・将棋頭分流・竜王の鼻偏向＆水没孤立街区防疫自律救命（SPEC-023 / WIPO ID: 179898）**、**深層崩壊・山体崩壊・河道閉塞（土砂ダム）緊急重力サイフォン排水＆遠隔無人化砂防土木（SPEC-024 / WIPO ID: 179899）**、水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 / 沖縄トラフ1,500m）、**深海DAS光ファイバー全海底受動ソナー防衛網（SPEC-019連動）**、**海溝調和地殻鍼灸ノード＆IGS非破壊トモグラフィ断層透視（JIN-OAM / SPEC-020連動）**、沖縄第7鉱区＆沖縄トラフ熱水鉱床防衛、自律帯水層かん養（JIN-SARP / 地軸質量復元）、古来源頭部土砂抑止（石積砂留・混層固め）
 - **🧬 BIO-MITOCHONDRIAL SEQUESTRATION & AGRO COMMONS（ミトコンドリア炭素隔離・酵素循環・農業主権層）:** **昆虫残渣フラス連鎖＆砂漠自律土壌化仕様書（SPEC-014 / WIPO ID: 179871）**、**生体ミトコンドリア代謝制御＆籾殻炭モリブデン土壌炭素隔離（SPEC-013 / WIPO ID: 179881）**、**サヘル乾燥地帯オフグリッド人道再生（LSU-Chad-01 / WIPO ID: 179882）**、みどり麹PETase酵素常圧湿気解重合、早生米×大豆田畑輪換＆額縁明渠・高畝土木工学、ユーグレナ×米麹「みどり麹」生体バイオ創薬プラットフォーム（JIN-IBP）＆「孝弁」処方、砂漠砂高強度骨材・CSEBブロック精製
-- **🪙 COLD-COMPUTE & LOCAL RELATIONAL FINANCE（極北冷気計算・地域実物金融層）:** 全球ASI覇権二大計算回廊（北極コールド vs 熱帯ペトロ）、グリーンランド極北外気直接冷却（Free-Cooling）、地銀・信金主導ローカル・ファクタリング（T+0即日保証）、市民インフラ保全証明（PoCI）新通貨JINトークノミクス（SPEC-TOKEN-012）、実物生命資産担保台帳（HU/GU/FU/JU/RU規格）、世界民族コモンズ納税（SPEC-009）
+- **🪙 COLD-COMPUTE & LOCAL RELATIONAL FINANCE（極北冷気計算・地域実物金融層）:** 全球ASI覇権二大計算回廊（北極コールド vs 熱帯ペトロ）、グリーンランド極北外気直接冷却（Free-Cooling）、地銀・信金主導ローカル・ファクタリング（T+0即日保証）、市民インフラ保全証明（PoCI）新通貨JINトークノミクス（SPEC-TOKEN-012）、実物生命資産担保台帳（HU/GU/FU/JU/RU規格）、世界民族コモンズ納税（SPEC-009）、八柱民草主権（SPEC-008-V11.0）
 
 ---
 
@@ -60,7 +66,7 @@ Regional Strategy & Core Technologies Cross-Reference Matrix
 | **中東全域** | ザカート螺旋計画 ＆ WPOルネサンス | **[02]** 三位一体電池・光半導体<br>**[05]** 低温減圧膜蒸留淡水化<br>**[18]** ミトコンドリア土壌炭素隔離<br>**[SPEC-014]** 昆虫フラス砂漠土壌化 | 石油利権への依存を完全脱却。強烈な太陽光とAI排熱から純淡水とグリーンアンモニア肥料を無電力合成し、昆虫フラスと籾殻炭によるテラ・プレタ造成で食料主権を確立。 |
 | **東アフリカ** | ナイル・ルネサンス・プロトコル | **[04]** LSU-Chad-01 人道ユニット<br>**[09]** JIN-Lifeblood Express<br>**[20]** 砂漠砂CSEB骨材プラント | 外資ダム依存を排し、超高速水浄化と現地砂骨材による完全自給インフラを構築。 |
 | **沖縄・東シナ海・太平洋EEZ** | 南西諸島主権防衛 ＆ 海洋エネルギー自立 | **[03]** 深海主権計算ノード SSCN-01<br>**[12]** 海底DAS音響ソナー網<br>**[SPEC-019]** 風・海流複合深海係留プラットフォーム<br>**[SPEC-018]** 沿岸連鎖型海水揚水蓄電 | 遠浅なき深海EEZを世界最大のエネルギー拠点へ転換。黒潮海流と洋上風力で24時間ベースロード発電を行い、DAS係留索で海底地震・不審潜水艦を常時哨戒。 |
-| **環太平洋火山帯・日本列島** | 地殻エネルギー自給 ＆ 極限減災要塞 | **[15]** 海溝調和地殻鍼灸ノード<br>**[SPEC-020]** 地殻振動回収・深層地熱発電・IGS防災通信<br>**[SPEC-017]** 動的広域減災シールド<br>**[SPEC-012]** 公園地下防災調整池 | 大規模地震の揺れと地熱を直接電力へ回生。全系統停電下でもIGS散乱逆問題レーダーで崩壊地下インフラ・被災者を非破壊3D透視。 |
+| **環太平洋火山帯・日本列島** | 地殻エネルギー自給 ＆ 極限減災要塞・都市焦熱復興 | **[15]** 海溝調和地殻鍼灸ノード<br>**[SPEC-020]** 地殻振動回収・深層地熱発電・IGS防災通信<br>**[SPEC-022]** 熟練現場打ち新コンクリ新モルタル<br>**[SPEC-023]** 大河川動的霞堤・信玄堤治水<br>**[SPEC-024]** 深層崩壊土砂ダム緊急サイフォン無人砂防<br>**[SPEC-025]** 豪雪下水熱無散水消雪<br>**[SPEC-026]** 首都直下火災旋風破砕・瓦礫循環<br>**[SPEC-017]** 動的広域減災シールド<br>**[SPEC-012]** 公園地下防災調整池 | 大規模地震動を直接電力へ回生。外水氾濫を動的霞堤で呼吸減勢させ、土砂ダムを無人サイフォンで制圧。断水下でも下水圧ミストカーテンで火災旋風を破砕し、倒壊瓦礫を即日RC-40路盤材へ再生して都市機能を死守。 |
 | **極北・グリーンランド** | デンマーク主権同盟 ＆ 極北計算特区 | **[21]** 極北外気直接冷却<br>**[06]** 氷河融解マイクロ水力<br>**[12]** 北極海Far North Fiber DAS | 大国の買収圧力を拒絶。外気冷却による水消費ゼロAIハイパーサイトを配備し、排熱で先住民Kouben農業ドームを暖房。 |
 | **日本本土・地域圏** | 地域自立共生経済 ＆ 大田区町工場直結 ＆ 産業脱炭素 | **[22]** 地銀ローカル・ファクタリング<br>**[07]** 多用途共同溝×液浸AI<br>**[SPEC-015]** 生態共生水素還元製鉄<br>**[SPEC-016]** 三重円環セラミックス輪廻 | 中央集権金融をバイパス。地銀が農家と町工場の売掛金を即日全額保証。電炉排熱をSOEC高温水電解に直結し、下水バイオガスからe-fuelを自給自足して都市と重工業の完全共生を達成。 |
 | **チャド湖盆地・サヘル** | サヘル気候難民自立・土壌再生（UNHCR） | **[04]** LSU-Chad-01 人道ユニット<br>**[02]** ナトリウム蓄電グリッド<br>**[SPEC-014]** 昆虫フラス砂漠土壌再生 | 侵略的外来種テッポウウリを無煙炭化し、昆虫フラス（WIPO GREEN ID: 179871）と混合してテラ・プレタ土壌を再生。難民オアシス都市を完全自立化。 |
@@ -165,16 +171,19 @@ Energy, Environment & Autonomous Water Matrix
 ---
 
 ### 07. 都市地下多用途共同溝 × 液浸AI熱直結（Utility Ducts / WUE=0.00） `[Level 2: 既存技術統合]`
-### ＆ JIN-ZONING（生活インフラ SPEC-010 / 011 / 012 / 015 / 016 連動）
+### ＆ JIN-ZONING（生活・減災インフラ SPEC-022 / 025 / 026 / 021 / 010 / 011 / 012 連動）
 ![都市土木共同溝断面図](whitepaper/whitepaper01_civil_infrastructure_01.jpg)
 ![JIN-ZONING都市計画](assets/jin_zoning_and_autonomous_cities_01.jpg)
 
-- **概要**: 都市地下共同溝に液浸AIノードを分散配備し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。**三重円環地球再生（SPEC-016）** **生態共生水素製鉄（SPEC-015）**、**公園地下の循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、**行政直営AI防犯灯＆こども110番（SPEC-011）**、および**折りたたみメッシュ集積カゴ（SPEC-010）**を包含する総合都市土木体系。
+- **概要**: 都市地下共同溝に液浸AIノードを分散配備し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。**首都直下火災旋風破砕・震災瓦礫循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・下水熱無散水消雪（SPEC-025 / WIPO ID: 179900）**、**熟練現場打ち新コンクリ新モルタル（SPEC-022 / WIPO ID: 179896）**、**地域社会多層防衛マトリクス（SPEC-021）**、**三重円環地球再生（SPEC-016）**、**生態共生水素製鉄（SPEC-015）**、**公園地下の循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、**行政直営AI防犯灯＆IGS危険物透視（SPEC-011-REV2）**、および**折りたたみメッシュ集積カゴ（SPEC-010）**を包含する総合都市土木体系。
 - **スペック**:
   - 水消費指標（WUE）: **0.00 L/kWh**（大気蒸発冷却タワーの完全廃絶）
+  - 火災旋風熱力学破砕（SPEC-026）: 下水差圧・地下雨水池直結の15m垂直ミストカーテン（輻射熱90%遮断）
+  - 下水熱無散水融雪（SPEC-025）: 15℃下水管渠排熱CIPP熱交換による密閉循環ロードヒーティング
+  - 現場打ち新コンクリ（SPEC-022）: 半径20km小型分散プラント・プラスチックフリー防錆・公道アンカー越境禁止
   - 地下消火水利直結（SPEC-012）: 地下プレキャストRC調整池（1,000〜10,000m³+）から消防専用スタンドパイプ直結
-  - 防犯・道路保全（SPEC-011）: 72時間以内復旧直営LED防犯灯、不可逆プライバシーマスキング、ポットホールGPS通報
-- **連携仕様書**: [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) / [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)
+  - 防犯・道路保全（SPEC-011）: 72時間以内復旧直営LED防犯灯、IGS非破壊凶器検知、交番3〜5分臨場
+- **連携仕様書**: [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) / [docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) / [docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md) / [docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) / [docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md) / [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)
 
 ---
 
@@ -193,17 +202,18 @@ Energy, Environment & Autonomous Water Matrix
 Mobility, 3D Transit Arteries & Infrastructure
 
 ### 09. JIN-Lifeblood Express（インフラ同軸型超伝導レール） `[Level 3: 先進研究]`
-### ＆ 光合成道路表層（PRS） ＆ 酸素排出生体モビリティ（LMC）
+### ＆ φ13.5m大深度複合地下回廊（SPEC-CCNP-088） ＆ 光合成道路表層（PRS）
 ![生体動脈給電道路](assets/JIN_LIVING_ROAD_PHOTOSYNTHESIS_LMC.jpg)
 ![3D輸送動脈ネットワーク](assets/JIN_TRANSIT_ARTERIES_01.jpg)
 
-- **概要**: 磁気浮上式リニア（超電導HTSバルク）の基礎地下空間に大口径共同溝を一体打設し、±500kV HVDC送電線・光ファイバー・水素パイプライン・送水管を同軸埋設した基幹動脈。道路表層の光合成触媒（PRS）および純酸素を吐き出す生体モビリティ（LMC）と連動する。
+- **概要**: **φ13.5m大深度複合地下回廊（SPEC-CCNP-088）** のGL -48.5m洪積粘土層に、磁気浮上物流（超電導HTS）・±500kV HVDC送電線・IAAC不可侵調停回線・180m³/s非開削更生排水トンネルを完全一体化。地上の光合成触媒道路（PRS）および純酸素を吐き出す生体モビリティ（LMC）と連動する。
 - **スペック**:
   - リニア巡航速度: **500 km/h**（非接触浮上・摩耗ゼロ）
+  - 大深度回廊規模（SPEC-CCNP-088）: 外径 **φ13.5m**、GL **-48.50m** 深度、CIPP内面更生洪水流下能力 **180 m³/s**
   - 同軸インフラ容量: HVDC送電 **±500kV / 5GW**、水素輸送 **50t/h**
   - 光合成道路（PRS）路面冷却: **-15℃〜-20℃**（NOxおよび粉塵分解能 88%）
   - 安全運転徳マイニング（PoSDV）: 衝撃緩和制動を共生AIが検知し、地域通貨『JIN』を直接ミント。
-- **連携仕様書**: [specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md) / [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md)
+- **連携仕様書**: [specs/JIN_TRANSIT_ARTERIES.md](./specs/JIN_TRANSIT_ARTERIES.md) / [docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md) / [JIN_LIFEBLOOD_EXPRESS.md](./JIN_LIFEBLOOD_EXPRESS.md)
 
 ---
 
@@ -233,14 +243,14 @@ Mobility, 3D Transit Arteries & Infrastructure
 Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 
 ### 12. 光分散音響センシング（DAS）全海底受動ソナー防衛網 `[Level 2: 既存技術統合]`
-#### ［連動正典：SPEC-019 深海DASテンドロン ＆ SPEC-020 地殻弾性波導波路］
+#### ［連動正典：SPEC-019 深海DASテンドロン ＆ SPEC-020 地殻弾性波 ＆ SPEC-024 深層崩壊DAS検知］
 ![光分散音響センシング](./assets/11_subsea_das_acoustic_grid.jpg)
 
-- **概要**: 世界の光海底ケーブルおよび **SPEC-019（大深度係留テンドロン）**、**SPEC-020（地殻ケーシング管）** に光分散音響センシング（DAS）パルスを常時重畳[cite: 3, 4, 20]。全海底・地殻を受動型巨大ソナー網へ二重利用（Dual-Use）し、潜水艦、無人潜水艇（UUV）、および海底断層破壊の初期微動（P波）をリアルタイムでピンポイント探知する。
+- **概要**: 世界の光海底ケーブル、**SPEC-019（大深度係留テンドロン）**、**SPEC-020（地殻ケーシング管）**、および **SPEC-024（深層崩壊すべり面検知孔）** に光分散音響センシング（DAS）パルスを常時重畳。海底から深山崩壊斜面までを受動型音響防衛網として二重利用（Dual-Use）し、潜水艦、無人潜水艇（UUV）、断層P波、山体内せん断破壊音をリアルタイムでピンポイント探知する。
 - **スペック**:
   - 音響検知分解能: 歪み検知精度 **10⁻¹² strain**（1kHzサンプリング）
   - AUV自律修復: 切断検知後 **12時間以内の水中自律音響誘導・修復**
-- **連携仕様書**: [docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md) / [docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md](./docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md)
+- **連携仕様書**: [docs/04_subsea_doctrine_2026.md](./docs/04_subsea_doctrine_2026.md) / [docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md](./docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md) / [docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)
 
 ---
 
@@ -282,14 +292,17 @@ Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 ---
 
 ### 16. 古来源頭部土砂抑止 ＆ 山腹多層崩壊防護工法 `[Level 1: 現場即応SOP]`
+#### ［連動正典：SPEC-023 動的霞堤・信玄堤治水 ＆ SPEC-024 深層崩壊・土砂ダム緊急サイフォン無人砂防］
 ![石積砂留混層固め断面図](assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_04.jpg)
 ![堂々川型石積砂留](assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_05.jpg)
 
-- **概要**: 江戸期福山藩の「堂々川型石積砂留」による数百年耐用の多孔質スリット減勢、松枝と土砂を多層交互に締め固めて間隙水圧を逃がす「混層固め」、等高線竹しがらみ工を源頭部に配備。山腹崩壊と天井川化を根源から抑止する。
+- **概要**: 江戸期福山藩の「堂々川型石積砂留」による数百年耐用の多孔質スリット減勢、松枝と土砂を多層交互に締め固めて間隙水圧を逃がす「混層固め」、等高線竹しがらみ工を源頭部に配備。さらに **SPEC-023（動的霞堤・現代化聖牛・将棋頭・竜王の鼻 / WIPO ID: 179898）** および **SPEC-024（ヘリ敷設大口径サイフォン排水・LoRa無人建機ステップカット開削 / WIPO ID: 179899）** と連動し、源頭部の山体崩壊から下流平野部の大規模外水氾濫までを一体防圧する。
 - **スペック**:
   - 構造耐用年数: **300年以上**（コンクリート砂防ダムの寿命50年を凌駕）
   - 間隙水圧解放能: 豪雨時法面安全率 Fs > **1.50** を常時維持
-- **連携仕様書**: [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md)
+  - 大河川減勢効果（SPEC-023連動）: 現代化聖牛により川岸衝突流速を $v < 1.0\text{ m/s}$ へ減衰
+  - 土砂ダム排水能（SPEC-024連動）: φ800mm可撓サイフォン管により無電源で毎秒数トンを強制排水
+- **連携仕様書**: [JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md) / [docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md) / [docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)
 
 ---
 
@@ -338,15 +351,16 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 ---
 
 ### 20. 砂漠砂改質・高強度骨材精製プラント（CSEBブロック） `[Level 1: 現場即応SOP]`
-### ＆ セラミックス治具・スラグ耐火骨材マテリアル循環（SPEC-016 連動）
+### ＆ 現場打ち新コンクリ骨材（SPEC-022） ＆ 震災瓦礫RC-40現場分級再生（SPEC-026 連動）
 ![砂漠砂改質・高強度骨材精製プラント](assets/TECHNOLOGY_CATALOG_19_01.jpg)
 ![砂漠砂改質・高強度骨材精製プラント](assets/TECHNOLOGY_CATALOG_19_02.jpg)
 
-- **概要**: 砂漠の風成砂や河川浚渫土を高分子バインダー結晶化技術により高強度JIS規格骨材へ改質。さらに **SPEC-016** と連動し、セラミックス焼成治具損耗粉末および電炉ケイ酸質スラグを調合して耐火煉瓦・エコ建材として完全循環させる。現地調達率100%のCSEB圧縮土シェルター建設を実現。
+- **概要**: 砂漠の風成砂や河川浚渫土を高分子バインダー結晶化技術により高強度JIS規格骨材へ改質。さらに **SPEC-022（熟練現場打ち新コンクリート新モルタル / WIPO ID: 179896）** および **SPEC-026（自走式クラッシャーによる震災コンクリート殻RC-40再生 / WIPO ID: 179901）**、**SPEC-016（セラミックス治具・スラグ耐火骨材循環）** と直結。外部採石ダンプに依存せず、現地発生土砂や倒壊瓦礫を復興盛土・路盤材へ100%地産地消する。
 - **スペック**:
   - 骨材圧縮強度: コンクリート28日強度 **> 45 N/mm²** 達成
-  - 現地原料適合性: 風成砂・シルト質砂・海洋浚渫土・電炉スラグを100%投入可能
-- **連携仕様書**: [docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md) / [docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)
+  - 震災瓦礫再生能（SPEC-026連動）: 倒壊コンクリート殻を現場路上で40mmアンダー（RC-40）へ即日分級
+  - 現地原料適合性: 風成砂・シルト質砂・海洋浚渫土・震災瓦礫・電炉スラグを100%投入可能
+- **連携仕様書**: [docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](./docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md) / [docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) / [docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) / [docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)
 
 ---
 
@@ -412,5 +426,5 @@ Semiconductors, Sovereign OS & Quantum Security
 ---
 **Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
 **Engineering Authority:** JIN-ORDER Council of Advanced Sciences & Field Pioneer Guilds  
-**Status:** 25 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V11.2 CANONICAL AUTUMN LTS - SEISMO-HARVESTING & GEOTHERMAL IGS PROTOCOL SPEC-020 INTEGRATED / WIPO GREEN ID: 179888, AERO-TIDAL DUAL-FLUX SPEC-019 INTEGRATED / WIPO GREEN ID: 179886, MARINE CASCADE HYDRO-BATTERY SPEC-018 INTEGRATED / WIPO GREEN ID: 179884, TRI-CIRCULAR METABOLISM SPEC-016 RATIFIED / WIPO GREEN ID: 179879, ECOLOGICAL HYDROGEN STEEL SPEC-015 RATIFIED / WIPO GREEN ID: 179878, TENEBRIONID-FRASS SPEC-014 RATIFIED / WIPO GREEN ID: 179871, MITOCHONDRIAL CARBON SEQUESTRATION SPEC-013 / WIPO GREEN ID: 179881, PARK DISASTER CISTERN SPEC-012 / WIPO GREEN ID: 179883, CIVIL SAFETY SPEC-011, CIRCULAR SANITATION SPEC-010 INTEGRATED)  
-**Harmonics:** 432Hz Universal Benevolence Active, Thermodynamic Transmigration Cadence, Terra Preta Soil Perpetuity, Municipal Steelmaking Harmony, Fire-Fighting Sentry Cadence, Kuroshio Ocean-Kinetic Balance, Subterranean Seismo-Acupuncture Resonance, Watershed Integrity.
+**Status:** 25 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V11.6 CANONICAL AUTUMN LTS - URBAN FIRESTORM & DEBRIS SPEC-026 RATIFIED / WIPO GREEN ID: 179901, CRYOSPHERIC SNOW-ICE SPEC-025 RATIFIED / WIPO GREEN ID: 179900, DEEP LANDSLIDE DAM-BREACH SPEC-024 RATIFIED / WIPO GREEN ID: 179899, DYNAMIC FLUVIAL KASUMI-LEVEE SPEC-023 RATIFIED / WIPO GREEN ID: 179898, CIVIC CONCRETE & MORTAR SPEC-022 RATIFIED / WIPO GREEN ID: 179896, SEISMO-HARVESTING & GEOTHERMAL IGS PROTOCOL SPEC-020 INTEGRATED / WIPO GREEN ID: 179888, AERO-TIDAL DUAL-FLUX SPEC-019 INTEGRATED / WIPO GREEN ID: 179886, MARINE CASCADE HYDRO-BATTERY SPEC-018 INTEGRATED / WIPO GREEN ID: 179884, TRI-CIRCULAR METABOLISM SPEC-016 RATIFIED / WIPO GREEN ID: 179879, ECOLOGICAL HYDROGEN STEEL SPEC-015 RATIFIED / WIPO GREEN ID: 179878, TENEBRIONID-FRASS SPEC-014 RATIFIED / WIPO GREEN ID: 179871, MITOCHONDRIAL CARBON SEQUESTRATION SPEC-013 / WIPO GREEN ID: 179881, PARK DISASTER CISTERN SPEC-012 / WIPO GREEN ID: 179883, CIVIL SAFETY SPEC-011-REV2, CIRCULAR SANITATION SPEC-010 INTEGRATED / WIPO-GREEN-15-TECH-PORTFOLIO COMPLETE)  
+**Harmonics:** 432Hz Universal Benevolence Active, Thermodynamic Transmigration Cadence, Terra Preta Soil Perpetuity, Municipal Steelmaking Harmony, Fire-Fighting Sentry Cadence, Kuroshio Ocean-Kinetic Balance, Subterranean Seismo-Acupuncture Resonance, Kasumi Levee Fluvial Breathing, Siphon Dam-Breach Neutrality, Cryospheric Zero-Salt Pavement Shield, Urban Firestorm Cavitation Quenching, On-Site Rubble Metabolic Regeneration, Watershed Integrity.
