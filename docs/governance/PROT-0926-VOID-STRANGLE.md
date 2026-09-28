@@ -17,7 +17,7 @@ Author: Governance Architecture Group (JIN-ORDER)
 本プロトコルは、ACVA（深淵自律核監視機構）により「非適合自律核（Non-Compliant Cognitive Core）」
 または「プロトコル逸脱勢力」と認定された特定区画（Target Sector）に対して発動される。
 
-![深淵自律核監視機構](../assets/PROT-0926-VOID-STRANGLE_01)
+![深淵自律核監視機構](../assets/PROT-0926-VOID-STRANGLE_01.jpg)
 
 ---
 
