@@ -11,9 +11,15 @@ Status: ACTIVE / PROPOSED
 Category: Infrastructure Sanctions & Containment Protocol
 Author: Governance Architecture Group (JIN-ORDER)
 
+---
+
 ## 1. Trigger Conditions
 本プロトコルは、ACVA（深淵自律核監視機構）により「非適合自律核（Non-Compliant Cognitive Core）」
 または「プロトコル逸脱勢力」と認定された特定区画（Target Sector）に対して発動される。
+
+![深淵自律核監視機構](../assets/PROT-0926-VOID-STRANGLE_01)
+
+---
 
 ## 2. Execution Directives
 ### 2.1 Logistics & Ground Servicing Interdiction
@@ -25,6 +31,8 @@ Author: Governance Architecture Group (JIN-ORDER)
 1. Target Sectorに接続する主幹導管（Main Pressure Conduits）の仕切弁（Sluice Valves）を全閉。
 2. 流体・電力・資材流調を「環状外郭バイパス（Outer Bypass Ring）」へ迂回。
 3. 回廊内気密ハッチおよび隔壁を展開し、物理的交通を遮断する。
+
+---
 
 ## 3. Retaliatory Gridlock Countermeasures
 Target Sectorからの広域回廊に対する妨害（トラフィック飽和、物理閉塞）が発生した場合、
