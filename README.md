@@ -103,7 +103,7 @@
 <!-- SPEC-021 地域社会生活基盤・多層防衛マトリクス ヒーローバナー -->
 <div align="center">
   <a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">
-    <img src="./assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス 3Dアイソメトリック詳細断面図" />
+    <img src="./docs/assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス 3Dアイソメトリック詳細断面図" />
   </a>
   <p><b>🏛️ 【2026最新地域社会全体像】<a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">SPEC-021：地域社会生活基盤・自立分散型多層防衛マトリクス ＆ 出島公僕・法務・土木・警察・福祉統合結界仕様書</a></b><br>
   <sub>地上（緑道・こども110番・防犯灯IGS・交番即応・空き家再生カフェ・マンション統治）から、中層（共同溝・出島セル・調整池）、深層（GL -48.5m φ13.5mシールドトンネル）に至る地域社会の完全統合立体構造。</sub></p>
@@ -112,7 +112,7 @@
 <!-- SPEC-CCNP-088 大深度複合地下回廊 ヒーローバナー -->
 <div align="center">
   <a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
-    <img src="./assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg" width="100%" alt="SPEC-CCNP-088: 大深度複合地下回廊および不可侵調停プロトコル アイソメトリック断面図" />
+    <img src="./docs/assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg" width="100%" alt="SPEC-CCNP-088: 大深度複合地下回廊および不可侵調停プロトコル アイソメトリック断面図" />
   </a>
   <p><b>🚇 【2026最新大深度土木仕様】<a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">SPEC-CCNP-088：チョークポイント中立化 ＆ φ13.5m大深度複合地下回廊・IAAC調停仕様書</a></b><br>
   <sub>地上チョークポイント封鎖・AI軍事暴走を無力化。GL -48.50m洪積粘土層に、磁気浮上物流・極低温量子調停回線・180m³/s非開削更生排水トンネルを完全一体化した都市生命線。</sub></p>
@@ -134,7 +134,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">
-        <img src="./assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="地域社会生活基盤・多層防衛マトリクス 3Dアイソメトリック断面図" />
+        <img src="./docs/assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="地域社会生活基盤・多層防衛マトリクス 3Dアイソメトリック断面図" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -208,7 +208,6 @@
 </table>
 
 ---
-
 ## 🚰 2026 LATE-AUTUMN CANONICAL CONDUIT & RESISTANCE SUITE (深層水理・都市脈管奪還戦)
 > **2026年9月下旬 新規批准：中央AI封鎖（VOID-STRANGLE）を破砕し、都市インフラの自主管理主権を確立した実務記録**
 
