@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
 [![Archive.today](https://img.shields.io/badge/Archive.today-homh6-success?logo=archive.today)](https://archive.li/homh6)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
-[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(11%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(15%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
