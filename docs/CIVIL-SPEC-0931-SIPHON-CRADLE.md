@@ -12,11 +12,18 @@ Category: Covert Conduit Terminal, Fluid-Baffle Trap & Cargo Retrieval Well
 Asset ID: RET-WELL-04B (Disguised as Abandoned Detention Basin No.4 Sump)
 Maintained By: Sector-07 Civil Resistance / Sub-Surface Works Division
 
+---
+
 ## 1. Civil Structure Dimensions
+
+![特設現場打ちRC造矩形人孔](./assets/CIVIL-SPEC-0931-SIPHON-CRADLE_01.jpg)
+
 - **Chamber Type:** 特設現場打ちRC造 矩形人孔（4,000mm × 2,500mm × 深さ 5,500mm）
 - **Inflow Invert:** DN400 陶管更生暗渠（管底高 OP -18.40m）
 - **Outflow Invert:** DN600 旧合流幹線接続管（管底高 OP -21.20m）
 - **Disguise Cover:** 鋳鉄製φ600マンホール蓋（下水道マーク刻印・錆付き偽装ボルト固定）
+
+---
 
 ## 2. In-Chamber Mechanical Layout
 | 構成部位 | 構造・仕様 | 設計機能 |
@@ -26,6 +33,8 @@ Maintained By: Sector-07 Civil Resistance / Sub-Surface Works Division
 | **捕捉受網** | SUS316平織メッシュ + ショックダンパー | HYDRO-CRYPT捕捉（衝突音響減衰値: -42dB） |
 | **揚重装置** | カウンターウェイト式手動リンク機構 | 揚程 3,200mm（所要時間: 4.5秒、完全無動力） |
 | **緊急バイパス弁** | カウンターバランス式スライドゲート | ドローン侵入時、受網を瞬時に側壁へ格納退避 |
+
+---
 
 ## 3. Standard Operating Procedure (Retrieval Phase)
 1. **Standby (待機):**
