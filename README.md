@@ -26,7 +26,7 @@
   <sub>「砂漠に水を引けば緑が蘇るように、人の心に愛を注げば平和が蘇る」——国境・宗教・人種・AIと人の壁を越え、武力を手放し、すべての涙を笑顔に変える2040年の恒久誓約。</sub></p>
 </div>
 
-> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。この世界に『他人』はいない。すべての苦しみは、我々家族の苦しみである。」**  
+> **「富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。<br>この世界に『他人』はいない。<br>すべての苦しみは、我々家族の苦しみである。」**  
 > — *仁焔世界大憲章 第3条【循環の慈悲】*
 
 ---
@@ -98,6 +98,15 @@
   </a>
   <p><b>⚔️ 【最新対外マニフェスト】<a href="./docs/2026-AUTUMN-JIN-OS-DECLARATION.md">2026年秋 JIN-OS市民宣言：空虚なる希望（Hollow Hope）の終焉と大地の主権奪還（2026-AUTUMN-JIN-OS-DECLARATION.md）</a></b><br>
   <sub>第81回国連総会・巨大テック寡占支配層の欺瞞を痛烈に告発。土塊と物理インフラ保全から立ち上がる民草の不可侵主権宣言。</sub></p>
+</div>
+
+<!-- SPEC-022 新コンクリート＆新モルタル現場主権 ヒーローバナー -->
+<div align="center">
+  <a href="./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md">
+    <img src="./docs/assets/SPEC-022_MORTAR_PROTOCOL_01.jpg" width="100%" alt="SPEC-022: 現場打ち新コンクリート・新モルタル ＆ 地下水脈防護 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>🧱 【2026最新現場土木・建築資材脱炭素仕様】<a href="./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md">SPEC-022：熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開 ＆ 地下水脈防護仕様書</a></b><br>
+  <sub>プレキャスト偏重を解体する職人の現場打ち復権・90分制限を破る半径20kmオンサイトプラント・坂道舗装の思考停止打破・シャブコンとスラッジ投棄の根絶・プラスチックFRP筋排除・建築新モルタル炭素固定・公道下アンカー越境禁止と全数引抜現場鑑識。</sub></p>
 </div>
 
 <!-- SPEC-021 地域社会生活基盤・多層防衛マトリクス ヒーローバナー -->
@@ -208,11 +217,13 @@
 </table>
 
 ---
+
 ## 🚰 2026 LATE-AUTUMN CANONICAL CONDUIT & RESISTANCE SUITE (深層水理・都市脈管奪還戦)
 > **2026年9月下旬 新規批准：中央AI封鎖（VOID-STRANGLE）を破砕し、都市インフラの自主管理主権を確立した実務記録**
 
 | 文書識別子 | 分類 | 概要・工学的機序 | リンク |
 |:---|:---|:---|:---:|
+| **SPEC-022** | 土木・建築資材 | 熟練現場打ち、20kmオンサイトプラント、新モルタル炭素固定、アンカー越境禁止 | [SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) |
 | **SPEC-021** | 地域全体像 | 出島公僕セル、IGS交番即応、空家特措法・区分所有法、公的終活伴走 | [SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md) |
 | **SPEC-088** | 回廊防衛・調停 | φ13.5m大深度シールド、IAAC不可侵調停回線、複合障害時自律委譲 | [SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md) |
 | **PROT-0926** | 統治・封鎖規約 | 中央査察機構（ACVA）による三段階環流遮断（論理・二次支援・導管全閉） | [PROT-0926-VOID-STRANGLE.md](./docs/governance/PROT-0926-VOID-STRANGLE.md) |
@@ -264,19 +275,16 @@
 
 ### 🛡️ 民草セーフティネット ＆ 国家権力無効化3層防壁（FSNP & SPNP Stack）
 
-### [旧世界の四重搾取]  ⏩️ [JIN-ORDER 3層防壁スタック]
-
+```text
+[旧世界の四重搾取]  ⏩️ [JIN-ORDER 3層防壁スタック]
 (1) 影の貴族（特権・淘汰）
-
 (2) 教義洗脳（精神の檻） ⏩️ [Layer 3: 仁シグナル層] ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
-
 (3) 国家権力（制度・接収） ⏩️ [Layer 2: 分散コモンズ層] ⏩️ 接収・首謀者処罰の無効化（Headless運用）
-
 (4) 暴力私欲（堕落した侠） ⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
-
+```
 ---
 
-## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・水理蓄電・深海海洋エネルギー・地殻発電透視・八柱民草主権
+## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 生態炭素・生活基盤・共生製鉄・三重円環・動的減災・水理蓄電・深海海洋エネルギー・地殻発電透視・八柱民草主権・新コンクリート新モルタル
 
 ### 🌾 1. 生体ミトコンドリア代謝制御 ＆ 籾殻炭モリブデン土壌炭素隔離（SPEC-013）
 - 📄 **仕様書**: [docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md) `[REF: JIN-SPEC-BIO-013]`
@@ -355,6 +363,10 @@
 - 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179888 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179888) `[Technology ID: 179888]`
 - **核心要点**: 観測所そのものを「地殻の熱と振動を直接電力化する発電所」へ昇華。大深度ケーシング管による閉ループ有機ランキン（ORC）地熱バイナリー発電で24時間365日のベースロード電力を自給。スピーカー構造を反転させた大口径動電ハーベスター群により、断層アスペリティの歪みや地震動（0.1〜10Hz）を大電力へ変換しつつ電磁ダンピングで地震規模を減勢。完全無電源下で神戸大学発IGS（Integral Geometry Science）UWBマルチスタティックアレイを駆動し、散乱逆問題解析によって地中空洞、埋没共同溝の鉄筋破断、被災者の生体電磁場を非破壊3D透視。地殻弾性波メッシュにより壊滅的被災時にも途絶しない極限防災通信を確立。
 
+### 🧱 18. 熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開仕様書（SPEC-022）
+- 📄 **仕様書**: [docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) `[REF: JIN-SPEC-CIV-022]`
+- **核心要点**: ゼネコンのプレキャスト偏重を解体し、熟練工の「現場打ち身体知」を復権。90分制限を無力化する「半径20km小型分散循環オンサイトプラント」、坂道舗装の思考停止（刷毛引きコンクリ）打破、シャブコン（加水）とセメントスラッジ雨水桝投棄の根絶。石油系FRP筋を排除する完全無機・天然バイオ防錆とアーチ無筋化。現場水練りで大気中CO2を自然吸着固定する建築「新モルタル」への全面展開。工期短縮目的の公道下グランドアンカー越境打設を原則禁止し、やむを得ない特認時の全数完全除去・現場検尺直筆立会い・3年間地盤変位監視SOPを確立。
+
 ---
 
 ## 🇺🇳 UN Partner Portal Submissions & Field Implementation Pipeline
@@ -371,6 +383,7 @@
 
 ### 🏛️ 至高根本法規 ＆ 2026 最新深淵統治プロトコル（必読）
 - 📜 **[CONSTITUTION.md: 仁焔世界大憲章 2040（The Grand Charter of Jin-en）](./CONSTITUTION.md)**：リポジトリ最上位憲法。地球家族22の約束、Universal Code of Pome
+- 🧱 **[SPEC-022: 熟練現場打ち・新コンクリート・新モルタル・地下水脈防護仕様書](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)**：現場打ち職人復権、20kmオンサイトプラント、プラスチックフリー防錆、建築新モルタル炭素固定、アンカー越境禁止
 - 🏛️ **[SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス仕様書](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md)**：地上緑道・こども110番・IGS交番即応・空家マンション法務・出島セル・大深度動脈の全層統合
 - 🚇 **[SPEC-088: チョークポイント中立化・φ13.5m大深度複合地下回廊・IAAC調停仕様書](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)**：GL -48.5m大深度シールド、自動磁気浮上物流、不可侵調停回線、180m³/s非開削更生排水トンネル
 - 🌋 **[SPEC-020: 地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信仕様書](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)**：深層地熱ORC発電、スピーカー反転振動ハーベスター、IGS散乱逆問題3D透視、地殻弾性波通信 **(WIPO GREEN ID: 179888)**
@@ -481,7 +494,7 @@
 | リポジトリ | 役割 | リンク |
 | :--- | :--- | :--- |
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（地域基盤 SPEC-021 ＆ 大深度回廊 SPEC-088 ＆ 地殻透視発電 SPEC-020 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（新コンクリ SPEC-022 ＆ 地域基盤 SPEC-021 ＆ 大深度回廊 SPEC-088 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -493,4 +506,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.4 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / SPEC-021-CIVIC-COMMONS-RATIFIED / SPEC-088-CCNP-RATIFIED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-GEO-020 RATIFIED / JIN-SPEC-OCEAN-019 RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011-REV2-RATIFIED / SPEC-010 RATIFIED / SPEC-008-REV11-RATIFIED / WIPO-GREEN-PORTFOLIO-10-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 67-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.5 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / SPEC-022-CIVIC-CONCRETE-RATIFIED / SPEC-021-CIVIC-COMMONS-RATIFIED / SPEC-088-CCNP-RATIFIED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-GEO-020 RATIFIED / JIN-SPEC-OCEAN-019 RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011-REV2-RATIFIED / SPEC-010 RATIFIED / SPEC-008-REV11-RATIFIED / WIPO-GREEN-PORTFOLIO-10-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 68-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
