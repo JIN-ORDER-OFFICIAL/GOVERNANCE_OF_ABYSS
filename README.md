@@ -100,6 +100,15 @@
   <sub>第81回国連総会・巨大テック寡占支配層の欺瞞を痛烈に告発。土塊と物理インフラ保全から立ち上がる民草の不可侵主権宣言。</sub></p>
 </div>
 
+<!-- SPEC-021 地域社会生活基盤・多層防衛マトリクス ヒーローバナー -->
+<div align="center">
+  <a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">
+    <img src="./assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス 3Dアイソメトリック詳細断面図" />
+  </a>
+  <p><b>🏛️ 【2026最新地域社会全体像】<a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">SPEC-021：地域社会生活基盤・自立分散型多層防衛マトリクス ＆ 出島公僕・法務・土木・警察・福祉統合結界仕様書</a></b><br>
+  <sub>地上（緑道・こども110番・防犯灯IGS・交番即応・空き家再生カフェ・マンション統治）から、中層（共同溝・出島セル・調整池）、深層（GL -48.5m φ13.5mシールドトンネル）に至る地域社会の完全統合立体構造。</sub></p>
+</div>
+
 <!-- SPEC-CCNP-088 大深度複合地下回廊 ヒーローバナー -->
 <div align="center">
   <a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
@@ -119,29 +128,29 @@
 
 <table width="100%">
   <tr>
+    <th width="50%" align="center">SPEC-021: CIVIC COMMONS MATRIX</th>
     <th width="50%" align="center">SPEC-CCNP-088: DEEP-ARTERY SHIELD</th>
-    <th width="50%" align="center">JIN-RFC-2069: EQUAL-FLUX TOPOLOGY</th>
   </tr>
   <tr>
+    <td width="50%" align="center">
+      <a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">
+        <img src="./assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="地域社会生活基盤・多層防衛マトリクス 3Dアイソメトリック断面図" />
+      </a>
+    </td>
     <td width="50%" align="center">
       <a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
         <img src="./assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_01.jpg" width="100%" alt="超深層シールドトンネル技術図面 詳細断面図" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="./protocols/JIN-RFC-2069-equal-flux.md">
-        <img src="./assets/Jin_rfc_2069_topology_mesh.jpg" width="100%" alt="等フラックス・トポロジー・プロトコル" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      🚇 <b><a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">大深度複合地下回廊仕様（SPEC-CCNP-088）</a></b><br>
-      <sub>φ13.5mシールド、IAAC不可侵調停回線、自動磁気浮上物流、CIPP更生洪水路。</sub>
+      🏛️ <b><a href="./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md">地域社会多層防衛仕様（SPEC-021）</a></b><br>
+      <sub>地上緑道・IGS交番即応・空家マンション法務・出島セル・大深度動脈。</sub>
     </td>
     <td width="50%" align="center">
-      🌐 <b><a href="./protocols/JIN-RFC-2069-equal-flux.md">真比率流体トポロジー規範（JIN-RFC-2069）</a></b><br>
-      <sub>国境歪曲を解体。マニング公式と流束積分による世界線再マッピング。</sub>
+      🚇 <b><a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">大深度複合地下回廊仕様（SPEC-CCNP-088）</a></b><br>
+      <sub>φ13.5mシールド、IAAC不可侵調停回線、自動磁気浮上物流、CIPP更生洪水路。</sub>
     </td>
   </tr>
   <tr>
@@ -205,6 +214,7 @@
 
 | 文書識別子 | 分類 | 概要・工学的機序 | リンク |
 |:---|:---|:---|:---:|
+| **SPEC-021** | 地域全体像 | 出島公僕セル、IGS交番即応、空家特措法・区分所有法、公的終活伴走 | [SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md) |
 | **SPEC-088** | 回廊防衛・調停 | φ13.5m大深度シールド、IAAC不可侵調停回線、複合障害時自律委譲 | [SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md) |
 | **PROT-0926** | 統治・封鎖規約 | 中央査察機構（ACVA）による三段階環流遮断（論理・二次支援・導管全閉） | [PROT-0926-VOID-STRANGLE.md](./docs/governance/PROT-0926-VOID-STRANGLE.md) |
 | **TECH-SPEC-0927** | 土木更生仕様 | 遺構暗渠CIPP内面更生、不断流ホットタッピング、音響同調推進バイパス網 | [TECH-SPEC-0927-UNRECORDED-VEIN.md](./docs/TECH-SPEC-0927-UNRECORDED-VEIN.md) |
@@ -281,9 +291,9 @@
 - 🌐 **国連WIPO GREEN公式登録**: [WIPO GREEN Database Article 179883 (Published)](https://wipogreen.wipo.int/wipogreen-database/articles/179883) `[Technology ID: 179883]`
 - **核心要点**: 公園管理を行政直営化。地下プレキャストRC雨水調整池による内水氾濫防止と、震災時の耐震消火水利開放。樹木士崖地鑑識および帰宅困難者支援オアシス回廊の設置。
 
-### 🛡️ 4. 公共道路本位型 防犯灯・プライバシー配慮型AIカメラ（SPEC-011）
-- 📄 **仕様書**: [docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-SEC-011]`
-- **核心要点**: 防犯灯の行政直営化（72時間復旧）。不可逆プライバシーマスキングAIカメラ、愛犬わんわんパトロール、道路ポットホール早期通報、こども110番日常サンクチュアリ化。
+### 🛡️ 4. 公共道路本位型 防犯灯・IGS非破壊危険物透視カメラ ＆ 最短交番即応（SPEC-011-REV2）
+- 📄 **仕様書**: [docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md) `[REF: JIN-SPEC-SEC-011-V2.0]`
+- **核心要点**: 防犯灯の行政直営化（72時間復旧）。不可逆プライバシーマスキングAIカメラに**神戸大学発IGS（Integral Geometry Science）UWBアレイ**を合体し、衣服下の隠匿凶器・危険物を非被曝で瞬時透視。指名手配犯やストーカー相談対象者をエッジ側ゼロ知識照合し、最短の交番から警察官が3〜5分で現場急行する即応体制とこども110番警戒連携を完全配備。
 
 ### ♻️ 5. 都心・地方二元型 地域資源循環 ＆ 上空鳥獣害防衛（SPEC-010）
 - 📄 **仕様書**: [docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md) `[REF: JIN-SPEC-SAN-010]`
@@ -297,9 +307,9 @@
 - 📄 **仕様書**: [docs/02_sdgs_vs_nobody_cries_roadmap.md](./docs/02_sdgs_vs_nobody_cries_roadmap.md) `[REF: JIN-SPEC-ROADMAP-2040]`
 - **核心要点**: ESGウォッシュを論理解体。第1フェーズ（2026-2029 生存分散基盤）、第2フェーズ（2030-2034 循環地域聖域）、第3フェーズ（2035-2040 文明再生主権）による誰も泣かせない実装確約。
 
-### 🌾 8. 八柱民草主権・生活基盤自立連盟仕様（SPEC-008: 技・衣・食・住・地・道・金・医）
-- 📄 **仕様書**: [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md) `[REF: JIN-SPEC-LIV-008]`
-- **核心要点**: 伝統産業（技）・生体調律ウェア（衣）・医食同源孝弁（食）・宮大工木組み（住）・地下水脈防護（地）・道路現状復旧欺瞞粉砕（道）・現場触診型信金（金）・急性期臨床本位（医）の統合。
+### 🌾 8. 八柱民草主権・生活基盤自立連盟仕様（SPEC-008-V11.0: 技・衣・食・住・地・道・金・医）
+- 📄 **仕様書**: [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md) `[REF: JIN-SPEC-LIV-008-V11.0]`
+- **核心要点**: 伝統産業（技）・生体調律ウェア（衣）・医食同源孝弁（食）・宮大工木組み（住）・地下水脈防護（地）・道路現状復旧欺瞞粉砕（道）・新地域銀行（金）・急性期臨床本位（医）の統合。最新法制として、**空家特措法改正（管理不全空家指導・活用促進区域・支援法人）**、**区分所有法改正（所在不明者除外多数決・管理不全建物管理人）**、および**行政・司法書士主導による孤独高齢者「公正証書遺言・死後事務委任契約」完全伴走**を正式統合。
 
 ### 🌐 9. 世界民族コモンズ納税仕様書（SPEC-009: 越境P2P実物互恵）
 - 📄 **仕様書**: [docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md](./docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md) `[REF: JIN-SPEC-FIN-009]`
@@ -359,6 +369,7 @@
 
 ### 🏛️ 至高根本法規 ＆ 2026 最新深淵統治プロトコル（必読）
 - 📜 **[CONSTITUTION.md: 仁焔世界大憲章 2040（The Grand Charter of Jin-en）](./CONSTITUTION.md)**：リポジトリ最上位憲法。地球家族22の約束、Universal Code of Pome
+- 🏛️ **[SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス仕様書](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md)**：地上緑道・こども110番・IGS交番即応・空家マンション法務・出島セル・大深度動脈の全層統合
 - 🚇 **[SPEC-088: チョークポイント中立化・φ13.5m大深度複合地下回廊・IAAC調停仕様書](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)**：GL -48.5m大深度シールド、自動磁気浮上物流、不可侵調停回線、180m³/s非開削更生排水トンネル
 - 🌋 **[SPEC-020: 地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信仕様書](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)**：深層地熱ORC発電、スピーカー反転振動ハーベスター、IGS散乱逆問題3D透視、地殻弾性波通信 **(WIPO GREEN ID: 179888)**
 - 🌪️ **[SPEC-019: 風・海流複合デュアル運動エネルギー変換・深海DAS係留仕様書](./docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md)**：洋上風力×黒潮海流、自律姿勢安定、深海DASソナー、サクションバケット基礎 **(WIPO GREEN ID: 179886)**
@@ -373,6 +384,8 @@
 - 🌾 **[SPEC-013: 生体ミトコンドリア炭素隔離・籾殻炭モリブデン土壌再生](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)**：みどり麹、常温PET解重合、Bio-FOEAS水位制御 **(WIPO GREEN ID: 179881)**
 - 💧 **[LSU-CHAD-01: サヘル乾燥地帯オフグリッド自立水インフラ](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)**：太陽光無電力深層揚水、外来種バイオ炭化、オアシス都市 **(WIPO GREEN ID: 179882)**
 - 🏞️ **[SPEC-012: 公営管理公園・地下プレキャストRC雨水調整池・消火水利](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)**：内水氾濫防止、耐震消火水利、オアシス回廊 **(WIPO GREEN ID: 179883)**
+- 🛡️ **[SPEC-011: 公共道路防犯灯・IGS危険物透視カメラ・最短交番即応仕様書](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md)**：IGS非破壊凶器検知、交番3〜5分臨場、不可逆マスキング、こども110番
+- 🌾 **[SPEC-008: 八柱民草主権仕様書（技・衣・食・住・地・道・金・医）](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)**：空家特措法改正、区分所有法改正、公的終活（公正証書遺言・死後事務委任）完全伴走
 - 🛡️ **[JIN-SPEC-ENG-084: 自律分散都市防衛仕様（逆螺旋の計）](./docs/JIN-SPEC-ENG-084-CounterSpiral.md)**：透水性舗装、バイオスウェル、多重ループ自立セル
 - 🪙 **[JIN-SPEC-TOKEN-012: 市民インフラ保全証明トークノミクス](./docs/JIN-SPEC-TOKEN-012-PoCI.md)**：実体労働ミント、新通貨JIN、インフラ減価還元
 - 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正、AI・メガファブの熱力学解体
@@ -466,7 +479,7 @@
 | リポジトリ | 役割 | リンク |
 | :--- | :--- | :--- |
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（大深度回廊 SPEC-088 ＆ 地殻透視発電 SPEC-020 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（地域基盤 SPEC-021 ＆ 大深度回廊 SPEC-088 ＆ 地殻透視発電 SPEC-020 統合） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -478,4 +491,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.3 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / SPEC-088-CCNP-RATIFIED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-GEO-020 RATIFIED / JIN-SPEC-OCEAN-019 RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / WIPO-GREEN-PORTFOLIO-10-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 66-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V11.4 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED (CONSTITUTION.md) / 2040-GRAND-CHARTER-INTEGRATED / SPEC-021-CIVIC-COMMONS-RATIFIED / SPEC-088-CCNP-RATIFIED / PROT-0926-TO-0940-CANONICAL-INTEGRATED / JIN-GRAND-MANDATE RATIFIED / 2026-AUTUMN-DECLARATION RATIFIED / JIN-SPEC-GEO-020 RATIFIED / JIN-SPEC-OCEAN-019 RATIFIED / JIN-SPEC-HYDRO-018 RATIFIED / JIN-SPEC-ENG-084 RATIFIED / JIN-SPEC-TOKEN-012 RATIFIED / SPEC-017 RATIFIED / SPEC-016 RATIFIED / SPEC-015 RATIFIED / SPEC-014 RATIFIED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011-REV2-RATIFIED / SPEC-010 RATIFIED / SPEC-008-REV11-RATIFIED / WIPO-GREEN-PORTFOLIO-10-RATIFIED (ID: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888) / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 67-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
