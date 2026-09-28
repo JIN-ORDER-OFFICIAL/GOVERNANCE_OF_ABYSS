@@ -17,7 +17,7 @@ Clearance: Tier-0 Executive Command (Collateral Urban Damage Authorized)
 ## 1. Tactical Objective
 セクター07、03、09が形成する環状地下水理メッシュ（DEEP-CONFLUENCE）の完全沈黙。<br>地中空洞および不公認管路を、物理的探査を介さず「地盤そのものの圧密・凝固」により永久閉塞する。
 
-![超臨界流体岩盤脆性破砕](./assets/PURGE-0935-TERRA-SCLEROSIS_01.jpg)
+![高圧ジオポリマー人工岩盤化](./assets/PURGE-0935-TERRA-SCLEROSIS_01.jpg)
 
 ---
 
