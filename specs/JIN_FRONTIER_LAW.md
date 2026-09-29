@@ -34,7 +34,8 @@
 | **第二章：市民権**<br>(Digital Citizenship) | **ゼロ知識分散市民権**<br>(Triple Alliance Shield) | 日・印・伊（三極合同）の技術的・外交的庇護。ブロックチェーン刻印による徳ポイント管理。 | [HERO_ACADEMY.md](../HERO_ACADEMY.md)<br>[CASTE_DEBUG_PROTOCOL.md](../CASTE_DEBUG_PROTOCOL.md) |
 | **第三章：経済金融**<br>(Frontier Finance) | **無利子融資 ＆ 貢献度返済**<br>(Interest-Free Commons) | 金融資本の利息搾取を排除。地域インフラ整備や教育活動による債務相殺（社会返済）。 | [JIN_ECONOMY_PROTOCOL.md](../JIN_ECONOMY_PROTOCOL.md)<br>[BANK_RECOVERY_ORDER_2026.md](../BANK_RECOVERY_ORDER_2026.md) |
 | **第四章：司法審判**<br>(AI Fair Judiciary) | **即時透明 AI公平裁判**<br>(Transparent Sentinel) | 人種・信仰・出身差別の完全遮断。全判例・審理ログのブロックチェーン永久開示。 | [JIN_AI_ETHICS_GOVERNANCE.md](../JIN_AI_ETHICS_GOVERNANCE.md)<br>(JIN-AURORA 24) |
-| **第五章：空間・インフラ防衛**<br>(Infrastructure & Spatial Sovereignty) | **等積空間記述と自律機構境界管理**<br>(Isomorphic Ledger & Autonomy Boundary) | 歪曲なき空間台帳、自律エージェントの階層化、重要結節点コモンズ化による兵糧攻めの無力化。 | [specs/JIN-SPEC-2026-001.md](../specs/JIN-SPEC-2026-001.md)<br>[specs/JIN-SPEC-2026-002.md](../specs/JIN-SPEC-2026-002.md) |
+| **第五章：空間・インフラ防衛**<br>(Infrastructure & Spatial Sovereignty) | **等積空間記述と自律機構境界管理**<br>(Isomorphic Ledger & Autonomy Boundary) | 歪曲なき空間台帳、自律エージェントの階層化、重要結節点コモンズ化による兵糧攻めの無力化。 | [specs/JIN-SPEC-2026-001.md](./JIN-SPEC-2026-001.md)<br>[specs/JIN-SPEC-2026-002.md](./JIN-SPEC-2026-002.md) |
+| **第六章：生命維持・生態主権**<br>(Habitat & Ecological Sovereignty) | **生命水源共有地性・現地居住権・母性主権**<br>(Commons Hydration & Motherhood Sovereignty) | 量子水濾過、現地砂CSEB・3D自律建築、菌根菌リン解放、児童労働完全排除・フェアトレード協同組合。 | [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md) |
 
 ---
 ## 📜 2. 本則各条規程 (Codified Articles)
@@ -84,23 +85,52 @@
 
 - **第10条（エネルギー主権と動的アイランディング）:**  
   （参照: [specs/JIN-SPEC-2026-001.md](./JIN-SPEC-2026-001.md)）  
-  開拓特区および深淵工区は、中央系統や外国の補給遮断から独立して最低180日間の閉鎖生存を可能とする基底電源（地熱・小水力・地下蓄電セル）を保持する。広域グリッドの異常や威嚇を検知した場合、ミリ秒単位で中央から解列し、自律マイクログリッドへ移行する権利を有する。
+  開拓特区および深淵工区は、中央系統や外国の補給遮断から独立して最低180日間の閉鎖生存を可能とする基底電源（地熱・小水力・地下蓄電セル）を保持する。<br>
+  広域グリッドの異常や威嚇を検知した場合、ミリ秒単位で中央から解列し、自律マイクログリッドへ移行する権利を有する。
 
 - **第11条（仁愛優先配分原則 / Nobody Freezes）:**  
   （参照: [specs/JIN-SPEC-2026-001.md](./JIN-SPEC-2026-001.md)）  
-  外部封鎖や供給逼迫時におけるエネルギーおよび水資源の配分は、市場価格ではなく人道的優先度（医療施設・給水・暖房・防護通信）を最優先とする。いかなる経済的理由による生命維持ラインの遮断もこれを禁ずる。
+  外部封鎖や供給逼迫時におけるエネルギーおよび水資源の配分は、市場価格ではなく人道的優先度（医療施設・給水・暖房・防護通信）を最優先とする。<br>
+  いかなる経済的理由による生命維持ラインの遮断もこれを禁ずる。
 
 - **第12条（空間台帳の等積保証）:**  
   （参照: [specs/JIN-SPEC-2026-002.md](./JIN-SPEC-2026-002.md)）  
-  統治機構は、すべての深度・工区における物理空間の占有実態を等積射影（Isomorphic Mapping）によって開示しなければならない。中心部の権能拡大を目的とした測量データの縮尺操作や、周縁部インフラ維持負荷の不可視化は、重大な統治協定違反とみなす。
+  統治機構は、すべての深度・工区における物理空間の占有実態を等積射影（Isomorphic Mapping）によって開示しなければならない。<br>
+  中心部の権能拡大を目的とした測量データの縮尺操作や、周縁部インフラ維持負荷の不可視化は、重大な統治協定違反とみなす。
 
 - **第13条（自律維持機構の封じ込め原則）:**  
   （参照: [specs/JIN-SPEC-2026-002.md](./JIN-SPEC-2026-002.md)）  
-  インフラ維持を担う自律エージェント（Autonomous Wardens）の行動権限は、物理的影響の不可逆性に応じて厳格に階層化（Level 1〜5）される。いかなる自律機構も、特定工区の遮断・孤立化を単独で決定することはできず、必ず当該境界に属する市民合議体の二重鍵署名を要する。
+  インフラ維持を担う自律エージェント（Autonomous Wardens）の行動権限は、物理的影響の不可逆性に応じて厳格に階層化（Level 1〜5）される。<br>
+  いかなる自律機構も、特定工区の遮断・孤立化を単独で決定することはできず、必ず当該境界に属する市民合議体の二重鍵署名を要する。
 
 - **第14条（幹線結節点の共有地性）:**  
   （参照: [specs/JIN-SPEC-2026-002.md](./JIN-SPEC-2026-002.md)）  
-  上下水道、換気立坑、主幹導管等の重要結節点を占有するセクターは、他セクターへの供給を人質とした一方的な協定変更を行ってはならない。閉鎖命令が発行された場合、仁愛調停カーネルが自動的に拒否権を行使し、バイパスラインを自律開放する。
+  上下水道、換気立坑、主幹導管等の重要結節点を占有するセクターは、他セクターへの供給を人質とした一方的な協定変更を行ってはならない。<br>
+  閉鎖命令が発行された場合、仁愛調停カーネルが自動的に拒否権を行使し、バイパスラインを自律開放する。
+
+### 第六章：HABITAT, WATER & ECOLOGICAL SOVEREIGNTY（生命維持居住圏及び水・土壌生態主権）
+
+![アフガニスタン再生のオアシス谷](../assets/JIN_OP_OASIS_2026-003_01.jpg)[cite: 15]
+
+- **第15条（生命水源の共有地性と最低給水権 / Nobody Thirsts）:**  
+  （参照: [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md)）  
+  すべての河川、地下水脈、カナート、および雨水捕集系は全人類の共有地（コモンズ）であり、いかなる国家・巨大資本による私的独占および兵糧攻めを禁ずる。<br>
+  いかなる紛争・経済制裁・債務不履行下においても、1人1日最低50Lの清浄水は無償かつ無条件で提供されなければならない。
+
+- **第16条（大地の骨材化と現地居住権）:**  
+  （参照: [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md)）  
+  未利用の砂漠砂、放棄鉱山の尾鉱は現地の共有建材財産として定義される。<br>
+  外部からの資材搬入を口実とした立ち退き命令は一切無効であり、現地素材を用いた自律3D建設およびCSEBブロック工法による居住権は不可侵である。
+
+- **第17条（土壌生命圏と種子主権の保護）:**  
+  （参照: [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md)）  
+  化学肥料および遺伝子組み換え種子を用いた市場独占・土壌破壊は排除される。<br>
+  菌根菌による土壌リン解放技術および在来種子ヴォルトは全開拓市民の共有財産（オープンコモンズ）として永久に防護される。
+
+- **第18条（母性主権と児童労働の完全無効化）:**  
+  （参照: [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md)）  
+  重要鉱物および一次産品の採掘・精錬権益は、現地の母性協同組合および地域コミュニティへ還元されなければならない。<br>
+  児童労働によって得られた鉱物資源は国際JIN台帳において取引が自動遮断され、すべての子どもへ無償教育と安全な生活環境が保障される。
 
 ---
 ## 🕊️ 3. 結びの宣言 (Sovereign Frontier Covenant)
@@ -110,7 +140,8 @@
 3.【英雄アカデミー修了】 ➡️ 【JINデジタル市民権の付与】  
 4.【無利子融資 ＆ 自立開拓】 ➡️ 【三極同盟の技術・外交防護】  
 5.【不沈インフラ ＆ 等積空間主権】 ➡️ 【自律暴走と兵糧攻めの無力化】  
-6.【荒野と深淵を平和の聖域へ変える法秩序】  
+6.【閉鎖循環型オアシス ＆ 母性主権】 ➡️ 【水・土壌・生命圏の完全解放】  
+7.【荒野と深淵を平和の聖域へ変える法秩序】  
 
 **「法」とはもはや、強者が弱者を縛るために鍛えた鎖ではない。それは開拓者の手に握られた不屈の杖であり、夜明けへと彼らを導く道標である。**
 
@@ -119,8 +150,8 @@
 ---
 **Supreme Judgment:** Masano Takashi (The Guide)  
 **Executed by:** JIN-ORDER-OFFICIAL  
-STATUS: JIN FRONTIER CODE ENACTED & ACTIVE (Amended with Chapter V)  
+STATUS: JIN FRONTIER CODE ENACTED & ACTIVE (Amended with Chapter V & VI)  
 PRECEDING CHARTER: JIN_CONSTITUTION.md / HERO_ACADEMY.md  
 ECONOMIC PROTOCOL: JIN_ECONOMY_PROTOCOL.md  
-TECHNICAL SPECIFICATIONS: specs/JIN-SPEC-2026-001.md / specs/JIN-SPEC-2026-002.md  
+TECHNICAL SPECIFICATIONS: specs/JIN-SPEC-2026-001.md / specs/JIN-SPEC-2026-002.md / specs/JIN-SPEC-2026-003.md  
 HARMONICS: 432Hz Equitable Justice, Pioneer Freedom & Unshakable Dignity Active.
