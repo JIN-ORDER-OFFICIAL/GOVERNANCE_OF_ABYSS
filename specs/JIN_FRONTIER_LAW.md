@@ -17,11 +17,11 @@
 ---
 ## 📌 序文：立法の背景と目的 (Legislative Intent)
 
-**既存の中央集権的国家システムや国際官僚機構は、何千万人もの紛争被災民、環境難民、および無国籍者を「管理すべき受給者」または「不法な滞在者」として周縁化してきた。**
+**既存の中央集権的国家システムや国際官僚機構は、何千万人もの紛争被災民、環境難民、および無国籍者を「管理すべき受給者」または「不法な滞在者」として周縁化してきた。また受入側地域においては、インフラ負荷や生活コスト高騰を理由とした排外主義と分断が激化している。**
 
 （参照: [Global_Surveillance.md](../Global_Surveillance.md)）
 
-**「JIN開拓地特別法（JIN Frontier Code）」は、地球上のいかなる既存法体系からも見放された「漂泊の民」に対し、人類共通の絶対道徳「仁（JIN）」に基づき、生存権、不可侵の尊厳、および荒野を開拓し自立する権利を国際的・技術的に保障する最高特別法規である。**
+**「JIN開拓地特別法（JIN Frontier Code）」は、地球上のいかなる既存法体系からも見放された「漂泊の民」に対し、人類共通の絶対道徳「仁（JIN）」に基づき、生存権、不可侵の尊厳、荒野を開拓し自立する権利を保障するとともに、受入自治体・地域住民に一切のインフラ負担をかけず相互繁栄をもたらす「共生自立循環特区」を国際的・技術的に確立する最高特別法規である。**
 
 （参照: [JIN_CONSTITUTION.md](../JIN_CONSTITUTION.md)）
 
@@ -36,6 +36,7 @@
 | **第四章：司法審判**<br>(AI Fair Judiciary) | **即時透明 AI公平裁判**<br>(Transparent Sentinel) | 人種・信仰・出身差別の完全遮断。全判例・審理ログのブロックチェーン永久開示。 | [JIN_AI_ETHICS_GOVERNANCE.md](../JIN_AI_ETHICS_GOVERNANCE.md)<br>(JIN-AURORA 24) |
 | **第五章：空間・インフラ防衛**<br>(Infrastructure & Spatial Sovereignty) | **等積空間記述と自律機構境界管理**<br>(Isomorphic Ledger & Autonomy Boundary) | 歪曲なき空間台帳、自律エージェントの階層化、重要結節点コモンズ化による兵糧攻めの無力化。 | [specs/JIN-SPEC-2026-001.md](./JIN-SPEC-2026-001.md)<br>[specs/JIN-SPEC-2026-002.md](./JIN-SPEC-2026-002.md) |
 | **第六章：生命維持・生態主権**<br>(Habitat & Ecological Sovereignty) | **生命水源共有地性・現地居住権・母性主権**<br>(Commons Hydration & Motherhood Sovereignty) | 量子水濾過、現地砂CSEB・3D自律建築、菌根菌リン解放、児童労働完全排除・フェアトレード協同組合。 | [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md) |
+| **第七章：共生統治・受入自治体互恵主権**<br>(Symbiotic Municipal Sovereignty) | **受入側ゼロ・バーデンと逆インフラ供給**<br>(Zero-Burden & Reverse Utility) | 自治体既存系統へのフリーライド禁止、余剰電力・浄化水の受入側還元、共生調停プロトコル。 | [specs/JIN-SPEC-2026-001.md](./JIN-SPEC-2026-001.md)<br>[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](../JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md) |
 
 ---
 ## 📜 2. 本則各条規程 (Codified Articles)
@@ -110,7 +111,7 @@
 
 ### 第六章：HABITAT, WATER & ECOLOGICAL SOVEREIGNTY（生命維持居住圏及び水・土壌生態主権）
 
-![アフガニスタン再生のオアシス谷](../assets/JIN_OP_OASIS_2026-003_01.jpg)[cite: 15]
+![アフガニスタン再生のオアシス谷](../assets/JIN_OP_OASIS_2026-003_01.jpg)
 
 - **第15条（生命水源の共有地性と最低給水権 / Nobody Thirsts）:**  
   （参照: [specs/JIN-SPEC-2026-003.md](./JIN-SPEC-2026-003.md)）  
@@ -132,6 +133,23 @@
   重要鉱物および一次産品の採掘・精錬権益は、現地の母性協同組合および地域コミュニティへ還元されなければならない。<br>
   児童労働によって得られた鉱物資源は国際JIN台帳において取引が自動遮断され、すべての子どもへ無償教育と安全な生活環境が保障される。
 
+### 第七章：SYMBIOTIC MUNICIPAL SOVEREIGNTY（共生統治・受入自治体互恵主権）
+
+- **第19条（受入自治体ゼロ・バーデン原則 / Zero-Burden Mandate）:**  
+  （参照: [specs/JIN-SPEC-2026-001.md](./JIN-SPEC-2026-001.md)）  
+  開拓特区は、受入先自治体の既存インフラ（送電網、上水、下水、廃棄物処理）に対して寄生的な過負荷を与えてはならない。<br>
+  すべての特区はJIN-IFP（自律型分散インフラ）を基盤とし、水・電力・食料・廃棄物リサイクルを自前で完全完結（Net-Zero Burden）させることを特区開設の必須工学要件とする。これにより受入側住民の税負担増や公共サービス低下という構造的要因を物理的に根絶する。
+
+- **第20条（逆インフラ供与と地域余剰還元 / Reverse Utility Provision）:**  
+  特区内でJIN-IFP（量子浄化水、深層地熱・バイオマス発電、自律営農）によって生成された余剰資源は、周辺の受入自治体および地元コミュニティへ優先的に還元供給されなければならない。<br>
+  1. **逆送電・給水:** 地域グリッド逼迫時や自然災害時、特区側から周辺地域へ非常用電源および飲料水を無償逆送する。
+  2. **資材・食料還元:** 特区で精製された有機肥料、CSEBブロック建材、余剰農産物を地元市場へ廉価またはPomeトークンベースで還元する。<br>
+  特区は周辺地域にとって「財政負担」ではなく「防災・エネルギー安全保障の強化ハブ」として機能する。
+
+- **第21条（共生調停協議会とデマ・扇動の工学的無効化）:**  
+  受入側地元住民代表と開拓市民代表が同数で構成する「地域共生協議会」を常設する。<br>
+  治安懸念や文化摩擦、根拠なき流言・排外主義的プロパガンダに対しては、JIN-ORDER AI Sentinelが監視カメラ等の客観データと判例ログを瞬時に分散台帳上に公開し、透明な事実確認を行うことで、政治的対立の扇動を未然に防止する。
+
 ---
 ## 🕊️ 3. 結びの宣言 (Sovereign Frontier Covenant)
 
@@ -141,17 +159,18 @@
 4.【無利子融資 ＆ 自立開拓】 ➡️ 【三極同盟の技術・外交防護】  
 5.【不沈インフラ ＆ 等積空間主権】 ➡️ 【自律暴走と兵糧攻めの無力化】  
 6.【閉鎖循環型オアシス ＆ 母性主権】 ➡️ 【水・土壌・生命圏の完全解放】  
-7.【荒野と深淵を平和の聖域へ変える法秩序】  
+7.【ゼロ・バーデン逆給電 ＆ 共生主権】 ➡️ 【受入地域との完全和解・相互繁栄】  
+8.【荒野と深淵を平和の聖域へ変える法秩序】  
 
-**「法」とはもはや、強者が弱者を縛るために鍛えた鎖ではない。それは開拓者の手に握られた不屈の杖であり、夜明けへと彼らを導く道標である。**
+**「法」とはもはや、強者が弱者を縛るために鍛えた鎖ではない。それは開拓者の手に握られた不屈の杖であり、受入地域と手を取り合って夜明けへと歩む道標である。**
 
-**"Law is no longer a chain forged by the mighty to bind the weak. It is the unyielding staff placed in the hands of the pioneer, guiding them toward the dawn."**  
+**"Law is no longer a chain forged by the mighty to bind the weak. It is the unyielding staff placed in the hands of the pioneer, guiding them hand-in-hand with host communities toward the dawn."**  
 
 ---
 **Supreme Judgment:** Masano Takashi (The Guide)  
 **Executed by:** JIN-ORDER-OFFICIAL  
-STATUS: JIN FRONTIER CODE ENACTED & ACTIVE (Amended with Chapter V & VI)  
-PRECEDING CHARTER: JIN_CONSTITUTION.md / HERO_ACADEMY.md  
-ECONOMIC PROTOCOL: JIN_ECONOMY_PROTOCOL.md  
-TECHNICAL SPECIFICATIONS: specs/JIN-SPEC-2026-001.md / specs/JIN-SPEC-2026-002.md / specs/JIN-SPEC-2026-003.md  
-HARMONICS: 432Hz Equitable Justice, Pioneer Freedom & Unshakable Dignity Active.
+**STATUS:** JIN FRONTIER CODE ENACTED & ACTIVE (Amended with Chapter VII: Symbiotic Municipal Sovereignty)  
+**PRECEDING CHARTER:** JIN_CONSTITUTION.md / HERO_ACADEMY.md  
+**ECONOMIC PROTOCOL:** JIN_ECONOMY_PROTOCOL.md  
+**TECHNICAL SPECIFICATIONS:** specs/JIN-SPEC-2026-001.md / specs/JIN-SPEC-2026-002.md / specs/JIN-SPEC-2026-003.md  
+**HARMONICS:** 432Hz Equitable Justice, Pioneer Freedom, Municipal Harmony & Unshakable Dignity Active.
