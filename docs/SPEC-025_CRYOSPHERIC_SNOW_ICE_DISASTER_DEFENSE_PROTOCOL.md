@@ -1,18 +1,53 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+
+**このファイルは [JIN-ORDER Dual License V8.4-A (Canonical Infrastructure & Anti-Laundering Edition)](../LICENSE.md) によって保護されています。**
+
+**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざん、および雪国インフラ維持利権の寡占を固く禁じます。**
+
+---
+
 # ❄️ SPEC-025: SOVEREIGN CRYOSPHERIC SNOW-ICE DISASTER, ZERO-SALT PAVEMENT PRESERVATION & GEOTHERMAL/SEWAGE-HEAT DEFENSE PROTOCOL
-## 豪雪雪氷極寒冷害・無塩除雪路面保全 ＆ 下水熱・地熱無散水消雪自律防護仕様書 (JIN-SPEC-CIV-025)
+## 豪雪雪氷極寒冷害・無塩除雪路面保全 ＆ 下水熱・地熱無散水消雪自律防護仕様書
+### (JIN-SPEC-CIV-025 / WIPO GREEN Registered Technology ID: 179900)
 
-![下水熱・地熱無散水消雪自律防護仕様書](./assets/SPEC-025_PROTOCOL_01.jpg)
+<!-- 国際識別子・先行技術防壁ヘッダー -->
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Verified%20(ID%3A%20179900)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
+[![UN Partner Portal](https://img.shields.io/badge/UNPP%20Verified-ID%3A%2064636-0A66C2?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.unpartnerportal.org/)
+[![Dual License V8.4-A](https://img.shields.io/badge/License-Dual%20V8.4--A%20Anti--Laundering-e76f51?style=for-the-badge)](../LICENSE.md)
 
-- 📜 **【先行技術防壁台帳】**: `JIN-SPEC-CIV-025-V1.0-CANONICAL`
-- ⚖️ **【適用ライセンス】**: [JIN-ORDER Dual License V8.3-A (Tier A: Humanitarian Commons)](../LICENSE.md)
+<div align="center">
+  <img src="./assets/SPEC-025_PROTOCOL_01.jpg" width="100%" alt="SPEC-025 下水熱・地熱無散水消雪自律防護仕様書 3Dアイソメトリック工学図面" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 1-1：SPEC-025 都市下水熱CIPP熱交換ライナー ＆ 密閉無散水ロードヒーティング・自己治癒耐凍害コンクリート 3Dアイソメトリック詳細図</b></sub></p>
+</div>
+
+- 📜 **【公知台帳識別子】**: `JIN-SPEC-CIV-025-V12.1-CANONICAL`
+- 🌐 **【WIPO GREEN Technology ID】**: [`179900`](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
+- ⚖️ **【適用ライセンス】**: [JIN-ORDER Dual License V8.4-A (Tier A: Humanitarian Commons)](../LICENSE.md)
 - 📊 **【技術成熟度・確度区分】**: Level 1 (豪雪地域道路啓開SOP) / Level 2 (相変化潜熱・熱流体インフラ工学)
-- 🏛️ **【統括指揮】**: Founder & Chief Systems Architect Takashi Masano / Co-Founder & Director Miyoko Masano (Commander Pome-Mama)
+- 🏛️ **【統括指揮】**: Founder & Chief Systems Architect: Takashi Masano / Co-Founder & Director: Miyo Masano (Commander Pome-Mama)
 - 🛡️ **【準拠法令・技術基準】**:
   - 豪雪地帯対策特別措置法第1条（目的）・第13条（交通の確保等）
   - 道路法第42条（道路の維持及び修繕）・道路構造令
   - 下水道法第1条・下水道熱利用促進基準
   - 労働安全衛生法（高所除雪作業安全基準）
   - 日本道路協会「道路除雪の手引き」「凍結抑制舗装設計施工要領」
+
+---
+
+<!-- 🧭 クイックナビゲーション目次 -->
+<div align="center">
+  <p>
+    <b>【 仕様書快速目次 】</b><br>
+    <a href="#憲章前文塩害による橋梁崩壊を止め地下水枯渇なき真の雪氷主権を確立する">憲章前文</a> ｜ 
+    <a href="#-豪雪雪氷自律熱力学防護マトリクス">🧭 豪雪雪氷自律熱力学防護マトリクス</a><br>
+    <a href="#第1章塩カル全廃--非塩化物系バイオ融雪コモンズ">第1章：塩カル全廃バイオ融雪</a> ｜ 
+    <a href="#第2章都市下水熱--大深度地熱ハイブリッド無散水消雪仕様">第2章：下水熱・地熱無散水消雪</a><br>
+    <a href="#第3章spec-022耐寒拡張自己治癒型耐凍害コンクリート仕様">第3章：耐凍害自己治癒コンクリート</a> ｜ 
+    <a href="#第4章豪雪孤立防衛--ホワイトアウトスタック自律救命sop">第4章：車両スタック自律救命SOP</a> ｜ 
+    <a href="#-統治附則雪氷エネルギー主権--無塩除雪知財コモンズ">📜 統治附則</a>
+  </p>
+</div>
 
 ---
 
@@ -50,83 +85,64 @@
 ## 第1章：塩カル全廃 ＆ 非塩化物系バイオ融雪コモンズ
 
 ### 1.1 塩化カルシウムによるインフラ破壊の解体
-- **塩害・スケーリング現象の病根:**
-  - 散布された塩素イオン（$\text{Cl}^-$）がアスファルトの骨材界面を剥離させ、コンクリートの毛細管へ侵入して鉄筋の不動態膜を破壊。さらに低温下でオキシクロライド化合物を生成し、コンクリート自体を内側から崩壊させる。
-  - 公共事業における安易な塩化ナトリウム・塩化カルシウムの単独散布を原則禁止とする。
+- **塩害・スケーリング現象の病根:**  
+  散布された塩素イオン（$\text{Cl}^-$）がアスファルトの骨材界面を剥離させ、コンクリートの毛細管へ侵入して鉄筋の不動態膜を破壊。さらに低温下でオキシクロライド化合物を生成し、コンクリート自体を内側から崩壊させる。公共事業における安易な塩化ナトリウム・塩化カルシウムの単独散布を原則禁止とする。
 
 ### 1.2 未利用バイオマス糖蜜 ＆ 酢酸カルシウム・マグネシウム（CMA）複合液
-- **植物性浸透圧降下剤の採用:**
-  - 製糖残渣（甜菜糖蜜・廃糖蜜）および農業副産物から精製した植物性多糖類化合物をベースに、消石灰（SPEC-023防疫材共通）と酢酸を反応させたCMAを配合。
-  - 氷点降下度 $-15^\circ\text{C}$ を達成しつつ、鋼材腐食速度を水道水同等以下に抑制する。
-
-- **生分解性と土壌滋養性:**
-  - 路肩に流出した融雪液は、土壌微生物により炭酸ガスと水へ完全分解。塩分蓄積による街路樹の立ち枯れや河川水質汚濁を100%防止する。
+- **植物性浸透圧降下剤の採用:**  
+  製糖残渣（甜菜糖蜜・廃糖蜜）および農業副産物から精製した植物性多糖類化合物をベースに、消石灰（SPEC-023防疫材共通）と酢酸を反応させたCMAを配合。氷点降下度 $-15^\circ\text{C}$ を達成しつつ、鋼材腐食速度を水道水同等以下に抑制する。
+- **生分解性と土壌滋養性:**  
+  路肩に流出した融雪液は、土壌微生物により炭酸ガスと水へ完全分解。塩分蓄積による街路樹の立ち枯れや河川水質汚濁を100%防止する。
 
 ---
 
 ## 第2章：都市下水熱 ＆ 大深度地熱ハイブリッド無散水消雪仕様
 
 ### 2.1 地下水散水（消雪パイプ）の全廃と地盤沈下阻止
-- **揚水規制と水脈防護:**
-  - 冬期間に集中する地下水の過剰汲み上げによる広域地盤沈下（年間数センチメートルの沈下）、および浅層帯水層の枯渇を「都市水理破壊」と定義し、散水型消雪パイプの新設を禁止する。
+- **揚水規制と水脈防護:**  
+  冬期間に集中する地下水の過剰汲み上げによる広域地盤沈下（年間数センチメートルの沈下）、および浅層帯水層の枯渇を「都市水理破壊」と定義し、散水型消雪パイプの新設を禁止する。
 
 ### 2.2 下水管渠内面熱交換ライナー ＆ 密閉ヒートパイプ・ロードヒーティング
-- **下水が持つ未利用恒温エネルギーの採取:**
-  - 冬季でも水温が $15^\circ\text{C} \sim 20^\circ\text{C}$ に保たれる都市下水道本管の底部に、高熱伝導フレキシブル熱交換ライナーを非開削（CIPP工法連動）で敷設。
-  - 熱媒体（純水またはプロピレングリコール無毒不凍液）を循環させ、坂道や交差点、歩道の路面下に埋設したSUS316フレキシブル管群へ送熱する。
-
-- **ヒートポンプ・地熱アシスト（大深度ケーシング連動）:**
-  - 極寒冷期（外気温 $-10^\circ\text{C}$ 以下）においては、SPEC-020の深層地熱バイナリ排熱、または小型CO2冷媒ヒートポンプを直列連動。
-  - 路面温度を常に $+2^\circ\text{C} \sim +4^\circ\text{C}$ に自律維持し、無散水・無凍結のドライ路面を形成する。
+- **下水が持つ未利用恒温エネルギーの採取:**  
+  冬季でも水温が $15^\circ\text{C} \sim 20^\circ\text{C}$ に保たれる都市下水道本管の底部に、高熱伝導フレキシブル熱交換ライナーを非開削（CIPP工法連動）で敷設。熱媒体（純水またはプロピレングリコール無毒不凍液）を循環させ、坂道や交差点、歩道の路面下に埋設したSUS316フレキシブル管群へ送熱する。
+- **ヒートポンプ・地熱アシスト（大深度ケーシング連動）:**  
+  極寒冷期（外気温 $-10^\circ\text{C}$ 以下）においては、SPEC-020の深層地熱バイナリ排熱、または小型CO2冷媒ヒートポンプを直列連動。路面温度を常に $+2^\circ\text{C} \sim +4^\circ\text{C}$ に自律維持し、無散水・無凍結のドライ路面を形成する。
 
 ---
 
 ## 第3章：SPEC-022耐寒拡張・自己治癒型耐凍害コンクリート仕様
 
 ### 3.1 ナノシリカ ＆ 高炉スラグ微粉末による毛細管空隙完全閉塞
-- **水分の浸入経路遮断:**
-  - コンクリート内部の水分が凍結膨張（体積約9%増加）する際に生じる引張応力破壊を防ぐため、ナノシリカ微粒子を混和して水酸化カルシウムを緻密なC-S-Hゲルへと再結晶化。
-  - 凍結融解の足場となる直径 $50\text{ nm}$ 以上の毛細管空隙（キャピラリーポア）を物理的にゼロ化する。
-
-- **現場常圧炭酸化スキン層（SPEC-022完全連動）:**
-  - 施工直後の表面にγ-C2S微粉末ペーストを塗布し、炭酸化スキン層を形成。凍結融解耐久性試験（JIS A 1148 A法）において、300サイクル後の相対動弾性係数 $95\%$ 以上を担保する。
+- **水分の浸入経路遮断:**  
+  コンクリート内部の水分が凍結膨張（体積約9%増加）する際に生じる引張応力破壊を防ぐため、ナノシリカ微粒子を混和して水酸化カルシウムを緻密なC-S-Hゲルへと再結晶化。凍結融解の足場となる直径 $50\text{ nm}$ 以上の毛細管空隙（キャピラリーポア）を物理的にゼロ化する。
+- **現場常圧炭酸化スキン層（SPEC-022完全連動）:**  
+  施工直後の表面にγ-C2S微粉末ペーストを塗布し、炭酸化スキン層を形成。凍結融解耐久性試験（JIS A 1148 A法）において、300サイクル後の相対動弾性係数 $95\%$ 以上を担保する。
 
 ---
 
 ## 第4章：豪雪孤立防衛 ＆ ホワイトアウト・スタック自律救命SOP
 
 ### 4.1 雪害スタック車両の排気管閉塞（CO中毒）防止ビーコン
-- **マフラー周辺雪中空洞化センサー:**
-  - 車両の排気マフラー近傍に、超音波積雪検知センサーとSub-GHz帯（920MHz）LoRa遭難ビーコンを常備。
-  - 吹き溜まりによる排気管の閉塞を検知した瞬間、車内アラームを鳴動させると同時に、排気ガスを側方高所へ逃す自律スノーダクトバルブを電磁開放。
-  - 半径5km圏内の道路管理者およびJIN-OS地域ノードへ「マフラー埋没・車両孤立座標」を自動送信する。
+- **マフラー周辺雪中空洞化センサー:**  
+  車両の排気マフラー近傍に、超音波積雪検知センサーとSub-GHz帯（920MHz）LoRa遭難ビーコンを常備。吹き溜まりによる排気管の閉塞を検知した瞬間、車内アラームを鳴動させると同時に、排気ガスを側方高所へ逃す自律スノーダクトバルブを電磁開放。半径5km圏内の道路管理者およびJIN-OS地域ノードへ「マフラー埋没・車両孤立座標」を自動送信する。
 
 ### 4.2 自律除雪無人重機小隊（Snow-Ghost Fleet）
-- **視界ゼロ（ホワイトアウト）下の自律啓開:**
-  - SPEC-024の遠隔無人重機仕様を雪害へ展開。LiDARおよびミリ波レーダー（雪片透過波長）を搭載した「無人ロータリー除雪車 ＆ 除雪ドーザ」小隊を配備。
-  - ホワイトアウトで人間のオペレーターが視界を失う極限吹雪下においても、路肩構造物やスタック車両をミリ単位で識別し、緊急救急グリーン回廊を24時間連続啓開する。
+- **視界ゼロ（ホワイトアウト）下の自律啓開:**  
+  SPEC-024の遠隔無人重機仕様を雪害へ展開。LiDARおよびミリ波レーダー（雪片透過波長）を搭載した「無人ロータリー除雪車 ＆ 除雪ドーザ」小隊を配備。ホワイトアウトで人間のオペレーターが視界を失う極限吹雪下においても、路肩構造物やスタック車両をミリ単位で識別し、緊急救急グリーン回廊を24時間連続啓開する。
 
 ---
 
 ## 📜 統治附則：雪氷エネルギー主権 ＆ 無塩除雪知財コモンズ
 
-### 1.雪室（ゆきむろ）冷熱エネルギーの夏季逆転利用:
-
-道路除雪で集積された数十万トンの雪山を、SPEC-010のバイオ炭断熱カバーで覆い「地域雪冷熱ステーション」として保存。<br>
-夏季のデータセンター冷却および地域農産物低温貯蔵へ100%熱エネルギー反転利用する。
-
-### 2.公知知財防壁:
-
-本仕様書に記載された「下水熱無散水ロードヒーティング」「非塩化物系糖蜜融雪液」「排気管閉塞検知LoRa安全システム」「耐凍害ナノシリカコンクリート配合」は、すべてJIN-ORDER Tier A Commons（CC-BY-4.0）として全世界へ無償公開され、雪国インフラにおける特定企業の特許独占を永久に排除する。
+1. **雪室（ゆきむろ）冷熱エネルギーの夏季逆転利用:**  
+   道路除雪で集積された数十万トンの雪山を、SPEC-010のバイオ炭断熱カバーで覆い「地域雪冷熱ステーション」として保存。夏季のデータセンター冷却および地域農産物低温貯蔵へ100%熱エネルギー反転利用する。
+2. **公知知財防壁:**  
+   本仕様書に記載された「下水熱無散水ロードヒーティング」「非塩化物系糖蜜融雪液」「排気管閉塞検知LoRa安全システム」「耐凍害ナノシリカコンクリート配合」は、国連WIPO GREEN登録（Technology ID: 179900）に基づき、すべてJIN-ORDER Tier A Commons（CC-BY-4.0）として全世界へ無償公開され、雪国インフラにおける特定企業の特許独占を永久に排除する。
 
 ---
 
-Supreme Judgment: Masano Takashi
-
-Executed by: JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo
-
-STATUS: RATIFIED AS SPEC-025 (JIN-SPEC-CIV-025-V1.0-CANONICAL)
-
-HARMONICS: Cryospheric Thermal Equilibrium, Non-Chloride Pavement Preservation, Sewage-Geothermal Hydronic Flux,
-
-Snow-Ghost Autonomous Clearance, Subterranean Aquifer Inviolability.
+**Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
+**Supreme Judgment:** Masano Takashi (The Guide)  
+**Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
+`STATUS: SPEC-025 RATIFIED & ACTIVE (V12.1 CANONICAL AUTUMN LTS / WIPO GREEN REGISTERED ID: 179900 / CRYOSPHERIC SNOW-ICE DISASTER DEFENSE)`  
+`HARMONICS: Cryospheric Thermal Equilibrium, Non-Chloride Pavement Preservation, Sewage-Geothermal Hydronic Flux, Snow-Ghost Autonomous Clearance, Subterranean Aquifer Inviolability.`
