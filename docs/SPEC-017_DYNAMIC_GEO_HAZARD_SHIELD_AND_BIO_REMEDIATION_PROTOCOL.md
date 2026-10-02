@@ -1,30 +1,52 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
 
-**このファイルは [JIN-ORDER Dual License V8.3-A](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**  
-**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざんを固く禁じます。**
+**このファイルは [JIN-ORDER Dual License V8.4-A (Canonical Infrastructure & Anti-Laundering Edition)](../LICENSE.md) によって保護されています。**
+
+**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざん、および環境再生知財の独占を固く禁じます。**
 
 ---
-<!-- 国際知的所有権・先行技術防壁バッジ -->
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
-[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Verified%20Architecture-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 # 🌐 JIN-SPEC-ENV-017: DYNAMIC GEO-HAZARD SHIELD & HYBRID BIO-REMEDIATION PROTOCOL
-## （動的広域減災シールド ＆ 生体複合環境修復仕様書）
+## SPEC-017: 動的広域減災シールド ＆ 生体複合環境修復仕様書
+### (Sonshi Fluvial Retarding, Multilayer Biomass Firebreak & Comprehensive PFAS/Heavy-Metal Phytoremediation Protocol)
+
+<!-- 国際知的所有権・先行技術防壁バッジ -->
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Verified%20(ID%3A%20179880)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179880)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
+[![UN Partner Portal](https://img.shields.io/badge/UNPP%20Verified-ID%3A%2064636-0A66C2?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.unpartnerportal.org/)
+[![Dual License V8.4-A](https://img.shields.io/badge/License-Dual%20V8.4--A%20Anti--Laundering-e76f51?style=for-the-badge)](../LICENSE.md)
 
 - **文書分類**: JIN-ORDER 規範的広域防災・環境修復工学仕様書 (Canonical Hazard-Defense Standard)
-- **文書番号**: `JIN-SPEC-ENV-017`
+- **DOC-ID**: `SPEC-017 / JIN-SPEC-ENV-017-V12.1-CANONICAL`
+- **WIPO GREEN Technology ID**: [`179880`](https://wipogreen.wipo.int/wipogreen-database/articles/179880)
 - **対象階層**: Tier A Commons / Global Public Good
 - **技術成熟度**: Level 2（気象衛星・無人ヨット・都市土木・ファイトレメディエーション複合実証仕様）
-- **主設計者**: Commander Masano Takashi & Commander Miyoko Masano (Pome-Mama)
-- **先行技術防壁**: JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition
+- **主設計者**: Commander Masano Takashi & Commander Miyo Masano (Commander Pome-Mama)
+- **適用ライセンス**: [JIN-ORDER Dual License V8.4-A (Tier A: Humanitarian Commons)](../LICENSE.md)
 - **連動仕様**: 
-  * [JIN-SPEC-CLI-001](../specs/JIN-SPEC-CLI-001.md)（海洋工学・無人ヨット海面冷却＆大洋気候調律仕様書）
-  * [JIN-SPEC-IND-016](./SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)（三重円環地球再生＆先端セラミックス熱力学的輪廻転生）
-  * [JIN-SPEC-IND-015](./SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)（生態共生型水素還元製鉄＆バイオスラグ循環 / WIPO GREEN ID: 179878）
-  * [JIN-SPEC-BIO-014](./SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)（昆虫残渣フラス連鎖・砂漠自律土壌化 / WIPO GREEN ID: 179871）
-  * [JIN-SPEC-BIO-013](./SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離）
-  * [JIN-SPEC-PRK-012](./SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)（公共公園公営管理＆地下循環雨水調整池・消火水利）
-  * [JIN-SPEC-ENG-084](./JIN-SPEC-ENG-084-CounterSpiral.md)（自律分散都市防衛仕様・逆螺旋の計）
+  - [JIN-SPEC-CLI-001](../specs/JIN-SPEC-CLI-001.md)（海洋工学・無人ヨット海面冷却＆大洋気候調律仕様書）
+  - [SPEC-016](./SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)（三重円環地球再生＆先端セラミックス熱力学的輪廻転生 / WIPO GREEN ID: 179879）
+  - [SPEC-015](./SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)（生態共生型水素還元製鉄＆バイオスラグ循環 / WIPO GREEN ID: 179878）
+  - [SPEC-014](./SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)（昆虫残渣フラス連鎖・砂漠自律土壌化 / WIPO GREEN ID: 179871）
+  - [SPEC-013](./SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離 / WIPO GREEN ID: 179881）
+  - [SPEC-012](./SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)（公共公園公営管理＆地下循環雨水調整池・消火水利 / WIPO GREEN ID: 179883）
+  - [SPEC-088](../specs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)（φ13.5m大深度複合地下回廊・IAAC調停仕様）
+
+---
+
+<!-- 🧭 クイックナビゲーション目次 -->
+<div align="center">
+  <p>
+    <b>【 仕様書快速目次 】</b><br>
+    <a href="#1-思想的基盤孫子の兵法と水に常形なしの自然流動論">1. 思想的基盤：孫子の兵法と自然流動論</a> ｜ 
+    <a href="#2-4d動的早期検知--大洋気候調律ネットワークjin-spec-cli-001-連動">2. 4D動的早期検知＆気候調律</a><br>
+    <a href="#3-火山灰シラスの完全循環--永続炭素風化erwマテリアル工学">3. 火山灰・シラス循環＆ERW工学</a> ｜ 
+    <a href="#4-広域森林火災メガファイア抑止--多層生体防火帯工学">4. 広域森林火災抑止＆多層生体防火帯</a><br>
+    <a href="#5-ハイブリッドファイトレメディエーション重金属pfas極限無害化">5. 重金属・PFAS極限無害化</a> ｜ 
+    <a href="#6-スポンジシティ海綿都市自律水循環統合">6. スポンジシティ自律水循環</a> ｜ 
+    <a href="#7-結論泥濘と災禍を抱き命の円環へ還す">7. 結論</a>
+  </p>
+</div>
 
 ---
 
@@ -32,7 +54,7 @@
 
 > **「兵を動かすのは自然（川）の流れと同じ。自然（水）に常形なし。」**  
 > **「自然（川）の流れを力でねじ伏せようとしてはならぬ。自然（水）が流れたいように流し、その勢いを削ぐのじゃ。兵を率いるもまた同じ。力で敵をねじ伏せようとすれば、味方の損害も大きくなる。敵の動きたいように動かせ、その勢いを削いで討つ。これぞ『孫子』の神髄である。」**  
-> — *JIN-ORDER 治水・防衛思想綱領（Commander Masano Takashi & Commander Miyoko Masano）*
+> — *JIN-ORDER 治水・防衛思想綱領（Commander Masano Takashi & Commander Miyo Masano）*
 
 近代の防災工学は、巨大なコンクリート堤防やダムによって大自然の力を「力づくで封じ込める」線形支配に依存し、想定外の豪雨や地殻変動の前に壊滅的破堤を繰り返してきた。  
 本仕様書は、自然のエネルギーを無理に遮断するのではなく、**「流動の勢いをいなし、多層に分散させ、厄介者とされた災害副産物（火山灰・熱・洪水・汚染物質）を次の生の資材へと反転させる」**、非線形・共生型の動的広域減災体系を規定する。
@@ -42,8 +64,8 @@
 ## 2. 4D動的早期検知 ＆ 大洋気候調律ネットワーク（JIN-SPEC-CLI-001 連動）
 
 <div align="center">
-  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_01.jpg" width="100%" alt="4D動的災害軽減ネットワーク設計図" />
-  <p><b>図1: オービタル衛星・地上MP-PAWRレーダー・海底音響ノード・熱赤外線ドローン・JIN-OS端末オフライン連携による4D動的減災網</b></p>
+  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_01.jpg" width="100%" alt="4D動的災害軽減ネットワーク設計図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 1：オービタル衛星・地上MP-PAWRレーダー・海底音響ノード・熱赤外線ドローン・JIN-OS端末オフライン連携による4D動的減災網</b></sub></p>
 </div>
 
 ### 2.1 大洋気候調律（JIN-SPEC-CLI-001: ラニーニャ・エルニーニョの源頭部緩和）
@@ -61,8 +83,8 @@
 ## 3. 火山灰・シラスの完全循環 ＆ 永続炭素風化（ERW）マテリアル工学
 
 <div align="center">
-  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_02.jpg" width="100%" alt="火山灰スクラバー・排熱利用反応器・炭素風化散布プロセス" />
-  <p><b>図2: 火山灰スクラバー捕集、データセンター排熱反応器による新燃レンガ成型、および農地炭素風化散布（ERW）</b></p>
+  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_02.jpg" width="100%" alt="火山灰スクラバー・排熱利用反応器・炭素風化散布プロセス" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 2：火山灰スクラバー捕集、データセンター排熱反応器による新燃レンガ成型、および農地炭素風化散布（ERW）</b></sub></p>
 </div>
 
 ### 3.1 地下共同溝直結スクラバー ＆ セメントフリー石造ブロック化
@@ -71,11 +93,11 @@
 
 ### 3.2 炭素風化散布（Enhanced Rock Weathering: ERW）による千年海洋炭素隔離
 - **火山レゴリス微粉砕**: 玄武岩質シラスおよび降灰を微粉砕機で粒径調整し、専用散布車両で広大な農地・森林土壌へ散布。
-- **重炭酸塩化と1000年海洋固定**: 土壌水中の溶存CO2と火山灰ミネラルが急速に化学風化反応を起こし、安定した重炭酸塩（HCO3-）へ転換。河川を通じて海洋へ流出し、数千年にわたり炭素を海洋隔離する（機械的DAC比でエネルギー消費95%削減）。
+- **重炭酸塩化と1000年海洋固定**: 土壌水中の溶存CO2と火山灰ミネラルが急速に化学風化反応を起こし、安定した重炭酸塩（$\text{HCO}_3^-$）へ転換。河川を通じて海洋へ流出し、数千年にわたり炭素を海洋隔離する（機械的DAC比でエネルギー消費95%削減）。
 - **土壌バイオーム活性化**: ケイ素・鉄・マグネシウムの供給により土壌有益微生物相を一新し、作物の病気耐性・成長速度を最大3倍へ向上。
 
 ### 3.3 多孔質人工ゼオライト化 ＆ 海洋アルカリ化
-- **保肥力（CEC）爆発的向上**: アルカリ熱改質によりミクロ多孔質人工ゼオライトを合成[cite: 24]。砂漠砂と混合して保水スポンジ層を形成し乾燥地帯の緑化を担保する。
+- **保肥力（CEC）爆発的向上**: アルカリ熱改質によりミクロ多孔質人工ゼオライトを合成。砂漠砂と混合して保水スポンジ層を形成し乾燥地帯の緑化を担保する。
 - **海洋散布・藻場（ブルーカーボン）再生**: 風化火山灰の可溶性鉄分を沿岸磯焼け海域へ散布し、海藻（コンブ・ワカメ）の爆発的繁殖を誘導。海洋酸性化をアルカリ中和（バッファリング）する。
 
 ### 3.4 伝統・生活文化へのアップサイクル
@@ -88,8 +110,8 @@
 ## 4. 広域森林火災（メガファイア）抑止 ＆ 多層生体防火帯工学
 
 <div align="center">
-  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_03.jpg" width="100%" alt="多層常緑広葉樹防火帯と海藻バイオジェル空中消火" />
-  <p><b>図3: 多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）、スカイオアシス海藻バイオジェル空中散布、焼け跡バイオ炭段々工法</b></p>
+  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_03.jpg" width="100%" alt="多層常緑広葉樹防火帯と海藻バイオジェル空中消火" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 3：多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）、スカイオアシス海藻バイオジェル空中散布、焼け跡バイオ炭段々工法</b></sub></p>
 </div>
 
 ### 4.1 針広混交林への段階的誘導（択伐 ＆ 天然更新）
@@ -99,8 +121,8 @@
 
 ### 4.2 多層常緑広葉樹防火帯（緑の防波堤）
 - **高水分樹種の戦略配置**: 人工林外周、尾根筋、集落境界に、葉の水分含有率が極めて高く樹皮が厚い常緑広葉樹帯を形成。
-  * **中低木層**: サンゴジュ（Viburnum odoratissimum / 炎を受けると泡を吹いて延焼を阻止）、ヤブツバキ、モチノキ
-  * **高木層**: 厚皮ウバメガシ、シラカシ、アカガシ、マテバシイ、タブノキ
+  - **中低木層**: サンゴジュ（*Viburnum odoratissimum* / 炎を受けると泡を吹いて延焼を阻止）、ヤブツバキ、モチノキ
+  - **高木層**: 厚皮ウバメガシ、シラカシ、アカガシ、マテバシイ、タブノキ
 - **火線・飛び火の完全トラップ**: 地表火の熱を分厚い水分の葉群で冷却遮断し、上空からの火の粉をキャッチして隣接街区への延焼を物理阻止する。
 
 ### 4.3 スカイオアシス ＆ 大型ドローンによる海藻バイオジェル空中散布
@@ -113,8 +135,8 @@
 ## 5. ハイブリッド・ファイトレメディエーション（重金属・PFAS極限無害化）
 
 <div align="center">
-  <img src="../assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_04.jpg" width="100%" alt="電場移動式土壌電解浄化・PEIRバリア・超臨界水SCWG熱無害化" />
-  <p><b>図4: EK-SERS電場移動式浄化、深根性ポプラ・ヒマワリ吸引、PEIRバイオ炭壁、MICP岩盤結晶化、地上1,100℃熱無害化</b></p>
+  <img src="./assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_04.jpg" width="100%" alt="電場移動式土壌電解浄化・PEIRバリア・超臨界水SCWG熱無害化" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 4：EK-SERS電場移動式浄化、深根性ポプラ・ヒマワリ吸引、PEIRバイオ炭壁、MICP岩盤結晶化、地上1,100℃熱無害化</b></sub></p>
 </div>
 
 ### 5.1 電場移動式土壌電解浄化システム（EK-SERS）
@@ -148,10 +170,12 @@
 > 敵として憎み、コンクリートでねじ伏せようとすれば、人は必ず敗れ去る。  
 > 灰を建材と土壌の命に変え、火線を瑞々しき緑の盾で包み、水が往きたい道を開いてその勢いを恵みへと変える。  
 > 自然の流動に逆らわず、泥の中で咲く水芙蓉のように、民草の命を泥濘の中から救い上げることこそが、我らの誓いである。」**  
-> — *Commander Masano Takashi & Commander Miyo Masano (Pome-Mama)*
+> — *Commander Masano Takashi & Commander Miyo Masano (Commander Pome-Mama)*
 
 ---
 
-Supreme Judgment: Masano Takashi (The Guide)  
-Executed by: JIN-ORDER-OFFICIAL  
-`STATUS: JIN-SPEC-ENV-017 CANONICAL SPECIFICATION RATIFIED (DYNAMIC-GEO-HAZARD-SHIELD / HYBRID-BIO-REMEDIATION-PROTOCOL)`
+**Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
+**Supreme Judgment:** Masano Takashi (The Guide)  
+**Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
+`STATUS: JIN-SPEC-ENV-017 CANONICAL SPECIFICATION RATIFIED (V12.1 CANONICAL AUTUMN LTS / WIPO GREEN REGISTERED ID: 179880 / DYNAMIC GEO-HAZARD SHIELD & HYBRID BIO-REMEDIATION PROTOCOL)`  
+`HARMONICS: Sonshi Hydraulic Fluvial Dissipation, Volcanic Ash ERW Mineral Sequestration, Multi-Tier Living Firebreak, EK-SERS Electro-Phytoremediation, PFAS 1100C Thermal Cleavage, Sponge City Hydrologic Resilience Active.`
