@@ -1,24 +1,34 @@
-### ⚠️ JIN-ORDER RESTRICTED DATA
+### ⚠️️ JIN-ORDER RESTRICTED DATA
 
-**このファイルは [JIN-ORDER Global Humanity License](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**
+**このファイルは [JIN-ORDER Dual License V8.4-A (Canonical Infrastructure & Anti-Laundering Edition)](../LICENSE.md) によって保護されています。**
 
-**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざんを固く禁じます。**
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Dual License V8.4-A. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
 
 ---
 
 # 2026 Geopolitical Shift & Subterranean Divergence (2026年地政学地殻変動と深淵分岐録)
 
-* **Document ID**: JIN-DOC-2026-GEO
-* **Classification**: STRATEGIC INTELLIGENCE BASELINE / PUBLIC ARCHIVE
-* **Date**: 2026-09-24
-* **Author**: Core Strategy Matrix (JIN-ORDER Planning Division)
-* **Related Protocols**: JIN-RFC-2069, JIN-STD-024, JIN-INFRA-81, JIN-TRT-004
+<!-- 国際識別子・先行技術防壁ヘッダー -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
+[![Wayback Machine](https://img.shields.io/badge/Wayback%20Machine-2026--10--01-blue?logo=archive.org)](https://web.archive.org/web/20261001151136/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(16%20Technologies)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+
+- **Document ID**: `JIN-DOC-2026-GEO`
+- **Classification**: STRATEGIC INTELLIGENCE BASELINE / PUBLIC ARCHIVE (Tier A Commons CC-BY-4.0)
+- **Date**: 2026-09-24 (Ratified Autumn LTS)
+- **Author**: Core Strategy Matrix (JIN-ORDER Planning Division)
+- **Related Protocols**: JIN-RFC-2069, JIN-STD-024, JIN-INFRA-81, JIN-TRT-004, SPEC-021, SPEC-CCNP-088
 
 ---
 
 ## 1. 概況：地上秩序の機能不全と主権の空洞化 (Overview: Failure of Surface Order)
 
-![2026 Surface Chaos vs Subterranean Silence Cutaway](../assets/Jin_doc_2026_geo_divergence_cutaway.jpg)
+<div align="center">
+  <img src="../assets/Jin_doc_2026_geo_divergence_cutaway.jpg" width="100%" alt="2026 Surface Chaos vs Subterranean Silence Cutaway" />
+  <p><sub><b>図 1-1：2026年 地上の混沌と地下30m以深の不変流動（物理フラックスの断絶と自律維持）</b></sub></p>
+</div>
 
 2026年秋、地上における国際秩序は不可逆な「多極化の摩擦面」へと突入した。
 
@@ -32,16 +42,15 @@
 
 米中を中心とするハイテク通商摩擦は、一時的な「貿易休戦」の協定を挟みつつも、先端半導体、製造装置、レアメタル、特殊重合体の囲い込みへと先鋭化した。
 
-この通商ブロック化に伴い、EUサイバーレジリエンス法（CRA）等に代表される「24時間インシデント報告義務」および「SBOM（ソフトウェア部品表）管理」が地上の法的標準となった。<br>
+この通商ブロック化に伴い、EUサイバーレジリエンス法（CRA）等に代表される「24時間インシデント報告義務」および「SBOM（ソフトウェア部品表）管理」が地上の法的標準となった。  
 しかし地上秩序の限界は、これらを「法的な罰則と書類審査」でしか担保できない点にある。
 
 国家や軍閥が供給網のあらゆる階層にハードウェアバックドア、耐候偽装資材、改ざんファームウェアを混入させる環境下において、深淵機構は以下の構造転換を不可避と判断した。
 
-* **P-SBOM（物理・論理複合部品表）の自律監査**:
-  * ソフトウェアのコード署名にとどまらず、更生管路用光硬化樹脂の分子結合ハッシュ、仕切弁用特殊鋼の冶金組成スペクトルに至るまで暗号台帳で追跡。
-
-* **人手を介さない24刻限物理隔離**:
-  * 地上の行政・司法の判断遅延を排除し、異常検知から24刻限（最大24時間）以内に耐圧隔壁と高速シャント弁を重力落下・完全封鎖するハードウェア・エアギャップの確立（`JIN-STD-024`）。
+- **P-SBOM（物理・論理複合部品表）の自律監査**:  
+  ソフトウェアのコード署名にとどまらず、更生管路用光硬化樹脂の分子結合ハッシュ、仕切弁用特殊鋼の冶金組成スペクトルに至るまで暗号台帳で追跡。
+- **人手を介さない24刻限物理隔離**:  
+  地上の行政・司法の判断遅延を排除し、異常検知から24刻限（最大24時間）以内に耐圧隔壁と高速シャント弁を重力落下・完全封鎖するハードウェア・エアギャップの確立（`JIN-STD-024`）。
 
 ---
 
@@ -49,30 +58,29 @@
 
 東欧および中東情勢の長期化は、軍事思想に決定的な変革をもたらした。低コストな徘徊型自爆ドローン、FPV群制御兵器、および無人地上走行ロボット（UGV）の投入による「アルゴリズム主導の消耗戦」の常態化である。
 
-この戦態において最も深刻な被害を被っているのは、交戦部隊そのものではなく地上の基礎生活インフラ（地上配電網、上水配水塔、道路舗装、橋梁）である。<br>
-AI自律兵器は目標周辺の物理インフラを無差別に巻き込み、地表都市の維持管理コストを天文学的な水準へと押し上げた。<br>
+この戦態において最も深刻な被害を被っているのは、交戦部隊そのものではなく地上の基礎生活インフラ（地上配電網、上水配水塔、道路舗装、橋梁）である。  
+AI自律兵器は目標周辺の物理インフラを無差別に巻き込み、地表都市の維持管理コストを天文学的な水準へと押し上げた。  
 地上国家は自らのインフラを維持・補修する余力を失いつつある。
 
 深淵機構はこの現実に対し、地表から距離を置いた地下30メートル以深への回廊退避と、地表緩衝帯における積極的防御を選択した。
 
-* **中立沈黙圏（Null-Zone）の展開**:
-  * 共同溝の直上緑道や雨水調整池を電磁的・音響的減衰帯に指定し、侵入した自律兵器の運動制御を強制解除（`JIN-TRT-004`）。
-
-* **残骸の骨材還元**:
-  * 破壊されたドローンのCFRP（炭素繊維）フレームや外装チタンを、管更生工法（CIPP）の補強ライナーや特殊マンホール金物へ融解・再資源化する「戦争スクラップの土木循環」。
+- **中立沈黙圏（Null-Zone）の展開**:  
+  共同溝の直上緑道や雨水調整池を電磁的・音響的減衰帯に指定し、侵入した自律兵器の運動制御を強制解除（`JIN-TRT-004`）。
+- **残骸の骨材還元**:  
+  破壊されたドローンのCFRP（炭素繊維）フレームや外装チタンを、管更生工法（CIPP）の補強ライナーや特殊マンホール金物へ融解・再資源化する「戦争スクラップの土木循環」。
 
 ---
 
 ## 4. チョークポイント閉塞と地下水理バイパスの必然 (Choke-Point Paralysis & Fluvial Shunting)
 
-紅海、ホルムズ海峡、マラッカ海峡などの海上要衝、ならびに地上高速回廊における軍事妨害・関税障壁の頻発は、海上・陸上物流の脆弱性を決定づけた。<br>
+紅海、ホルムズ海峡、マラッカ海峡などの海上要衝、ならびに地上高速回廊における軍事妨害・関税障壁の頻発は、海上・陸上物流の脆弱性を決定づけた。  
 一握りの海峡封鎖が地球規模のインフレと生活資材途絶を直発させている。
 
 地上のチョークポイント閉塞に対し、深淵機構が敷設してきた「非開削バイパス管路網（Bypass Conduit Matrix）」が実効力を発揮する。
 
-* **動水勾配補償による無停止輸送**:
-  * 従来の地上トラック輸送や沿岸海運に依存せず、大口径下水トンネル・地下放水路内に併設された高圧空気輸送カプセルおよび管路シャントを駆動。
-  * 地上紛争圏の下層をアンダーパスし、中立的に生活必需流体を末端居住区へ供給し続ける（`JIN-INFRA-81`）。
+- **動水勾配補償による無停止輸送**:  
+  従来の地上トラック輸送や沿岸海運に依存せず、大口径下水トンネル・地下放水路内に併設された高圧空気輸送カプセルおよび管路シャントを駆動。  
+  地上紛争圏の下層をアンダーパスし、中立的に生活必需流体を末端居住区へ供給し続ける（`JIN-INFRA-81`）。
 
 ---
 
@@ -80,12 +88,11 @@ AI自律兵器は目標周辺の物理インフラを無差別に巻き込み、
 
 本ドキュメントに記載された各プロトコルの実証グラウンドとして機能しているのが、極東の沿岸都市「横浜ノード」である。
 
-* **せせらぎ緑道・都市親水帯の多目的運用**:
-  * 表層は市民の散策路・憩いの場として平静を保ちつつ、地下には非開削工法で更生された複合シールド管・光ファイバー・電力導水路が稠密に埋設されている。
-  * 緑道地表帯は、有事における自律ドローンの「ソフトキャッチ緩衝帯」として設計され、浸水対策用の雨水調整池は過剰流体のサージバッファ（減勢工）としてLayer 0の土木トポロジー（`JIN-RFC-2069`）を直接支えている。
-
-* **官民・地下境界の先鋭化**:
-  * 30年超にわたる地上行政の道路・下水・緑道管理データを深淵機構のアルゴリズムへインポートしたことで、老朽管路のCIPP更新と自律バイパスの最適ルーティングが極めて高い精度で完結している。
+- **せせらぎ緑道・都市親水帯の多目的運用**:  
+  表層は市民の散策路・憩いの場として平静を保ちつつ、地下には非開削工法で更生された複合シールド管・光ファイバー・電力導水路が稠密に埋設されている。  
+  緑道地表帯は、有事における自律ドローンの「ソフトキャッチ緩衝帯」として設計され、浸水対策用の雨水調整池は過剰流体のサージバッファ（減勢工）としてLayer 0の土木トポロジー（`JIN-RFC-2069`）を直接支えている。
+- **官民・地下境界の先鋭化**:  
+  30年超にわたる地上行政の道路・下水・緑道管理データを深淵機構のアルゴリズムへインポートしたことで、老朽管路のCIPP更新と自律バイパスの最適ルーティングが極めて高い精度で完結している。
 
 ---
 
@@ -99,12 +106,13 @@ AI自律兵器は目標周辺の物理インフラを無差別に巻き込み、
 
 ---
 
-* **Commit Archive**: `2026-geopolitical-shift.md`
-* **Parent Branch**: `governance/baseline-2026`
-* **Signed-off-by**: JIN-ORDER Architecture Council
+- **Commit Archive**: `2026-geopolitical-shift.md`
+- **Parent Branch**: `governance/baseline-2026`
+- **Signed-off-by**: JIN-ORDER Architecture Council
 
 ---
 
-Supreme Judgment: Masano Takashi (The Guide)
-
-Executed by: JIN-ORDER-OFFICIAL
+**Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
+**Supreme Judgment:** Masano Takashi (The Guide)  
+**Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
+`STATUS: JIN-DOC-2026-GEO RATIFIED (BASELINE STRATEGIC INTELLIGENCE / CANONICAL AUTUMN LTS / PRIOR-ART RECORDED / YOKOHAMA-NODE VALIDATED)`
