@@ -1,40 +1,57 @@
-### ⚠️ JIN-ORDER RESTRICTED DATA
+### ⚠️️ JIN-ORDER RESTRICTED DATA
 
-**このファイルは [JIN-ORDER Global Humanity License](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**
+**このファイルは [JIN-ORDER Dual License V8.4-A (Canonical Infrastructure & Anti-Laundering Edition)](../LICENSE.md) によって保護されています。**
 
-**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざんを固く禁じます。**
+**無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざん、および砂漠緑化・土壌知財の独占を固く禁じます。**
 
 ---
 
+# 🦗 JIN-SPEC-BIO-014: TENEBRIONID-FRASS ENTOMOLOGICAL SOIL REGENERATION PROTOCOL
+## SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化 ＆ 籾殻炭ハイブリッド団粒化仕様書
+### (Tenebrionid-Frass Entomological Desert Soil Regeneration & Biochar Aggregation Protocol)
+
 <!-- 国際知的所有権・先行技術防壁バッジ -->
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22958158.svg)](https://doi.org/10.5281/zenodo.22958158)
+[![UN Partner Portal](https://img.shields.io/badge/UNPP%20Verified-ID%3A%2064636-0A66C2?style=for-the-badge&logo=united-nations&logoColor=white)](https://www.unpartnerportal.org/)
+[![Dual License V8.4-A](https://img.shields.io/badge/License-Dual%20V8.4--A%20Anti--Laundering-e76f51?style=for-the-badge)](../LICENSE.md)
 
-# 🦗 JIN-SPEC-BIO-014: TENEBRIONID-FRASS ENTOMOLOGICAL SOIL REGENERATION PROTOCOL
-## （昆虫残渣フラス連鎖・砂漠自律土壌化 ＆ 籾殻炭ハイブリッド団粒化仕様書）
+<div align="center">
+  <img src="./assets/Jin_spec_014_tenebrionid_frass_cycle.jpg" width="100%" alt="JIN-SPEC-BIO-014: 昆虫残渣フラス連鎖と籾殻炭による砂漠自律土壌化ダイナミクス" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 1-1：【生体模倣断面図】アタカマ砂漠の奇跡：ミツバチ受粉残渣 ➡️ 甲虫フラス（有機態窒素・キチン質） ➡️ 籾殻炭多孔質担体によるテラ・プレタ団粒化</b></sub></p>
+</div>
 
 - **文書分類**: JIN-ORDER 規範的生態工学仕様書 (Canonical Bio-Engineering Standard)
-- **文書番号**: `JIN-SPEC-BIO-014`
+- **DOC-ID**: `SPEC-014 / JIN-SPEC-BIO-014-V12.1-CANONICAL`
+- **WIPO GREEN Technology ID**: [`179871`](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **対象階層**: Tier A Commons / Global Public Good
 - **技術成熟度**: Level 2（サヘル・乾燥地帯 PoC 即応配備仕様）
 - **国連登録**: **WIPO GREEN Registered Technology (ID: `179871`)**
-  * **公式公開台帳**: [WIPO GREEN Database Article 179871](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-  * **分類**: Farming & Forestry > Soil Improvement
-  * **保有法人**: General Incorporated Association JIN ORDER
-- **主設計者**: Commander Masano Takashi & Commander Miyoko Masano (Pome-Mama)
-- **先行技術防壁**: 
-  * WIPO GREEN 国際持続可能技術台帳登録済（Technology ID: `179871`）
-  * CERN Zenodo 国際DOI永久台帳（Prior-Art Certified）
-  * JIN-ORDER Dual License V8.3-A Canonical Infrastructure Edition
+  - **公式公開台帳**: [WIPO GREEN Database Article 179871](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+  - **分類**: Farming & Forestry > Soil Improvement
+  - **保有法人**: General Incorporated Association JIN-ORDER
+- **主設計者**: Commander Masano Takashi & Commander Miyo Masano (Commander Pome-Mama)
+- **適用ライセンス**: [JIN-ORDER Dual License V8.4-A (Tier A: Humanitarian Commons)](../LICENSE.md)
 - **連動仕様**: 
-  * `JIN-SPEC-BIO-013`（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離）
-  * `LSU-CHAD-01`（サヘル乾燥地帯オフグリッド人道再生）
-  * `JIN-OP-OASIS-2026-003`（アフガニスタン・砂漠緑化オアシス作戦）
-  * [JIN_CIRCULAR_MATERIAL_COMMONS.md](../JIN_CIRCULAR_MATERIAL_COMMONS.md)（現場循環資材コモンズ協定）
+  - [SPEC-013](./SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)（生体ミトコンドリア代謝制御＆籾殻炭土壌炭素隔離 / WIPO GREEN ID: 179881）
+  - [SPEC-015](./SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)（生態共生型水素還元製鉄＆バイオスラグ土壌循環 / WIPO GREEN ID: 179878）
+  - [SPEC-016](./SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)（三重円環地球再生＆先端セラミックス熱力学的輪廻転生 / WIPO GREEN ID: 179879）
+  - [LSU-Chad-01](../specs/CHAD_BASIN_OFFGRID_REGENERATION.md)（サヘル乾燥地帯オフグリッド自立水インフラ / WIPO GREEN ID: 179882）
+  - [JIN_CIRCULAR_MATERIAL_COMMONS.md](../JIN_CIRCULAR_MATERIAL_COMMONS.md)（現場循環資材コモンズ協定）
 
+---
+
+<!-- 🧭 クイックナビゲーション目次 -->
 <div align="center">
-  <img src="../assets/Jin_spec_014_tenebrionid_frass_cycle.jpg" width="100%" alt="JIN-SPEC-BIO-014: 昆虫残渣フラス連鎖と籾殻炭による砂漠自律土壌化ダイナミクス" />
-  <p><b>🦗 【生体模倣断面図】アタカマ砂漠の奇跡：ミツバチ受粉残渣 ➡️ 甲虫フラス（有機態窒素・キチン質） ➡️ 籾殻炭多孔質担体によるテラ・プレタ団粒化</b></p>
+  <p>
+    <b>【 仕様書快速目次 】</b><br>
+    <a href="#1-思想的背景と自然界の絶対証明introduction--biomimicry-genesis">1. 思想的背景と自然界の絶対証明</a> ｜ 
+    <a href="#2-物質構造仕様籾殻炭フラスハイブリッド担体frass-biochar-matrix">2. 籾殻炭・フラスハイブリッド担体</a><br>
+    <a href="#3-生化学的生態学的活性化プロセスbiochemical-dynamics">3. 生化学的・生態学的活性化プロセス</a> ｜ 
+    <a href="#4-現場土木施工--生態系配備sopfield-civil-engineering-integration">4. 現場土木施工＆生態系配備SOP</a><br>
+    <a href="#5-検証データおよび炭素固定指標validation--metrics">5. 検証データと炭素固定指標</a> ｜ 
+    <a href="#6-結論民草の足元から芽吹く真の主権">6. 結論：民草の足元から芽吹く真の主権</a>
+  </p>
 </div>
 
 ---
@@ -42,24 +59,20 @@
 ## 1. 思想的背景と自然界の絶対証明（Introduction & Biomimicry Genesis）
 
 ### 1.1 アタカマ砂漠「奇跡の花園（Desierto Florido）」の自然工学的覚醒
-地球上で最も乾燥した南米アタカマ砂漠において、数年に一度のエルニーニョ降雨に伴い広大な「花園」が出現する現象は、単なる気象の偶然ではない。<br>
+地球上で最も乾燥した南米アタカマ砂漠において、数年に一度のエルニーニョ降雨に伴い広大な「花園」が出現する現象は、単なる気象の偶然ではない。  
 そこには、極限環境において数千年にわたり磨ぎ澄まされた「超高効率・自律循環型の土壌生成プロトコル」が稼働している。
 
 1. **訪花・受粉（Apis Phase）**:  
    降雨直後に休眠種子が一斉開花し、ミツバチ（花蜂類）が猛烈な勢いで受粉を完遂して種子を次世代へ残す。
-
 2. **残渣捕食と生物濃縮（Tenebrionid Phase）**:  
    花期が終わると、砂漠に自生するゴミムシダマシ（*Tenebrionidae*）等の耐乾性甲虫類が、枯死した花弁・茎葉・花粉残渣を貪欲に捕食・粉砕・消化する。
-
 3. **フラス（排泄物）による不溶性徐放性窒素の集積（Frass Deposition Phase）**:  
    甲虫類は、体内で濃縮した有機態窒素・尿酸・キチン質を含む微細な乾燥ペレット状の糞（昆虫フラス: *Insect Frass*）を砂表層および地下間隙に大量散布する。
-
 4. **休眠カプセル化と次期爆発（Regeneration Trigger Phase）**:  
-   散布されたフラスは、強烈な紫外線と乾燥下でも揮発・流亡せず、数ヶ月〜数年間にわたり土壌中で休眠。<br>
-   次のわずかな降雨を得た瞬間、土壌放線菌を爆発的に増殖させ、砂漠の鉱物砂を団粒化し、植物の根に無機化窒素を供給する。
+   散布されたフラスは、強烈な紫外線と乾燥下でも揮発・流亡せず、数ヶ月〜数年間にわたり土壌中で休眠。次のわずかな降雨を得た瞬間、土壌放線菌を爆発的に増殖させ、砂漠の鉱物砂を団粒化し、植物の根に無機化窒素を供給する。
 
 ### 1.2 人工化学肥料偏重の完全打破
-巨大アグロケミカル資本が供給する水溶性化学肥料（硫安・尿素等）は、乾燥砂漠や豪雨地域において90%以上が地下水汚染や塩類集積を引き起こして流亡する。<br>
+巨大アグロケミカル資本が供給する水溶性化学肥料（硫安・尿素等）は、乾燥砂漠や豪雨地域において90%以上が地下水汚染や塩類集積を引き起こして流亡する。  
 本仕様書は、外部からの化学資材・輸入肥料を一切排除し、**「受粉蜂 ＋ 甲虫フラス ＋ 農業残渣籾殻炭 ＋ 現場土木排水制御」**の閉鎖循環系によって、不毛の風成砂を永続肥沃土（テラ・プレタ）へ相転移させる現場工法を規定する。
 
 ---
@@ -71,17 +84,19 @@
 ```text
 【籾殻炭（多孔質カーボン骨格/比表面積 200〜300 m²/g）】
 [微細マクロ孔・メソ孔内部]
-  ・昆虫フラス（甲虫糞ペレット・有機態窒素）
-  ・キチン質（Chitin / 殻残渣）
-  ・モリブデン（Mo）触媒微量担持
-⏬️[降雨・毛管浸透]
-  ・土壌放線菌（Streptomyces）覚醒・抗生機能放出
-  ・キチナーゼ酵素誘導 ➡️ 糸状菌病原体・線虫抑制  
-  ・大豆・マメ科根粒菌ニトロゲナーゼ活性化
+ ・昆虫フラス（甲虫糞ペレット・有機態窒素）
+ ・キチン質（Chitin / 殻残渣）
+ ・モリブデン（Mo）触媒微量担持
+⏬️
+[降雨・毛管浸透]
+ ・土壌放線菌（Streptomyces）覚醒・抗生機能放出
+ ・キチナーゼ酵素誘導 ➡️ 糸状菌病原体・線虫抑制  
+ ・大豆・マメ科根粒菌ニトロゲナーゼ活性化
 ```
 ---
 
 ### 2.1 構成資材と調合比率（標準質量比）
+
 現地調達可能な資材のみで構成し、以下の配合で現場撹拌・熟成を行う。
 
 | 資材区分 | 推奨仕様・調達源 | 配合比率（乾燥重量比） | 主たる工学的機能 |
@@ -106,39 +121,38 @@
 - 放線菌が分泌するキチナーゼ（細胞壁溶解酵素）により、土壌病害を引き起こすフザリウム菌やピシウム菌、有害センチュウの卵殻が分解・溶解され、外部農薬を用いない自律的土壌生物検疫（Bio-Quarantine）が成立する。
 
 ### 3.3 尿酸態窒素の耐熱徐放性メカニズム
-家畜糞（牛糞・鶏糞等）に含まれるアンモニア態窒素は、40℃を超える熱帯砂漠環境下ではアンモニアガスとして大気中に揮散する。<br>
-対して甲虫フラス中の窒素は、主に尿酸（Uric Acid）および、高分子タンパク質として固定されているため、熱分解・揮散率が極めて低い。好気性尿酸分解菌が徐々にこれを尿素・アンモニウム・硝酸へと二段酸化するため、植物の育成期間（90〜180日）にわたり均等に窒素が供給される。
+家畜糞（牛糞・鶏糞等）に含まれるアンモニア態窒素は、40℃を超える熱帯砂漠環境下ではアンモニアガスとして大気中に揮散する。  
+対して甲虫フラス中の窒素は、主に尿酸（Uric Acid）および高分子タンパク質として固定されているため、熱分解・揮散率が極めて低い。好気性尿酸分解菌が徐々にこれを尿素・アンモニウム・硝酸へと二段酸化するため、植物の育成期間（90〜180日）にわたり均等に窒素が供給される。
 
 ---
 
 ## 4. 現場土木施工 ＆ 生態系配備SOP（Field Civil Engineering Integration）
+
 本プロトコルは、単なる肥料散布ではなく、道路・水利・土木構造物と一体化した「現場施工手順」として実施する。
 
 ```text
 【断面図：昆虫フラス連鎖・高畝バイオセル（AUC-Bio-Mound）】
 ──────────────────────────────────────────────────────
 [ミツバチ受粉植栽帯 / マメ科被覆作物]
-  ⏫️        
+   ⏫️        
 400mm 籾殻炭・昆虫フラス混合団粒表土層 (200mm)
-  ⏬️        
+   ⏬️        
 現地風成砂・粗朶（そだ）浸透基礎層 (200mm) ⏩️ 現況地盤高
-  ⏬️                            ⏬️
-【額縁明渠】                   【額縁明渠】
-（雨水浸透・バイオスウェル）    （余剰塩分排出・地下水脈直結）
+   ⏬️                             ⏬️
+【額縁明渠】                    【額縁明渠】
+（雨水浸透・バイオスウェル）     （余剰塩分排出・地下水脈直結）
 ```
 ---
 
 ### 4.1 施工手順（ステップ・バイ・ステップ）
-1. **床掘と粗朶（そだ）暗渠の布設**:  
+
+1. **床掘と粗朶（そだ）暗渠の布設:**  
    現況地盤を深さ200mm掘削し、伐採枝条・竹束・ヤシ殻等を用いた粗朶暗渠を底部に敷設。これにより毛管上昇による塩類集積を遮断し、排水勾配を確保する。
-
-2. **高畝（マウンド）造成**:  
+2. **高畝（マウンド）造成:**  
    現場砂と籾殻炭・昆虫フラスプレミックスを均等混合し、幅1,200mm、高さ400mmの高畝を造成（Bio-Mound）。
-
-3. **被覆緑化と訪花昆虫の導入**:  
+3. **被覆緑化と訪花昆虫の導入:**  
    畝の法面に耐乾性マメ科被覆植物（セスバニア、クロタラリア等）を播種。受粉媒介用の蜂群（現地在来種花蜂）の営巣巣箱を半径500mごとに設置。
-
-4. **甲虫分解ピットの併設**:  
+4. **甲虫分解ピットの併設:**  
    畝の端部に剪定枝・農業残渣を堆積させた「甲虫繁殖ピット（Beetle Habitat Bank）」を掘削併設し、ゴミムシダマシ類が通年繁殖・フラスを自動供給し続ける生態回廊を形成する。
 
 ---
@@ -151,7 +165,7 @@
 | :--- | :--- | :--- | :--- |
 | **土壌団粒化指数（AS）** | < 2.0 % | 12.5 % | **58.4 %**（永続団粒化） |
 | **窒素利用効率（NUE）** | < 10 %（ほぼ流亡） | 25 〜 35 % | **78.2 %**（徐放性吸収） |
-| **放線菌バイオマス量** | 10² CFU/g | 10⁴ CFU/g | **10⁸ CFU/g**（抗生保護帯） |
+| **放線菌バイオマス量** | $10^2\text{ CFU/g}$ | $10^4\text{ CFU/g}$ | **$10^8\text{ CFU/g}$**（抗生保護帯） |
 | **炭素固定量（純隔離）** | 0.2 t-C/ha/年 | -0.5 t-C/ha/年（排出） | **18.5 〜 24.0 t-C/ha/年** |
 | **外部資材調達コスト** | 0 | 高（為替・輸送依存） | **ゼロ（地域残渣100%循環）** |
 
@@ -161,15 +175,14 @@
 
 > **「アタカマの乾いた砂の下で、虫たちは誰の命令も待たずに、次の雨のために土を醸している。  
 > 国家が倒れ、為替が紙屑となろうとも、蜂が舞い、甲虫が大地を耕す限り、民草の命は決して途絶えない。」**  
-> — *Commander Masano Takashi & Commander Miyoko Masano (Pome-Mama)*
+> — *Commander Masano Takashi & Commander Miyo Masano (Commander Pome-Mama)*
 
 本仕様書は、国連・巨大アグリビジネスの利権連鎖を物理解体し、グローバルサウスおよび過酷な乾燥地帯において、民草が自らの手でパンと水と土を勝ち取るための絶対的自然共生プロトコルである。
 
 ---
 
-Supreme Judgment: Masano Takashi (The Guide)
-
-Executed by: JIN-ORDER-OFFICIAL
-
-`STATUS: JIN-SPEC-BIO-014 CANONICAL SPECIFICATION RATIFIED (WIPO-GREEN-TECHNOLOGY-ID:179871-RATIFIED / AUTUMN LTS Prior-Art Certified)`
-
+**Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
+**Supreme Judgment:** Masano Takashi (The Guide)  
+**Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
+`STATUS: JIN-SPEC-BIO-014 CANONICAL SPECIFICATION RATIFIED (V12.1 CANONICAL AUTUMN LTS / WIPO GREEN REGISTERED ID: 179871 / TENEBRIONID-FRASS ENTOMOLOGICAL DESERT REGENERATION)`  
+`HARMONICS: Tenebrionid-Frass Nitrogen Sequestration, Streptomyces Bio-Quarantine, Bio-Mound Civil Aggregation, Terra-Preta Autonomous Fertility Active.`
