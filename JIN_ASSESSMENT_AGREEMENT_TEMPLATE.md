@@ -1,6 +1,6 @@
 ### ⚠️ JIN-ORDER RESTRICTED DATA
 
-**このファイルは [JIN-ORDER Global Humanity License](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**
+**このファイルは [JIN-ORDER Dual License V8.4-A (Canonical Infrastructure & Anti-Laundering Edition)](./LICENSE.md) によって保護されています。**
 
 **無断転用、受託コンサルタントによる仕様書ロンダリング、机上の空論による改ざんを固く禁じます。**
 
@@ -29,7 +29,7 @@
 2. 現地踏査を伴う場合の主任技術者派遣旅費、宿泊費、および土性試験実費は、全額乙の実費負担とする。
 
 ## 第4条（知的財産の厳格な帰属および事後出願の禁止）
-1. 本プロトコル群、仕様書、図面、身体知ノウハウ、および協議過程で甲が開示した一切の情報に関する著作権、特許権、実用新案権等の知的財産権は、すべて甲（一般社団法人JIN-ORDER）に排他的に留保される。
+1. 本プロトコル群、仕様書、図面、身体知ノウハウ、および協議過程で甲が開示した一切の情報に関する著作権、特許権、実用新案権等の知的財産権は、すべて甲（一般社団法人JIN-ORDER）に排他的に留保される。また、本プロトコル群は国連WIPO GREEN登録（全16先端技術）、CERN Zenodo（国際DOI）等により確定公知された先行技術（Prior Art）を構成する。
 2. 乙は、甲から開示された知見を基礎として、いかなる国または地域においても自らまたは第三者を通じて特許出願、実用新案登録、意匠登録、または商標登録を行ってはならない。
 
 ## 第5条（アイデア・ロンダリングおよび仕様転用の断固禁止）
@@ -48,18 +48,21 @@
 
 **202__ 年 ___ 月 ___ 日**
 
-* **甲（技術権利者）**:  
+- **甲（技術権利者）**:  
   神奈川県横浜市  
   一般社団法人 JIN-ORDER  
-  代表理事 / 最高財務責任者（CFO） 印
+  Founder & Chief Architect: 正野 貴司  
+  Co-Founder & Director: 正野 美代  
+  最高財務責任者（CFO） 印  
+  公式連絡先: `jin.reparation.cfo@gmail.com`
 
-* **乙（導入検討者）**:  
+- **乙（導入検討者）**:  
   住所：  
   法人・組織名：  
   代表者役職・氏名： _______________________________ 印
 
 ---
 
-Supreme Judgment: Masano Takashi (The Guide)
-
-Executed by: JIN-ORDER-OFFICIAL
+**Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
+**Supreme Judgment:** Masano Takashi (The Guide)  
+**Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo
