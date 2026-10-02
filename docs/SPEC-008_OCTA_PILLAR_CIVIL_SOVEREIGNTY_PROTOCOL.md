@@ -62,6 +62,35 @@
 </div>
 
 ---
+<div align="center">
+  <img src="./assets/SPEC-008_OCTA_SOVEREIGNTY_01.jpg" width="100%" alt="SPEC-008 八柱民草主権・生活基盤自立連盟 総合キービジュアル" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <p><sub><b>図 1-1：八柱民草主権（技・衣・食・住・地・道・金・医）大地の身体性と現場統治パノラマ</b></sub></p>
+</div>
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">SCENE 02: GROUND ENGINEERING & TIMBER JOINERY</th>
+    <th width="50%" align="center">SCENE 03: HOLISTIC HEALTH & LIVING COMMONS</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/SPEC-008_OCTA_SOVEREIGNTY_02.jpg" width="100%" alt="伝統木組み石場建て免震 ＆ 道路トレンチ指定改良土RC-40転圧工法" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/SPEC-008_OCTA_SOVEREIGNTY_03.jpg" width="100%" alt="伝統和食発酵医食同源 ＆ 天然生体調律衣料 ＆ 身体性臨床手当て" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🏛️ <b>図 1-2：宮大工木組み免震 ＆ 道路開削RC-40本復旧SOP</b>
+    </td>
+    <td width="50%" align="center">
+      🍵 <b>図 1-3：伝統発酵食・天然衣料 ＆ 身体性臨床手当て結界</b>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 【憲章前文：数字と記号の牢獄を解体し、大地の身体性に立ち返る】
 
