@@ -39,6 +39,40 @@
 
 ---
 
+<!-- 🧭 クイックナビゲーション目次 -->
+<div align="center">
+  <p>
+    <b>【 25大先端技術 快速索引（Quick Jump to Technology） 】</b><br>
+    <a href="#01-生体臓器分散型コンピューティング--身体主権防衛-level-3-先進研究">01.脳型20W計算</a> ｜ 
+    <a href="#02-ジンドラゴン鉱石と次世代三位一体エネルギーマトリクス-level-3-先進研究">02.三位一体電池</a> ｜ 
+    <a href="#03-水中自律計算--海底ケーブル哨戒ノードsscn-01--jin-spec-sub-01-level-3-先進研究">03.水中主権計算</a> ｜ 
+    <a href="#04-サヘル乾燥地帯オフグリッド人道支援--テラプレタ土壌再生lsu-chad-01-level-2-既存技術統合">04.サヘル水土壌</a> ｜ 
+    <a href="#05-低温減圧膜蒸留vmd淡水化-濃縮ブライン完全資源化zld-level-2-既存技術統合">05.VMD低温淡水化</a><br>
+    <a href="#06-上下水道インライン水力--超臨界水ガス化scwg水素--カスケード水理蓄電-level-2-既存技術統合">06.水圧発電SCWG</a> ｜ 
+    <a href="#07-都市地下多用途共同溝--液浸ai熱直結utility-ducts--wue000-level-2-既存技術統合">07.共同溝液浸AI</a> ｜ 
+    <a href="#08-宇宙太陽光発電ssps温室一体型レクテナ受電-level-3-先進研究">08.SSPSレクテナ</a> ｜ 
+    <a href="#09-jin-lifeblood-expressインフラ同軸型超伝導レール-level-3-先進研究">09.大深度超電導</a> ｜ 
+    <a href="#10-現代版北前船硬翼帆ウィンドアシスト内航ハイブリッド-level-2-既存技術統合">10.現代北前船</a><br>
+    <a href="#11-河川上空ドローン法定航路skyway-水陸両用飛行艇sky-oasis-level-2-既存技術統合">11.Skywayドローン</a> ｜ 
+    <a href="#12-光分散音響センシングdas全海底受動ソナー防衛網-level-2-既存技術統合">12.海底DASソナー</a> ｜ 
+    <a href="#13-沖縄第7鉱区--沖縄トラフ熱水鉱床深海資源防衛ノード-level-3-先進研究">13.深海資源防衛</a> ｜ 
+    <a href="#14-自律帯水層かん養復水システムjin-sarp--地軸質量復元-level-2-既存技術統合">14.帯水層かん養</a> ｜ 
+    <a href="#15-海溝調和海底地殻鍼灸ノードjin-oam-node--地震ゼロ次制御-level-3-先進研究">15.海溝地殻鍼灸</a><br>
+    <a href="#16-古来源頭部土砂抑止--山腹多層崩壊防護工法-level-1-現場即応sop">16.伝統源頭砂防</a> ｜ 
+    <a href="#17-海陸共生型酵素ケミカルリサイクルjin-cpc-level-3-先進研究">17.酵素リサイクル</a> ｜ 
+    <a href="#18-伝統田畑輪換土木排水工学額縁明渠高畝-level-1-現場即応sop">18.田畑輪換炭素</a> ｜ 
+    <a href="#19-人間主権型統合バイオ創薬プラットフォームjin-ibp--jin-spec-med-01-level-3-先進研究">19.統合バイオ創薬</a> ｜ 
+    <a href="#20-砂漠砂改質高強度骨材精製プラントcsebブロック-level-1-現場即応sop">20.砂改質骨材</a><br>
+    <a href="#21-グリーンランド極北外気直接冷却free-cooling-level-2-既存技術統合">21.極北外気冷却</a> ｜ 
+    <a href="#22-地銀信金主導-ローカルファクタリング--実物資産台帳-level-2-既存技術統合">22.地域実物金融</a> ｜ 
+    <a href="#23-次世代半導体製造国内自立ファブ--20w脳型チップレット地下冷却主権-level-3-先進研究">23.国内自立ファブ</a> ｜ 
+    <a href="#24-量子暗号と分散型aiグリッドジンネット-level-3-先進研究">24.量子暗号ネット</a> ｜ 
+    <a href="#25-jin-os新パラダイム統合司令端末benevolence-client-level-2-既存技術統合">25.JIN-OS端末</a>
+  </p>
+</div>
+
+---
+
 ## 🧭 JIN-ORDER 25大先端技術体系 統合アーキテクチャ設計図 (Master Ecosystem Matrix)
 
 ![JIN 高度技術マトリックス 総合構成図 & 技術目録](./assets/TECHNOLOGY_CATALOG_04.jpg)
@@ -56,7 +90,7 @@
 
 ---
 
-## 🗺️️ 地域戦略 × 25大先端技術 クロスリファレンス・マトリクス
+## 🗺 地域戦略 × 25大先端技術 クロスリファレンス・マトリクス
 
 ![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_02.jpg)
 
@@ -81,6 +115,12 @@ Energy, Environment & Autonomous Water Matrix
 
 ### 01. 生体臓器分散型コンピューティング ＆ 身体主権防衛 `[Level 3: 先進研究]`
 #### ［連動正典：SPEC-027 20W生体代謝型脳型チップレット / WIPO ID: 179936］
+
+<div align="center">
+  <img src="./assets/SPEC-027_PROTOCOL_01.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
+  <p><sub><b>図 1-1：SPEC-027 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図</b></sub></p>
+</div>
+
 - **概要**: 人体代謝（約20W）を模倣した異種チップレット（大脳倫理・小脳物理・自律神経冷却・インメモリシナプス）。侵襲的サイボーグ化や脳電極埋設を拒絶し、都市地下バイオスウェル浸透水冷およびサヘル砂漠アースチューブによる完全自然共生型演算アーキテクチャ。**SPEC-027（オンチップ微細流路超純水冷却×地下下水熱ZLD完全密閉交換）** と直結し、水資源消費ゼロの知能基盤を形成する。
 - **スペック**:
   - 消費電力指標: 人体安静時代謝同等の **20W駆動**
@@ -94,12 +134,12 @@ Energy, Environment & Autonomous Water Matrix
 ### （ペロブスカイト光半導体 × 全固体Jin-Battery × 海洋塩ナトリウム蓄電 ＆ 水理・海洋・地殻連成）
 #### ［連動正典：SPEC-018 沿岸海水揚水 ＆ SPEC-019 風・海流デュアル ＆ SPEC-020 地熱振動］
 
-![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_02.jpg)
-![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_03.jpg)
+![ジン・ドラゴン鉱石と全固体電池](./assets/01_jin_dragon_battery_02.jpg)
+![ジン・ドラゴン鉱石と全固体電池](./assets/01_jin_dragon_battery_03.jpg)
 
-![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_triad_energy_01.jpg)  
-![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_dragon_battery_cross_section.jpg) 
-![ジン・ドラゴン鉱石と全固体電池](assets/01_jin_sodium_grid_storage.jpg)
+![ジン・ドラゴン鉱石と全固体電池](./assets/01_jin_dragon_triad_energy_01.jpg)  
+![ジン・ドラゴン鉱石と全固体電池](./assets/01_jin_dragon_battery_cross_section.jpg) 
+![ジン・ドラゴン鉱石と全固体電池](./assets/01_jin_sodium_grid_storage.jpg)
 
 - **概要**: 南鳥島深海レアアース触媒を中核とし、**「面での超薄型自律発電（ペロブスカイト）」**、**「動脈モビリティ用超高密度蓄電（全固体）」**、および**「海洋塩・VMD排塩水由来の無尽蔵グリッド定置蓄電（ナトリウムイオン / NAS電池）」**を統合した完全主権型エネルギー体系。
 さらに、**SPEC-018（山頂水上ペロブスカイトフロート×多段カスケード海水揚水）**、**SPEC-019（洋上風力FAWT×海中黒潮カウンタータービン）**、**SPEC-020（深層地熱ORC×スピーカー反転低周波振動発電）**を完全連成させ、天候変動・夜間・地震災害時でも1秒の瞬低も許さない「24時間365日の絶対自立ベースロード電源」を確立する。
@@ -122,8 +162,8 @@ Energy, Environment & Autonomous Water Matrix
 ---
 
 ### 03. 水中自律計算 ＆ 海底ケーブル哨戒ノード（SSCN-01 / JIN-SPEC-SUB-01） `[Level 3: 先進研究]`
-![SSCN-01 水中自律計算ノード](assets/SUBSEA_SOVEREIGN_NODE_SPEC_01.jpg)
-![SSCN-01 内部工学断面図](assets/SUBSEA_SOVEREIGN_NODE_SPEC_02.jpg)
+![SSCN-01 水中自律計算ノード](./assets/SUBSEA_SOVEREIGN_NODE_SPEC_01.jpg)
+![SSCN-01 内部工学断面図](./assets/SUBSEA_SOVEREIGN_NODE_SPEC_02.jpg)
 
 - **概要**: 沖縄トラフ水深1,500m級海底に直接設置される主権計算・海洋防衛ノード。深海の極低温海流と受動的サーモサイフォン熱交換により、水消費ゼロ（WUE=0.00）・PUE=1.01の超高効率計算環境を達成。**SPEC-019（深海DAS係留テンドロン）** と同期し、海底光ケーブルの監視・敵性潜水艇哨戒を常時執行する。
 - **スペック**:
@@ -135,8 +175,8 @@ Energy, Environment & Autonomous Water Matrix
 ---
 
 ### 04. サヘル乾燥地帯オフグリッド人道支援 ＆ テラ・プレタ土壌再生（LSU-Chad-01） `[Level 2: 既存技術統合]`
-![LSU-チャド-01 人道支援ユニット](assets/CHAD_BASIN_OFFGRID_REGENERATION_01.jpg)
-![テッポウウリ炭化＆テラ・プレタ断面図](assets/CHAD_BASIN_OFFGRID_REGENERATION_02.jpg)
+![LSU-チャド-01 人道支援ユニット](./assets/CHAD_BASIN_OFFGRID_REGENERATION_01.jpg)
+![テッポウウリ炭化＆テラ・プレタ断面図](./assets/CHAD_BASIN_OFFGRID_REGENERATION_02.jpg)
 
 - **概要**: チャド湖盆地などの乾燥・気候難民集積地へ即時展開するコンテナ型自立生命維持ユニット（UNHCR連携 Submission ID: 95525 / **WIPO GREEN ID: 179882**）。外来種テッポウウリ（Typha）を無煙熱分解して多孔質バイオ炭を精製し、砂漠砂と混合して「テラ・プレタ」土壌を造成。**SPEC-014（昆虫フラス / WIPO GREEN ID: 179871）** および **SPEC-015（脱リンバイオスラグ / WIPO GREEN ID: 179878）** を調合し、完全無肥料農地を形成する。
 - **スペック**:
@@ -148,7 +188,7 @@ Energy, Environment & Autonomous Water Matrix
 ---
 
 ### 05. 低温減圧膜蒸留（VMD淡水化）＆ 濃縮ブライン完全資源化（ZLD） `[Level 2: 既存技術統合]`
-![自立型エネルギー・水マトリクス](assets/JIN_AUTONOMOUS_ENERGY_MATRIX_01.jpg)
+![自立型エネルギー・水マトリクス](./assets/JIN_AUTONOMOUS_ENERGY_MATRIX_01.jpg)
 
 - **概要**: 化石燃料・大電力を消費する高圧RO膜を全廃。AI排熱（50〜60℃）と減圧工学（0.08〜0.15気圧）を組み合わせ、海水を低温沸騰させて高純度真水（HU）を精製。残留ブラインを海へ一切流出させない完全密閉ゼロリキッドディスチャージ（ZLD）システム。
 - **スペック**:
@@ -174,8 +214,28 @@ Energy, Environment & Autonomous Water Matrix
 
 ### 07. 都市地下多用途共同溝 × 液浸AI熱直結（Utility Ducts / WUE=0.00） `[Level 2: 既存技術統合]`
 ### ＆ JIN-ZONING（生活・減災インフラ SPEC-027 / 026 / 025 / 022 / 021 / 010 / 011 / 012 連動）
-![都市土木共同溝断面図](whitepaper/whitepaper01_civil_infrastructure_01.jpg)
-![JIN-ZONING都市計画](assets/jin_zoning_and_autonomous_cities_01.jpg)
+
+![都市土木共同溝断面図](./whitepaper/whitepaper01_civil_infrastructure_01.jpg)
+![JIN-ZONING都市計画](./assets/jin_zoning_and_autonomous_cities_01.jpg)
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <img src="./docs/assets/SPEC-026_PROTOCOL_01.jpg" width="100%" alt="SPEC-026: 首都直下木密火災旋風破砕 ＆ 震災瓦礫現場即時循環 3Dアイソメトリック詳細断面図" /><br>
+        <sub><b>火災旋風破砕・瓦礫循環（SPEC-026）</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="./docs/assets/SPEC-025_PROTOCOL_01.jpg" width="100%" alt="SPEC-025: 豪雪雪氷極寒冷害・無塩除雪 ＆ 下水熱ロードヒーティング 3Dアイソメトリック詳細断面図" /><br>
+        <sub><b>豪雪雪氷・下水熱消雪（SPEC-025）</b></sub>
+      </td>
+      <td width="33%" align="center">
+        <img src="./docs/assets/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX_01.jpg" width="100%" alt="SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス 3Dアイソメトリック詳細断面図" /><br>
+        <sub><b>地域社会多層防衛マトリクス（SPEC-021）</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - **概要**: 都市地下共同溝に液浸AIおよび **SPEC-027（20W脳型チップレット / WIPO ID: 179936）** を分散配備し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。**首都直下火災旋風破砕・震災瓦礫循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・下水熱無散水消雪（SPEC-025 / WIPO ID: 179900）**、**熟練現場打ち新コンクリ新モルタル（SPEC-022 / WIPO ID: 179896）**、**地域社会多層防衛マトリクス（SPEC-021）**、**三重円環地球再生（SPEC-016）**、**生態共生水素製鉄（SPEC-015）**、**公園地下の循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、**行政直営AI防犯灯＆IGS危険物透視（SPEC-011-REV2）**、および**折りたたみメッシュ集積カゴ（SPEC-010）**を包含する総合都市土木体系。
 - **スペック**:
@@ -206,8 +266,14 @@ Mobility, 3D Transit Arteries & Infrastructure
 
 ### 09. JIN-Lifeblood Express（インフラ同軸型超伝導レール） `[Level 3: 先進研究]`
 ### ＆ φ13.5m大深度複合地下回廊（SPEC-CCNP-088） ＆ 光合成道路表層（PRS）
-![生体動脈給電道路](assets/JIN_LIVING_ROAD_PHOTOSYNTHESIS_LMC.jpg)
-![3D輸送動脈ネットワーク](assets/JIN_TRANSIT_ARTERIES_01.jpg)
+
+![生体動脈給電道路](./assets/JIN_LIVING_ROAD_PHOTOSYNTHESIS_LMC.jpg)
+![3D輸送動脈ネットワーク](./assets/JIN_TRANSIT_ARTERIES_01.jpg)
+
+<div align="center">
+  <img src="./assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg" width="100%" alt="SPEC-CCNP-088: 大深度複合地下回廊および不可侵調停プロトコル アイソメトリック断面図" />
+  <p><sub><b>図 9-1：SPEC-CCNP-088 φ13.5m大深度複合地下回廊および不可侵調停プロトコル 詳細アイソメトリック断面図</b></sub></p>
+</div>
 
 - **概要**: **φ13.5m大深度複合地下回廊（SPEC-CCNP-088）** のGL -48.5m洪積粘土層に、磁気浮上物流（超電導HTS）・±500kV HVDC送電線・IAAC不可侵調停回線・180m³/s非開削更生排水トンネルを完全一体化。地上の光合成触媒道路（PRS）および純酸素を吐き出す生体モビリティ（LMC）と連動する。
 - **スペック**:
@@ -269,8 +335,8 @@ Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 ---
 
 ### 14. 自律帯水層かん養・復水システム（JIN-SARP / 地軸質量復元） `[Level 2: 既存技術統合]`
-![自律帯水層かん養復水](assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_01.jpg)
-![直接シリコン水冷加圧注水](assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_02.jpg)
+![自律帯水層かん養復水](./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_01.jpg)
+![直接シリコン水冷加圧注水](./assets/JIN_SAMSARA_AQUIFER_RECHARGE_SPEC_02.jpg)
 
 - **概要**: 半導体ファブおよび巨大AIデータセンターの冷却水略奪を根絶。直接シリコン水冷熱を地域暖房に還流し、排水を無酸素加圧注水工法により帯水層へ無汚染で100%地下復水。地下水過剰汲み上げによる地球自転軸の傾斜（80cmの極移動）を物理的に質量復元する。
 - **スペック**:
@@ -282,8 +348,8 @@ Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 
 ### 15. 海溝調和・海底地殻鍼灸ノード（JIN-OAM Node / 地震ゼロ次制御） `[Level 3: 先進研究]`
 #### ［連動正典：SPEC-020 地熱振動回収 ＆ IGS散乱逆問題非破壊透視］
-![深海地殻鍼灸ドーム](assets/JIN_OCEANIC_ACUPUNCTURE_NODE_01.jpg)
-![海底下10000m断層透視](assets/JIN_OCEANIC_ACUPUNCTURE_NODE_02.jpg)
+![深海地殻鍼灸ドーム](./assets/JIN_OCEANIC_ACUPUNCTURE_NODE_01.jpg)
+![海底下10000m断層透視](./assets/JIN_OCEANIC_ACUPUNCTURE_NODE_02.jpg)
 
 - **概要**: 神戸大学発ベンチャーIGS（Integral Geometry Science）の散乱逆問題解析に基づき、海底下10,000mの断層固着域（アスペリティ）を非破壊3D透視。さらに **SPEC-020** と直結し、断層の歪み振動を大口径スピーカー反転ハーベスターで直接大電力へ回生吸収（電磁ダンピング）することで、巨大地震の破壊エネルギーを減勢しながらノードの自立電源を半永久担保する。
 - **スペック**:
@@ -296,8 +362,24 @@ Maritime Sovereignty, Deep-Sea Resources & Watershed Defense
 
 ### 16. 古来源頭部土砂抑止 ＆ 山腹多層崩壊防護工法 `[Level 1: 現場即応SOP]`
 #### ［連動正典：SPEC-023 動的霞堤・信玄堤治水 ＆ SPEC-024 深層崩壊・土砂ダム緊急サイフォン無人砂防］
-![石積砂留混層固め断面図](assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_04.jpg)
-![堂々川型石積砂留](assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_05.jpg)
+
+![石積砂留混層固め断面図](./assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_04.jpg)
+![堂々川型石積砂留](./assets/JIN_TRADITIONAL_HYDRO_LOGIC.md_05.jpg)
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="./docs/assets/SPEC-023_PROTOCOL_01.jpg" width="100%" alt="SPEC-023: 大河川外水氾濫・動的霞堤遊水群 ＆ 水没孤立街区防疫 3Dアイソメトリック詳細断面図" /><br>
+        <sub><b>動的霞堤・将棋頭・竜王の鼻治水（SPEC-023 / WIPO ID: 179898）</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="./docs/assets/SPEC-024_PROTOCOL_01.jpg" width="100%" alt="SPEC-024: 深層崩壊・河道閉塞（土砂ダム）緊急サイフォン排水 ＆ 遠隔無人化砂防 3Dアイソメトリック詳細断面図" /><br>
+        <sub><b>深層崩壊・土砂ダム緊急サイフォン無人砂防（SPEC-024 / WIPO ID: 179899）</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - **概要**: 江戸期福山藩の「堂々川型石積砂留」による数百年耐用の多孔質スリット減勢、松枝と土砂を多層交互に締め固めて間隙水圧を逃がす「混層固め」、等高線竹しがらみ工を源頭部に配備。さらに **SPEC-023（動的霞堤・現代化聖牛・将棋頭・竜王の鼻 / WIPO ID: 179898）** および **SPEC-024（ヘリ敷設大口径サイフォン排水・LoRa無人建機ステップカット開削 / WIPO ID: 179899）** と連動し、源頭部の山体崩壊から下流平野部の大規模外水氾濫までを一体防圧する。
 - **スペック**:
@@ -314,8 +396,8 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 
 ### 17. 海陸共生型酵素ケミカルリサイクル（JIN-CPC） `[Level 3: 先進研究]`
 ### ＆ 籾殻炭モリブデン常圧湿気解重合（SPEC-013 連動）
-![分散型ポリマー解重合プラント](assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_01.jpg)
-![常圧湿気加水分解エステル切断](assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_02.jpg)
+![分散型ポリマー解重合プラント](./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_01.jpg)
+![常圧湿気加水分解エステル切断](./assets/JIN_CIRCULAR_POLYMER_BIO_CATALYST_02.jpg)
 
 - **概要**: 微細藻類ユーグレナ×米麹「みどり麹」酵素プラットフォームから高活性PETase/MHETaseを大量生合成。籾殻バイオ炭担持モリブデン触媒を用い、AI計算排熱（60〜80℃）直結の常圧環境下で廃プラスチックをモノマー（TPA/EG）へ加水分解し、CNFバイオ樹脂やエコ建材へアップサイクルする。
 - **スペック**:
@@ -327,8 +409,8 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 
 ### 18. 伝統田畑輪換・土木排水工学（額縁明渠・高畝） `[Level 1: 現場即応SOP]`
 ### ＆ 生体ミトコンドリア土壌炭素隔離（SPEC-013） ＆ 昆虫フラス砂漠土壌化（SPEC-014）
-![田畑輪換排水工学全体図](assets/JIN_FARMER_REVITALIZATION_MASTERPLAN_02.jpg)
-![大豆根粒菌窒素固定自給NPK](assets/JIN_FARMER_REVITALIZATION_MASTERPLAN_03.jpg)
+![田畑輪換排水工学全体図](./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN_02.jpg)
+![大豆根粒菌窒素固定自給NPK](./assets/JIN_FARMER_REVITALIZATION_MASTERPLAN_03.jpg)
 
 - **概要**: 「早生米×大豆」輪換による連作障害・病害虫の自然リセット。外周40cmの額縁明渠と高畝造成による土木排水工学で大豆湿害を根絶。さらに**SPEC-013（みどり麹＆籾殻炭モリブデン触媒 / WIPO ID: 179881）**、**SPEC-014（昆虫残渣フラス連鎖 / WIPO ID: 179871）**、および **SPEC-015（脱リンバイオスラグ / WIPO ID: 179878）** を融合。化学肥料ゼロで年16.5〜27.5t/haの純炭素隔離と永久テラ・プレタ土壌造成を達成する。
 - **スペック**:
@@ -341,8 +423,8 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 
 ### 19. 人間主権型・統合バイオ創薬プラットフォーム（JIN-IBP / JIN-SPEC-MED-01） `[Level 3: 先進研究]`
 ### （微細藻類ユーグレナ×米麹「みどり麹」生体バイオエンジン）
-![統合バイオ創薬プラットフォーム](assets/18_jin_integrative_biopharma_matrix.jpg)
-![腸内免疫・生薬バイオコンバージョン断面図](assets/18_euglena_koji_gut_immunity_cross_section.jpg)
+![統合バイオ創薬プラットフォーム](./assets/18_jin_integrative_biopharma_matrix.jpg)
+![腸内免疫・生薬バイオコンバージョン断面図](./assets/18_euglena_koji_gut_immunity_cross_section.jpg)
 
 - **概要**: 巨大製薬資本の化学合成薬依存支配を解体。高い倫理観を持つ医師が主権を握る「統合医療」を基軸とし、伝統生薬（漢方）、微細藻類ユーグレナ、米麹活性酵素、およびAI精密標的分子工学を融合。「自己治癒力と腸内フローラを完全再生して投薬から卒業させる」生体防御型創薬基盤。
 - **スペック**:
@@ -355,8 +437,14 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 
 ### 20. 砂漠砂改質・高強度骨材精製プラント（CSEBブロック） `[Level 1: 現場即応SOP]`
 ### ＆ 現場打ち新コンクリ骨材（SPEC-022） ＆ 震災瓦礫RC-40現場分級再生（SPEC-026 連動）
-![砂漠砂改質・高強度骨材精製プラント](assets/TECHNOLOGY_CATALOG_19_01.jpg)
-![砂漠砂改質・高強度骨材精製プラント](assets/TECHNOLOGY_CATALOG_19_02.jpg)
+
+![砂漠砂改質・高強度骨材精製プラント](./assets/TECHNOLOGY_CATALOG_19_01.jpg)
+![砂漠砂改質・高強度骨材精製プラント](./assets/TECHNOLOGY_CATALOG_19_02.jpg)
+
+<div align="center">
+  <img src="./docs/assets/SPEC-022_MORTAR_PROTOCOL_01.jpg" width="100%" alt="SPEC-022: 現場打ち新コンクリート・新モルタル ＆ 地下水脈防護 3Dアイソメトリック詳細断面図" />
+  <p><sub><b>図 20-1：SPEC-022 熟練職人現場打ち新コンクリート・新モルタル ＆ 公道アンカー越境禁止 3Dアイソメトリック詳細断面図（WIPO ID: 179896）</b></sub></p>
+</div>
 
 - **概要**: 砂漠の風成砂や河川浚渫土を高分子バインダー結晶化技術により高強度JIS規格骨材へ改質。さらに **SPEC-022（熟練現場打ち新コンクリート新モルタル / WIPO ID: 179896）** および **SPEC-026（自走式クラッシャーによる震災コンクリート殻RC-40再生 / WIPO ID: 179901）**、**SPEC-016（セラミックス治具・スラグ耐火骨材循環）** と直結。外部採石ダンプに依存せず、現地発生土砂や倒壊瓦礫を復興盛土・路盤材へ100%地産地消する。
 - **スペック**:
@@ -371,7 +459,7 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 Arctic Cold-Compute & Local Sovereign Relational Finance
 
 ### 21. グリーンランド極北外気直接冷却（Free-Cooling） `[Level 2: 既存技術統合]`
-![極北冷気コンピュート特区](assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTY_01.jpg)
+![極北冷気コンピュート特区](./assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTY_01.jpg)
 
 - **概要**: 氷点下の極北外気を直接熱交換ルーバーへ導入し冷凍機電力を全廃。氷河融解水マイクロ水力発電で駆動し、排熱は現地先住民のKouben農業温室ドーム暖房へ全量カスケード回収する主権型計算特区。
 - **スペック**:
@@ -383,7 +471,13 @@ Arctic Cold-Compute & Local Sovereign Relational Finance
 
 ### 22. 地銀・信金主導 ローカル・ファクタリング ＆ 実物資産台帳 `[Level 2: 既存技術統合]`
 ### ＆ 市民インフラ保全証明 PoCI トークノミクス（SPEC-TOKEN-012 連動）
-![地域リレーショナル金融プラットフォーム](assets/JIN_LOCAL_RELATIONAL_FINANCE_SPEC_01.jpg)
+
+![地域リレーショナル金融プラットフォーム](./assets/JIN_LOCAL_RELATIONAL_FINANCE_SPEC_01.jpg)
+
+<div align="center">
+  <img src="./docs/assets/jin_token_poci_minting.jpg" width="100%" alt="市民インフラ保全証明(PoCI)新通貨JIN動的ミント概念図" />
+  <p><sub><b>図 22-1：SPEC-TOKEN-012 物理的維持労働に基づく新通貨JIN動的鋳造（PoCI）概念図</b></sub></p>
+</div>
 
 - **概要**: 中央銀行の投機マネーを遮断。地銀・信金が地元農家と町工場の売掛債権を100%即日保証・現金化（T+0）。真水（HU）、穀物（GU）、生体肥料（FU）、電力（JU）、精密加工枠（RU）の実物引換権を担保化。さらに **SPEC-TOKEN-012** により、道路修繕・緑道清掃・蓄電シェア等の物理労働から直接「新通貨JIN」を動的ミントする脱ゼロサム型金融プロトコル。
 - **スペック**:
@@ -399,7 +493,13 @@ Semiconductors, Sovereign OS & Quantum Security
 
 ### 23. 次世代半導体製造（国内自立ファブ ＆ 20W脳型チップレット地下冷却主権） `[Level 3: 先進研究]`
 #### ［連動正典：SPEC-027 / WIPO ID: 179936 ＆ JIN-SPEC-2026-006］
-![次世代半導体製造](assets/04_semiconductor_fab.jpg)
+
+![次世代半導体製造](./assets/04_semiconductor_fab.jpg)
+
+<div align="center">
+  <img src="./assets/SPEC-027_PROTOCOL_01.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
+  <p><sub><b>図 23-1：SPEC-027 20W生体代謝型脳型チップレット国内自立ファブ ＆ 地下下水動脈冷却構造図</b></sub></p>
+</div>
 
 - **概要**: 外部制裁や地政学リスクに左右されない完全国内自立ファブ（九州熊本等）。日本の先端物理工芸を結集し、人体の代謝（20W）を模倣した **SPEC-027（20W生体代謝型脳型チップレット / WIPO ID: 179936）** を国内製造。栗田工業・オルガノの超純水を「人工血液」としてチップ内微細流路に循環させ、ディスコ極薄研削、富士フイルム超平坦CMP、TOTO超精密セラミックス、味の素ABF、キヤノン・DNPナノインプリント、酸化ガリウム（Ga2O3）パワー素子を垂直統合。都市地下下水熱（ZLD完全密閉）と直結し、水資源消費ゼロ・送電網過負荷ゼロの自律分散エッジ知能網を確立する。
 - **スペック**:
@@ -412,7 +512,7 @@ Semiconductors, Sovereign OS & Quantum Security
 ---
 
 ### 24. 量子暗号と分散型AIグリッド（ジン・ネット） `[Level 3: 先進研究]`
-![ジン・ネット](assets/07_quantum_grid.jpg)
+![ジン・ネット](./assets/07_quantum_grid.jpg)
 
 - **概要**: BB84プロトコルを用いた量子暗号と分散型P2Pノードネットワークにより、外部からのハッキング・EMP攻撃を無力化する主権国防通信網。
 - **スペック**:
@@ -422,7 +522,7 @@ Semiconductors, Sovereign OS & Quantum Security
 ---
 
 ### 25. JIN-OS：新パラダイム統合司令端末（Benevolence Client） `[Level 2: 既存技術統合]`
-![JIN-OS：新パラダイム統合司令部](assets/11_JIN_OS_INTEGRATED_COMMAND_SMARTPHONE.jpg)
+![JIN-OS：新パラダイム統合司令部](./assets/11_JIN_OS_INTEGRATED_COMMAND_SMARTPHONE.jpg)
 
 - **概要**: すべての自律分散インフラ、実物通貨JIN、多言語翻訳、心のサロン（寂しさ買取）、およびオフラインLoRaメッシュDTN通信を掌中で統合管理する個人主権端末。
 - **スペック**:
@@ -431,6 +531,7 @@ Semiconductors, Sovereign OS & Quantum Security
 - **連携仕様書**: [JIN_OS_CLIENT_SPEC.md](./JIN_OS_CLIENT_SPEC.md)
 
 ---
+
 **Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
 **Engineering Authority:** JIN-ORDER Council of Advanced Sciences & Field Pioneer Guilds  
 **Status:** 25 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V12.1 CANONICAL AUTUMN LTS - NEUROMORPHIC CONDUIT SPEC-027 RATIFIED / WIPO GREEN ID: 179936, URBAN FIRESTORM & DEBRIS SPEC-026 RATIFIED / WIPO GREEN ID: 179901, CRYOSPHERIC SNOW-ICE SPEC-025 RATIFIED / WIPO GREEN ID: 179900, DEEP LANDSLIDE DAM-BREACH SPEC-024 RATIFIED / WIPO GREEN ID: 179899, DYNAMIC FLUVIAL KASUMI-LEVEE SPEC-023 RATIFIED / WIPO GREEN ID: 179898, CIVIC CONCRETE & MORTAR SPEC-022 RATIFIED / WIPO GREEN ID: 179896, SEISMO-HARVESTING & GEOTHERMAL IGS PROTOCOL SPEC-020 INTEGRATED / WIPO GREEN ID: 179888, AERO-TIDAL DUAL-FLUX SPEC-019 INTEGRATED / WIPO GREEN ID: 179886, MARINE CASCADE HYDRO-BATTERY SPEC-018 INTEGRATED / WIPO GREEN ID: 179884, TRI-CIRCULAR METABOLISM SPEC-016 RATIFIED / WIPO GREEN ID: 179879, ECOLOGICAL HYDROGEN STEEL SPEC-015 RATIFIED / WIPO GREEN ID: 179878, TENEBRIONID-FRASS SPEC-014 RATIFIED / WIPO GREEN ID: 179871, MITOCHONDRIAL CARBON SEQUESTRATION SPEC-013 / WIPO GREEN ID: 179881, PARK DISASTER CISTERN SPEC-012 / WIPO GREEN ID: 179883, CIVIL SAFETY SPEC-011-REV2, CIRCULAR SANITATION SPEC-010 INTEGRATED / WIPO-GREEN-16-TECH-PORTFOLIO COMPLETE / DUAL-LICENSE-V8.4-A-RATIFIED)  
