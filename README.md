@@ -5,10 +5,10 @@
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
 [![Archive.today](https://img.shields.io/badge/Archive.today-NMI9x-success?logo=archive.today)](https://archive.li/NMI9x)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
-[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(22%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(24%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
-- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定・申請済 (全22技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定・申請済 (全24技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012) / Master Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
 - **Wayback Machine**: [2026-10-02 確定公知タイムスタンプ](https://web.archive.org/web/20261002213344/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
 - **Archive.today**: [2026-10-02 独立魚拓確定版 (ID:NMI9x)](https://archive.li/NMI9x)
@@ -26,7 +26,7 @@
     <a href="#-spec-000-全惑星地域自立分散循環統合マスター仕様書">🌟 SPEC-000統合マスター</a><br>
     <a href="#️-2026-autumn-deep-infrastructure--autonomous-governance-suite">🏛️ JIN-SPEC 2026体系</a> ｜ 
     <a href="#-2026-late-autumn-canonical-conduit--disaster-metabolism-suite">🚰 不沈仕様一覧表</a> ｜ 
-    <a href="#-第零公理群外道の拒絶と民草の絶対防壁core-axioms">⚖️️ 第零公理群</a> ｜ 
+    <a href="#-第零公理群外道の拒絶と民草の絶対防壁core-axioms">⚖ 第零公理群</a> ｜ 
     <a href="#-master-repository-reading-guide-目的別最短ナビゲーション">🧭 目的別ナビゲーション</a>
   </p>
 </div>
@@ -83,8 +83,8 @@
   <a href="./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md">
     <img src="./docs/assets/SPEC-000_PLANETARY_SYNTHESIS_01.jpg" width="100%" alt="SPEC-000: 惑星的主権循環型統合 生態学的トーラス・コモンズ建築" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
   </a>
-  <p><b>🌍 【全30大仕様書統合最高位正典】<a href="./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md">SPEC-000：全惑星・地域自立分散循環統合マスター仕様書（SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md）</a></b><br>
-  <sub>SPEC-001からSPEC-028までを結集し、4層グランドトポロジー（水理・資源・中立計算・民草主権）により中央集権の搾取と机上の空論を完全解体する不沈文明のグランドアーキテクチャ。</sub></p>
+  <p><b>🌍 【全32大仕様書統合最高位正典】<a href="./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md">SPEC-000：全惑星・地域自立分散循環統合マスター仕様書（SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md）</a></b><br>
+  <sub>SPEC-001からSPEC-030までを結集し、4層グランドトポロジー（水理・資源・中立計算・民草主権）により中央集権の搾取と机上の空論を完全解体する不沈文明のグランドアーキテクチャ。</sub></p>
 </div>
 
 ---
@@ -109,7 +109,7 @@
 
 <!-- INTERNATIONAL MULTILATERAL REGISTRATION & COMMONS DEFENSE STATUS -->
 <p align="left">
-  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(22%20Techs)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN Portfolio" /></a>
+  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(24%20Techs)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN Portfolio" /></a>
   <img src="https://img.shields.io/badge/DPGA-Nominee%20(GID0094240)-0077b6?style=for-the-badge&logo=unicef&logoColor=white" alt="DPGA Nominee" />
   <img src="https://img.shields.io/badge/UNDRR-PreventionWeb%20Deposited-1d3557?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNDRR PreventionWeb" />
   <img src="https://img.shields.io/badge/UNHCR%20UNPP-Global%20(ID%3A%2064636)-0A66C2?style=for-the-badge&logo=unitednations&logoColor=white" alt="UNHCR UNPP 64636" />
@@ -143,7 +143,7 @@
 ---
 
 ## 🚰 2026 LATE-AUTUMN CANONICAL CONDUIT & DISASTER METABOLISM SUITE
-> **2026年10月 最新批准：都市封鎖を破砕し、極限自然災害（外水氾濫・土砂ダム・豪雪・木密火災）、地政学的通商遮断、宇宙核融合、および次世代光電融合主権計算までを網羅する全30大正典仕様書体系**
+> **2026年10月 最新批准：都市封鎖を破砕し、極限自然災害（外水氾濫・土砂ダム・豪雪・木密火災）、地政学的通商遮断、宇宙核融合、次世代光電融合主権計算、核廃棄物オンサイト完全消滅、および惑星レゴリス自律土壌化までを網羅する全32大正典仕様書体系**
 
 | 文書識別子 | 分類 | 概要・工学的機序 | リンク / WIPO ID |
 |:---|:---|:---|:---:|
@@ -176,6 +176,8 @@
 | **SPEC-026** | 火災旋風瓦礫 | 下水圧マンホールミストカーテン、自走クラッシャー現場RC-40化 | [SPEC-026](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) <br> **(WIPO: 179901)** |
 | **SPEC-027** | 脳型半導体 | 20W脳型チップレット、オンチップ超純水毛細冷却、下水熱ZLD完全密閉交換 | [SPEC-027](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md) <br> **(WIPO: 179936)** |
 | **SPEC-028** | **光電融合主権** | **生体等温光電融合、CPO毛細血管冷却（37℃恒温）、テラヘルツIGS散乱逆問題1秒非破壊透視、核融合耐強磁場光速主権計算** | [SPEC-028](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md) <br> **(WIPO: 179966)** |
+| **SPEC-029** | **荷電核変換透視** | **超臨界荷電核変換、Gamow共鳴動的ディチューニング、IGS多重散乱逆問題キャスク非破壊3D透視、光電融合耐放射線自律コア** | [SPEC-029](./docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md) <br> **(WIPO: 179967)** |
+| **SPEC-030** | **惑星土壌創生** | **宇宙惑星レゴリス自律土壌化、過塩素酸塩熱化学無害化・純酸素回収、マイトファジーみどり麹、昆虫フラス団粒化、コズミック・テラ・プレタ創生** | [SPEC-030](./docs/SPEC-030_COSMIC_PLANETARY_REGOLITH_TERRA_PRETA_SOIL_METABOLISM_PROTOCOL.md) <br> **(WIPO: 179968)** |
 | **SPEC-088** | 大深度回廊 | φ13.5m大深度シールド、自動磁気浮上物流、不可侵調停回線、更生排水路 | [SPEC-CCNP-088](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md) |
 | **SPEC-999** | **宇宙核融合・IGS** | **宇宙ヘリウム3直接電磁誘導核融合、黄金比磁場配線、IGS散乱逆問題100μs炉内3D透視自律制御、完全無中性子クリーン発電** | [SPEC-999](./docs/SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md) <br> **(WIPO: 179964)** |
 | **LSU-CHAD** | 乾燥地帯水理 | 太陽光無電力深層揚水、外来種バイオ炭化、オアシス都市 | [LSU-CHAD-01](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md) <br> **(WIPO: 179882)** |
@@ -216,9 +218,9 @@
 ```text
 [旧世界の四重搾取]  ⏩️  [JIN-ORDER 3層防壁スタック]
 (1) 影の貴族（特権・淘汰）
-(2) 教義洗脳（精神の檻）  ⏩️ [Layer 3: 仁シグナル層]   ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
+(2) 教義洗脳（精神の檻）   ⏩️ [Layer 3: 仁シグナル層]   ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
 (3) 国家権力（制度・接収） ⏩️ [Layer 2: 分散コモンズ層] ⏩️ 接収・首謀者処罰の無効化（Headless運用）
-(4) 暴力私欲（堕落した侠） ⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
+(4) 暴力私欲（堕落した侠） ⏩️ [Layer 1: 大地の避難地層] ⏩️️ 強制排除・境界線の無効化（非固着型土木）
 ```
 ---
 
@@ -236,7 +238,7 @@
 
 ### 🏛️ 至高根本法規 ＆ 2026 最新深淵統治プロトコル（必読）
 - 📜 **[CONSTITUTION.md: 仁焔世界大憲章 2040（The Grand Charter of Jin-en）](./CONSTITUTION.md)**：リポジトリ最上位憲法。地球家族22の約束、Universal Code of Pome
-- 🌐 **[SPEC-000: 全惑星・地域自立分散循環統合マスター仕様書](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**：全30大仕様書を結集した4層グランドトポロジー正典
+- 🌐 **[SPEC-000: 全惑星・地域自立分散循環統合マスター仕様書](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**：全32大仕様書を結集した4層グランドトポロジー正典
 - ⚖️ **[specs/JIN_FRONTIER_LAW.md: JIN開拓地特別法（基本法規集）](./specs/JIN_FRONTIER_LAW.md)**：漂泊の民の主権回復、AI公平裁判、不沈インフラ・母性生態主権
 - 📐 **[specs/README.md: JIN-SPEC 技術・統治仕様書目録](./specs/README.md)**：001〜005 5大アーキテクチャ正本体系
 - 🌊 **[SPEC-001: 溶存酸素純増放流（Net-Positive DO）＆ 流域水理仕様書](./docs/JIN-SPEC-ECO-001.md)**：水質再生、跳水落差工、ケナフ湿地固定 **(WIPO: 179959)**
@@ -267,6 +269,8 @@
 - 🔥 **[SPEC-026: 首都直下火災旋風破砕・震災瓦礫現場即時循環仕様書](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md)**：ミストカーテン、現場RC-40化 **(WIPO: 179901)**
 - 🧠 **[SPEC-027: 20W生体代謝型脳型チップレット・地下動脈クローズドループ冷却仕様書](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md)**：下水熱ZLD完全密閉交換 **(WIPO: 179936)**
 - 💡 **[SPEC-028: 生体等温光電融合 ＆ IGSナノ光路非破壊透視 ＆ 核融合耐強磁場光速主権計算仕様書](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md)**：CPO毛細血管冷却（37℃恒温）、テラヘルツIGS散乱逆問題1秒非破壊透視、核融合耐強磁場光速主権計算 **(WIPO: 179966)**
+- ☣️ **[SPEC-029: 超臨界荷電核変換 ＆ IGSキャスク非破壊透視 ＆ 光電融合放射線耐性制御仕様書](./docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md)**：オンサイト核変換、MA消滅処理、IGSキャスク透視 **(WIPO: 179967)**
+- 🪐 **[SPEC-030: 宇宙惑星レゴリス自律土壌化 ＆ 極限生体代謝テラ・プレタ創生仕様書](./docs/SPEC-030_COSMIC_PLANETARY_REGOLITH_TERRA_PRETA_SOIL_METABOLISM_PROTOCOL.md)**：レゴリス無害化、マイトファジーみどり麹、甲虫フラス団粒化 **(WIPO: 179968)**
 - 🚇 **[SPEC-088: チョークポイント中立化・φ13.5m大深度複合地下回廊・IAAC調停仕様書](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)**：大深度シールド、自動磁気浮上物流
 - 🪐 **[SPEC-999: 宇宙ヘリウム3直接電磁誘導核融合 ＆ IGS散乱逆問題非破壊炉内トモグラフィ制御仕様書](./docs/SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md)**：月面He-3直接発電、IGS非破壊3D透視、無中性子クリーンエネルギー **(WIPO: 179964)**
 - 🕊️ **[JIN-DOC-2026-DISARM: 二大終末リスク同時解体白書](./docs/JIN_DOC_2026_DUAL_DISARMAMENT_DOCTRINE.md)**：大気炭素350億t代謝固定と核兵器兵糧攻め
@@ -275,7 +279,7 @@
 ---
 
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (抜粋)
-> 全27大技術体系の詳細は [27大技術体系カタログ（TECHNOLOGY_CATALOG.md）](./TECHNOLOGY_CATALOG.md) を参照。
+> 全29大技術体系の詳細は [29大技術体系カタログ（TECHNOLOGY_CATALOG.md）](./TECHNOLOGY_CATALOG.md) を参照。
 
 1. **生体臓器分散型コンピューティング＆身体主権防衛** `[Level 3]`：20W代謝模倣チップレット、侵襲的サイボーグ化の拒絶。
 2. **ジン・ドラゴン次世代三位一体エネルギーマトリクス** `[Level 3]`：ペロブスカイト×全固体Jin-Battery×海洋塩ナトリウム蓄電。
@@ -331,7 +335,7 @@
 | リポジトリ | 役割 | リンク |
 | :--- | :--- | :--- |
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（二大終末リスク同時解体白書 ＆ 全30大仕様書 SPEC-000〜028 ＆ 宇宙核融合 SPEC-999 ＆ 大深度回廊 SPEC-088 統合正本） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（二大終末リスク同時解体白書 ＆ 全32大仕様書 SPEC-000〜030 ＆ 宇宙核融合 SPEC-999 ＆ 大深度回廊 SPEC-088 統合正本） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -343,4 +347,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V12.1 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / DOI: 10.5281/zenodo.23111012 / CONCEPT-DOI: 10.5281/zenodo.22958158 / SPEC-000-PLANETARY-SYNTHESIS-RATIFIED / SPEC-001-TO-028-FULL-APEX-CANONICAL-RATIFIED / SPEC-999-COSMIC-FUSION-RATIFIED / WIPO-GREEN-PORTFOLIO-22-EXPANDED (IDs: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896, 179898, 179899, 179900, 179901, 179936, 179959, 179960, 179961, 179963, 179964, 179966) / JIN-SPEC-2026-001-TO-005-RATIFIED / JIN-FRONTIER-LAW-AMENDED / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED / LICENSE-V8.4-A-RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V12.1 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / DOI: 10.5281/zenodo.23111012 / CONCEPT-DOI: 10.5281/zenodo.22958158 / SPEC-000-PLANETARY-SYNTHESIS-RATIFIED / SPEC-001-TO-030-FULL-APEX-CANONICAL-RATIFIED / SPEC-029-NUCLEAR-TRANSMUTATION-RATIFIED / SPEC-030-PLANETARY-REGOLITH-RATIFIED / SPEC-999-COSMIC-FUSION-RATIFIED / WIPO-GREEN-PORTFOLIO-24-EXPANDED (IDs: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896, 179898, 179899, 179900, 179901, 179936, 179959, 179960, 179961, 179963, 179964, 179966, 179967, 179968) / JIN-SPEC-2026-001-TO-005-RATIFIED / JIN-FRONTIER-LAW-AMENDED / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED / LICENSE-V8.4-A-RATIFIED)`
