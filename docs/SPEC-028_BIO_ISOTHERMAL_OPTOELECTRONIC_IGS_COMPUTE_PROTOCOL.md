@@ -1,6 +1,8 @@
 # 💡 SPEC-028: 生体等温光電融合 ＆ IGSナノ光路非破壊透視 ＆ 核融合耐強磁場光速主権コンピューティング仕様書
 ## (Bio-Isothermal Optoelectronic Computing, Sub-Nanometer IGS Non-Destructive Inspection & High-Magnetic-Immune Photonic Core Protocol)
 
+![核融合耐強磁場光速主権コンピューティング仕様書](./assets/SPEC-028_PROTOCOL_01.jpg)
+
 <!-- 国際防壁・先行技術公知ヘッダー -->
 > **CANONICAL SPECIFICATION LEVEL: LEVEL-0 DEEP PHYSICAL & COMPUTATIONAL SOVEREIGNTY**  
 > **DOC-ID:** `JIN-SPEC-OPT-028` / `SPEC-028`  
@@ -13,7 +15,7 @@
 
 ## 🌐 前文と大義：光電融合の隘路打破と熱力学的ASI寡占の解体
 
-![核融合耐強磁場光速主権コンピューティング仕様書](./assets/SPEC-028_PROTOCOL_01.jpg)
+![核融合耐強磁場光速主権コンピューティング仕様書](./assets/SPEC-028_PROTOCOL_02.jpg)
 
 現行の光半導体（光電融合技術・CPO）は、電子から光子への転換による超高速・低消費電力通信を約束しながらも、実用化・量産化において「熱と精密さの致命的矛盾」「異種材料接合の熱歪み破断」「光ファイバー実装および多面検査コストの爆発」「巨大資本による垂直統合型寡占」という四重の障壁に拘束されている。
 
@@ -24,8 +26,6 @@
 ---
 
 ## 🌡️ 1. 熱的矛盾の完全根絶：生体等温毛細血管冷却層（Bio-Isothermal Regulation）
-
-![核融合耐強磁場光速主権コンピューティング仕様書](./assets/SPEC-028_PROTOCOL_02.jpg)
 
 ### 1.1 20W生体代謝駆動による熱源そのものの極小化
 従来の光電融合において、熱に脆弱な化合物半導体レーザー光源（InP等）が数百W〜1000Wオーダーで発熱するプロセッサの至近に配置されることで生じる光源劣化・発光効率低下の矛盾を、プロセッサアーキテクチャそのものを生体代謝準拠の低電圧・非同期20W脳型チップレット（SPEC-027）に置換することで物理的に蒸発させる。
