@@ -3,15 +3,15 @@
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23111012.svg)](https://doi.org/10.5281/zenodo.23111012)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
-[![Archive.today](https://img.shields.io/badge/Archive.today-NMI9x-success?logo=archive.today)](https://archive.li/NMI9x)
+[![Archive.today](https://img.shields.io/badge/Archive.today-RqEoj-success?logo=archive.today)](https://archive.li/RqEoj)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(24%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定・申請済 (全24技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012) / Master Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
-- **Wayback Machine**: [2026-10-02 確定公知タイムスタンプ](https://web.archive.org/web/20261002213344/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
-- **Archive.today**: [2026-10-02 独立魚拓確定版 (ID:NMI9x)](https://archive.li/NMI9x)
+- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [DOI: 10.5281/zenodo.23129267](https://zenodo.org/records/23129267) / Master Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
+- **Wayback Machine**: [2026-10-04 確定公知タイムスタンプ](https://web.archive.org/web/20261004045352/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
+- **Archive.today**: [2026-10-04 独立魚拓確定版 (ID:RqEoj)](https://archive.li/RqEoj)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ---
