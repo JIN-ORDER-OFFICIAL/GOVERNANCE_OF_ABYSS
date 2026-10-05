@@ -140,7 +140,7 @@ Energy, Environment & Autonomous Water Matrix
 #### ［連動正典：SPEC-027 20W生体代謝型脳型チップレット / WIPO ID: 179936］
 
 <div align="center">
-  <img src="./assets/SPEC-027_PROTOCOL_02.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
+  <img src="./docs/assets/SPEC-027_PROTOCOL_02.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
   <p><sub><b>図 1-1：SPEC-027 20W生体代謝型脳型チップレット（キオクシアCBA直接接合＆3D OCTRAM＆CXLストレージ統合）詳細断面図</b></sub></p>
 </div>
 
