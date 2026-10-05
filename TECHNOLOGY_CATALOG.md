@@ -39,7 +39,7 @@
     - [ID: 179899 (SPEC-024 深層崩壊土砂ダム緊急サイフォン)](https://wipogreen.wipo.int/wipogreen-database/articles/179899)
     - [ID: 179900 (SPEC-025 豪雪下水熱無散水消雪)](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
     - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901)
-  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / 最新正典リリース: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012)
+  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / 最新正典リリース: [10.5281/zenodo.23148196](https://doi.org/10.5281/zenodo.23148196)
   - **Archive.today**: [2026-10-5 独立魚拓確定版 (ID:B5u5V)](https://archive.li/B5u5V)
   - **Wayback Machine**: [2026-10-5 確定公知タイムスタンプ](https://web.archive.org/web/20261005062903/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
   - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
@@ -103,7 +103,7 @@
 
 34大先端技術は、単独で存在するのではなく、中央の「JIN-ORDER 自律調和核」を中心に6つの同心円防壁・機能層として相互接続され、常時リアルタイムでエネルギー・計算資源・物質循環・極限減災を同期させている。
 
-- **🏙️ URBAN CIVIL, DISASTER & THERMAL SYMBIOSIS（都市土木・防災避難・熱電共生層）:** **都市風道コリドー＆常温VOC光触媒分解＆大気ナノプラスチック量子静電回収（SPEC-035 / WIPO ID: 179974）**、**自律型不燃海藻バイオ防壁＆多層生体防火コリドー＆急速斜面蘇生（SPEC-033 / WIPO ID: 179972）**、**火山降灰サイクロン分級＆排熱ジオポリマーブロック成型＆ERW土壌再生（SPEC-032 / WIPO ID: 179971）**、**生体等温光電融合＆IGSナノ光路非破壊透視＆核融合耐強磁場光速主権計算（SPEC-028 / WIPO ID: 179966）**、**20W生体代謝型脳型チップレット＆地下動脈クローズドループ冷却インフラ（SPEC-027 / WIPO ID: 179936）**、生体臓器分散型コンピューティング（20W代謝）、JIN-ZONING（熱力学用途地域）、地下多用途共同溝×液浸AI熱直結（WUE=0.00）、**首都直下木密火災旋風破砕・下水圧マンホールミストカーテン＆数千万トン震災瓦礫現場即時分級循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・無塩除雪路面保全＆下水熱・地熱無散水消雪自律防護（SPEC-025 / WIPO ID: 179900）**、**熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開＆地下水脈防護（SPEC-022 / WIPO ID: 179896）**、**地域社会生活基盤・自立分散型多層防衛マトリクス（SPEC-021）**、**三重円環地球再生＆先端セラミックス熱力学的輪廻転生（SPEC-016 / WIPO ID: 179879）**、**生態共生型水素還元製鉄＆バイオスラグ土壌循環（SPEC-015 / WIPO ID: 179878）**、**公共公園地下循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、行政直営AIスマート防犯灯＆IGS危険物透視＆最短交番即応（SPEC-011-REV2）、**都心・地方二元型地域資源循環コンポスト（SPEC-010 / WIPO ID: 179963）**、折りたたみ式メッシュ集積カゴ＆架線防鳥スパイク立体防衛、せせらぎ緑道復元、光合成道路表層（PRS）
+- **🏙️ URBAN CIVIL, DISASTER & THERMAL SYMBIOSIS（都市土木・防災避難・熱電共生層）:** **都市風道コリドー＆常温VOC光触媒分解＆大気ナノプラスチック量子静電回収（SPEC-035 / WIPO ID: 179974）**、**自律型不燃海藻バイオ防壁＆多層生体防火コリドー＆急速斜面蘇生（SPEC-033 / WIPO ID: 179972）**、**火山降灰サイクロン分級＆排熱ジオポリマーブロック成型＆ERW土壌再生（SPEC-032 / WIPO ID: 179971）**、**生体等温光電融合＆キオクシアCBA接合＆IGSナノ光路非破壊透視（SPEC-028 / WIPO ID: 179966）**[cite: 14, 15, 17]、**20W生体代謝型脳型チップレット＆キオクシア3D OCTRAM＆地下動脈ZLD冷却（SPEC-027 / WIPO ID: 179936）**[cite: 17]、生体臓器分散型コンピューティング（20W代謝）、JIN-ZONING（熱力学用途地域）、地下多用途共同溝×液浸AI熱直結（WUE=0.00）、**首都直下木密火災旋風破砕・下水圧マンホールミストカーテン＆数千万トン震災瓦礫現場即時分級循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・無塩除雪路面保全＆下水熱・地熱無散水消雪自律防護（SPEC-025 / WIPO ID: 179900）**、**熟練職人現場打ち本位・小型分散プラント・プラスチックフリー防錆・新モルタル建築展開＆地下水脈防護（SPEC-022 / WIPO ID: 179896）**、**地域社会生活基盤・自立分散型多層防衛マトリクス（SPEC-021）**、**三重円環地球再生＆先端セラミックス熱力学的輪廻転生（SPEC-016 / WIPO ID: 179879）**、**生態共生型水素還元製鉄＆バイオスラグ土壌循環（SPEC-015 / WIPO ID: 179878）**、**公共公園地下循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、行政直営AIスマート防犯灯＆IGS危険物透視＆最短交番即応（SPEC-011-REV2）、**都心・地方二元型地域資源循環コンポスト（SPEC-010 / WIPO ID: 179963）**、折りたたみ式メッシュ集積カゴ＆架線防鳥スパイク立体防衛、せせらぎ緑道復元、光合成道路表層（PRS）
 - **⚡ AUTONOMOUS ENERGY & WATER MATRIX（自立動力・水利循環層）:** **原位置PFAS完全無毒化＆電場生体ハイブリッド水脈解毒（SPEC-031 / WIPO ID: 179970）**、**宇宙ヘリウム3直接電磁誘導核融合＆IGS散乱逆問題非破壊炉内トモグラフィ（SPEC-999 / WIPO ID: 179964）**、**超臨界荷電核変換＆IGSキャスク非破壊透視＆光電融合放射線耐性制御（SPEC-029 / WIPO ID: 179967）**、**沿岸連鎖型海水フロート・ペロブスカイト揚水＆生態水理蓄電（SPEC-018 / WIPO ID: 179884: 井川用水モデル）**、**風・海流複合デュアル運動エネルギー変換＆深海DASハイブリッド係留（SPEC-019 / WIPO ID: 179886）**、**地殻歪み振動回収・深層地熱自立発電＆IGS散乱逆問題非破壊防災通信（SPEC-020 / WIPO ID: 179888）**、**溶存酸素純増放流（Net-Positive DO）＆水理落差工（SPEC-001 / WIPO ID: 179959）**、**多重冗長化WASH＆3重リング配管（SPEC-002 / WIPO ID: 179960）**、ジン・ドラゴン三位一体エネルギー（ペロブスカイト光半導体・全固体Jin-Battery・海洋塩ナトリウム蓄電・NAS蓄電バッファ）、低温減圧膜蒸留（VMD海水淡水化）＆濃縮ブライン資源化（ZLD）、上下水道インライン水圧発電、下水汚泥SCWG水素＆電炉排熱直結SOEC高温水電解、宇宙太陽光（SSPS）レクテナ受電、チョークポイント弾力性大深度地熱
 - **🚄 3D TRANSIT & LOGISTICS ARTERIES（三次元自律交通・動脈物流層）:** **φ13.5m大深度複合地下回廊・IAAC調停（SPEC-CCNP-088）**、JIN-Lifeblood Express（インフラ同軸超伝導レール）、現代版北前船（硬翼帆内航ハイブリッド）、河川上空ドローン法定航路（Skyway）、水陸両用飛行艇（Sky Oasis）
 - **🌊 MARITIME SOVEREIGNTY & GEO-HYDRO DEFENSE（海洋主権・深海計算・水脈治水防衛層）:** **生体防潮オイスターリーフ＆深海海溝調停＆沿岸海洋生態共生（SPEC-034 / WIPO ID: 179973）**、**大河川外水氾濫・動的霞堤遊水群・将棋頭分流・竜王の鼻偏向＆水没孤立街区防疫自律救命（SPEC-023 / WIPO ID: 179898）**、**深層崩壊・山体崩壊・河道閉塞（土砂ダム）緊急重力サイフォン排水＆遠隔無人化砂防土木（SPEC-024 / WIPO ID: 179899）**、水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 / 沖縄トラフ1,500m）、**深海DAS光ファイバー全海底受動ソナー防衛網（SPEC-019連動）**、**海溝調和地殻鍼灸ノード＆IGS非破壊トモグラフィ断層透視（JIN-OAM / SPEC-020連動）**、沖縄第7鉱区＆沖縄トラフ熱水鉱床防衛、自律帯水層かん養（JIN-SARP / 地軸質量復元）、古来源頭部土砂抑止（石積砂留・混層固め）
@@ -128,7 +128,7 @@ Regional Strategy & Core Technologies Cross-Reference Matrix
 | **日本本土・大都市圏** | 地域自立共生経済 ＆ 大田区町工場直結 ＆ 産業脱炭素 ＆ 都市呼吸主権 | **[22]** 地銀ローカル・ファクタリング<br>**[07]** 多用途共同溝×液浸AI<br>**[34 / SPEC-035]** 都市風道＆ナノプラ量子回収<br>**[30 / SPEC-031]** 原位置PFAS完全無毒化<br>**[SPEC-027]** 20W脳型半導体地下冷却<br>**[SPEC-028]** 生体等温光電融合CPO<br>**[SPEC-029]** 荷電核変換オンサイト無害化<br>**[SPEC-015]** 生態共生水素還元製鉄<br>**[SPEC-016]** 三重円環セラミックス輪廻 | 中央集権金融をバイパス。地銀が農家と町工場の売掛金を即日全額保証。電炉排熱をSOEC高温水電解に直結し、下水バイオガスからe-fuelを自給自足。都市風道と可視光触媒、量子浄化フィルターによりヒートアイランドを3.5℃冷却し、大気ナノプラスチックを95.8%解重合資源化して呼吸主権を奪還。 |
 | **チャド湖盆地・サヘル** | サヘル気候難民自立・土壌再生（UNHCR） | **[04]** LSU-Chad-01 人道ユニット<br>**[02]** ナトリウム蓄電グリッド<br>**[SPEC-014]** 昆虫フラス砂漠土壌再生 | 侵略的外来種テッポウウリを無煙炭化し、昆虫フラス（WIPO GREEN ID: 179871）と混合してテラ・プレタ土壌を再生。難民オアシス都市を完全自立化。 |
 | **コンゴ民主共和国** | シスターフッド同盟 ＆ コバルト資源主権 | **[02]** 全固体JIN-Battery現地完成品化<br>**[17]** バイオ浸出・スラグ建材化 | 鉱物原石のダンピング輸出を禁止し、現地ギルドで全固体電池完成品（1,200Wh/kg）まで一貫製造して児童労働と搾取を完全遮断。 |
-| **台湾海峡・東シナ海・九州熊本** | シリコン・サンクチュアリ ＆ 水脈復水 ＆ 脳型自立ファブ | **[14]** 自律帯水層かん養（JIN-SARP）<br>**[23]** 国内半導体自立ファブ<br>**[SPEC-027]** 20W脳型チップレット<br>**[SPEC-028]** 生体等温光電融合主権計算<br>**[24]** ジン・ネット | TSMC冷却水を無酸素加圧注水で帯水層へ100%クローズドループ復水。日本の先端素材工芸を結集した20W脳型チップレットおよび生体等温光電融合CPOの国内製造を確立し、地軸質量とデジタル主権を死守。 |
+| **台湾海峡・東シナ海・九州熊本** | シリコン・サンクチュアリ ＆ 水脈復水 ＆ 脳型自立ファブ | **[14]** 自律帯水層かん養（JIN-SARP）<br>**[23]** 国内半導体自立ファブ<br>**[SPEC-027]** 20W脳型チップレット<br>**[SPEC-028]** 生体等温光電融合主権計算<br>**[24]** ジン・ネット | TSMC冷却水を無酸素加圧注水で帯水層へ100%クローズドループ復水。日本の先端素材工芸を結集した20W脳型チップレットおよび生体等温光電融合CPOの国内製造を確立し、地軸質量とデジタル主権を死守[cite: 17]。 |
 | **月面裏側・火星・深宇宙開拓地** | 宇宙エネルギー・食糧主権 ＆ 恒久生命維持 | **[26 / SPEC-999]** 宇宙ヘリウム3直接誘導核融合＆IGS炉内トモグラフィ<br>**[27 / SPEC-028]** 核融合耐強磁場光速主権計算<br>**[28 / SPEC-029]** 超臨界荷電核変換自律消滅処理<br>**[29 / SPEC-030]** 宇宙惑星レゴリス自律土壌化＆テラ・プレタ創生 | 月の裏側レゴリスからHe-3を回収。蒸気タービンを排した電磁誘導直接発電（効率85%+）とIGS散乱逆問題非破壊透視により事故を根絶。超強磁場（20T）下でも光子伝送により100%無干渉でディスラプションを回避。余剰熱と光電融合制御により毒性過塩素酸塩を熱分解し、昆虫フラスとみどり麹マイトファジー連鎖でレゴリスを永続肥沃土へ転換。宇宙食糧主権（Nobody Starves in Cosmos）を確立。 |
 
 ---
@@ -140,13 +140,15 @@ Energy, Environment & Autonomous Water Matrix
 #### ［連動正典：SPEC-027 20W生体代謝型脳型チップレット / WIPO ID: 179936］
 
 <div align="center">
-  <img src="./assets/SPEC-027_PROTOCOL_01.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
-  <p><sub><b>図 1-1：SPEC-027 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図</b></sub></p>
+  <img src="./assets/SPEC-027_PROTOCOL_02.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
+  <p><sub><b>図 1-1：SPEC-027 20W生体代謝型脳型チップレット（キオクシアCBA直接接合＆3D OCTRAM＆CXLストレージ統合）詳細断面図</b></sub></p>
 </div>
 
-- **概要**: 人体代謝（約20W）を模倣した異種チップレット（大脳倫理・小脳物理・自律神経冷却・インメモリシナプス）。侵襲的サイボーグ化や脳電極埋設を拒絶し、都市地下バイオスウェル浸透水冷およびサヘル砂漠アースチューブによる完全自然共生型演算アーキテクチャ。**SPEC-027（オンチップ微細流路超純水冷却×地下下水熱ZLD完全密閉交換）** と直結し、水資源消費ゼロの知能基盤を形成する。
+- **概要**: 人体代謝（約20W）を模倣した異種チップレット（大脳倫理・小脳物理・自律神経冷却・インメモリシナプス）。侵襲的サイボーグ化や脳電極埋設を拒絶し、都市地下バイオスウェル浸透水冷およびサヘル砂漠アースチューブによる完全自然共生型演算アーキテクチャ。**キオクシアCBA直接接合（原子レベルウエハー貼り合わせ）**、**3D OCTRAM（酸化物半導体ゼロリーク8層DRAM）**、および **CXL/XL-FLASH光直結ストレージ** を垂直統合し[cite: 15, 17]、**SPEC-027（オンチップ微細流路超純水冷却×地下下水熱ZLD完全密閉交換）** と直結することで、外資HBM寡占を完全打破しながら水資源消費ゼロ（WUE=0.00）の知能基盤を形成する[cite: 17]。
 - **スペック**:
   - 消費電力指標: 人体安静時代謝同等の **20W駆動**
+  - シナプス記憶層: 酸化物半導体（InGaZnO）8層積層 **3D OCTRAM（待機時リーク電流実質ゼロ）**[cite: 17]
+  - 接合界面: キオクシア **CBA（CMOS directly Bonded to Array）原子レベル直接接合**（マイクロバンプ全廃）[cite: 17]
   - 自然冷却構造: チップ内毛細血管流路超純水循環 ＋ 土壌バイオスウェル・地下下水管渠パッシブ熱交換（機械式チラー・冷却塔全廃）
   - 身体主権防衛: 侵襲的電極インプラントを永久禁止し、非侵襲生体調律インターフェースのみを採用
 - **連携仕様書**: [JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md](./JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md) / [docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md)
@@ -260,10 +262,10 @@ Energy, Environment & Autonomous Water Matrix
   </table>
 </div>
 
-- **概要**: 都市地下共同溝に液浸AI、**SPEC-027（20W脳型チップレット / WIPO ID: 179936）**、および **SPEC-028（生体等温光電融合CPO / WIPO ID: 179966）** を分散配備し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成。**首都直下火災旋風破砕・震災瓦礫循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・下水熱無散水消雪（SPEC-025 / WIPO ID: 179900）**、**熟練現場打ち新コンクリ新モルタル（SPEC-022 / WIPO ID: 179896）**、**地域社会多層防衛マトリクス（SPEC-021）**、**三重円環地球再生（SPEC-016）**、**生態共生水素製鉄（SPEC-015）**、**公園地下の循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、**行政直営AI防犯灯＆IGS危険物透視（SPEC-011-REV2）**、および**都心・地方二元型資源循環コンポスト（SPEC-010 / WIPO ID: 179963）**を包含する総合都市土木体系。
+- **概要**: 都市地下共同溝に液浸AI、**SPEC-027（20W脳型チップレット / WIPO ID: 179936）**、および **SPEC-028（生体等温光電融合CPO / WIPO ID: 179966）** を分散配備し、下水熱交換ループ直結により水消費ゼロ（WUE=0.00）を達成[cite: 14, 17]。**首都直下火災旋風破砕・震災瓦礫循環（SPEC-026 / WIPO ID: 179901）**、**豪雪雪氷極寒冷害・下水熱無散水消雪（SPEC-025 / WIPO ID: 179900）**、**熟練現場打ち新コンクリ新モルタル（SPEC-022 / WIPO ID: 179896）**、**地域社会多層防衛マトリクス（SPEC-021）**、**三重円環地球再生（SPEC-016）**、**生態共生水素製鉄（SPEC-015）**、**公園地下の循環雨水調整池＆耐震消火水利（SPEC-012 / WIPO ID: 179883）**、**行政直営AI防犯灯＆IGS危険物透視（SPEC-011-REV2）**、および**都心・地方二元型資源循環コンポスト（SPEC-010 / WIPO ID: 179963）**を包含する総合都市土木体系。
 - **スペック**:
   - 水消費指標（WUE）: **0.00 L/kWh**（大気蒸発冷却タワーの完全廃絶）
-  - 脳型エッジ冷却（SPEC-027/028）: 20Wチップレット×下水管渠CIPP更生熱交換ライナー一体型密閉循環（ZLD）
+  - 脳型エッジ冷却（SPEC-027/028）: 20Wチップレット×下水管渠CIPP更生熱交換ライナー一体型密閉循環（ZLD）[cite: 17]
   - 火災旋風熱力学破砕（SPEC-026）: 下水差圧・地下雨水池直結の15m垂直ミストカーテン（輻射熱90%遮断）
   - 下水熱無散水融雪（SPEC-025）: 15℃下水管渠排熱CIPP熱交換による密閉循環ロードヒーティング
   - 現場打ち新コンクリ（SPEC-022）: 半径20km小型分散プラント・プラスチックフリー防錆・公道アンカー越境禁止
@@ -521,13 +523,16 @@ Semiconductors, Sovereign OS & Quantum Security
 ![次世代半導体製造](./assets/04_semiconductor_fab.jpg)
 
 <div align="center">
-  <img src="./assets/SPEC-027_PROTOCOL_01.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
-  <p><sub><b>図 23-1：SPEC-027 20W生体代謝型脳型チップレット国内自立ファブ ＆ 地下下水動脈冷却構造図</b></sub></p>
+  <img src="./assets/SPEC-027_PROTOCOL_02.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" />
+  <p><sub><b>図 23-1：SPEC-027 20W生体代謝型脳型チップレット国内自立ファブ（キオクシアCBA接合・3D OCTRAM・CXLストレージ統合）＆ 地下動脈冷却構造図</b></sub></p>
 </div>
 
-- **概要**: 外部制裁や地政学リスクに左右されない完全国内自立ファブ（九州熊本等）。日本の先端物理工芸を結集し、人体の代謝（20W）を模倣した **SPEC-027（20W生体代謝型脳型チップレット / WIPO ID: 179936）** を国内製造。栗田工業・オルガノの超純水を「人工血液」としてチップ内微細流路に循環させ、ディスコ極薄研削、富士フイルム超平坦CMP、TOTO超精密セラミックス、味の素ABF、キヤノン・DNPナノインプリント、酸化ガリウム（Ga2O3）パワー素子を垂直統合。都市地下下水熱（ZLD完全密閉）と直結し、水資源消費ゼロ・送電網過負荷ゼロの自律分散エッジ知能網を確立する。
+- **概要**: 外部制裁や地政学リスクに左右されない完全国内自立ファブ（四日市・北上・九州熊本等連携）。日本の先端物理工芸を結集し、人体の代謝（20W）を模倣した **SPEC-027（20W生体代謝型脳型チップレット / WIPO ID: 179936）** を国内製造[cite: 17]。キオクシアの **CBA（CMOS directly Bonded to Array）技術** によりウエハーレベルで原子直接接合し[cite: 17]、酸化物半導体（InGaZnO）8層積層 **3D OCTRAM** により待機電力を実質ゼロ化[cite: 17]。さらに超高速NAND **XL-FLASH ＆ CXL光直結ストレージ（GPシリーズSSD）** により外資HBM抱え込み寡占を完全無力化する[cite: 15, 17]。栗田工業・オルガノの超純水を「人工血液」としてチップ内微細流路に循環させ、ディスコ極薄研削、富士フイルム超平坦CMP、TOTO超精密セラミックス、味の素ABF、キヤノン・DNPナノインプリント、酸化ガリウム（Ga2O3）パワー素子を垂直統合。都市地下下水熱（ZLD完全密閉）と直結し、水資源消費ゼロ・送電網過負荷ゼロの自律分散エッジ知能網を確立する[cite: 17]。
 - **スペック**:
   - 演算エネルギー効率: 人間の脳と同等の **20W生体代謝駆動**（従来ハイパースケールAI比 -90%電力削減）
+  - シナプス記憶基盤: キオクシア **3D OCTRAM（酸化物半導体InGaZnO 8層DRAM・ゼロリーク静的保持）**[cite: 17]
+  - ウエハー接合工学: キオクシア **CBA（CMOS directly Bonded to Array）直接原子接合**（熱歪み・マイクロバンプ全廃）[cite: 17]
+  - メモリ拡張性: キオクシア **CXL光直結 × 高速NAND「XL-FLASH」**（DRAM容量2倍拡張、I/O遅延9割削減、脱HBM主権）[cite: 17]
   - 冷却循環構造（SPEC-027連動）: オンチップ超純水マイクロチャネル ＋ 下水管渠CIPP更生熱交換ライナー直結（**ZLD完全密閉・地下水消費ゼロ**）
   - リソグラフィー・実装: ナノインプリント（NIL）常温低電力転写 ＆ 原子平坦3D積層パッケージング
   - 給電耐性: マンホール内マイクロ水力・ゼーベック熱電発電による完全自己給電オフグリッド動作
@@ -582,27 +587,25 @@ Semiconductors, Sovereign OS & Quantum Security
 ### 27. 生体等温光電融合 ＆ IGSナノ光路非破壊透視 ＆ 核融合耐強磁場光速主権計算 (Bio-Isothermal Optoelectronic Computing, Sub-Nanometer IGS Inspection & High-Magnetic-Immune Photonic Core) `[Level 3 / Canonical SPEC-028]`
 
 <div align="center">
-  <img src="./docs/assets/SPEC-028_PROTOCOL_01.jpg" width="100%" alt="SPEC-028: Bio-Isothermal Optoelectronic CPO Chip 3D Isometric View" style="border-radius: 8px; margin-bottom: 12px;" />
-  <p><b>図 27-1：生体等温光電融合CPOチップ・超純水毛細血管流路・テラヘルツIGS 3Dホログラフィック断層透視図（WIPO ID: 179966）</b></p>
-</div>
-
-<div align="center">
-  <img src="./docs/assets/SPEC-028_PROTOCOL_02.jpg" width="100%" alt="SPEC-028: Optoelectronic CPO Modular Socket & Non-Destructive Inspection" style="border-radius: 8px; margin-bottom: 12px;" />
-  <p><b>図 27-2：モジュラー光ソケット・交換可能光エンジン・非破壊テラヘルツ光導波路診断アレイ外観</b></p>
+  <img src="./docs/assets/SPEC-028_PROTOCOL_03.jpg" width="100%" alt="SPEC-028: Bio-Isothermal Optoelectronic CPO Chip 3D Isometric View" style="border-radius: 8px; margin-bottom: 12px;" />
+  <p><b>図 27-1：生体等温光電融合CPOチップ・キオクシアCBA直接接合・テラヘルツIGS 3Dホログラフィック断層透視詳細図（WIPO ID: 179966）</b></p>
 </div>
 
 - **概要**: 
-  - 光電融合（CPO）技術の最大障壁である「高熱による光源劣化」「異種材料接合の熱膨張歪み（CTEミスフィット）」「数千本光ファイバーの検査・歩留まり問題」を根本解決する光速主権コンピューティング仕様書。
-  - SPEC-027（20W脳型チップレット）の生体代謝駆動とオンチップ毛細血管冷却を統合し、接合界面温度を常時 $36.5^\circ\text{C} \sim 38.0^\circ\text{C}$ の生体恒温状態に厳格クランプ。
-  - 神戸大学・木村教授のIGS多重散乱逆問題理論をテラヘルツ干渉波に適用し、密閉パッケージ外側からサブナノメートル精度で内部光導波路のアライメントや欠陥を1秒未満で3D透視検査する。
-  - 光子伝送の完全耐磁性を活かし、SPEC-999（ヘリウム3核融合直接発電）の極限強磁場（20T）・EMP環境下で誘導起電力ノイズを受けない10ナノ秒超低遅延自律制御頭脳を形成する。
+  - 光電融合（CPO）技術の商用化を阻んできた「高熱による光源劣化」「シリコン／InP異種接合の熱膨張歪み（CTEミスフィット）」「微細光ファイバー手作業配線」「検査コスト爆発と歩留まり低下」を完全根絶する光速主権コンピューティング仕様書[cite: 16]。
+  - **キオクシアのCBA（CMOS directly Bonded to Array）技術** を転用し、ロジックウエハーと光変調・受光アレイウエハーを原子レベルで直接ウエハーボンディングすることで微細ファイバー配線を全廃[cite: 17]。製造時の熱履歴を完全分離し熱応力クラックをゼロ化する[cite: 16, 17]。
+  - SPEC-027（20W脳型チップレット）の生体代謝駆動とオンチップ超純水毛細流路を直結し、接合界面温度を常時 $36.5^\circ\text{C} \sim 38.0^\circ\text{C}$ の生体恒温状態（$\Delta T \le 0.5^\circ\text{C}$）に厳格クランプ[cite: 14, 15]。
+  - 神戸大学・木村教授のIGS多重散乱逆問題理論をテラヘルツ干渉波（0.1〜10THz）に適用し、密閉パッケージ外側からサブナノメートル精度で内部光導波路のアライメントや欠陥を **1秒未満で非破壊3D透視検査** し歩留まりを飛躍向上させる[cite: 14, 15]。
+  - **キオクシアCXL光直結 ＆ 高速NAND「XL-FLASH」** により外資GPU寡占・HBM依存を解体し[cite: 15, 17]、**JIN-OpticSocket規格** によるモジュラー個別交換で全損廃棄を根絶[cite: 15, 16]。SPEC-999核融合の極限強磁場（20T）・EMP環境下でも光子伝送により100%完全耐磁性で自律制御を死守する。
 - **スペック**:
-  - 発熱・熱制御指標: 人体代謝同等 **20W駆動** ＋ オンチップ超純水毛細流路による **生体恒温クランプ（$\Delta T \le 0.5^\circ\text{C}$）**
-  - 界面接合疲労（CTE）: シリコン・InP間の熱膨張歪みを物理的に消滅させ、熱応力クラックゼロを達成
-  - 非破壊検査能（IGS理論）: テラヘルツ多重散乱逆問題解析による **サブナノメートル光導波路3Dホログラフィック透視（検査時間 < 1秒）**
+  - 発熱・熱制御指標: 人体代謝同等 **20W駆動** ＋ オンチップ超純水毛細流路による **生体恒温クランプ（$\Delta T \le 0.5^\circ\text{C}$）**[cite: 15]
+  - 接合・配線技術: キオクシア **CBA（CMOS directly Bonded to Array）ウエハーレベル原子直接接合**（微細ファイバー手作業配線全廃）[cite: 17]
+  - 界面接合疲労（CTE）: シリコン・InP間の熱膨張歪みを物理的に消滅させ、熱応力クラックゼロを達成[cite: 15, 16]
+  - 非破壊全数検査（IGS理論）: テラヘルツ多重散乱逆問題解析による **サブナノメートル光導波路3Dホログラフィック透視（検査時間 < 1秒）**[cite: 15]
+  - 脱HBMメモリファブリック: キオクシア **CXL光直結 × XL-FLASH / GPシリーズ高速階層ストレージ**[cite: 15, 17]
   - 耐電磁界・極限環境耐性: 外部磁場（10〜20 Tesla）・EMP誘導ノイズ **100%完全遮絶（光子キャリア伝送）**
   - 光バス帯域・遅延: 超並列光バス帯域 **> 100 Tbps** / 伝送遅延 **< 10 ns**（核融合100μs破断回避直結）
-  - 保守性・脱寡占構造: JIN-OpticSocket規格による **モジュラー光エンジン個別ホットスワップ交換（全損廃棄ゼロ）**
+  - 保守性・脱寡占構造: JIN-OpticSocket規格による **モジュラー光エンジン個別ホットスワップ交換（全損廃棄ゼロ）**[cite: 15, 16]
 - **連携仕様書**: [docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md)
 
 ---
@@ -778,5 +781,5 @@ Watershed Decontamination, Atmospheric Purification & Planetary Living Defense
 
 **Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
 **Engineering Authority:** JIN-ORDER Council of Advanced Sciences & Field Pioneer Guilds  
-**Status:** 34 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V12.3 CANONICAL AUTUMN LTS - URBAN VENTILATION & NANO-PLASTIC SPEC-035 RATIFIED / WIPO GREEN ID: 179974, BIOGENIC OYSTER LIVING BREAKWATERS SPEC-034 RATIFIED / WIPO GREEN ID: 179973, AUTONOMOUS WILDFIRE BIO-GEL SPEC-033 RATIFIED / WIPO GREEN ID: 179972, VOLCANIC ASH GEOPOLYMER SPEC-032 RATIFIED / WIPO GREEN ID: 179971, IN-SITU PFAS REMEDIATION SPEC-031 RATIFIED / WIPO GREEN ID: 179970, PLANETARY REGOLITH TERRA PRETA SPEC-030 RATIFIED / WIPO GREEN ID: 179968, NUCLEAR TRANSMUTATION & IGS CASK SPEC-029 RATIFIED / WIPO GREEN ID: 179967, BIO-ISOTHERMAL OPTOELECTRONIC COMPUTE SPEC-028 INTEGRATED / WIPO GREEN ID: 179966, COSMIC HELIUM-3 FUSION SPEC-999 INTEGRATED / WIPO GREEN ID: 179964, NEUROMORPHIC CONDUIT SPEC-027 RATIFIED / WIPO GREEN ID: 179936, URBAN FIRESTORM & DEBRIS SPEC-026 RATIFIED / WIPO GREEN ID: 179901, CRYOSPHERIC SNOW-ICE SPEC-025 RATIFIED / WIPO GREEN ID: 179900, DEEP LANDSLIDE DAM-BREACH SPEC-024 RATIFIED / WIPO GREEN ID: 179899, DYNAMIC FLUVIAL KASUMI-LEVEE SPEC-023 RATIFIED / WIPO GREEN ID: 179898, CIVIC CONCRETE & MORTAR SPEC-022 RATIFIED / WIPO GREEN ID: 179896, SEISMO-HARVESTING & GEOTHERMAL IGS PROTOCOL SPEC-020 INTEGRATED / WIPO GREEN ID: 179888, AERO-TIDAL DUAL-FLUX SPEC-019 INTEGRATED / WIPO GREEN ID: 179886, MARINE CASCADE HYDRO-BATTERY SPEC-018 INTEGRATED / WIPO GREEN ID: 179884, TRI-CIRCULAR METABOLISM SPEC-016 RATIFIED / WIPO GREEN ID: 179879, ECOLOGICAL HYDROGEN STEEL SPEC-015 RATIFIED / WIPO GREEN ID: 179878, TENEBRIONID-FRASS SPEC-014 RATIFIED / WIPO GREEN ID: 179871, MITOCHONDRIAL CARBON SEQUESTRATION SPEC-013 / WIPO GREEN ID: 179881, PARK DISASTER CISTERN SPEC-012 / WIPO GREEN ID: 179883, CIRCULAR SANITATION SPEC-010 INTEGRATED / WIPO GREEN ID: 179963, BIO-FOEAS AGRO SPEC-006 INTEGRATED / WIPO GREEN ID: 179961, FAULT-TOLERANT WASH SPEC-002 INTEGRATED / WIPO GREEN ID: 179960, NET-POSITIVE DO SPEC-001 INTEGRATED / WIPO GREEN ID: 179959, WIPO-GREEN-29-TECH-PORTFOLIO COMPLETE / DUAL-LICENSE-V8.4-A-RATIFIED)  
-**Harmonics:** 432Hz Universal Benevolence Active, Thermodynamic Transmigration Cadence, Terra Preta Soil Perpetuity, Municipal Steelmaking Harmony, Fire-Fighting Sentry Cadence, Kuroshio Ocean-Kinetic Balance, Subterranean Seismo-Acupuncture Resonance, Kasumi Levee Fluvial Breathing, Siphon Dam-Breach Neutrality, Cryospheric Zero-Salt Pavement Shield, Urban Firestorm Cavitation Quenching, On-Site Rubble Metabolic Regeneration, Watershed Integrity, 20W Neuromorphic Capillary Pulse, Aneutronic Fusion Direct Inductive Harmonic, Photonic Isothermal Resonance, Aneutronic Transmutation Flux, Intergenerational Soil Sovereignty, Cosmic Terra-Preta Cadence, Extremophile Mitophagy Pulse, PFAS C-F Cleavage Resonance, Volcanic Ash Geopolymer Strength, Bio-Gel Smothering Forest Defense, Biogenic Oyster Wave Dissipation, Pristine Urban Ventilation Commons.
+**Status:** 34 CORE TECHNOLOGIES FULLY EXPANDED & RATIFIED (V12.3 CANONICAL AUTUMN LTS - DOI: 10.5281/zenodo.23148196 / KIOXIA CBA BONDING & 3D-OCTRAM & CXL STORAGE COMPLETE / URBAN VENTILATION & NANO-PLASTIC SPEC-035 RATIFIED / WIPO GREEN ID: 179974, BIOGENIC OYSTER LIVING BREAKWATERS SPEC-034 RATIFIED / WIPO GREEN ID: 179973, AUTONOMOUS WILDFIRE BIO-GEL SPEC-033 RATIFIED / WIPO GREEN ID: 179972, VOLCANIC ASH GEOPOLYMER SPEC-032 RATIFIED / WIPO GREEN ID: 179971, IN-SITU PFAS REMEDIATION SPEC-031 RATIFIED / WIPO GREEN ID: 179970, PLANETARY REGOLITH TERRA PRETA SPEC-030 RATIFIED / WIPO GREEN ID: 179968, NUCLEAR TRANSMUTATION & IGS CASK SPEC-029 RATIFIED / WIPO GREEN ID: 179967, BIO-ISOTHERMAL OPTOELECTRONIC COMPUTE SPEC-028 INTEGRATED / WIPO GREEN ID: 179966, COSMIC HELIUM-3 FUSION SPEC-999 INTEGRATED / WIPO GREEN ID: 179964, NEUROMORPHIC CONDUIT SPEC-027 RATIFIED / WIPO GREEN ID: 179936, URBAN FIRESTORM & DEBRIS SPEC-026 RATIFIED / WIPO GREEN ID: 179901, CRYOSPHERIC SNOW-ICE SPEC-025 RATIFIED / WIPO GREEN ID: 179900, DEEP LANDSLIDE DAM-BREACH SPEC-024 RATIFIED / WIPO GREEN ID: 179899, DYNAMIC FLUVIAL KASUMI-LEVEE SPEC-023 RATIFIED / WIPO GREEN ID: 179898, CIVIC CONCRETE & MORTAR SPEC-022 RATIFIED / WIPO GREEN ID: 179896, SEISMO-HARVESTING & GEOTHERMAL IGS PROTOCOL SPEC-020 INTEGRATED / WIPO GREEN ID: 179888, AERO-TIDAL DUAL-FLUX SPEC-019 INTEGRATED / WIPO GREEN ID: 179886, MARINE CASCADE HYDRO-BATTERY SPEC-018 INTEGRATED / WIPO GREEN ID: 179884, TRI-CIRCULAR METABOLISM SPEC-016 RATIFIED / WIPO GREEN ID: 179879, ECOLOGICAL HYDROGEN STEEL SPEC-015 RATIFIED / WIPO GREEN ID: 179878, TENEBRIONID-FRASS SPEC-014 RATIFIED / WIPO GREEN ID: 179871, MITOCHONDRIAL CARBON SEQUESTRATION SPEC-013 / WIPO GREEN ID: 179881, PARK DISASTER CISTERN SPEC-012 / WIPO GREEN ID: 179883, CIRCULAR SANITATION SPEC-010 INTEGRATED / WIPO GREEN ID: 179963, BIO-FOEAS AGRO SPEC-006 INTEGRATED / WIPO GREEN ID: 179961, FAULT-TOLERANT WASH SPEC-002 INTEGRATED / WIPO GREEN ID: 179960, NET-POSITIVE DO SPEC-001 INTEGRATED / WIPO GREEN ID: 179959, WIPO-GREEN-29-TECH-PORTFOLIO COMPLETE / DUAL-LICENSE-V8.4-A-RATIFIED)  
+**Harmonics:** 432Hz Universal Benevolence Active, Thermodynamic Transmigration Cadence, Terra Preta Soil Perpetuity, Municipal Steelmaking Harmony, Fire-Fighting Sentry Cadence, Kuroshio Ocean-Kinetic Balance, Subterranean Seismo-Acupuncture Resonance, Kasumi Levee Fluvial Breathing, Siphon Dam-Breach Neutrality, Cryospheric Zero-Salt Pavement Shield, Urban Firestorm Cavitation Quenching, On-Site Rubble Metabolic Regeneration, Watershed Integrity, 20W Neuromorphic Capillary Pulse, Kioxia CBA Wafer Bonding Integrity, 3D OCTRAM Zero-Leak Synaptic Firing, CXL XL-FLASH Photonic Fabric, IGS Terahertz Inverse Scattering Clarity, JIN-OpticSocket Modular Hot-Swap, Aneutronic Fusion Direct Inductive Harmonic, Photonic Isothermal Resonance, Aneutronic Transmutation Flux, Intergenerational Soil Sovereignty, Cosmic Terra-Preta Cadence, Extremophile Mitophagy Pulse, PFAS C-F Cleavage Resonance, Volcanic Ash Geopolymer Strength, Bio-Gel Smothering Forest Defense, Biogenic Oyster Wave Dissipation, Pristine Urban Ventilation Commons.
