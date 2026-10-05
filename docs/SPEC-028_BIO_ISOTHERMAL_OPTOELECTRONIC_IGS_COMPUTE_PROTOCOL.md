@@ -2,6 +2,8 @@
 ## (Bio-Isothermal Optoelectronic Computing, Sub-Nanometer IGS Non-Destructive Inspection & High-Magnetic-Immune Photonic Core Protocol)
 ### （キオクシアCBAウエハー直接接合 ＆ IGSテラヘルツ1秒全数検査 ＆ 脱HBM光直結CXL統合版）
 
+![核融合耐強磁場光速主権コンピューティング仕様書](./assets/SPEC-028_PROTOCOL_01.jpg)
+
 ![核融合耐強磁場光速主権コンピューティング仕様書](./assets/SPEC-028_PROTOCOL_03.jpg)
 
 <!-- 国際防壁・先行技術公知ヘッダー -->
