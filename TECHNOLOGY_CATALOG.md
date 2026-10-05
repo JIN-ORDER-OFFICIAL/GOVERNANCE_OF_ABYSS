@@ -40,7 +40,8 @@
     - [ID: 179899 (SPEC-024 深層崩壊土砂ダム緊急サイフォン)](https://wipogreen.wipo.int/wipogreen-database/articles/179899)
     - [ID: 179900 (SPEC-025 豪雪下水熱無散水消雪)](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
     - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901)
-  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / 最新正典リリース: [10.5281/zenodo.23148196](https://doi.org/10.5281/zenodo.23148196)
+  
+  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.23172804](https://doi.org/10.5281/zenodo.23172804)
   - **Archive.today**: [2026-10-5 独立魚拓確定版 (ID:B5u5V)](https://archive.li/B5u5V)
   - **Wayback Machine**: [2026-10-5 確定公知タイムスタンプ](https://web.archive.org/web/20261005062903/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
   - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
