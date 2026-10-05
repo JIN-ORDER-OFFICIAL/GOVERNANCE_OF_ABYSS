@@ -21,7 +21,7 @@
 
 ## 1. 策定趣旨と生命哲学（Executive Rationale & Biomorphic Philosophy）
 
-![完全生体自律知能](./assets/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS_02.jpg)
+![完全生体自律知能](./assets/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS_03.jpg)
 
 ### 1.1 自然への畏怖と「力でねじ伏せない」工学
 
@@ -39,7 +39,7 @@
 
 ## 2. 完全生体自律知能（JIN-OS Living Silicon）アーキテクチャ
 
-![完全生体自律知能](./assets/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS_03.jpg)
+![完全生体自律知能](./assets/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS_02.jpg)
 
 ```text
 【完全生体自律知能（JIN-OS Living Silicon）人体臓器統合マトリクス】
