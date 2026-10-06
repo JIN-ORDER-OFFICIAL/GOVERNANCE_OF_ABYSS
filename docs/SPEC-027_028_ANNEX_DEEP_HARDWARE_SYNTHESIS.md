@@ -11,12 +11,12 @@
 
 <!-- 国際防壁・先行技術公知ヘッダー -->
 > **CANONICAL SPECIFICATION LEVEL: LEVEL-0 DEEP BIOMORPHIC & PHYSICAL HARDWARE ANNEX**  
-> **DOC-ID:** `JIN-SPEC-ANNEX-2026-HW01 (Rev. 2026.10 LTS-V12.3 Canonical Living Edition)`  
-> **Wayback Machine**: [2026-10-06 確定公知タイムスタンプ](https://web.archive.org/web/20261006040623/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)
-> **Archive.today**: [2026-10-06 独立魚拓確定版 (ID:JR6JC)](https://archive.li/JR6JC)
-> **ASSOCIATED SPECS:** `SPEC-027 (Neuromorphic Conduit)` / `SPEC-028 (Bio-Isothermal CPO)` / `SPEC-999 (Cosmic He-3 Fusion)` / `SPEC-CCNP-088 (Deep Infra)`  
-> **CLASSIFICATION:** Living Silicon Organ-System / Optogenetic Photonic Synapse / Zero-PFAS Ejector Cooling / Circuit Autophagy Immune System / Glymphatic Sleep Washout / Wafer-Scale MRAM-LPU / Passive Butler Matrix  
-> **LICENSE:** JIN-ORDER Dual License V8.4-A (Tier A Commons / CC-BY-4.0 Applicable)  
+> **DOC-ID:** `JIN-SPEC-ANNEX-2026-HW01 (Rev. 2026.10 LTS-V12.3 Canonical Living Edition)`<br>
+> **Wayback Machine**: [2026-10-06 確定公知タイムスタンプ](https://web.archive.org/web/20261006040623/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)<br>
+> **Archive.today**: [2026-10-06 独立魚拓確定版 (ID:JR6JC)](https://archive.li/JR6JC)<br>
+> **ASSOCIATED SPECS:** `SPEC-027 (Neuromorphic Conduit)` / `SPEC-028 (Bio-Isothermal CPO)` / `SPEC-999 (Cosmic He-3 Fusion)` / `SPEC-CCNP-088 (Deep Infra)`<br> 
+> **CLASSIFICATION:** Living Silicon Organ-System / Optogenetic Photonic Synapse / Zero-PFAS Ejector Cooling / Circuit Autophagy Immune System / Glymphatic Sleep Washout / Wafer-Scale MRAM-LPU / Passive Butler Matrix<br>  
+> **LICENSE:** JIN-ORDER Dual License V8.4-A (Tier A Commons / CC-BY-4.0 Applicable)<br>  
 > **INTELLECTUAL SOVEREIGNTY:** General Incorporated Association JIN-ORDER (Chief Architects: Takashi Masano & Miyo Masano)
 
 ---
