@@ -1,6 +1,8 @@
 # SPEC-036: Earth-System Multi-Hazard Harmonization & Geo-Circuit Breaker Protocol
 # （地球システム統合連鎖・複合災害遮断プロトコル：天地調和型マルチハザード総合防護仕様書）
 
+![マルチハザード総合防護仕様書](./assets/SPEC-036_01.jpg)
+
 - **Document ID:** JIN-SPEC-GEO-036
 - **Version:** 1.0.0 (Master Release)
 - **Status:** Active / Public Domain Architecture
@@ -9,8 +11,6 @@
 - **UN Partner Portal (UNPP) ID:** 64636
 - **Digital Public Goods Alliance (DPGA) Nominated ID:** GID0094240
 - **License:** JIN-ORDER Dual License V8.4-A (CC-BY-4.0 compliant for humanitarian and public civil infrastructure)
-
-![マルチハザード総合防護仕様書](./assets/SPEC-036_01.jpg)
 
 ---
 
