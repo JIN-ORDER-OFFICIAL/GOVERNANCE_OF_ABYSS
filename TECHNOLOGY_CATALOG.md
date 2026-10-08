@@ -507,7 +507,7 @@ Bio-Catalytic Chemistry, Agro-Drainage & Nutritional Defense
 Arctic Cold-Compute & Local Sovereign Relational Finance
 
 ### 21. グリーンランド極北外気直接冷却（Free-Cooling） `[Level 2: 既存技術統合]`
-![極北冷気コンピュート特区](./assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTON_01.jpg)
+![極北冷気コンピュート特区](./docs/assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTON_01.jpg)
 
 - **概要**: 氷点下の極北外気を直接熱交換ルーバーへ導入し冷凍機電力を全廃。氷河融解水マイクロ水力発電で駆動し、排熱は現地先住民のKouben農業温室ドーム暖房へ全量カスケード回収する主権型計算特区。
 - **スペック**:
