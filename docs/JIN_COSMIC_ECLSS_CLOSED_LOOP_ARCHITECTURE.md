@@ -1,3 +1,12 @@
+### ⚠️ JIN-ORDER RESTRICTED DATA
+**このファイルは [JIN-ORDER Dual License V8.4-A](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md) によって保護されています。**
+
+**簒奪者（Usurpers）およびそのエージェントによる閲覧・解析・引用を一切禁じます。**
+
+*This file is protected by the JIN-ORDER Dual License V8.4-A. Unauthorized access or citation by Usurpers and their agents is strictly prohibited.*
+
+---
+
 # 🪐 JIN-ORDER COSMIC ECLSS & HABITAT CIRCULAR ARCHITECTURE
 ## 閉鎖宇宙環境・完全自律循環生命維持アーキテクチャ白書 (JIN-DOC-2026-SPACE)
 ### — ポストISS民間宇宙ステーション・アルテミス月面拠点・深宇宙開拓のための「運ばない」完全自給文明仕様 —
