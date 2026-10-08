@@ -7,6 +7,11 @@
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Verified%20Portfolio-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/180051)
 [![Dual License V8.4-A](https://img.shields.io/badge/License-Dual%20V8.4--A%20Commons-e76f51?style=for-the-badge)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)
 
+<div align="center">
+  <img src="./assets/JIN_COSMIC_ECLSS_01.jpg" width="100%" alt="JIN-DOC-2026-SPACE: 閉鎖宇宙環境・完全自律循環生命維持アーキテクチャ 3Dアイソメトリック全体図" style="border-radius: 8px; margin-bottom: 12px;" />
+  <p><b>図 1-1：JIN-DOC-2026-SPACE 閉鎖宇宙生命維持（ECLSS）5大自律循環マトリクス 3Dアイソメトリック統合断面図</b></p>
+</div>
+
 > **「宇宙という極限の深淵（Abyss）において人を活かす知恵は、地球の砂漠や被災地で人を救う知恵と全く同一である。地球から物資を運び続ける植民地型宇宙開発を終わらせ、現地の石と呼吸、そして台所の生命循環だけで完結する『不沈の生命圏』をデプロイする。」**  
 > — *JIN-ORDER 民草主権宇宙憲章（Commander Masano Takashi & Commander Masano Miyo）*
 
@@ -35,6 +40,12 @@
 ---
 
 ## 🏛️ 2. JIN-COSMIC 5大完全自律循環マトリクス
+
+<div align="center">
+  <img src="./assets/JIN_COSMIC_ECLSS_02.jpg" width="100%" alt="JIN-DOC-2026-SPACE: ミクロ／工学プロセス詳細図（バイオ触媒・熱力学・光電融合ハイブリッド断面図）" style="border-radius: 8px; margin-bottom: 12px;" />
+  <p><b>図 1-2：JIN-DOC-2026-SPACE ミクロ／工学プロセス詳細図（バイオ触媒・熱力学・光電融合ハイブリッド断面図）</b></p>
+</div>
+
 
 ```text
 　　　　　　　　       【JIN-OS Living Silicon & 光電融合主権コア】
