@@ -4,13 +4,18 @@
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23227174.svg)](https://doi.org/10.5281/zenodo.23227174)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
-[![Archive.today](https://img.shields.io/badge/Archive.today-9F1Xy-success?logo=archive.today)](https://archive.li/9F1Xy)
+[![Archive.today](https://img.shields.io/badge/Archive.today-n6X0V-success?logo=archive.today)](https://archive.li/n6X0V)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(33%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179978)
 
 🏛️ **【先行技術防壁・多重世界台帳】**
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (全33技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968 / 179970 / 179971 / 179972 / 179973 / 179974 / 179978 / 180049 / 180050 / 180051)](https://wipogreen.wipo.int/wipogreen-database/articles/179978)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.23227174](https://doi.org/10.5281/zenodo.23227174) / Master Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
+- **Wayback Machine**: [2026-10-08 確定公知タイムスタンプ](https://web.archive.org/web/20261008060526/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
+- **Archive.today**: [2026-10-08 独立魚拓確定版 (ID:n6X0V)](https://archive.li/n6X0V)
+- **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
+
+
 
 ---
 
