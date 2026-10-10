@@ -44,10 +44,10 @@ SPEC-031は、大国の拒否権・政治的制裁・情報操作によって機
 ### 2.1 物理層暗号防衛・主権通信網
 外部のサイバー攻撃や通信途絶に屈しない耐量子主権通信基盤。
 
-![JIN-NET 量子暗号と分散型AIグリッド](./assets/07_quantum_grid.jpg)
+![JIN-NET 量子暗号と分散型AIグリッド](../assets/07_quantum_grid.jpg)
 *図1: JIN-NET 自律ノード網およびBB84量子鍵配送（QKD）による司法データの完全保護*
 
-![深海DAS音響監視グリッド](./assets/11_subsea_das_acoustic_grid.jpg)
+![深海DAS音響監視グリッド](../assets/11_subsea_das_acoustic_grid.jpg)
 *図2: 分布型光ファイバセンシング（DAS）による通信回廊の物理防衛と証拠保全*
 
 ---
@@ -63,7 +63,7 @@ SPEC-031は、大国の拒否権・政治的制裁・情報操作によって機
 ### 2.3 宇宙・地上・地下の三層客観証拠センシング
 大気・インフラ・地盤の改ざん不能な実測テレメトリ。
 
-![三層マルチガスシールド](./assets/jin_three_layer_multigas_shield.jpg)
+![三層マルチガスシールド](../assets/jin_three_layer_multigas_shield.jpg)
 *図4: GOSAT-GW衛星 × 地上スマート街灯 × 地下EMレーダーによる環境破壊・攻撃実測監視*
 
 ---
