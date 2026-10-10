@@ -57,10 +57,10 @@ SPEC-028は、法定通貨や裏付けのない投機的暗号資産に依存し
 ### 2.2 暗号通信・物理層防衛グリッド
 外国海底ケーブル遮断に耐える主権量子通信網と深海センシング。
 
-![JIN-NET 量子暗号と分散型AIグリッド](./assets/07_quantum_grid.jpg)
+![JIN-NET 量子暗号と分散型AIグリッド](../assets/07_quantum_grid.jpg)
 *図3: JIN-NET 自律ノード網およびBB84量子鍵配送（QKD）アーキテクチャ*
 
-![深海DAS音響監視グリッド](./assets/11_subsea_das_acoustic_grid.jpg)
+![深海DAS音響監視グリッド](../assets/11_subsea_das_acoustic_grid.jpg)
 *図4: 分布型光ファイバセンシング（DAS）による2,000m深海・管路物理防衛*
 
 ---
@@ -68,10 +68,10 @@ SPEC-028は、法定通貨や裏付けのない投機的暗号資産に依存し
 ### 2.3 都市地下共同溝・三層センシングシールド
 管路健全性監視および宇宙・地上・地下連携テレメトリ。
 
-![共同溝マルチパイプライン](./assets/jin_gas_pipeline_core.jpg)
+![共同溝マルチパイプライン](../assets/jin_gas_pipeline_core.jpg)
 *図5: バイオメタン管・光ファイバ・水道管・電力ケーブル多条収容共同溝*
 
-![三層マルチガスシールド](./assets/jin_three_layer_multigas_shield.jpg)
+![三層マルチガスシールド](../assets/jin_three_layer_multigas_shield.jpg)
 *図6: 宇宙（GOSAT-GW）× 地上スマート街灯 × 地下EMレーダーの三層監視*
 
 ---
@@ -79,22 +79,22 @@ SPEC-028は、法定通貨や裏付けのない投機的暗号資産に依存し
 ### 2.4 物理リソース生成・循環プラント
 台帳で担保される実体エネルギー・水・燃料の生産基盤。
 
-![自律水循環ノード](./assets/Autonomous_Water_Loop_Node.jpg)
+![自律水循環ノード](../assets/Autonomous_Water_Loop_Node.jpg)
 *図7: 自律分散型水循環・深層天然水ハイブリッド給水ノード（RO/UV-C/432Hz）*
 
-![JIN-BDFプラント](./assets/JIN_AGRI_MARINE_BIOFUEL_SPEC.jpg)
+![JIN-BDFプラント](../assets/JIN_AGRI_MARINE_BIOFUEL_SPEC.jpg)
 *図8: 超音波エステル交換 JIN-BDF バイオ燃料精製プラント*
 
-![閉ループ都市インフラ三和](./assets/jin_gas_road_heat_triad.jpg)
+![閉ループ都市インフラ三和](../assets/jin_gas_road_heat_triad.jpg)
 *図9: 道路・ガス・熱エネルギー三位一体融合（融雪・エコ温室残熱利用）*
 
-![PEM CO2電解スタック](./assets/jin_gas_pem_co2_stack.jpg)
+![PEM CO2電解スタック](../assets/jin_gas_pem_co2_stack.jpg)
 *図10: PEM CO2電解セルスタック（チタン製フロープレート・合成メタン直接生成）*
 
-![コアシェル触媒 サバティエ反応器](./assets/jin_gas_core_shell_catalyst.jpg)
+![コアシェル触媒 サバティエ反応器](../assets/jin_gas_core_shell_catalyst.jpg)
 *図11: 耐シンタリング100nm Niナノコア・メソポーラスシリカシェル触媒*
 
-![MABR・バイオガス発電](./assets/MABR_Bio_Energy_Reclamation_03.jpg)
+![MABR・バイオガス発電](../assets/MABR_Bio_Energy_Reclamation_03.jpg)
 *図12: 汚泥細胞破壊とAI高温嫌気性消化による自律型バイオガス/e-Fuel回収*
 
 ---
