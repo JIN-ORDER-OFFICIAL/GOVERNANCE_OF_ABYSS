@@ -20,7 +20,7 @@
 
 LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶した過酷なサヘル・チャド盆地において、10,000人規模の生活圏とオアシス農業圏を永続稼働させる完全自立型都市インフラ仕様である。
 
-![チャド拠点マスター展開仕様ダッシュボード](./assets/JIN_CHAD_OASIS_DEPLOYMENT_SPEC.jpg)
+![チャド拠点マスター展開仕様ダッシュボード](../assets/JIN_CHAD_OASIS_DEPLOYMENT_SPEC.jpg)
 *図1: JIN-Chad Oasis 展開仕様（全体ゾーニング：浄水・スマートマイクログリッド・持続可能農業・自立居住区）*
 
 ### 現地極限環境パラメータ
@@ -31,9 +31,8 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 
 ```text
 [太陽光 & 大気]
-　├─➡️ 人工光合成シート (希土類ドープ) ➡️ 大気水分捕集 ＋ 純水 ＋ グリーンアンモニア
-　│                                               │
-　├─➡️ 太陽光発電 ➡️ PEM CO2電解スタック ──────────┴─➡️ e-Methane合成 (長期備蓄燃料)
+　├─➡️ 人工光合成シート (希土類ドープ) ➡️ 大気水分捕集＋純水＋グリーンアンモニア
+　├─➡️ 太陽光発電 ➡️ PEM CO2電解スタック ──────────┴─ ➡️ e-Methane合成 (長期備蓄燃料)
  ⬇️
 [地下350m深層帯水層 & ワジ伏流水]
  ⬇️
@@ -42,7 +41,7 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 　│       ⬇️ 排水
 　│   [MABR 反応槽] ➡️ 汚泥細胞破壊 ➡️ AI高温嫌気性消化 (バイオガス発電)
 　│
-　└─➡️ 農業用水 ➡️ BIO-FOEAS 水位制御 ➡️ テッポウウリ(Typha)バイオ炭土壌　│
+　└─➡️ 農業用水 ➡️ BIO-FOEAS 水位制御 ➡️ テッポウウリ(Typha)バイオ炭土壌
  ⬇️
 [オアシス農業・防砂緑化圃場]
 ```
@@ -53,7 +52,7 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 ### 2.1 現場実証コンテナユニット＆IoTテレメトリ
 移動・設置が即座に可能なコンテナ型自立モジュールとリアルタイム現場センシング。
 
-![LSU-チャド-01 現場実証ユニット](./assets/CHAD_BASIN_OFFGRID_REGENERATION_01.jpg)
+![LSU-チャド-01 現場実証ユニット](../assets/CHAD_BASIN_OFFGRID_REGENERATION_01.jpg)
 *図2: LSU-チャド-01 人道支援ユニット（20ftコンテナ・ソーラーアレイ・オアシス給水・水質/土壌モニタリング端末）*
 
 ---
@@ -61,7 +60,7 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 ### 2.2 地下水利断面・深井戸ソーラー揚水＆バイオ炭熱分解
 地下350m深層揚水、セラミックスろ過、侵略的外来植物を活用した無煙連続バイオ炭生成。
 
-![チャド盆地オフグリッド再生詳細断面](./assets/CHAD_BASIN_OFFGRID_REGENERATION_02.jpg)
+![チャド盆地オフグリッド再生詳細断面](../assets/CHAD_BASIN_OFFGRID_REGENERATION_02.jpg)
 *図3: 地下断面詳細（深層帯水層350m、ソーラー深井戸ポンプ、多段階ろ過槽、テッポウウリ熱分解炉、テラ・プレタ土壌）*
 
 ---
@@ -69,7 +68,7 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 ### 2.3 砂漠緑化・大気水分捕集基盤
 人工光合成シートによる大気中水分・窒素の直接固定と自動灌漑。
 
-![人工光合成砂漠緑化概要](../assets/66_SOLAR_PHOTOSYNTHESIS_DESERT_OVERVIEW.jpg)
+![人工光合成砂漠緑化概要](./assets/66_SOLAR_PHOTOSYNTHESIS_DESERT_OVERVIEW.jpg)
 *図4: 希土類ドープ触媒シートによる大気水分・N2捕集、グリーンアンモニア肥料合成と地下灌漑*
 
 ---
@@ -85,16 +84,16 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 ### 2.5 循環水処理および合成エネルギー基盤
 排水再利用、MABR省エネ処理、Power-to-Gasによる合成メタン備蓄。
 
-![自律分散型水循環ノード](./assets/Autonomous_Water_Loop_Node.jpg)
+![自律分散型水循環ノード](../assets/Autonomous_Water_Loop_Node.jpg)
 *図6: 自律分散型水循環・深層天然水ハイブリッド給水ノード（生活排水100%再利用）*
 
-![MABR 超省エネ水処理施設](./assets/MABR_Bio_Energy_Reclamation_01.jpg)
+![MABR 超省エネ水処理施設](../assets/MABR_Bio_Energy_Reclamation_01.jpg)
 *図7: MABR生物反応槽・バイオガス熱電併給コージェネレーション設備*
 
-![PEM CO2電解セルスタック](./assets/jin_gas_pem_co2_stack.jpg)
+![PEM CO2電解セルスタック](../assets/jin_gas_pem_co2_stack.jpg)
 *図8: チタン製フロープレートによる常温常圧合成メタン製造*
 
-![耐シンタリング サバティエ反応器](./assets/jin_gas_core_shell_catalyst.jpg)
+![耐シンタリング サバティエ反応器](../assets/jin_gas_core_shell_catalyst.jpg)
 *図9: 100nm Niナノコア・メソポーラスシリカシェル触媒による連続メタネーション*
 
 ---
@@ -147,7 +146,7 @@ LSU-Chad-01は、外部からの送電網・石油・人道物資配給が途絶
 SPEC-027の20W地下エッジ環境で稼働し、BIO-FOEASの水位弁切り替えと揚水量をリアルタイム自律制御するコード。
 
 <div align="center">
-  <img src="../assets/SPEC-027_PROTOCOL_02.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
+  <img src="./assets/SPEC-027_PROTOCOL_02.jpg" width="100%" alt="SPEC-027: 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,255,0.2);" />
   <p><sub><b>図 1-1：SPEC-027 20W生体代謝型脳型チップレット ＆ 地下動脈クローズドループ冷却インフラ 3Dアイソメトリック詳細断面図</b></sub></p>
 </div>
 
