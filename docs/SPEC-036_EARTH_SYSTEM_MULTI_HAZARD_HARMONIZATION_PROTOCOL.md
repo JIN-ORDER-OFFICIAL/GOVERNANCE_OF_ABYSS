@@ -1,7 +1,8 @@
 # SPEC-036: Earth-System Multi-Hazard Harmonization & Geo-Circuit Breaker Protocol
 # （地球システム統合連鎖・複合災害遮断プロトコル：天地調和型マルチハザード総合防護仕様書）
 
-![マルチハザード総合防護仕様書](./assets/SPEC-036_01.jpg)
+![Planetary Super-Cascade and AMOC Circuit Breaker](./assets/SPEC-036_01.jpg)
+*図1: JIN-ORDERの6層防護サーキット、北米西海岸の断層からリング・オブ・ファイア、両極の氷床崩壊、そして大西洋AMOCの停止に至るドミノ連鎖*
 
 - **Document ID:** JIN-SPEC-GEO-036
 - **Version:** 1.1.0 (Planetary Super-Cascade & Cryosphere-AMOC Circuit Breaker Update)
@@ -41,9 +42,6 @@
 ---
 
 ## 2. 天地調和・地球システム6層防護アーキテクチャ
-
-![Planetary Super-Cascade and AMOC Circuit Breaker](./assets/SPEC-036_01.jpg)
-*図1: JIN-ORDERの6層防護サーキット、北米西海岸の断層からリング・オブ・ファイア、両極の氷床崩壊、そして大西洋AMOCの停止に至るドミノ連鎖と*
 
 ```text
 【Layer 5: 宇宙・軌道層】SSPS / EnMAP 衛星直接通信 ＆ 海洋水温アノマリー監視
