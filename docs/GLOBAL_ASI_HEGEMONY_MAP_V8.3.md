@@ -72,7 +72,7 @@ $$\psi_{cannibalization} = 1 + \alpha \left(\frac{W_{evaporative}}{W_{sustainabl
 
 ![次世代主権AIセンター 共同溝・液浸・変圧器立体断面図](../assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg)
 
-JIN-ORDERは、自然界を収奪する従来のブラックボックス型メガデータセンターを拒絶し、都市の土木インフラと完全共生する**「次世代主権AIセンター」**の標準仕様を策定する。
+JIN-ORDERは、自然界を収奪する従来のブラックボックス型メガデータセンターを拒絶し、都市の土木インフラと完全共生する「次世代主権AIセンター」の標準仕様を策定する。
 
 ### 3.1 物理層の三位一体立体構造
 1. **多用途共同溝（マルチユーティリティトンネル）の防衛**:
@@ -99,9 +99,9 @@ JIN-ORDERは、自然界を収奪する従来のブラックボックス型メ�
 | **地政学的力学** | 分散型自立知能（Sovereign Edge Brain）の聖域 | 権威主義的監視ASI・オイル資本囲い込みの実験場 |
 
 ### 4.1 米中「SI対話」と前線同盟国への負担転嫁（Burden-Shifting）
-米中両陣営は、偶発的な自律エージェントの暴走やサイバー核インシデントを防ぐため、水面下で**「Super Intelligence (SI) Dialogue」**と呼ばれる危機管理ホットラインを構築している。
+米中両陣営は、偶発的な自律エージェントの暴走やサイバー核インシデントを防ぐため、水面下で「Super Intelligence (SI) Dialogue」と呼ばれる危機管理ホットラインを構築している。
 
-しかしその裏側で、両国は自国の致命的消耗を避けるため、**「同盟国への負担転嫁」**を加速させている。
+しかしその裏側で、両国は自国の致命的消耗を避けるため、「同盟国への負担転嫁」を加速させている。
 
 - **軍事・財政の転嫁**: 米国は日本・台湾・欧州に対し、防衛費のGDP比大幅引き上げと対中通常抑止の最前線負担を要求。
 
@@ -238,8 +238,8 @@ Repository: JIN-ORDER / GOVERNANCE_OF_ABYSS
 Status: Canonical Draft V8.3 (Supersedes V8.2)
 
 Anchored Frameworks:
-- [MANIFESTO.md (V8.0 Canonical Unified)](./MANIFESTO.md)
-- [docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
-- [docs/SPEC-027_PROTOCOL_02.md](./docs/SPEC-027_PROTOCOL_02.md)
-- [SPEC-000_PLANETARY_SYNTHESIS](./docs/assets/SPEC-000_PLANETARY_SYNTHESIS_01.jpg)
-- [LICENSE.md (JIN-ORDER Global Humanity License)](./LICENSE.md)
+- [MANIFESTO.md (V8.0 Canonical Unified)](../MANIFESTO.md)
+- [docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md](./MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
+- [docs/SPEC-027_PROTOCOL_02.md](./SPEC-027_PROTOCOL_02.md)
+- [SPEC-000_PLANETARY_SYNTHESIS](../assets/SPEC-000_PLANETARY_SYNTHESIS_01.jpg)
+- [LICENSE.md (JIN-ORDER Global Humanity License)](../LICENSE.md)
