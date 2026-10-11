@@ -240,6 +240,6 @@ Status: Canonical Draft V8.3 (Supersedes V8.2)
 Anchored Frameworks:
 - [MANIFESTO.md (V8.0 Canonical Unified)](../MANIFESTO.md)
 - [docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md](./MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
-- [docs/SPEC-027_PROTOCOL_02.md](./SPEC-027_PROTOCOL_02.md)
+- [docs/SPEC-027_PROTOCOL_02.md](./assets/SPEC-027_PROTOCOL_02.jpg)
 - [SPEC-000_PLANETARY_SYNTHESIS](../assets/SPEC-000_PLANETARY_SYNTHESIS_01.jpg)
 - [LICENSE.md (JIN-ORDER Global Humanity License)](../LICENSE.md)
