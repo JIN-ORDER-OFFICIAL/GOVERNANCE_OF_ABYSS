@@ -22,7 +22,7 @@
 | 条文区分 | 参照技術仕様・図解資産 | 現場実務・土木工法上の要点 |
 | :--- | :--- | :--- |
 | **第1章（総則・都市断面）** | ![SPEC-000_PLANETARY_SYNTHESIS_01.jpg](./assets/SPEC-000_PLANETARY_SYNTHESIS_01.jpg) | RC-40再生砕石路盤、浸透性雨水貯留池、伝統木造コモンズが一体化した都市基盤断面 |
-| **第2章（道路・地下空間）** | ![whitepaper01_civil_infrastructure_01.jpg](./whitepaper/whitepaper01_civil_infrastructure_01.jpg) | 道路法第32条に基づく大口径共同溝、せせらぎ緑道地下利用、下水熱交換配管敷設 |
+| **第2章（道路・地下空間）** | ![whitepaper01_civil_infrastructure_01.jpg](../whitepaper/whitepaper01_civil_infrastructure_01.jpg) | 道路法第32条に基づく大口径共同溝、せせらぎ緑道地下利用、下水熱交換配管敷設 |
 | **第3章（非開削・自律分散）** | ![SPEC-027_PROTOCOL_02.jpg](./assets/SPEC-027_PROTOCOL_02.jpg) | 非開削推進工法、管内マイクロ水力タービン、ゼーベック熱電素子、完全密閉型ZLD熱交換器 |
 | **第4章（排熱・農業循環）** | ![JIN_BIO_SYMBIOTIC_INFRASTRUCTURE_01.jpg](../assets/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE_01.jpg) | バイオスウェル、地下水流パッシブ冷却、排熱の大気放出禁止と温室・有機土壌加温への全量還流 |
 
