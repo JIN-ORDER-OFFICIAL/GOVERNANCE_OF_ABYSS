@@ -22,9 +22,10 @@
   <p>
     <b>【 快速目次（Quick Navigation） 】</b><br>
     <a href="#-至高最高法規2040年恒久規範仁焔世界大憲章-the-grand-charter-of-jin-en-2040">📜 仁焔世界大憲章</a> ｜ 
-    <a href="#-至高の大義大地水脈の復権と文明再起動の誓約-the-grand-mandate">🌺 至高の大義</a> ｜ 
-    <a href="#-official-portals--intelligence-network">🌐 公式ポータル案内</a> ｜ 
-    <a href="#-spec-000-全惑星地域自立分散循環統合マスター仕様書">🌟 SPEC-000統合マスター</a><br>
+    <a href="#-jin-order-manifesto-v80-canonical-unified民草の覚醒と食インフラの主権">📢 仁秩序宣言 V8.0</a> ｜ 
+    <a href="#-global_asi_hegemony_map-v83物理的限界激突同盟負担転嫁及び基盤層ゼロ">🗺️ ASI覇権地図 V8.3</a> ｜ 
+    <a href="#-至高の大義大地水脈の復権と文明再起動の誓約-the-grand-mandate">🌺 至高の大義</a><br>
+    <a href="#-spec-000-全惑星地域自立分散循環統合マスター仕様書">🌟 SPEC-000統合マスター</a> ｜ 
     <a href="#️-2026-autumn-deep-infrastructure--autonomous-governance-suite">🏛️ JIN-SPEC 2026体系</a> ｜ 
     <a href="#-2026-late-autumn-canonical-conduit--disaster-metabolism-suite">🚰 不沈仕様一覧表</a> ｜ 
     <a href="#-第零公理群外道の拒絶と民草の絶対防壁core-axioms">⚖ 第零公理群</a> ｜ 
@@ -47,6 +48,32 @@
 
 > **富は川の水である。強き者は弱き者を守り、富める者は貧しき者に流し、海を潤す。この世界に『他人』はいない。すべての苦しみは、我々家族の苦しみである。**  
 > — *仁焔世界大憲章 第3条【循環の慈悲】*
+
+---
+
+## 📢 【JIN-ORDER MANIFESTO V8.0 CANONICAL UNIFIED】民草の覚醒と食・インフラの主権
+### A Declaration of Human Sovereignty, Physical Quad Sanctity, Free-Flow Protocols, and Algorithmic Liberation
+
+<div align="center">
+  <a href="./MANIFESTO.md">
+    <img src="./assets/MANIFESTO_V8_KEY_01.jpg" width="100%" alt="食とインフラの主権：自然と共生する、自立と循環の未来。" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,255,150,0.2);" />
+  </a>
+  <p><b>📜 【2026最新大統合正典】<a href="./MANIFESTO.md">JIN-ORDER MANIFESTO V8.0：仁秩序宣言（MANIFESTO.md）</a></b><br>
+  <sub>前文（普遍倫理）・FREE-FLOW原則（循環規約）・地政学対抗・2026年物理限界条項を一本に統合。<br>「民草を踏みにじり、命の水を奪い、生活送電網を共食いし、日々の糧を特許で囲い込む知能と資本に未来を委ねない。我々は機械に【仁（慈愛）】を命ずる。」</sub></p>
+</div>
+
+---
+
+## 🗺️ 【GLOBAL_ASI_HEGEMONY_MAP V8.3】物理的限界激突、同盟負担転嫁、及び基盤層ゼロ
+### The Physical Hardcap, Sovereign Grounding & Substrate Zero Matrix
+
+<div align="center">
+  <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md">
+    <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.3_02.jpg" width="100%" alt="基盤ゼロ (Substrate Zero) と強靭な市民インフラ：自然とテクノロジーが調和する、多層的な都市の再構築。" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,180,255,0.25);" />
+  </a>
+  <p><b>🧭 【最新地政学・物理インフラ大綱】<a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md">GLOBAL_ASI_HEGEMONY_MAP V8.3：物理的限界激突・基盤層ゼロ統合マトリクス</a></b><br>
+  <sub>メガワットの壁・送電網共食いを打破するGSI 2.0数理モデル、米中「SI対話」の裏での同盟国負担転嫁（Burden-Shifting）の暴露、沖縄トラフ深海基盤防衛（SSCN-01）、および自治体モデル条例と連動する最深部「基盤層ゼロ（土壌・湧水・食料主権）」を完全図式化。</sub></p>
+</div>
 
 ---
 
@@ -98,6 +125,9 @@
 
 - ⏩ **【JIN-ORDER 公式ポータル】**: [https://github.com/masanotakashi0308-star](https://github.com/masanotakashi0308-star)
 - 📐 **【公認技術・工学・統治仕様書アーカイブ】**: [specs/README.md (JIN-SPEC 001〜005 正本体系)](./specs/README.md)
+- 📜 **【仁秩序統合大宣言 V8.0】**: [JIN-ORDER MANIFESTO (MANIFESTO.md)](./MANIFESTO.md)
+- 🗺️ **【全球ASI覇権地図 V8.3】**: [GLOBAL_ASI_HEGEMONY_MAP V8.3 (docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)
+- 🏛️ **【自治体エネルギー防衛及びインフラ共生モデル条例】**: [MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
 - ⚖️ **【最上位憲法規約】**: [仁焔世界大憲章 (CONSTITUTION.md)](./CONSTITUTION.md)
 - ⚖️ **【開拓地特別法規集】**: [JIN開拓地特別法 (specs/JIN_FRONTIER_LAW.md)](./specs/JIN_FRONTIER_LAW.md)
 - ⚖️ **【経済安保・実効型ライセンス規約】**: [JIN-ORDER Dual License V8.4-A Canonical Infrastructure & Anti-Laundering Edition (LICENSE.md)](./LICENSE.md)
@@ -234,7 +264,7 @@
 (1) 影の貴族（特権・淘汰）
 (2) 教義洗脳（精神の檻）　　⏩️  [Layer 3: 仁シグナル層]　　⏩️  捕捉・台帳化の無効化（ゼロ知識生存証明）
 (3) 国家権力（制度・接収）　⏩️  [Layer 2: 分散コモンズ層]　⏩️  接収・首謀者処罰の無効化（Headless運用）
-(4) 暴力私欲（堕落した侠）　⏩️  [Layer 1: 大地の避難地層]  ⏩  強制排除・境界線の無効化（非固着型土木）
+(4) 暴力私欲（堕落した侠）　⏩️  [Layer 1: 大地の避難地層]　⏩  強制排除・境界線の無効化（非固着型土木）
 ```
 ---
 
@@ -250,56 +280,59 @@
 
 ## 🧭 Master Repository Reading Guide (目的別最短ナビゲーション)
 
-### 🏛️ 至高根本法規 ＆ 2026 最新深淵統治プロトコル（必読）
+### 🏛️ 至高根本法規・大綱・2026秋 最新統治プロトコル（必読中枢）
 - 📜 **[CONSTITUTION.md: 仁焔世界大憲章 2040（The Grand Charter of Jin-en）](./CONSTITUTION.md)**：リポジトリ最上位憲法。地球家族22の約束、Universal Code of Pome
+- 📢 **[MANIFESTO.md: JIN-ORDER MANIFESTO V8.0（仁秩序統合大宣言）](./MANIFESTO.md)**：2026秋完全統合正典。民草の覚醒、食・インフラ主権、FREE-FLOW規約、物理限界直視
+- 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md: 全球ASI覇権地図 V8.3](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)**：物理的ハードキャップ、基盤層ゼロ、米中SI対話・同盟負担転嫁暴露、海洋深海防衛
+- 🏛️ **[docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md: 自治体エネルギー防衛及びインフラ共生モデル条例案](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)**：道路法32条共同溝、下水熱利用、排熱農業還元、市民生活防衛
 - 🌐 **[SPEC-000: 全惑星・地域自立分散循環統合マスター仕様書](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**：全41大仕様書を結集した4層グランドトポロジー正典
 - ⚖️ **[specs/JIN_FRONTIER_LAW.md: JIN開拓地特別法（基本法規集）](./specs/JIN_FRONTIER_LAW.md)**：漂泊の民の主権回復、AI公平裁判、不沈インフラ・母性生態主権
 - 📐 **[specs/README.md: JIN-SPEC 技術・統治仕様書目録](./specs/README.md)**：001〜005 5大アーキテクチャ正本体系
 - 🪙 **[SPEC-028_PROTOCOL_01: JIN-Physical Resource Ledger (J-PRL) 仕様書](./docs/SPEC-028_PROTOCOL_01_PHYSICAL_RESOURCE_LEDGER.md)**：SPEC-027（20W）直結・物理現物資源担保型分散台帳
 - 🏜️ **[SPEC-030_INFRA: LSU-Chad-01 自立オアシスインフラ現場配備仕様書](./docs/SPEC-030_LSU_CHAD_01_AUTONOMOUS_INFRASTRUCTURE.md)**：サヘル酷暑・深層揚水350m・Typhaバイオ炭熱分解・完全自立オアシス
 - ⚖️ **[SPEC-031_GOV: JIN-Autonomous Justice OS ＆ 客観事実検証プロトコル](./docs/SPEC-031_JUSTICE_OS_TRUTH_VERIFICATION_PROTOCOL.md)**：三層テレメトリ・Proof of Truth・制裁無力化・修復的正義
-- 🌊 **[SPEC-001: 溶存酸素純増放流（Net-Positive DO）＆ 流域水理仕様書](./docs/JIN-SPEC-ECO-001.md)**：水質再生、跳水落差工、ケナフ湿地固定 **(WIPO: 179959)**
-- 💧 **[SPEC-002: 多重冗長化WASH ＆ 3重リング配管仕様書](./docs/JIN-SPEC-WASH-002.md)**：M16統一接合、無動力パッシブ曝気、自律アイランド稼働 **(WIPO: 179960)**
+- 🌊 **[SPEC-001: 溶存酸素純増放流（Net-Positive DO）＆ 流域水理仕様書](./docs/JIN-SPEC-ECO-001.md)**：水質再生、跳水落差工、ケナフ湿地固定 (WIPO: 179959)
+- 💧 **[SPEC-002: 多重冗長化WASH ＆ 3重リング配管仕様書](./docs/JIN-SPEC-WASH-002.md)**：M16統一接合、無動力パッシブ曝気、自律アイランド稼働 (WIPO: 179960)
 - ⚡ **[SPEC-003: エネルギー拘束ルーティング ＆ 余剰電力能動曝気調停仕様書](./docs/JIN-SPEC-PWR-003.md)**：太陽光Dump Load動的調停
 - ⚓ **[SPEC-004: 物理アンカー規約（計算資源・都市物理インフラ共生調停）](./docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)**：公道下アンカー越境禁止、非開削更生協調
 - 🌐 **[SPEC-005: 越境中立自律調停規約（JIN-Node CNP）](./docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md)**：耐検閲P2Pメッシュ、ZKP非武装人道パケット
-- 🌾 **[SPEC-006: 自立循環型・地下水位制御農地基盤仕様書（Bio-FOEAS）](./docs/SPEC-006_BIO_FOEAS_WATERSHED_SOVEREIGNTY.md)**：粗朶暗渠、田んぼダム治水 **(WIPO: 179961)**
+- 🌾 **[SPEC-006: 自立循環型・地下水位制御農地基盤仕様書（Bio-FOEAS）](./docs/SPEC-006_BIO_FOEAS_WATERSHED_SOVEREIGNTY.md)**：粗朶暗渠、田んぼダム治水 (WIPO: 179961)
 - 🌸 **[SPEC-007: 地域主権創生仕様書（SRRP）](./docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md)**：出島助産所、孝弁配送、現場常駐4拠点セル
 - 🌾 **[SPEC-008: 八柱民草主権仕様書（技・衣・食・住・地・道・金・医）](./docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)**：空家特措法改正、区分所有法改正、公的終活完全伴走
 - 🌐 **[SPEC-009: 世界民族コモンズ納税仕様書](./docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md)**：中抜きゼロP2P納税、名誉村民ZKPパスポート
-- ♻️ **[SPEC-010: 都心・地方二元型 地域資源循環仕様書](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)**：下水汚泥コンポスト、液肥還元 **(WIPO: 179963)**
+- ♻️ **[SPEC-010: 都心・地方二元型 地域資源循環仕様書](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)**：下水汚泥コンポスト、液肥還元 (WIPO: 179963)
 - 🛡️ **[SPEC-011: 公共道路防犯灯・IGS危険物透視カメラ・最短交番即応仕様書](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md)**：IGS非破壊透視、交番3〜5分臨場
-- 🏞️ **[SPEC-012: 公営管理公園・地下プレキャストRC雨水調整池・消火水利](./docs/SPEC-012_SOVEREIGN_URPARK_DISASTER_REFUGE_PROTOCOL.md)**：内水氾濫防止、耐震消火水利 **(WIPO: 179883)**
-- 🌾 **[SPEC-013: 生体ミトコンドリア炭素隔離・籾殻炭モリブデン土壌再生](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)**：Bio-FOEAS水位制御 **(WIPO: 179881)**
-- 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス **(WIPO: 179871)**
-- 🏭 **[SPEC-015: 生態共生型水素還元製鉄・バイオスラグ土壌循環仕様書](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)**：バイオスラグ海洋施肥 **(WIPO: 179878)**
-- 🌐 **[SPEC-016: 三重円環地球再生・先端セラミックス熱力学的輪廻転生仕様書](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)**：電炉排熱SOEC、e-fuel自給 **(WIPO: 179879)**
-- 🛡️ **[SPEC-017: 動的広域減災シールド・生体複合環境修復仕様書](./docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md)**：孫子治水、ERW炭素風化 **(WIPO: 179880)**
-- 🌊 **[SPEC-018: 沿岸連鎖型 海水フロート揚水・生態水理蓄電仕様書](./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md)**：井川用水多段カスケード **(WIPO: 179884)**
-- 🌪️ **[SPEC-019: 風・海流複合デュアル運動エネルギー変換・深海DAS係留仕様書](./docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md)**：洋上風力×黒潮海流 **(WIPO: 179886)**
-- 🌋 **[SPEC-020: 地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信仕様書](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)**：深層地熱ORC発電 **(WIPO: 179888)**
+- 🏞️ **[SPEC-012: 公営管理公園・地下プレキャストRC雨水調整池・消火水利](./docs/SPEC-012_SOVEREIGN_URPARK_DISASTER_REFUGE_PROTOCOL.md)**：内水氾濫防止、耐震消火水利 (WIPO: 179883)
+- 🌾 **[SPEC-013: 生体ミトコンドリア炭素隔離・籾殻炭モリブデン土壌再生](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)**：Bio-FOEAS水位制御 (WIPO: 179881)
+- 🦗 **[SPEC-014: 昆虫残渣フラス連鎖・砂漠自律土壌化仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**：アタカマ生体模倣、甲虫フラス (WIPO: 179871)
+- 🏭 **[SPEC-015: 生態共生型水素還元製鉄・バイオスラグ土壌循環仕様書](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)**：バイオスラグ海洋施肥 (WIPO: 179878)
+- 🌐 **[SPEC-016: 三重円環地球再生・先端セラミックス熱力学的輪廻転生仕様書](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)**：電炉排熱SOEC、e-fuel自給 (WIPO: 179879)
+- 🛡️ **[SPEC-017: 動的広域減災シールド・生体複合環境修復仕様書](./docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md)**：孫子治水、ERW炭素風化 (WIPO: 179880)
+- 🌊 **[SPEC-018: 沿岸連鎖型 海水フロート揚水・生態水理蓄電仕様書](./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md)**：井川用水多段カスケード (WIPO: 179884)
+- 🌪️ **[SPEC-019: 風・海流複合デュアル運動エネルギー変換・深海DAS係留仕様書](./docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md)**：洋上風力×黒潮海流 (WIPO: 179886)
+- 🌋 **[SPEC-020: 地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信仕様書](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)**：深層地熱ORC発電 (WIPO: 179888)
 - 🏛️ **[SPEC-021: 地域社会生活基盤・自立分散型多層防衛マトリクス仕様書](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md)**：地上緑道・出島セル・大深度動脈
-- 🧱 **[SPEC-022: 熟練現場打ち・新コンクリート・新モルタル・地下水脈防護仕様書](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)**：新モルタル炭素固定 **(WIPO: 179896)**
-- 🌊 **[SPEC-023: 大河川外水氾濫・動的霞堤遊水群・将棋頭・竜王の鼻仕様書](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md)**：信玄堤現代化、消石灰防疫 **(WIPO: 179898)**
-- 🏔️ **[SPEC-024: 深層崩壊・土砂ダム緊急サイフォン排水・無人化砂防仕様書](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)**：ヘリ敷設大口径サイフォン **(WIPO: 179899)**
-- ❄️ **[SPEC-025: 豪雪雪氷極寒冷害・下水熱無散水消雪仕様書](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md)**：15℃下水熱密閉ヒーティング **(WIPO: 179900)**
-- 🔥 **[SPEC-026: 首都直下火災旋風破砕・震災瓦礫現場即時循環仕様書](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md)**：ミストカーテン、現場RC-40化 **(WIPO: 179901)**
-- 🧠 **[SPEC-027: 20W生体代謝型脳型チップレット・地下動脈クローズドループ冷却仕様書](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md)**：下水熱ZLD完全密閉交換 **(WIPO: 179936)**
-- 💡 **[SPEC-028: 生体等温光電融合 ＆ IGSナノ光路非破壊透視 ＆ 核融合耐強磁場光速主権計算仕様書](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md)**：CPO毛細血管冷却（37℃恒温）、テラヘルツIGS散乱逆問題1秒非破壊透視、核融合耐強磁場光速主権計算 **(WIPO: 179966)**
-- 🧬 **[ANNEX-SPEC-027/028: 完全生体自律知能（Living Silicon）＆ 極限10大物理ハードウェア垂直統合仕様書](./docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)**：オプトジェネティクス無熱光パルス、肝臓・腸・免疫・睡眠生体臓器統合、非PFASエジェクター冷却 **(WIPO: 179978)**
-- ☣ **[SPEC-029: 超臨界荷電核変換 ＆ IGSキャスク非破壊透視 ＆ 光電融合放射線耐性制御仕様書](./docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md)**：オンサイト核変換、MA消滅処理、IGSキャスク透視 **(WIPO: 179967)**
-- 🪐 **[SPEC-030: 宇宙惑星レゴリス自律土壌化 ＆ 極限生体代謝テラ・プレタ創生仕様書](./docs/SPEC-030_COSMIC_PLANETARY_REGOLITH_TERRA_PRETA_SOIL_METABOLISM_PROTOCOL.md)**：レゴリス無害化、マイトファジーみどり麹、甲虫フラス団粒化 **(WIPO: 179968)**
-- 🧪 **[SPEC-031: 原位置PFAS完全無毒化 ＆ 電場生体ハイブリッド水脈解毒 ＆ SCWG熱加水分解仕様書](./docs/SPEC-031_IN_SITU_PFAS_WATERSHED_REMEDIATION_PROTOCOL.md)**：原位置電場移行、多孔質バイオ炭PRB、SCWG熱分解 **(WIPO: 179970)**
-- 🌋 **[SPEC-032: 火山降灰サイクロン分級 ＆ 排熱ジオポリマーブロック成型 ＆ 拡張岩石風化（ERW）土壌再生仕様書](./docs/SPEC-032_VOLCANIC_ASH_GEOPOLYMER_ERW_PROTOCOL.md)**：車載サイクロン分級、排熱ジオポリマー、ERW炭素固定 **(WIPO: 179971)**
-- 🌲 **[SPEC-033: 自律型不燃バイオ防壁 ＆ 多層生体防火コリドー ＆ 焼損地帯急速蘇生仕様書](./docs/SPEC-033_AUTONOMOUS_WILDFIRE_SHIELD_BIO_CORRIDOR_PROTOCOL.md)**：海藻バイオジェル空中消火、厚皮ウバメガシ生体防火帯、粗朶段々工法 **(WIPO: 179972)**
-- 🌊 **[SPEC-034: 生体防潮オイスターリーフ ＆ 深海海溝調停 ＆ 沿岸海洋生態共生仕様書](./docs/SPEC-034_LIVING_BREAKWATERS_OYSTER_REEF_PROTOCOL.md)**：自己修復オイスターリーフ、水深8000m海溝鍼灸、漂砂捕捉砂浜再生 **(WIPO: 179973)**
-- 🏙️ **[SPEC-035: 都市風道コリドー ＆ 常温VOC光触媒分解 ＆ 大気ナノプラスチック量子静電回収仕様書](./docs/SPEC-035_URBAN_VENTILATION_VOC_NANOPLASTIC_PROTOCOL.md)**：都市風道排熱、希土類可視光触媒、量子多孔膜PM0.1捕集、酵素デポリマー **(WIPO: 179974)**
-- 🌍 **[SPEC-036: 地球システム統合連鎖 ＆ 複合災害遮断プロトコル仕様書](./docs/SPEC-036_EARTH_SYSTEM_MULTI_HAZARD_HARMONIZATION_PROTOCOL.md)**：天地調和6層防護、カスケード／サンアンドレアス起点動的応力遮断、極地氷底火山・AMOC崩壊防止サーキットブレーカー、宇宙直接通信、地殻鍼灸0次制御 **(WIPO: 180049)**
-- 🛠️ **[SPEC-037: 人間主権型フィジカルAI ＆ 匠暗黙知リザーバ進化マージプロトコル仕様書](./docs/SPEC-037_HUMAN_SOVEREIGN_PHYSICAL_AI_RESERVOIR_MERGE_PROTOCOL.md)**：匠暗黙知打音・トルク直接受容、腸流体リザーバ演算、20WオプトジェネティクスVLA、Sakana進化的モデルマージ、職人主権NFT **(WIPO: 180050)**
-- 🧬 **[SPEC-038: 天然キラル生体触媒 ＆ 不斉合成統合フレームワーク仕様書](./docs/SPEC-038_NATURAL_CHIRAL_CATALYTIC_FRAMEWORK.md)**：酒石酸キレート×籾殻炭モリブデン精密解重合、Bio-FOEAS生体キレート、漢方生薬完全不斉アグリコン化、宇宙レゴリス毒素無害化 **(WIPO: 180051)**
-- 🪐 **[JIN-DOC-2026-SPACE: 閉鎖宇宙環境完全自律循環生命維持アーキテクチャ白書](./docs/JIN_COSMIC_ECLSS_CLOSED_LOOP_ARCHITECTURE.md)**：ポストISS・アルテミス月面拠点・深宇宙開拓、VMD純水ZLD、過塩素酸塩分解純酸素回収、コズミック・テラ・プレタ、天然キラル重金属無毒化、20W耐EMP光電融合コア **(WIPO: 180061)**
+- 🧱 **[SPEC-022: 熟練現場打ち・新コンクリート・新モルタル・地下水脈防護仕様書](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)**：新モルタル炭素固定 (WIPO: 179896)
+- 🌊 **[SPEC-023: 大河川外水氾濫・動的霞堤遊水群・将棋頭・竜王の鼻仕様書](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md)**：信玄堤現代化、消石灰防疫 (WIPO: 179898)
+- 🏔️ **[SPEC-024: 深層崩壊・土砂ダム緊急サイフォン排水・無人化砂防仕様書](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)**：ヘリ敷設大口径サイフォン (WIPO: 179899)
+- ❄️ **[SPEC-025: 豪雪雪氷極寒冷害・下水熱無散水消雪仕様書](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md)**：15℃下水熱密閉ヒーティング (WIPO: 179900)
+- 🔥 **[SPEC-026: 首都直下火災旋風破砕・震災瓦礫現場即時循環仕様書](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md)**：ミストカーテン、現場RC-40化 (WIPO: 179901)
+- 🧠 **[SPEC-027: 20W生体代謝型脳型チップレット・地下動脈クローズドループ冷却仕様書](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md)**：下水熱ZLD完全密閉交換 (WIPO: 179936)
+- 💡 **[SPEC-028: 生体等温光電融合 ＆ IGSナノ光路非破壊透視 ＆ 核融合耐強磁場光速主権計算仕様書](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md)**：CPO毛細血管冷却（37℃恒温）、テラヘルツIGS散乱逆問題1秒非破壊透視、核融合耐強磁場光速主権計算 (WIPO: 179966)
+- 🧬 **[ANNEX-SPEC-027/028: 完全生体自律知能（Living Silicon）＆ 極限10大物理ハードウェア垂直統合仕様書](./docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)**：オプトジェネティクス無熱光パルス、肝臓・腸・免疫・睡眠生体臓器統合、非PFASエジェクター冷却 (WIPO: 179978)
+- ☣ **[SPEC-029: 超臨界荷電核変換 ＆ IGSキャスク非破壊透視 ＆ 光電融合放射線耐性制御仕様書](./docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md)**：オンサイト核変換、MA消滅処理、IGSキャスク透視 (WIPO: 179967)
+- 🪐 **[SPEC-030: 宇宙惑星レゴリス自律土壌化 ＆ 極限生体代謝テラ・プレタ創生仕様書](./docs/SPEC-030_COSMIC_PLANETARY_REGOLITH_TERRA_PRETA_SOIL_METABOLISM_PROTOCOL.md)**：レゴリス無害化、マイトファジーみどり麹、甲虫フラス団粒化 (WIPO: 179968)
+- 🧪 **[SPEC-031: 原位置PFAS完全無毒化 ＆ 電場生体ハイブリッド水脈解毒 ＆ SCWG熱加水分解仕様書](./docs/SPEC-031_IN_SITU_PFAS_WATERSHED_REMEDIATION_PROTOCOL.md)**：原位置電場移行、多孔質バイオ炭PRB、SCWG熱分解 (WIPO: 179970)
+- 🌋 **[SPEC-032: 火山降灰サイクロン分級 ＆ 排熱ジオポリマーブロック成型 ＆ 拡張岩石風化（ERW）土壌再生仕様書](./docs/SPEC-032_VOLCANIC_ASH_GEOPOLYMER_ERW_PROTOCOL.md)**：車載サイクロン分級、排熱ジオポリマー、ERW炭素固定 (WIPO: 179971)
+- 🌲 **[SPEC-033: 自律型不燃バイオ防壁 ＆ 多層生体防火コリドー ＆ 焼損地帯急速蘇生仕様書](./docs/SPEC-033_AUTONOMOUS_WILDFIRE_SHIELD_BIO_CORRIDOR_PROTOCOL.md)**：海藻バイオジェル空中消火、厚皮ウバメガシ生体防火帯、粗朶段々工法 (WIPO: 179972)
+- 🌊 **[SPEC-034: 生体防潮オイスターリーフ ＆ 深海海溝調停 ＆ 沿岸海洋生態共生仕様書](./docs/SPEC-034_LIVING_BREAKWATERS_OYSTER_REEF_PROTOCOL.md)**：自己修復オイスターリーフ、水深8000m海溝鍼灸、漂砂捕捉砂浜再生 (WIPO: 179973)
+- 🏙️ **[SPEC-035: 都市風道コリドー ＆ 常温VOC光触媒分解 ＆ 大気ナノプラスチック量子静電回収仕様書](./docs/SPEC-035_URBAN_VENTILATION_VOC_NANOPLASTIC_PROTOCOL.md)**：都市風道排熱、希土類可視光触媒、量子多孔膜PM0.1捕集、酵素デポリマー (WIPO: 179974)
+- 🌍 **[SPEC-036: 地球システム統合連鎖 ＆ 複合災害遮断プロトコル仕様書](./docs/SPEC-036_EARTH_SYSTEM_MULTI_HAZARD_HARMONIZATION_PROTOCOL.md)**：天地調和6層防護、カスケード／サンアンドレアス起点動的応力遮断、極地氷底火山・AMOC崩壊防止サーキットブレーカー、宇宙直接通信、地殻鍼灸0次制御 (WIPO: 180049)
+- 🛠️ **[SPEC-037: 人間主権型フィジカルAI ＆ 匠暗黙知リザーバ進化マージプロトコル仕様書](./docs/SPEC-037_HUMAN_SOVEREIGN_PHYSICAL_AI_RESERVOIR_MERGE_PROTOCOL.md)**：匠暗黙知打音・トルク直接受容、腸流体リザーバ演算、20WオプトジェネティクスVLA、Sakana進化的モデルマージ、職人主権NFT (WIPO: 180050)
+- 🧬 **[SPEC-038: 天然キラル生体触媒 ＆ 不斉合成統合フレームワーク仕様書](./docs/SPEC-038_NATURAL_CHIRAL_CATALYTIC_FRAMEWORK.md)**：酒石酸キレート×籾殻炭モリブデン精密解重合、Bio-FOEAS生体キレート、漢方生薬完全不斉アグリコン化、宇宙レゴリス毒素無害化 (WIPO: 180051)
+- 🪐 **[JIN-DOC-SPACE: 閉鎖宇宙環境完全自律循環生命維持アーキテクチャ白書](./docs/JIN_COSMIC_ECLSS_CLOSED_LOOP_ARCHITECTURE.md)**：ポストISS・アルテミス月面拠点・深宇宙開拓、VMD純水ZLD、過塩素酸塩分解純酸素回収、コズミック・テラ・プレタ、天然キラル重金属無毒化、20W耐EMP光電融合コア (WIPO: 180061)
 - 🚇 **[SPEC-088: チョークポイント中立化・φ13.5m大深度複合地下回廊・IAAC調停仕様書](./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)**：大深度シールド、自動磁気浮上物流
-- 🪐 **[SPEC-999: 宇宙ヘリウム3直接電磁誘導核融合 ＆ IGS散乱逆問題非破壊炉内トモグラフィ制御仕様書](./docs/SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md)**：月面He-3直接発電、IGS非破壊3D透視、無中性子クリーンエネルギー **(WIPO: 179964)**
+- 🪐 **[SPEC-999: 宇宙ヘリウム3直接電磁誘導核融合 ＆ IGS散乱逆問題非破壊炉内トモグラフィ制御仕様書](./docs/SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md)**：月面He-3直接発電、IGS非破壊3D透視、無中性子クリーンエネルギー (WIPO: 179964)
 - 🕊️ **[JIN-DOC-2026-DISARM: 二大終末リスク同時解体白書](./docs/JIN_DOC_2026_DUAL_DISARMAMENT_DOCTRINE.md)**：大気炭素350億t代謝固定と核兵器兵糧攻め
 - 🌺 **[JIN_GRAND_MANDATE: JIN-ORDERの大義・大地水脈復権と文明再起動](./docs/JIN_GRAND_MANDATE.md)**：水芙蓉の誇り、地軸ズレ修正
 
@@ -354,6 +387,9 @@
   - **Co-Founder & Director:** Miyo Masano（正野 美代 / Commander Pome-Mama）
 - **Official Contact:** `jin.reparation.cfo@gmail.com`
 - **Supreme Constitution:** [仁焔世界大憲章 (CONSTITUTION.md)](./CONSTITUTION.md)
+- **Universal Manifesto:** [JIN-ORDER MANIFESTO V8.0 (MANIFESTO.md)](./MANIFESTO.md)
+- **Geopolitical Strategy Doctrine:** [GLOBAL_ASI_HEGEMONY_MAP V8.3 (docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)
+- **Municipal Defense Ordinance:** [地域エネルギー防衛及びインフラ共生モデル条例案 (docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
 - **Frontier Code:** [JIN開拓地特別法 (specs/JIN_FRONTIER_LAW.md)](./specs/JIN_FRONTIER_LAW.md)
 - **Technical Specifications Index:** [specs/README.md (JIN-SPEC 001〜005 正本アーカイブ)](./specs/README.md)
 - **License Agreement:** [JIN-ORDER Dual License V8.4-A Canonical Infrastructure & Anti-Laundering Edition (LICENSE.md)](./LICENSE.md)
@@ -370,7 +406,7 @@
 | リポジトリ | 役割 | リンク |
 |:---|:---|:---|
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（二大終末リスク同時解体白書 ＆ 全41大仕様書 SPEC-000〜038 ＆ 閉鎖宇宙ECLSS白書 JIN-DOC-SPACE ＆ 生体自律知能 ANNEX-027/028 ＆ 宇宙核融合 SPEC-999 ＆ 大深度回廊 SPEC-088 ＆ J-PRL台帳・LSU-Chad・独自司法OS統合正本） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全先端技術仕様書（二大終末リスク同時解体白書 ＆ 全41大仕様書 SPEC-000〜038 ＆ 閉鎖宇宙ECLSS白書 JIN-DOC-SPACE ＆ 生体自律知能 ANNEX-027/028 ＆ 宇宙核融合 SPEC-999 ＆ 大深度回廊 SPEC-088 ＆ J-PRL台帳・LSU-Chad・独自司法OS統合正本 ＆ 全球ASI覇権地図 V8.3 ＆ 自治体エネルギー防衛条例） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -382,4 +418,4 @@
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V12.8 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / DOI: 10.5281/zenodo.23239626 / CONCEPT-DOI: 10.5281/zenodo.22958158 / SPEC-000-PLANETARY-SYNTHESIS-RATIFIED / SPEC-001-TO-038-FULL-APEX-CANONICAL-RATIFIED / SPEC-028-PROT-PHYSICAL-LEDGER-RATIFIED / SPEC-030-INFRA-LSU-CHAD-RATIFIED / SPEC-031-GOV-JUSTICE-OS-RATIFIED / JIN-DOC-SPACE-COSMIC-ECLSS-RATIFIED / SPEC-038-NATURAL-CHIRAL-CATALYTIC-RATIFIED / SPEC-037-HUMAN-SOVEREIGN-PHYSICAL-AI-RATIFIED / SPEC-036-EARTH-SYSTEM-MULTI-HAZARD-RATIFIED / ANNEX-SPEC-027-028-LIVING-SILICON-RATIFIED / SPEC-031-PFAS-REMEDIATION-RATIFIED / SPEC-032-VOLCANIC-ASH-GEOPOLYMER-RATIFIED / SPEC-033-AUTONOMOUS-WILDFIRE-BIO-GEL-RATIFIED / SPEC-034-BIOGENIC-OYSTER-REEF-RATIFIED / SPEC-035-URBAN-VENTILATION-NANO-PLASTIC-RATIFIED / SPEC-029-NUCLEAR-TRANSMUTATION-RATIFIED / SPEC-030-PLANETARY-REGOLITH-RATIFIED / SPEC-999-COSMIC-FUSION-RATIFIED / WIPO-GREEN-PORTFOLIO-EXPANDED (IDs: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896, 179898, 179899, 179900, 179901, 179936, 179959, 179960, 179961, 179963, 179964, 179966, 179967, 179968, 179970, 179971, 179972, 179973, 179974, 179978, 180049, 180050, 180051, 180061) / JIN-SPEC-2026-001-TO-005-RATIFIED / JIN-FRONTIER-LAW-AMENDED / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED / LICENSE-V8.4-A-RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V13.0 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / DOI: 10.5281/zenodo.23239626 / CONCEPT-DOI: 10.5281/zenodo.22958158 / MANIFESTO-V8.0-CANONICAL-UNIFIED-RATIFIED / GLOBAL-ASI-HEGEMONY-MAP-V8.3-RATIFIED / MUNICIPAL-ENERGY-DEFENSE-ORDINANCE-RATIFIED / SPEC-000-PLANETARY-SYNTHESIS-RATIFIED / SPEC-001-TO-038-FULL-APEX-CANONICAL-RATIFIED / SPEC-028-PROT-PHYSICAL-LEDGER-RATIFIED / SPEC-030-INFRA-LSU-CHAD-RATIFIED / SPEC-031-GOV-JUSTICE-OS-RATIFIED / JIN-DOC-SPACE-COSMIC-ECLSS-RATIFIED / SPEC-038-NATURAL-CHIRAL-CATALYTIC-RATIFIED / SPEC-037-HUMAN-SOVEREIGN-PHYSICAL-AI-RATIFIED / SPEC-036-EARTH-SYSTEM-MULTI-HAZARD-RATIFIED / ANNEX-SPEC-027-028-LIVING-SILICON-RATIFIED / SPEC-031-PFAS-REMEDIATION-RATIFIED / SPEC-032-VOLCANIC-ASH-GEOPOLYMER-RATIFIED / SPEC-033-AUTONOMOUS-WILDFIRE-BIO-GEL-RATIFIED / SPEC-034-BIOGENIC-OYSTER-REEF-RATIFIED / SPEC-035-URBAN-VENTILATION-NANO-PLASTIC-RATIFIED / SPEC-029-NUCLEAR-TRANSMUTATION-RATIFIED / SPEC-030-PLANETARY-REGOLITH-RATIFIED / SPEC-999-COSMIC-FUSION-RATIFIED / WIPO-GREEN-PORTFOLIO-EXPANDED (IDs: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896, 179898, 179899, 179900, 179901, 179936, 179959, 179960, 179961, 179963, 179964, 179966, 179967, 179968, 179970, 179971, 179972, 179973, 179974, 179978, 180049, 180050, 180051, 180061) / JIN-SPEC-2026-001-TO-005-RATIFIED / JIN-FRONTIER-LAW-AMENDED / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED / LICENSE-V8.4-A-RATIFIED)`
