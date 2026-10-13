@@ -128,6 +128,12 @@
 ### 7. JIN-ORDERの対抗プロトコル：第零公理と無機代謝半導体（SPEC-027）
 JIN-ORDERは、この「生命の兵器部品化」と「中央集権型暴力の自動化」を断じて認めない。
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/assets/JIN_WETWARE_HEGEMONY_WARNING_02.jpg" width="100%" alt="JIN Strategic Warning 2026: The Wetware Military Convergence" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(255, 50, 50, 0.2);" />
+  <p><b>🚨 【無機代謝半導体（SPEC-027）】道路下の多用途共同溝、下水熱交換、都市生活を守る無機20Wエッジノードの透視図</b></p>
+</div>
+
+
 #### ① 第零公理の絶対防壁（魂の不可測性）
 いかなる国家、アルゴリズム、市場も、民草の命や身体の細胞に価格をつけ、兵器の消耗資材とすることを永久に拒絶する。<br>生体知能（Wetware）の強制徴募および兵器利用をプロトコルレベルで遮断する。
 
