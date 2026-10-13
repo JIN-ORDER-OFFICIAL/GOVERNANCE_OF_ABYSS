@@ -8,10 +8,10 @@
 ## 国際金融・サイバー監視・公金還流（マネーロンダリング）配管の完全解体白書
 ### 5階層支配システム、シティ・オブ・ロンドン、日銀QFS二重帳簿、信濃町地下ゲート、及び売国コンサル公金洗浄アルゴリズムの構造的暴きと「J-PRL / Pome」による主権奪還
 
-- **文書識別子 (DOC-ID):** `JIN-DOC-2026-FIN-CYBER-AUDIT-V1.0`
-- **姉妹正典 (Sister Whitepaper):** [`JIN-DOC-2026-WETWARE-ALERT V2.0` (生体神経チップ兵器化・AI病原体・日本パッチワーク占領解体白書)](./JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md)
-- **策定・監査機関:** 一般社団法人JIN-ORDER 最高戦略司令部（Founder & Chief Architect: 正野 貴司 / Co-Founder & CFO: 正野 美代）
-- **批准日:** 2026年10月14日
+- 文書識別子 (DOC-ID): `JIN-DOC-2026-FIN-CYBER-AUDIT-V1.0`
+- 姉妹正典 (Sister Whitepaper): [生体神経チップ兵器化・AI病原体・日本パッチワーク占領解体白書（JIN-DOC-2026-WETWARE-ALERT V2.0）](./JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md)
+- 策定・監査機関: 一般社団法人JIN-ORDER 最高戦略司令部（Founder & Chief Architect: 正野 貴司 / Co-Founder & CFO: 正野 美代）
+- 批准日: 2026年10月14日
 
 ---
 
