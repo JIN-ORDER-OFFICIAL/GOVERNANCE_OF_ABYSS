@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md">
-    <img src="./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.3_02.jpg" width="100%" alt="基盤ゼロ (Substrate Zero) と強靭な市民インフラ：自然とテクノロジーが調和する、多層的な都市の再構築。" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,180,255,0.25);" />
+    <img src="docs/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.3_02.jpg" width="100%" alt="基盤ゼロ (Substrate Zero) と強靭な市民インフラ：自然とテクノロジーが調和する、多層的な都市の再構築。" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,180,255,0.25);" />
   </a>
   <p><b>🧭 【最新地政学・物理インフラ大綱】<a href="./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md">GLOBAL_ASI_HEGEMONY_MAP V8.3：物理的限界激突・基盤層ゼロ統合マトリクス</a></b><br>
   <sub>メガワットの壁・送電網共食いを打破するGSI 2.0数理モデル、米中「SI対話」の裏での同盟国負担転嫁（Burden-Shifting）の暴露、沖縄トラフ深海基盤防衛（SSCN-01）、および自治体モデル条例と連動する最深部「基盤層ゼロ（土壌・湧水・食料主権）」を完全図式化。</sub></p>
