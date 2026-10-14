@@ -78,32 +78,38 @@
 
 ---
 
-## 🚨 【JIN-DOC-2026-WETWARE-ALERT】生体神経チップ（CL1）兵器化・パランティア型統合監視・AI病原体・日本解体脱出回廊の完全暴露
-### Strategic Warning: The Wetware Military Convergence, Synthetic Bio-Cages, and the Sovereign Grounding of Substrate Zero
+## 🛣️ 【JIN-LIVING-ROAD & DEEP INFRASTRUCTURE】高機能・環境調和型舗装と非開削・地下立体インフラ網
+### Autonomous Ecological Artery, Self-Healing Bio-Pavement, and Subterranean Lifeline Matrix
 
 <div align="center">
-  <a href="./docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md">
-    <img src="./docs/assets/JIN_WETWARE_HEGEMONY_WARNING_01.jpg" width="100%" alt="戦略警告：冷酷な生体ウェットウェア兵器化の拒絶とSubstrate Zeroによる生命主権" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(255,50,50,0.25);" />
+  <a href="./docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md">
+    <img src="./assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg" width="100%" alt="JIN-リビングロード：ペロブスカイト太陽電池・自己修復バイオ舗装・動的ワイヤレス充電を統合した自律型エコロジカル・アーテリー" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,150,0.25);" />
   </a>
-  <p><b>🚨 【2026最新戦略警告正典 V2.0】<a href="./docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md">JIN-DOC-2026-WETWARE-ALERT：生体神経チップ（CL1）兵器化・パランティア型統合監視OS解体白書</a></b><br>
-  <sub>電子戦ジャミング下の「ミリワット生体自律暗殺兵器」、Anthropic「Claude Mythos」のサイバー兵器化、および「生体カートリッジ定期購読」という軍産バイオ複合体のマネタイズを完全告発。無機物20W結晶チップ（SPEC-027）と第零公理（生命主権）による絶対防壁を宣明。</sub></p>
+  <p><b>🛣️ 【次世代環境調和型・自律道路網】<a href="./docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md">JIN-リビングロード：遮熱・自己修復バイオ舗装 ＆ ペロブスカイト創エネ・動的給電ループ</a></b><br>
+  <sub>太陽光反射コーティング（Cool Pavement）と保水マイクロ空隙により路面温度上昇を10℃以上抑制。太陽熱に反応するマイクロカプセル配合バイオアスファルトで微小クラックを自律修復し、法面ペロブスカイト太陽電池と圧電式路盤で収穫した電力を全固体バッテリー・水循環ステーション・緊急避難所へ直結供給する長寿命道路アーキテクチャ。</sub></p>
 </div>
 
-<div align="center">
-  <a href="./docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md">
-    <img src="./assets/Agenda_2030_Global_Blueprint.jpg" width="100%" alt="アジェンダ2030 生体監視ケージの全球設計図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(255,0,80,0.25);" />
-  </a>
-  <p><b>🧬 【全球生体監視ケージ暴露図】ロックステップからmRNA・5G・生体データ収奪、そして黒い貴族による完全人間資源OS化タイムラインの解体[cite: 18]</b><br>
-  <sub>AIによる自然界に存在しない人工病原体（Evo-2147型）のオンデマンド大量自動生成と[cite: 12]、深圳・ウクライナ・ドバイ・日本国家戦略特区（つくば・淡路島・沖縄）をStarlinkとPalantir AIPで同期させた「世界4大クローン・バイオ特区」の暗黒回廊を完全暴露。</sub></p>
-</div>
+---
 
 <div align="center">
-  <a href="./docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md">
-    <img src="./assets/02_PATCHWORK_OF_OCCUPATION.jpg" width="100%" alt="日本列島パッチワーク占領地図とブータンGMC脱出回廊" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(255,100,0,0.25);" />
+  <a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
+    <img src="./assets/Rord_Overview_Concept_Diagram.jpg" width="100%" alt="超高機能・防災型リビングロード＆地下トンネルシステム断面図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,180,255,0.25);" />
   </a>
-  <p><b>🗺️ 【日本列島パッチワーク占領地図】北海道メガDC・関西上海電力・熊本TSMCによる解体と、ブータンGMC脱出回廊[cite: 19]</b><br>
-  <sub>浙江・江蘇財閥の血脈による米中対立無力化と深圳「具身智能（ロボット）」の軍事量産体制。エプスタイン〜伊藤穰一〜笹川財団ネットワークにより日本列島をメガDC・再エネ・金融の草刈り場にし、吸い上げた1,100兆円と生体データを持ってヒマラヤ要塞（ブータンGMC）へ逃走するエリート脱出構造を完全図式化。</sub></p>
+  <p><b>🚇 【地中空洞化防止・非開削メンテナンス体系】<a href="./docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">アンチパイピング地盤防護・発光バイオグラウト非開削充填 ＆ IGS非破壊構造診断</a></b><br>
+  <sub>高透水性ジオテキスタイルメンブレンによる土砂流出（パイピング）防止と、φ20mmマイクロノズルからのバイオグラウト非開削注入により、道路を掘り返さずに地下空洞・陥没リスクを根絶。伝統土木（粗朶暗渠・しがらき工・打音触診）の身体知と、高周波電磁波・弾性波による3D非破壊透視（デジタルツイン予防保全）を融合した現場直結の施工標準。</sub></p>
 </div>
+
+---
+
+<div align="center">
+  <a href="./docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md">
+    <img src="./docs/assets/SPEC_007_REGENERATION_PROTOCOL_03.jpg" width="100%" alt="ふれあいケアプラザ・せせらぎカフェ：保護犬セラピードッグと多世代交流・フィールド土木エンジニアが共生する緑道空間" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(100,220,120,0.25);" />
+  </a>
+  <p><b>🌿 【せせらぎ緑道・多世代ケアと動物共生の街づくり】<a href="./docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md">ふれあいケアプラザ・せせらぎカフェ ＆ 地域工務店・土木技術継承プロジェクト（SPEC-007 / SPEC-021）</a></b><br>
+  <sub>強靭なインフラとエッジコンピューティング・ノードを地下と緑道に調和させ、地上にはせせらぎの水音と木陰の歩行者空間を復権。保護犬・保護猫が「登録セラピーアニマル」として活躍し、コミュニティ・ナースや熟練・若手の土木技術者、多世代の住民が自然に集う、誰も独りにしない地域共生コモンズ。</sub></p>
+</div>
+
+---
 
 <div align="center">
   <a href="./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md">
