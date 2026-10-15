@@ -170,6 +170,8 @@ WIPO GREENおよびZenodo等の国際アーカイブ・標準化機関への展�
 ## 5. 【日本列島・特別監査】国内7大「計算租界（AIデータセンター＆半導体要塞）」と $GSI_{2.0}$ 臨界マトリクス
 ### Domestic Compute Enclave Audit: The 7 Critical Chokepoints of Japan's Power Grid, Water Veins, and Industrial Hollowing-Out
 
+![日本列島・特別監査](./assets/GLOBAL_ASI_HEGEMONY_MAP_V8.3_03.jpg)
+
 インドが厳格なデータ主権によって外資の無断収奪を拒絶する一方、日本列島は巨額の公的補助金と引き換えに地域の特別高圧送電網・工業用水道・土地を外資ハイパースケーラーおよび特定資本へ差し出す「計算租界（Compute Enclave）」の草刈り場となっている。
 
 ### 5.1 旧シャープ堺工場跡地にみる「産業空洞化とインフラ特権の居抜き乗っ取り」構造
