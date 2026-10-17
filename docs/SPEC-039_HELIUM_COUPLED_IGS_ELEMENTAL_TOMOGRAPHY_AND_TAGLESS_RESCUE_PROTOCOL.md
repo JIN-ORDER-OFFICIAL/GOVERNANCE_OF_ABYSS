@@ -8,7 +8,7 @@
 > **DOC-ID:** `JIN-SPEC-TOMO-039` / `SPEC-039`  
 > **CLASSIFICATION:** Non-Destructive Elemental Tomography / Tagless Deep-Rubble Rescue / Sub-Surface Civil Engineering Diagnostics / Planetary Resource Scanning  
 > **STATUS:** Ratified Canonical Specification (V12.2 Canonical Autumn LTS)  
-> **LICENSE:** [JIN-ORDER Dual License V8.4-A / V8.4-B (Tier A Commons / CC-BY-4.0 Applicable for Humanitarian Rescue & Public Infrastructure)](..LICENSE.md)  
+> **LICENSE:** [JIN-ORDER Dual License V8.4-A / V8.4-B (Tier A Commons / CC-BY-4.0 Applicable for Humanitarian Rescue & Public Infrastructure)](../LICENSE.md)  
 > **INTELLECTUAL SOVEREIGNTY:** General Incorporated Association JIN-ORDER (Chief Architects: Takashi Masano & Miyo Masano)
 
 ---
