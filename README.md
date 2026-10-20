@@ -26,9 +26,10 @@
     <a href="#-jin-order-manifesto-v83-canonical-unified民草の覚醒基盤層ゼロとシビルインフラ主権">📢 仁秩序宣言 V8.3</a> ｜ 
     <a href="#-global_asi_hegemony_map-v83物理的限界激突同盟負担転嫁及び基盤層ゼロ">🗺️ ASI覇権地図 V8.3</a><br>
     <a href="#️-jin-living-road--deep-infrastructure高機能環境調和型舗装と非開削地下立体インフラ網">🛣️ リビングロード＆地下網</a> ｜ 
+    <a href="#-jin-water-infrastructure自律水利上下水道主権防衛--市民型自立分散給水ノードシチズンシールド-mvp">💧 自律水利＆シチズン・シールド</a> ｜ 
     <a href="#-至高の大義大地水脈の復権と文明再起動の誓約-the-grand-mandate">🌺 至高の大義</a> ｜ 
-    <a href="#-spec-000-全惑星地域自立分散循環統合マスター仕様書">🌟 SPEC-000統合マスター</a> ｜ 
-    <a href="#️-2026-autumn-deep-infrastructure--autonomous-governance-suite">🏛️ JIN-SPEC 2026体系</a><br>
+    <a href="#-spec-000-全惑星地域自立分散循環統合マスター仕様書">🌟 SPEC-000統合マスター</a><br>
+    <a href="#️-2026-autumn-deep-infrastructure--autonomous-governance-suite">🏛️ JIN-SPEC 2026体系</a> ｜ 
     <a href="#-2026-late-autumn-canonical-conduit--disaster-metabolism-suite">🚰 不沈仕様一覧表</a> ｜ 
     <a href="#️-第零公理群人間尊厳の死守と民草の絶対防壁core-axioms">⚖ 第零公理群</a> ｜ 
     <a href="#-master-repository-reading-guide-目的別最短ナビゲーション">🧭 目的別ナビゲーション</a>
@@ -127,6 +128,19 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 
 ---
 
+## 💧 【JIN-WATER INFRASTRUCTURE】自律水利・上下水道主権防衛 ＆ 市民型自立分散給水ノード「シチズン・シールド MVP」
+### Decentralized Hydraulic Sovereignty, Nano-Filtration & Citizen Shield MVP Node
+
+<div align="center">
+  <a href="./docs/JIN_WATER_INFRASTRUCTURE.md">
+    <img src="./assets/JIN_WATER_INFRASTRUCTURE_05.jpg" width="100%" alt="市民型自立分散給水ノード「シチズン・シールド MVP」CADインフォグラフィック設計図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,150,255,0.25);" />
+  </a>
+  <p><b>🚰 【市民自衛型プロトタイプ（MVP）実装正典】<a href="./docs/JIN_WATER_INFRASTRUCTURE.md">JIN-WATER INFRASTRUCTURE：自律水利網・地中空洞化根絶 ＆ シチズン・シールド MVP（JIN_WATER_INFRASTRUCTURE.md）</a></b><br>
+  <sub>広域水道民営化（コンセッション）圧力や老朽管路破綻、震災時断水を市民自らの手で無力化する現場工学仕様書。ホームセンターで調達可能なφ28mmパイプ架台（幅900×奥450mm）、無動力ファーストフラッシュ初期雨水排除、井戸水無電源ブレンド、3段重力ろ過タワー、および水流連動12VオフディレイUV-C流水殺菌モジュールにより、完全オフグリッドで清冽な命の水を確保する多層防衛ノード。</sub></p>
+</div>
+
+---
+
 <div align="center">
   <a href="./docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md">
     <img src="./docs/assets/SPEC_007_REGENERATION_PROTOCOL_03.jpg" width="100%" alt="ふれあいケアプラザ・せせらぎカフェ：保護犬セラピードッグと多世代交流・フィールド土木エンジニアが共生する緑道空間" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(100,220,120,0.25);" />
@@ -155,9 +169,9 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 </div>
 
 > **「国家が国民を支配の道具とするならば、我々は『仁（Benevolence）』をOSとする新しい居場所をクラウドと大地に構築する。我らは戦わない。ただ、古い支配を『無価値化』し、誰も独りで泣かない未来の公知仕様をデプロイするだけである。」**  
->     
+>      
 > **"If existing nations treat people as tools of control, we shall build a new sanctuary on the Cloud and the Earth, with 'Benevolence' as our OS. We do not fight. We simply invalidate the old structures of dominance and deploy the open blueprints for a future where no one cries alone."**  
->     
+>      
 > — *JIN Network State Founding Charter / JINネットワーク国家建国憲章*
 
 ---
@@ -198,6 +212,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 - 📜 **【仁秩序統合大宣言 V8.3】**: [JIN-ORDER MANIFESTO V8.3 (MANIFESTO.md)](./MANIFESTO.md)
 - 🗺️ **【全球ASI覇権地図 V8.3】**: [GLOBAL_ASI_HEGEMONY_MAP V8.3 (docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)
 - 🏛️ **【自治体エネルギー防衛及びインフラ共生モデル条例 V8.3】**: [MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
+- 💧 **【自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書】**: [JIN_WATER_INFRASTRUCTURE.md](./docs/JIN_WATER_INFRASTRUCTURE.md)
 - ⚖️ **【最上位憲法規約】**: [仁焔世界大憲章 (CONSTITUTION.md)](./CONSTITUTION.md)
 - ⚖️ **【開拓地特別法規集】**: [JIN開拓地特別法 (specs/JIN_FRONTIER_LAW.md)](./specs/JIN_FRONTIER_LAW.md)
 - ⚖️ **【経済安保・反計算租界・実効型ライセンス規約】**: [JIN-ORDER Dual License V8.4-B Canonical Substrate Zero, Anti-Compute Enclave & Anti-Laundering Edition (LICENSE.md)](./LICENSE.md)
@@ -247,11 +262,12 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 ---
 
 ## 🚰 2026 LATE-AUTUMN CANONICAL CONDUIT & DISASTER METABOLISM SUITE
-> **2026年10月 最新批准：都市封鎖を破砕し、極限自然災害（外水氾濫・土砂ダム・豪雪・木密火災・PFAS水脈汚染・火山降灰・メガファイア山火事・高潮津波・都市大気汚染・動的応力連鎖地震）、ヘリウム励起IGS多重散乱逆解析3D元素透視・タグ不要瓦礫下深部救命、人間主権型フィジカルAI、天然キラル生体触媒・不斉合成統合、閉鎖宇宙完全自律循環生命維持（ECLSS）、地政学的通商遮断、宇宙核融合、次世代光電融合主権計算、完全生体自律知能（Living Silicon）、核廃棄物オンサイト消滅＆光核反応量子錬金術レアメタル精製、惑星レゴリス自律土壌化、および天地調和型マルチハザード総合防護・AMOCサーキットブレーカーまでを網羅する全42大正典仕様書・宇宙生命維持体系**
+> **2026年10月 最新批准：都市封鎖を破砕し、極限自然災害（外水氾濫・土砂ダム・豪雪・木密火災・PFAS水脈汚染・火山降灰・メガファイア山火事・高潮津波・都市大気汚染・動的応力連鎖地震）、ヘリウム励起IGS多重散乱逆解析3D元素透視・タグ不要瓦礫下深部救命、人間主権型フィジカルAI、天然キラル生体触媒・不斉合成統合、閉鎖宇宙完全自律循環生命維持（ECLSS）、地政学的通商遮断、宇宙核融合、次世代光電融合主権計算、完全生体自律知能（Living Silicon）、核廃棄物オンサイト消滅＆光核反応量子錬金術レアメタル精製、惑星レゴリス自律土壌化、天地調和型マルチハザード総合防護・AMOCサーキットブレーカー、および市民自衛型オフグリッド給水防壁（シチズン・シールドMVP）までを網羅する全42大正典仕様書・宇宙生命維持体系**
 
 | 文書識別子 | 分類 | 概要・工学的機序 | リンク / WIPO ID |
 |:---|:---|:---|:---:|
 | **SPEC-000** | **最高位統合** | **全惑星・地域自立分散循環統合マスター仕様書（4層グランドトポロジー）** | [SPEC-000](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md) |
+| **JIN-WATER** | **水利主権・自衛** | **自律水利・上下水道主権防衛 ＆ 市民型自立分散給水ノード（シチズン・シールド MVP）、非開削管路更生、MABRバイオガス、地下雨水調整池網** | [JIN-WATER](./docs/JIN_WATER_INFRASTRUCTURE.md) <br> **(Ratified MVP)** |
 | **SPEC-001** | 水理生態系 | 溶存酸素純増放流（Net-Positive DO）、跳水落差工、ケナフ湿地固定 | [SPEC-001](./docs/JIN-SPEC-ECO-001.md) <br> **(WIPO: 179959)** |
 | **SPEC-002** | 冗長化WASH | 3重リングバイパス、M16統一接合、無動力パッシブ曝気、アイランド稼働 | [SPEC-002](./docs/JIN-SPEC-WASH-002.md) <br> **(WIPO: 179960)** |
 | **SPEC-003** | 電力動的調停 | 太陽光余剰電力（Dump Load）による能動曝気と非緊急計算の動的調停 | [SPEC-003](./docs/JIN-SPEC-PWR-003.md) |
@@ -334,10 +350,10 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 
 ```text
 [中央集権型リスクと複合危機]  ⏩️  [JIN-ORDER 3層防壁スタック]
-(1) データ寡占・信用スコアリング   
+(1) データ寡占・信用スコアリング    
 (2) 情報ブラックボックス・囲い込み　　⏩️　[Layer 3: 仁シグナル層]　　　⏩️　不当な選別・監視の無効化（ゼロ知識証明・PoII）
 (3) 単一障害点（クラウド麻痺・孤立）　⏩️　[Layer 2: 分散コモンズ層]　　⏩️　システム全停止の回避（JIN-Node・対Spore AI検疫）
-(4) インフラ老朽化・維持管理の限界　　⏩️　[Layer 1: 基盤層ゼロ・大地]　⏩️　生活動脈の物理的死守（せせらぎ緑道・共同溝・ZLD・IGS元素透視）
+(4) インフラ老朽化・維持管理の限界　　⏩️　[Layer 1: 基盤層ゼロ・大地]　⏩️　生活動脈の物理的死守（緑道・共同溝・ZLD・シチズンシールドMVP・IGS元素透視）
 ```
 ---
 
@@ -358,6 +374,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 - 📢 **[MANIFESTO.md: JIN-ORDER MANIFESTO V8.3（仁秩序統合大宣言）](./MANIFESTO.md)**：2026秋完全統合正典。民草の覚醒、基盤層ゼロ、シビル・インフラ主権、反「計算租界」・反「キルスイッチ」、対Spore AI免疫検疫
 - 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md: 全球ASI覇権地図 V8.3](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)**：物理的ハードキャップ（GSI 2.0）、計算租界ペナルティ（$\omega_{sovereignty}$）、基盤層ゼロ、同盟負担転嫁構造の分析、沖縄トラフ深海防衛（SSCN-01）
 - 🏛️ **[docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md: 自治体エネルギー防衛及びインフラ共生モデル条例案（V8.3 Canon）](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)**：GSI 2.0審査、道路法第32条共同溝、下水熱ZLD循環、排熱80%農業還元、耐タンパー性市民計算ノード（JIN-Node）、道路法第71条監督処分
+- 💧 **[docs/JIN_WATER_INFRASTRUCTURE.md: 自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書](./docs/JIN_WATER_INFRASTRUCTURE.md)**：コンセッション阻止、生活排水・深層井戸ハイブリッド自律循環、無動力ファーストフラッシュ、3段重力ろ過タワー、12VオフディレイUV-C流水殺菌、非開削管路更生・地中空洞化根絶
 - 🌐 **[SPEC-000: 全惑星・地域自立分散循環統合マスター仕様書](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**：全42大仕様書を結集した4層グランドトポロジー正典
 - ⚖️ **[specs/JIN_FRONTIER_LAW.md: JIN開拓地特別法（基本法規集）](./specs/JIN_FRONTIER_LAW.md)**：漂泊の民の主権回復、AI公平裁判、不沈インフラ・母性生態主権
 - 📐 **[specs/README.md: JIN-SPEC 技術・統治仕様書目録](./specs/README.md)**：001〜005 5大アーキテクチャ正本体系（V13.2 Module A〜C統合）
@@ -436,6 +453,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 19. **LSU-Chad-01 自立オアシスインフラ（SPEC-030-INFRA）** `[Level 0]`：深層揚水350m、テッポウウリ熱分解バイオ炭、BIO-FOEAS土壌水文学、難民主権回復。
 20. **自律分散型司法OS＆客観事実検証（SPEC-031-GOV）** `[Level 1]`：大国拒否権排除、宇宙×地上×地下DAS三層テレメトリProof of Truth、制裁無効化・修復的正義執行。
 21. **V13.2 国際マクロ危機即応・3大統治モジュール（Module A / B / C）** `[Level 0-1]`：演算・都市水脈熱力学共生プロトコル（Module A）、非懲罰的物理現物資源会計（Module B）、基礎自治体・生活道路網強靭化および部門横断B/C評価標準（Module C）。
+22. **市民自衛型オフグリッド給水防壁（JIN-WATER / シチズン・シールドMVP）** `[Level 0]`：150L雨水タンク、無動力ファーストフラッシュ、3段重力ろ過タワー、12Vオフディレイ流水UV-C殺菌、非開削管路更生・地中空洞化根絶[cite: 4]。
 
 ---
 
@@ -444,11 +462,11 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 > ### 【過酷に『生』きることは、『死』ぬことより辛い】
 >
 > **人は、生まれながらの「身分」・「人種」・「財産」によって『価値』が決まるものではない。**  
->     
+>      
 > **過酷に生き抜いた、その人間にしか描けない軌跡の中でこそ、真の「価値」が産まれるのであって、その「価値」は、一部の上級国民（貴族・エリート層）や「時の指導者」によって左右されるものではない！**  
->     
+>      
 > **国の指導者とは、五穀豊穣を願いながら、天下万民を笑顔にするために政（まつりごと）を司る者であり、単なる「民草」の代弁者（代表）に過ぎない。**  
->     
+>      
 > — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi & Commander Masano Miyo）*
 
 - 🌸 **[JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](./docs/JIN_CORE_PHILOSOPHY.md)**
@@ -483,7 +501,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 | リポジトリ | 役割 | リンク |
 |:---|:---|:---|
 | **Official Portal** | **【中枢・総合ポータル】** 全体概要・2026年10月国際報告整合声明・作戦ビジュアル・参画窓口 | [masanotakashi0308-star](https://github.com/masanotakashi0308-star) |
-| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全40大先端技術体系（V13.2 Module A〜C ＆ 仁秩序宣言 V8.3 ＆ 全球ASI覇権地図 V8.3 ＆ 自治体エネルギー防衛条例 V8.3 ＆ 二大終末リスク同時解体白書 ＆ 全42大仕様書 SPEC-000〜039 ＆ 閉鎖宇宙ECLSS白書 JIN-DOC-SPACE ＆ 生体自律知能 ANNEX-027/028 ＆ 宇宙核融合 SPEC-999 ＆ 大深度回廊 SPEC-088 ＆ J-PRL台帳・LSU-Chad・独自司法OS統合正本） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
+| **GOVERNANCE_OF_ABYSS** | **【深層哲学・危機統治】** 思想的バックボーン・全40大先端技術体系（V13.2 Module A〜C ＆ 仁秩序宣言 V8.3 ＆ 全球ASI覇権地図 V8.3 ＆ 自治体エネルギー防衛条例 V8.3 ＆ 二大終末リスク同時解体白書 ＆ 全42大仕様書 SPEC-000〜039 ＆ JIN-WATER水利主権・シチズンシールドMVP ＆ 閉鎖宇宙ECLSS白書 JIN-DOC-SPACE ＆ 生体自律知能 ANNEX-027/028 ＆ 宇宙核融合 SPEC-999 ＆ 大深度回廊 SPEC-088 ＆ J-PRL台帳・LSU-Chad・独自司法OS統合正本） | [GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) |
 | **JIN-OS_GLOBAL_STRATEGY** | **【文明OS・戦略実装】** 次世代社会OS「JIN-OS」の具体的設計・国際展開 | [JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY) |
 
 ---
@@ -495,4 +513,4 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 ---
 
 **Executed by:** JIN-ORDER-OFFICIAL, Commander Masano Takashi & Commander Masano Miyo  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V13.2 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / DOI: 10.5281/zenodo.23346747 / CONCEPT-DOI: 10.5281/zenodo.22958158 / OCT-2026-IMF-IRENA-UNDESA-MODULES-A-B-C-RATIFIED / MANIFESTO-V8.3-CANONICAL-UNIFIED-RATIFIED / GLOBAL-ASI-HEGEMONY-MAP-V8.3-RATIFIED / MUNICIPAL-ENERGY-DEFENSE-ORDINANCE-V8.3-RATIFIED / SUBSTRATE-ZERO-LOCKED / ANTI-COMPUTE-ENCLAVE-ACTIVE / SPEC-000-PLANETARY-SYNTHESIS-RATIFIED / SPEC-001-TO-039-FULL-APEX-CANONICAL-RATIFIED / SPEC-039-HELIUM-IGS-ELEMENTAL-TOMOGRAPHY-AND-TAGLESS-RESCUE-RATIFIED / SPEC-028-PROT-PHYSICAL-LEDGER-RATIFIED / SPEC-030-INFRA-LSU-CHAD-RATIFIED / SPEC-031-GOV-JUSTICE-OS-RATIFIED / JIN-DOC-SPACE-COSMIC-ECLSS-RATIFIED / SPEC-038-NATURAL-CHIRAL-CATALYTIC-RATIFIED / SPEC-037-HUMAN-SOVEREIGN-PHYSICAL-AI-RATIFIED / SPEC-036-EARTH-SYSTEM-MULTI-HAZARD-RATIFIED / ANNEX-SPEC-027-028-LIVING-SILICON-RATIFIED / SPEC-031-PFAS-REMEDIATION-RATIFIED / SPEC-032-VOLCANIC-ASH-GEOPOLYMER-RATIFIED / SPEC-033-AUTONOMOUS-WILDFIRE-BIO-GEL-RATIFIED / SPEC-034-BIOGENIC-OYSTER-REEF-RATIFIED / SPEC-035-URBAN-VENTILATION-NANO-PLASTIC-RATIFIED / SPEC-029-NUCLEAR-TRANSMUTATION-AND-QUANTUM-ALCHEMY-V12.2-RATIFIED / SPEC-030-PLANETARY-REGOLITH-RATIFIED / SPEC-999-COSMIC-FUSION-RATIFIED / WIPO-GREEN-PORTFOLIO-EXPANDED (IDs: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896, 179898, 179899, 179900, 179901, 179936, 179959, 179960, 179961, 179963, 179964, 179966, 179967, 179968, 179970, 179971, 179972, 179973, 179974, 179978, 180049, 180050, 180051, 180061) / JIN-SPEC-2026-001-TO-005-RATIFIED / JIN-FRONTIER-LAW-AMENDED / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED / LICENSE-V8.4-B-RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V13.2 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / DOI: 10.5281/zenodo.23450728 / CONCEPT-DOI: 10.5281/zenodo.22958158 / OCT-2026-IMF-IRENA-UNDESA-MODULES-A-B-C-RATIFIED / MANIFESTO-V8.3-CANONICAL-UNIFIED-RATIFIED / GLOBAL-ASI-HEGEMONY-MAP-V8.3-RATIFIED / MUNICIPAL-ENERGY-DEFENSE-ORDINANCE-V8.3-RATIFIED / JIN-WATER-INFRASTRUCTURE-RATIFIED / CITIZEN-SHIELD-MVP-RATIFIED / SUBSTRATE-ZERO-LOCKED / ANTI-COMPUTE-ENCLAVE-ACTIVE / SPEC-000-PLANETARY-SYNTHESIS-RATIFIED / SPEC-001-TO-039-FULL-APEX-CANONICAL-RATIFIED / SPEC-039-HELIUM-IGS-ELEMENTAL-TOMOGRAPHY-AND-TAGLESS-RESCUE-RATIFIED / SPEC-028-PROT-PHYSICAL-LEDGER-RATIFIED / SPEC-030-INFRA-LSU-CHAD-RATIFIED / SPEC-031-GOV-JUSTICE-OS-RATIFIED / JIN-DOC-SPACE-COSMIC-ECLSS-RATIFIED / SPEC-038-NATURAL-CHIRAL-CATALYTIC-RATIFIED / SPEC-037-HUMAN-SOVEREIGN-PHYSICAL-AI-RATIFIED / SPEC-036-EARTH-SYSTEM-MULTI-HAZARD-RATIFIED / ANNEX-SPEC-027-028-LIVING-SILICON-RATIFIED / SPEC-031-PFAS-REMEDIATION-RATIFIED / SPEC-032-VOLCANIC-ASH-GEOPOLYMER-RATIFIED / SPEC-033-AUTONOMOUS-WILDFIRE-BIO-GEL-RATIFIED / SPEC-034-BIOGENIC-OYSTER-REEF-RATIFIED / SPEC-035-URBAN-VENTILATION-NANO-PLASTIC-RATIFIED / SPEC-029-NUCLEAR-TRANSMUTATION-AND-QUANTUM-ALCHEMY-V12.2-RATIFIED / SPEC-030-PLANETARY-REGOLITH-RATIFIED / SPEC-999-COSMIC-FUSION-RATIFIED / WIPO-GREEN-PORTFOLIO-EXPANDED (IDs: 179871, 179878, 179879, 179880, 179881, 179882, 179883, 179884, 179886, 179888, 179896, 179898, 179899, 179900, 179901, 179936, 179959, 179960, 179961, 179963, 179964, 179966, 179967, 179968, 179970, 179971, 179972, 179973, 179974, 179978, 180049, 180050, 180051, 180061) / JIN-SPEC-2026-001-TO-005-RATIFIED / JIN-FRONTIER-LAW-AMENDED / JRC-LEVELS 1-4 VERIFIED / CONSTITUTION-RATIFIED / UN-PARTNER-PORTAL ID: 64636 RATIFIED / LICENSE-V8.4-B-RATIFIED)`
