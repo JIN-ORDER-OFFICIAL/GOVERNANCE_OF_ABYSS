@@ -212,7 +212,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 - 📜 **【仁秩序統合大宣言 V8.3】**: [JIN-ORDER MANIFESTO V8.3 (MANIFESTO.md)](./MANIFESTO.md)
 - 🗺️ **【全球ASI覇権地図 V8.3】**: [GLOBAL_ASI_HEGEMONY_MAP V8.3 (docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)
 - 🏛️ **【自治体エネルギー防衛及びインフラ共生モデル条例 V8.3】**: [MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)
-- 💧 **【自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書】**: [JIN_WATER_INFRASTRUCTURE.md](./docs/JIN_WATER_INFRASTRUCTURE.md)
+- 💧 **【自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書】**: [JIN_WATER_INFRASTRUCTURE.md](./JIN_WATER_INFRASTRUCTURE.md)
 - ⚖️ **【最上位憲法規約】**: [仁焔世界大憲章 (CONSTITUTION.md)](./CONSTITUTION.md)
 - ⚖️ **【開拓地特別法規集】**: [JIN開拓地特別法 (specs/JIN_FRONTIER_LAW.md)](./specs/JIN_FRONTIER_LAW.md)
 - ⚖️ **【経済安保・反計算租界・実効型ライセンス規約】**: [JIN-ORDER Dual License V8.4-B Canonical Substrate Zero, Anti-Compute Enclave & Anti-Laundering Edition (LICENSE.md)](./LICENSE.md)
