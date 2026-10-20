@@ -135,7 +135,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
   <a href="./docs/JIN_WATER_INFRASTRUCTURE.md">
     <img src="./assets/JIN_WATER_INFRASTRUCTURE_05.jpg" width="100%" alt="市民型自立分散給水ノード「シチズン・シールド MVP」CADインフォグラフィック設計図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,150,255,0.25);" />
   </a>
-  <p><b>🚰 【市民自衛型プロトタイプ（MVP）実装正典】<a href="./docs/JIN_WATER_INFRASTRUCTURE.md">JIN-WATER INFRASTRUCTURE：自律水利網・地中空洞化根絶 ＆ シチズン・シールド MVP（JIN_WATER_INFRASTRUCTURE.md）</a></b><br>
+  <p><b>🚰 【市民自衛型プロトタイプ（MVP）実装正典】<a href="./JIN_WATER_INFRASTRUCTURE.md">JIN-WATER INFRASTRUCTURE：自律水利網・地中空洞化根絶 ＆ シチズン・シールド MVP（JIN_WATER_INFRASTRUCTURE.md）</a></b><br>
   <sub>広域水道民営化（コンセッション）圧力や老朽管路破綻、震災時断水を市民自らの手で無力化する現場工学仕様書。ホームセンターで調達可能なφ28mmパイプ架台（幅900×奥450mm）、無動力ファーストフラッシュ初期雨水排除、井戸水無電源ブレンド、3段重力ろ過タワー、および水流連動12VオフディレイUV-C流水殺菌モジュールにより、完全オフグリッドで清冽な命の水を確保する多層防衛ノード。</sub></p>
 </div>
 
