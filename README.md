@@ -267,7 +267,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 | 文書識別子 | 分類 | 概要・工学的機序 | リンク / WIPO ID |
 |:---|:---|:---|:---:|
 | **SPEC-000** | **最高位統合** | **全惑星・地域自立分散循環統合マスター仕様書（4層グランドトポロジー）** | [SPEC-000](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md) |
-| **JIN-WATER** | **水利主権・自衛** | **自律水利・上下水道主権防衛 ＆ 市民型自立分散給水ノード（シチズン・シールド MVP）、非開削管路更生、MABRバイオガス、地下雨水調整池網** | [JIN-WATER](./docs/JIN_WATER_INFRASTRUCTURE.md) <br> **(Ratified MVP)** |
+| **JIN-WATER** | **水利主権・自衛** | **自律水利・上下水道主権防衛 ＆ 市民型自立分散給水ノード（シチズン・シールド MVP）、非開削管路更生、MABRバイオガス、地下雨水調整池網** | [JIN-WATER](./JIN_WATER_INFRASTRUCTURE.md) <br> **(Ratified MVP)** |
 | **SPEC-001** | 水理生態系 | 溶存酸素純増放流（Net-Positive DO）、跳水落差工、ケナフ湿地固定 | [SPEC-001](./docs/JIN-SPEC-ECO-001.md) <br> **(WIPO: 179959)** |
 | **SPEC-002** | 冗長化WASH | 3重リングバイパス、M16統一接合、無動力パッシブ曝気、アイランド稼働 | [SPEC-002](./docs/JIN-SPEC-WASH-002.md) <br> **(WIPO: 179960)** |
 | **SPEC-003** | 電力動的調停 | 太陽光余剰電力（Dump Load）による能動曝気と非緊急計算の動的調停 | [SPEC-003](./docs/JIN-SPEC-PWR-003.md) |
