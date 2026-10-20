@@ -374,7 +374,7 @@ The mid-October 2026 global reports issued by the **IMF** (*"The World Can't Aff
 - 📢 **[MANIFESTO.md: JIN-ORDER MANIFESTO V8.3（仁秩序統合大宣言）](./MANIFESTO.md)**：2026秋完全統合正典。民草の覚醒、基盤層ゼロ、シビル・インフラ主権、反「計算租界」・反「キルスイッチ」、対Spore AI免疫検疫
 - 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md: 全球ASI覇権地図 V8.3](./docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)**：物理的ハードキャップ（GSI 2.0）、計算租界ペナルティ（$\omega_{sovereignty}$）、基盤層ゼロ、同盟負担転嫁構造の分析、沖縄トラフ深海防衛（SSCN-01）
 - 🏛️ **[docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md: 自治体エネルギー防衛及びインフラ共生モデル条例案（V8.3 Canon）](./docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)**：GSI 2.0審査、道路法第32条共同溝、下水熱ZLD循環、排熱80%農業還元、耐タンパー性市民計算ノード（JIN-Node）、道路法第71条監督処分
-- 💧 **[docs/JIN_WATER_INFRASTRUCTURE.md: 自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書](./docs/JIN_WATER_INFRASTRUCTURE.md)**：コンセッション阻止、生活排水・深層井戸ハイブリッド自律循環、無動力ファーストフラッシュ、3段重力ろ過タワー、12VオフディレイUV-C流水殺菌、非開削管路更生・地中空洞化根絶
+- 💧 **[JIN_WATER_INFRASTRUCTURE.md: 自律水利・上下水道主権防衛 ＆ シチズン・シールドMVP仕様書](./JIN_WATER_INFRASTRUCTURE.md)**：コンセッション阻止、生活排水・深層井戸ハイブリッド自律循環、無動力ファーストフラッシュ、3段重力ろ過タワー、12VオフディレイUV-C流水殺菌、非開削管路更生・地中空洞化根絶
 - 🌐 **[SPEC-000: 全惑星・地域自立分散循環統合マスター仕様書](./docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**：全42大仕様書を結集した4層グランドトポロジー正典
 - ⚖️ **[specs/JIN_FRONTIER_LAW.md: JIN開拓地特別法（基本法規集）](./specs/JIN_FRONTIER_LAW.md)**：漂泊の民の主権回復、AI公平裁判、不沈インフラ・母性生態主権
 - 📐 **[specs/README.md: JIN-SPEC 技術・統治仕様書目録](./specs/README.md)**：001〜005 5大アーキテクチャ正本体系（V13.2 Module A〜C統合）
