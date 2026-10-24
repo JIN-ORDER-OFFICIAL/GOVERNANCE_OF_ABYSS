@@ -14,7 +14,7 @@
 > **DOC-ID:** `JIN-SPEC-ANNEX-2026-HW01 (Rev. 2026.10 LTS-V12.4 Canonical Living Edition)`<br>
 > **Wayback Machine**: [2026-10-06 確定公知タイムスタンプ](https://web.archive.org/web/20261006040623/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)<br>
 > **Archive.today**: [2026-10-06 独立魚拓確定版 (ID:JR6JC)](https://archive.li/JR6JC)<br>
-> **ASSOCIATED SPECS:** `SPEC-027 (Neuromorphic Conduit)` / `SPEC-028 (Bio-Isothermal CPO)` / `SPEC-999 (Cosmic He-3 Fusion)` / `SPEC-CCNP-088 (Deep Infra)`<br> 
+> **ASSOCIATED SPECS:** [SPEC-027 (Neuromorphic Conduit)](./SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md) / [SPEC-028 (Bio-Isothermal CPO)](./SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md) / [SPEC-999 (Cosmic He-3 Fusion)](./SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md) / [SPEC-CCNP-088 (Deep Infra)](./SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)<br> 
 > **CLASSIFICATION:** Living Silicon Organ-System / Optogenetic Photonic Synapse / Spatial Dataflow Autonomic Fabric (Electron E1) / Zero-PFAS Ejector Cooling / Circuit Autophagy Immune System / Glymphatic Sleep Washout / Wafer-Scale MRAM-LPU / Passive Butler Matrix<br>  
 > **LICENSE:** JIN-ORDER Dual License V8.4-A (Tier A Commons / CC-BY-4.0 Applicable)<br>  
 > **INTELLECTUAL SOVEREIGNTY:** General Incorporated Association JIN-ORDER (Chief Architects: Takashi Masano & Miyo Masano)
