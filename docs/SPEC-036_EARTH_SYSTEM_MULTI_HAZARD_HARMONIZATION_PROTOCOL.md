@@ -288,7 +288,7 @@ $$\Delta CFS_{total}(t) = G_{rally}(\theta) \cdot \Delta \tau_{dyn}(t) + \Delta 
 ### 5.2. ヘリウム結合IGS多重散乱逆解析とMTF/光核変換エネルギー吸収式
 `SPEC-039` におけるヘリウム励起共鳴下での地下3D元素・逆圧電歪み分布 $\rho(\mathbf{r})$ は、マルチスタティックUWBアレイが計測する散乱場グリーン関数 $\overline{G}(\mathbf{r}_1, \mathbf{r}_2, t)$ の逆問題解として1秒以内に一意に特定される：
 
-$$\rho(\mathbf{r}) = \lim_{t \to 0} \left\{ \text{Tr} \left[ \overline{G}(\mathbf{r}_1, \mathbf{r}_2, t) \right] \right\}$$
+$$\rho(\mathbf{r}) = \lim_{t \to 0} \operatorname{Tr} \left[ \overline{G}(\mathbf{r}_1, \mathbf{r}_2, t) \right]$$
 
 特定された逆圧電サージおよび地殻圧縮エネルギーは、`SPEC-999`（LM26派生MTF）および `SPEC-029` の超伝導直接誘導ピックアップコイルによって吸収され、$\text{D-}{}^3\text{He}$ 磁気標的断熱圧縮（$1.2\text{ keV} \to 10\text{ keV}$）および直接誘導発電電力 $P_{ind}(t)$ へと変換される：
 
