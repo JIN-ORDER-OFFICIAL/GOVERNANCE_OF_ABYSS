@@ -92,9 +92,11 @@
 ## 3. レイヤー別 詳細実装プロトコル
 
 ### 3.1. Layer 1: 超深海・地殻鍼灸 ＆ 逆圧電サージ核変換プロトコル（JIN-OAM × SPEC-029 × LM26-MTF）
-- **参照仕様:** [`TECHNOLOGY_CATALOG.md (Item 15)`](../TECHNOLOGY_CATALOG.md), [`docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md`](SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md), [`docs/SPEC-029_TRANSMUTATION_CORE_QUANTUM_ALCHEMY.md`](SPEC-029_TRANSMUTATION_CORE_QUANTUM_ALCHEMY.md)
+- **参照仕様:**
+[TECHNOLOGY_CATALOG.md (Item 15)](../TECHNOLOGY_CATALOG.md), [docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md](./SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md), [docs/SPEC-029_TRANSMUTATION_CORE_QUANTUM_ALCHEMY.md](./SPEC-029_TRANSMUTATION_CORE_QUANTUM_ALCHEMY.md)
 - **設置環境:** 日本海溝・沈み込み帯プレート境界（水深 5,000m〜8,000m アビサル斜面）および陸上重要断層ボアホール（深度 3,000m〜5,000m）
 - **物理・工学的メカニズム:**
+
   1. **地球ニュートリノ（Geo-Neutrino）深部透視とコア・ダイナモ監視:**  
      宇宙線バックグラウンドが極小となる超深海アビサル環境（高水圧遮蔽水域）を天然の水チェレンコフ光検出マトリクスとして利用。マントルトモグラフィと連動し、プルーム熱移送および内核・外核の流体移動に伴う地球磁場減衰をリアルタイムで直接センシングする。
   
@@ -110,7 +112,7 @@
      深海・深孔ボーリングケーシングを通じ、アスペリティ固着面へ37℃生体等温の超純水（量子浄化水）をマイクロインジェクションする。この際、ニコラ・テスラの369トーラス倍音数列および432Hz基底（数字根 $4+3+2=9$）の調和流体パルスを印加することで、石英結晶の不協和な脆性破断（M8〜9クラス）を鎮静化し、無害なM1〜2クラスの微小地震群およびスロースリップ（非破壊すべり）へと段階置換する。
 
 ### 3.2. Layer 2: 海洋気候冷却 ＆ 生態系防波プロトコル
-- **参照仕様:** [`docs/SPEC-CLI-001_UNMANNED_YACHT_MARINE_CLOUD_BRIGHTENING.md`](SPEC-CLI-001_UNMANNED_YACHT_MARINE_CLOUD_BRIGHTENING.md), [`docs/SPEC-MAR-034_BIOGENIC_OYSTER_BREAKWATERS_HARMONIZATION.md`](SPEC-MAR-034_BIOGENIC_OYSTER_BREAKWATERS_HARMONIZATION.md)
+- **参照仕様:** [specs/JIN-SPEC-CLI-001.md](../specs/JIN-SPEC-CLI-001.md), [docs/SPEC-034_LIVING_BREAKWATERS_OYSTER_REEF_PROTOCOL.md](./SPEC-034_LIVING_BREAKWATERS_OYSTER_REEF_PROTOCOL.md)
 - **物理・工学的メカニズム:**
   1. **海洋雲増白（MCB）によるエルニーニョ連鎖遮断:**  
      深部地熱移動に伴い海面水温アノマリー（局所昇温）が発生した海域へ、炭素複合材無人ヨット群が自律展開。超微細海水スプレーを噴射して低層雲を形成し、太陽放射フラックスを反射・遮断。エルニーニョ現象（暖水プールの東進）の成長を海洋上で直接制圧する。
