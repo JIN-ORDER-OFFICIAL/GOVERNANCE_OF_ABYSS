@@ -74,6 +74,8 @@ DOC-ID: docs/SPEC-033_AUTONOMOUS_WILDFIRE_SHIELD_BIO_CORRIDOR_PROTOCOL.md
 ## Layer 1: 衛星コンステレーション（ギリシャ型小型衛星群）＆ MP-PAWR 超早期熱源・乾燥度予測層
 ### 火災の発生および延焼方向を、宇宙からの熱赤外線モニタリングと地上レーダーのクロス解析で完全捕捉する。
 
+![EnMAP超早期熱源](./assets/Overview_Deployment_01.jpg)
+
 ### 宇宙衛星リアルタイム・ホットスポット検知:
 - ギリシャ等の先進国家が導入する高分解能熱赤外線（TIR）小型衛星群およびドイツのEnMAP衛星分光観測を連携させ、煙が上がる前の地表の微小な温度異常（ホットスポット）や樹木の水分ストレス（乾燥度）を宇宙から常時監視。
 
@@ -144,6 +146,8 @@ DOC-ID: docs/SPEC-033_AUTONOMOUS_WILDFIRE_SHIELD_BIO_CORRIDOR_PROTOCOL.md
 ---
 
 ## 🌊 3. 海洋人工雲生成（MCB）によるマクロ気候調停・森林湿潤化連成（Layer 6）
+
+![海洋人工雲生成](./assets/JIN-SPEC-CLI-001_01.jpg)
 
 ### 3.1 海洋アノマリーの特定と自律ヨット展開
 ドイツの地球観測衛星「EnMAP」および先進小型衛星コンステレーションが太平洋・地中海等の海面水温アノマリー（高温域）および大気水蒸気プリームを宇宙から分光監視。<br>
