@@ -47,7 +47,7 @@
     - [ID: 179900 (SPEC-025 豪雪下水熱無散水消雪)](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
     - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901)
   
-  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.23758251](https://doi.org/10.5281/zenodo.23758251) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
+  - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.24044425](https://doi.org/10.5281/zenodo.24044425) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
   - **Archive.today**: [2026-10-29 独立魚拓確定版 (ID:CUlgx)](https://archive.li/CUlgx)
   - **Wayback Machine**: [2026-10-29 確定公知タイムスタンプ](https://web.archive.org/web/20261029120921/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
   - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
