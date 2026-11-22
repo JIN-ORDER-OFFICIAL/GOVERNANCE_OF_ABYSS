@@ -49,8 +49,8 @@
     - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901)
   
 - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.24423495](https://doi.org/10.5281/zenodo.24423495) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
-- **Archive.today**: [2026-10-29 独立魚拓確定版 (ID:CUlgx)](https://archive.li/CUlgx)
-- **Wayback Machine**: [2026-10-29 確定公知タイムスタンプ](https://web.archive.org/web/20261029120921/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
+- **Archive.today**: [2026-11-22 独立魚拓確定版 (ID:05Sa0)](https://archive.li/05Sa0)
+- **Wayback Machine**: [2026-11-22 確定公知タイムスタンプ](https://web.archive.org/web/20261122005257/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
   
 ![次世代インフラストラクチャ](./assets/TECHNOLOGY_CATALOG_01.jpg)
