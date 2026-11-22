@@ -4,8 +4,8 @@
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24423495.svg)](https://doi.org/10.5281/zenodo.24423495)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
-[![Archive.today](https://img.shields.io/badge/Archive.today-af5Hu-success?logo=archive.today)](https://archive.li/af5Hu)
-[![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
+[![Archive.today](https://img.shields.io/badge/Archive.today-KImB7-success?logo=archive.today)](https://archive.li/KImB7)
+[![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://web.archive.org/web/20261122002659/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(34%20Technologies)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)
 [![Corporate Number](https://img.shields.io/badge/Japan%20Corporate%20No.-7020005017485-0b3d91)](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=7020005017485)
 
@@ -13,8 +13,8 @@
 - **公的法人格（日本国法務省・国税庁）**: **一般社団法人JIN-ORDER（General Incorporated Association JIN-ORDER）** — 2026年11月5日 設立登記申請受理 ／ **2026年11月20日 横浜地方法務局 設立登記完了・国税庁 法人番号公表済（法人番号：`7020005017485` ／ 本店：神奈川県横浜市神奈川区西寺尾2丁目7番7号）**
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (全34技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968 / 179970 / 179971 / 179972 / 179973 / 179974 / 179978 / 180049 / 180050 / 180051 / 180061 ＋ SPEC-040 ＆ SPEC-039 Prior Art ＆ SPEC-036 V2.0 ＆ SPEC-033 V12.3 統合)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.24423495](https://doi.org/10.5281/zenodo.24423495) / Master Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
-- **Wayback Machine**: [2026-10-29 確定公知タイムスタンプ](https://web.archive.org/web/20261029115146/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
-- **Archive.today**: [2026-10-29 独立魚拓確定版 (ID:af5Hu)](https://archive.li/af5Hu)
+- **Wayback Machine**: [2026-11-22 確定公知タイムスタンプ](https://web.archive.org/web/20261122002659/https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)
+- **Archive.today**: [2026-11-22 独立魚拓確定版 (ID:KImB7)](https://archive.li/KImB7)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ---
