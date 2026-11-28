@@ -13,40 +13,40 @@
   - **WIPO GREEN (国連世界知的所有権機関 - 全34先端技術登録・確定済 ＋ SPEC-040 / SPEC-039 / SPEC-036 V2.0 / SPEC-033 V12.3 統合ポートフォリオ)**: 
     - **[SPEC-040 (暗所・菌類共生型 閉鎖生態系アーキテクチャ / Myco-Heterotrophic Dark-Layer Architecture / Prior Art Ratified)](./docs/SPEC-040_MYCO_HETEROTROPHIC_DARK_LAYER.md)**
     - **[SPEC-039 (ヘリウム励起・微量元素相互作用 ＆ IGS多重散乱逆解析3D元素組成スキャナー・タグ不要深部救命仕様書 / Prior Art Ratified)](./docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md)**
-    - **[ID: 180061 (JIN-DOC-2026-SPACE 閉鎖宇宙循環生命維持ECLSS＆ハビタットアーキテクチャ)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)**
-    - **[ID: 180051 (SPEC-038 天然キラル生体触媒＆不斉自己触媒増幅＆0.5nm量子キラル判別統合フレームワーク)](https://wipogreen.wipo.int/wipogreen-database/articles/180051)**
-    - **[ID: 180050 (SPEC-037 人間主権型フィジカルAI＆匠暗黙知リザーバ進化マージプロトコル)](https://wipogreen.wipo.int/wipogreen-database/articles/180050)**
-    - **[ID: 180049 (SPEC-036 V2.0 地球システム統合連鎖・太陽陽子逆圧電・対蹠点ラリー・7層複合災害遮断プロトコル)](https://wipogreen.wipo.int/wipogreen-database/articles/180049)**
-    - **[ID: 179978 (ANNEX-SPEC-027/028 V12.4 完全生体自律知能 JIN-OS Living Silicon ＆ Electron E1 自律神経 ＆ 極限11大物理ハードウェア垂直統合)](https://wipogreen.wipo.int/wipogreen-database/articles/179978)**
-    - **[ID: 179974 (SPEC-035 都市風道コリドー・常温VOC光触媒・ナノプラ量子回収)](https://wipogreen.wipo.int/wipogreen-database/articles/179974)**
-    - **[ID: 179973 (SPEC-034 生体防潮オイスターリーフ・深海海溝調停・沿岸共生)](https://wipogreen.wipo.int/wipogreen-database/articles/179973)**
-    - **[ID: 179972 (SPEC-033 V12.3 自律型不燃バイオ防壁・宇宙衛星早期検知・多層生体防火コリドー・急速斜面蘇生)](https://wipogreen.wipo.int/wipogreen-database/articles/179972)**
-    - **[ID: 179971 (SPEC-032 火山降灰サイクロン分級・排熱ジオポリマー・風化土壌再生)](https://wipogreen.wipo.int/wipogreen-database/articles/179971)**
-    - **[ID: 179970 (SPEC-031 原位置PFAS完全無毒化＆電場生体ハイブリッド水脈解毒＆SCWG熱加水分解)](https://wipogreen.wipo.int/wipogreen-database/articles/179970)**
-    - [ID: 179968 (SPEC-030 宇宙惑星レゴリス自律土壌化＆極限生体代謝テラ・プレタ創生)](https://wipogreen.wipo.int/wipogreen-database/articles/179968)
-    - [ID: 179967 (SPEC-029 超臨界荷電核変換＆光核反応量子錬金術＆IGSキャスク非破壊透視＆光電融合放射線耐性制御)](https://wipogreen.wipo.int/wipogreen-database/articles/179967)
-    - [ID: 179966 (SPEC-028 生体等温光電融合＆IGSナノ光路非破壊透視＆核融合耐強磁場光速主権計算)](https://wipogreen.wipo.int/wipogreen-database/articles/179966)
-    - [ID: 179964 (SPEC-999 宇宙ヘリウム3・LM26派生MTF/FRC直接誘導核融合＆IGS炉内トモグラフィ)](https://wipogreen.wipo.int/wipogreen-database/articles/179964)
-    - [ID: 179963 (SPEC-010 都心・地方二元型資源循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179963)
-    - [ID: 179961 (SPEC-006 Bio-FOEAS農地水理・田んぼダム治水)](https://wipogreen.wipo.int/wipogreen-database/articles/179961)
-    - [ID: 179960 (SPEC-002 多重冗長化WASH・3重リング配管)](https://wipogreen.wipo.int/wipogreen-database/articles/179960)
-    - [ID: 179959 (SPEC-001 溶存酸素純増放流・跳水落差工)](https://wipogreen.wipo.int/wipogreen-database/articles/179959)
-    - [ID: 179936 (SPEC-027 20W脳型チップレット地下冷却)](https://wipogreen.wipo.int/wipogreen-database/articles/179936)
-    - [ID: 179871 (SPEC-014 昆虫フラス土壌化)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-    - [ID: 179878 (SPEC-015 生態共生水素製鉄)](https://wipogreen.wipo.int/wipogreen-database/articles/179878)
-    - [ID: 179879 (SPEC-016 三重円環地球再生)](https://wipogreen.wipo.int/wipogreen-database/articles/179879)
-    - [ID: 179880 (SPEC-017 動的広域減災シールド)](https://wipogreen.wipo.int/wipogreen-database/articles/179880)
-    - [ID: 179881 (SPEC-013 生体ミトコンドリア炭素隔離)](https://wipogreen.wipo.int/wipogreen-database/articles/179881)
-    - [ID: 179882 (LSU-Chad-01 オアシス水インフラ)](https://wipogreen.wipo.int/wipogreen-database/articles/179882)
-    - [ID: 179883 (SPEC-012 公園地下防災調整池)](https://wipogreen.wipo.int/wipogreen-database/articles/179883)
-    - [ID: 179884 (SPEC-018 沿岸連鎖海水水理蓄電)](https://wipogreen.wipo.int/wipogreen-database/articles/179884)
-    - [ID: 179886 (SPEC-019 風・海流複合深海係留)](https://wipogreen.wipo.int/wipogreen-database/articles/179886)
-    - [ID: 179888 (SPEC-020 地殻振動地熱発電IGS通信)](https://wipogreen.wipo.int/wipogreen-database/articles/179888)
-    - [ID: 179896 (SPEC-022 現場打ち新コンクリ新モルタル)](https://wipogreen.wipo.int/wipogreen-database/articles/179896)
-    - [ID: 179898 (SPEC-023 動的霞堤信玄堤治水)](https://wipogreen.wipo.int/wipogreen-database/articles/179898)
-    - [ID: 179899 (SPEC-024 深層崩壊土砂ダム緊急サイフォン)](https://wipogreen.wipo.int/wipogreen-database/articles/179899)
-    - [ID: 179900 (SPEC-025 豪雪下水熱無散水消雪)](https://wipogreen.wipo.int/wipogreen-database/articles/179900)
-    - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901)
+    - **[ID: 180061 (JIN-DOC-2026-SPACE 閉鎖宇宙循環生命維持ECLSS＆ハビタットアーキテクチャ)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)** ｜ [📄 仕様書](./docs/JIN_COSMIC_ECLSS_CLOSED_LOOP_ARCHITECTURE.md)
+    - **[ID: 180051 (SPEC-038 天然キラル生体触媒＆不斉自己触媒増幅＆0.5nm量子キラル判別統合フレームワーク)](https://wipogreen.wipo.int/wipogreen-database/articles/180051)** ｜ [📄 仕様書](./docs/SPEC-038_NATURAL_CHIRAL_CATALYTIC_FRAMEWORK.md)
+    - **[ID: 180050 (SPEC-037 人間主権型フィジカルAI＆匠暗黙知リザーバ進化マージプロトコル)](https://wipogreen.wipo.int/wipogreen-database/articles/180050)** ｜ [📄 仕様書](./docs/SPEC-037_HUMAN_SOVEREIGN_PHYSICAL_AI_RESERVOIR_MERGE_PROTOCOL.md)
+    - **[ID: 180049 (SPEC-036 V2.0 地球システム統合連鎖・太陽陽子逆圧電・対蹠点ラリー・7層複合災害遮断プロトコル)](https://wipogreen.wipo.int/wipogreen-database/articles/180049)** ｜ [📄 仕様書](./docs/SPEC-036_EARTH_SYSTEM_MULTI_HAZARD_HARMONIZATION_PROTOCOL.md)
+    - **[ID: 179978 (ANNEX-SPEC-027/028 V12.4 完全生体自律知能 JIN-OS Living Silicon ＆ Electron E1 自律神経 ＆ 極限11大物理ハードウェア垂直統合)](https://wipogreen.wipo.int/wipogreen-database/articles/179978)** ｜ [📄 仕様書](./docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)
+    - **[ID: 179974 (SPEC-035 都市風道コリドー・常温VOC光触媒・ナノプラ量子回収)](https://wipogreen.wipo.int/wipogreen-database/articles/179974)** ｜ [📄 仕様書](./docs/SPEC-035_URBAN_VENTILATION_VOC_NANOPLASTIC_PROTOCOL.md)
+    - **[ID: 179973 (SPEC-034 生体防潮オイスターリーフ・深海海溝調停・沿岸共生)](https://wipogreen.wipo.int/wipogreen-database/articles/179973)** ｜ [📄 仕様書](./docs/SPEC-034_LIVING_BREAKWATERS_OYSTER_REEF_PROTOCOL.md)
+    - **[ID: 179972 (SPEC-033 V12.3 自律型不燃バイオ防壁・宇宙衛星早期検知・多層生体防火コリドー・急速斜面蘇生)](https://wipogreen.wipo.int/wipogreen-database/articles/179972)** ｜ [📄 仕様書](./docs/SPEC-033_AUTONOMOUS_WILDFIRE_SHIELD_BIO_CORRIDOR_PROTOCOL.md)
+    - **[ID: 179971 (SPEC-032 火山降灰サイクロン分級・排熱ジオポリマー・風化土壌再生)](https://wipogreen.wipo.int/wipogreen-database/articles/179971)** ｜ [📄 仕様書](./docs/SPEC-032_VOLCANIC_ASH_CYCLONE_GEOPOLYMER_ERW_PROTOCOL.md)
+    - **[ID: 179970 (SPEC-031 原位置PFAS完全無毒化＆電場生体ハイブリッド水脈解毒＆SCWG熱加水分解)](https://wipogreen.wipo.int/wipogreen-database/articles/179970)** ｜ [📄 仕様書](./docs/SPEC-031_IN_SITU_PFAS_ELECTRO_BIOREMEDIATION_PROTOCOL.md)
+    - [ID: 179968 (SPEC-030 宇宙惑星レゴリス自律土壌化＆極限生体代謝テラ・プレタ創生)](https://wipogreen.wipo.int/wipogreen-database/articles/179968) ｜ [📄 仕様書](./docs/SPEC-030_COSMIC_PLANETARY_REGOLITH_TERRA_PRETA_SOIL_METABOLISM_PROTOCOL.md)
+    - [ID: 179967 (SPEC-029 超臨界荷電核変換＆光核反応量子錬金術＆IGSキャスク非破壊透視＆光電融合放射線耐性制御)](https://wipogreen.wipo.int/wipogreen-database/articles/179967) ｜ [📄 仕様書](./docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md)
+    - [ID: 179966 (SPEC-028 生体等温光電融合＆IGSナノ光路非破壊透視＆核融合耐強磁場光速主権計算)](https://wipogreen.wipo.int/wipogreen-database/articles/179966) ｜ [📄 仕様書](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md)
+    - [ID: 179964 (SPEC-999 宇宙ヘリウム3・LM26派生MTF/FRC直接誘導核融合＆IGS炉内トモグラフィ)](https://wipogreen.wipo.int/wipogreen-database/articles/179964) ｜ [📄 仕様書](./docs/SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md)
+    - [ID: 179963 (SPEC-010 都心・地方二元型資源循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179963) ｜ [📄 仕様書](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)
+    - [ID: 179961 (SPEC-006 Bio-FOEAS農地水理・田んぼダム治水)](https://wipogreen.wipo.int/wipogreen-database/articles/179961) ｜ [📄 仕様書](./docs/SPEC-006_BIO_FOEAS_WATERSHED_SOVEREIGNTY.md)
+    - [ID: 179960 (SPEC-002 多重冗長化WASH・3重リング配管)](https://wipogreen.wipo.int/wipogreen-database/articles/179960) ｜ [📄 仕様書](./docs/JIN-SPEC-WASH-002.md)
+    - [ID: 179959 (SPEC-001 溶存酸素純増放流・跳水落差工)](https://wipogreen.wipo.int/wipogreen-database/articles/179959) ｜ [📄 仕様書](./docs/JIN-SPEC-ECO-001.md)
+    - [ID: 179936 (SPEC-027 20W脳型チップレット地下冷却)](https://wipogreen.wipo.int/wipogreen-database/articles/179936) ｜ [📄 仕様書](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md)
+    - [ID: 179871 (SPEC-014 昆虫フラス土壌化)](https://wipogreen.wipo.int/wipogreen-database/articles/179871) ｜ [📄 仕様書](./docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)
+    - [ID: 179878 (SPEC-015 生態共生水素製鉄)](https://wipogreen.wipo.int/wipogreen-database/articles/179878) ｜ [📄 仕様書](./docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)
+    - [ID: 179879 (SPEC-016 三重円環地球再生)](https://wipogreen.wipo.int/wipogreen-database/articles/179879) ｜ [📄 仕様書](./docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)
+    - [ID: 179880 (SPEC-017 動的広域減災シールド)](https://wipogreen.wipo.int/wipogreen-database/articles/179880) ｜ [📄 仕様書](./docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md)
+    - [ID: 179881 (SPEC-013 生体ミトコンドリア炭素隔離)](https://wipogreen.wipo.int/wipogreen-database/articles/179881) ｜ [📄 仕様書](./docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)
+    - [ID: 179882 (LSU-Chad-01 オアシス水インフラ)](https://wipogreen.wipo.int/wipogreen-database/articles/179882) ｜ [📄 仕様書](./docs/SPEC-030_LSU_CHAD_01_AUTONOMOUS_INFRASTRUCTURE.md)
+    - [ID: 179883 (SPEC-012 公園地下防災調整池)](https://wipogreen.wipo.int/wipogreen-database/articles/179883) ｜ [📄 仕様書](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md)
+    - [ID: 179884 (SPEC-018 沿岸連鎖海水水理蓄電)](https://wipogreen.wipo.int/wipogreen-database/articles/179884) ｜ [📄 仕様書](./docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md)
+    - [ID: 179886 (SPEC-019 風・海流複合深海係留)](https://wipogreen.wipo.int/wipogreen-database/articles/179886) ｜ [📄 仕様書](./docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md)
+    - [ID: 179888 (SPEC-020 地殻振動地熱発電IGS通信)](https://wipogreen.wipo.int/wipogreen-database/articles/179888) ｜ [📄 仕様書](./docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)
+    - [ID: 179896 (SPEC-022 現場打ち新コンクリ新モルタル)](https://wipogreen.wipo.int/wipogreen-database/articles/179896) ｜ [📄 仕様書](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)
+    - [ID: 179898 (SPEC-023 動的霞堤信玄堤治水)](https://wipogreen.wipo.int/wipogreen-database/articles/179898) ｜ [📄 仕様書](./docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md)
+    - [ID: 179899 (SPEC-024 深層崩壊土砂ダム緊急サイフォン)](https://wipogreen.wipo.int/wipogreen-database/articles/179899) ｜ [📄 仕様書](./docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)
+    - [ID: 179900 (SPEC-025 豪雪下水熱無散水消雪)](https://wipogreen.wipo.int/wipogreen-database/articles/179900) ｜ [📄 仕様書](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md)
+    - [ID: 179901 (SPEC-026 火災旋風破砕震災瓦礫循環)](https://wipogreen.wipo.int/wipogreen-database/articles/179901) ｜ [📄 仕様書](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md)
   
 - **CERN Zenodo (国際DOI)**: [10.5281/zenodo.24423495](https://doi.org/10.5281/zenodo.24423495) (Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158))
 - **Archive.today**: [2026-11-22 独立魚拓確定版 (ID:05Sa0)](https://archive.li/05Sa0)
@@ -90,21 +90,21 @@
     <a href="#23-次世代半導体製造国内自立ファブ--20w脳型チップレット地下冷却主権-level-3-先進研究">23.国内自立ファブ</a> ｜ 
     <a href="#24-量子暗号と分散型aiグリッドジンネット-level-3-先進研究">24.量子暗号ネット</a> ｜ 
     <a href="#25-jin-os新パラダイム統合司令端末benevolence-client-level-2-既存技術統合">25.JIN-OS端末</a><br>
-    <a href="#26-宇宙ヘリウム3磁気圧縮直接誘導核融合--igs非破壊炉内トモグラフィ自律制御-level-3--canonical-spec-999">26.宇宙ヘリウム3核融合＆IGS</a> ｜ 
-    <a href="#27-生体等温光電融合--igsナノ光路非破壊透視--核融合耐強磁場光速主権計算-level-3--canonical-spec-028">27.生体等温光電融合＆光速計算</a> ｜ 
-    <a href="#28-超臨界荷電核変換--光核反応量子錬金術--igsキャスク非破壊透視--光電融合放射線耐性制御-level-3--canonical-spec-029">28.荷電核変換＆量子錬金術</a> ｜ 
-    <a href="#29-宇宙惑星レゴリス自律土壌化--極限生体代謝テラプレタ創生-level-2--canonical-spec-030">29.惑星レゴリス土壌化＆テラプレタ</a><br>
-    <a href="#30-原位置pfas完全無毒化--電場生体ハイブリッド水脈解毒--scwg熱加水分解-level-2--canonical-spec-031">30.原位置PFAS完全無毒化</a> ｜ 
-    <a href="#31-火山降灰サイクロン分級--排熱ジオポリマーブロック成型--拡張岩石風化erw土壌再生-level-1--canonical-spec-032">31.火山灰ジオポリマー＆ERW</a> ｜ 
-    <a href="#32-自律型不燃バイオ防壁生体防火コリドー宇宙衛星早期検知--焼損地帯急速蘇生プロトコル-level-2--canonical-spec-033-v123"><b>32.宇宙衛星早期検知＆海藻消火 SPEC-033 V12.3</b></a> ｜ 
-    <a href="#33-生体防潮オイスターリーフ--深海海溝調停--沿岸海洋生態共生プロトコル-level-2--canonical-spec-034">33.生体防潮オイスターリーフ</a> ｜ 
-    <a href="#34-都市風道コリドー--常温voc光触媒分解--大気ナノプラスチック量子静電回収プロトコル-level-2--canonical-spec-035">34.都市風道＆ナノプラ量子回収</a><br>
-    <a href="#35-完全生体自律知能jin-os-living-silicon--極限11大物理ハードウェア垂直統合-level-3--canonical-annex-spec-027028">35.完全生体自律知能Living Silicon</a> ｜ 
-    <a href="#36-地球システム統合連鎖--複合災害遮断プロトコル-level-3--canonical-spec-036"><b>36.地球複合災害遮断 SPEC-036 V2.0</b></a> ｜ 
-    <a href="#37-人間主権型フィジカルai--匠暗黙知リザーバ進化マージプロトコル-level-3--canonical-spec-037">37.人間主権フィジカルAI SPEC-037</a> ｜ 
-    <a href="#38-天然キラル生体触媒--不斉合成統合フレームワーク-level-2--canonical-spec-038">38.天然キラル生体触媒 SPEC-038</a> ｜ 
-    <a href="#39-閉鎖宇宙環境完全自律循環生命維持アーキテクチャ-level-2--canonical-jin-doc-2026-space">39.閉鎖宇宙ECLSS JIN-DOC-SPACE</a> ｜ 
-    <a href="#40-ヘリウム励起微量元素相互作用--igs多重散乱逆解析3d元素組成スキャナータグ不要深部救命-level-3--canonical-spec-039"><b>40.元素透視＆タグ不要救命 SPEC-039</b></a> ｜ 
+    <a href="#26-宇宙ヘリウム3磁気圧縮直接誘導核融合--igs非破壊炉内トモグラフィ自律制御-cosmic-he-3-direct-induction-fusion-lm26-mtf-derivative--igs-tomography-level-3--canonical-spec-999">26.宇宙ヘリウム3核融合＆IGS</a> ｜ 
+    <a href="#27-生体等温光電融合--igsナノ光路非破壊透視--核融合耐強磁場光速主権計算-bio-isothermal-optoelectronic-computing-sub-nanometer-igs-inspection--high-magnetic-immune-photonic-core-level-3--canonical-spec-028">27.生体等温光電融合＆光速計算</a> ｜ 
+    <a href="#28-超臨界荷電核変換--光核反応量子錬金術--igsキャスク非破壊透視--光電融合放射線耐性制御-bio-isothermal-optoelectronic-nuclear-transmutation-photonuclear-quantum-alchemy--igs-cask-tomography-level-3--canonical-spec-029">28.荷電核変換＆量子錬金術</a> ｜ 
+    <a href="#29-宇宙惑星レゴリス自律土壌化--極限生体代謝テラプレタ創生-cosmic-planetary-regolith-remediation--extremophilic-bio-metabolic-terra-preta-level-2--canonical-spec-030">29.惑星レゴリス土壌化＆テラプレタ</a><br>
+    <a href="#30-原位置pfas完全無毒化--電場生体ハイブリッド水脈解毒--scwg熱加水分解-in-situ-pfas-complete-neutralization-electro-kinetic-migration--scwg-hydrothermal-cleavage-level-2--canonical-spec-031">30.原位置PFAS完全無毒化</a> ｜ 
+    <a href="#31-火山降灰サイクロン分級--排熱ジオポリマーブロック成型--拡張岩石風化erw土壌再生-volcanic-ash-cyclone-separation-waste-heat-geopolymer--erw-soil-regeneration-level-1--canonical-spec-032">31.火山灰ジオポリマー＆ERW</a> ｜ 
+    <a href="#32-自律型不燃バイオ防壁生体防火コリドー宇宙衛星早期検知--焼損地帯急速蘇生プロトコル-autonomous-megafire-bio-gel-suppression-satellite-linked-early-detection--living-firebreak-protocol-level-2--canonical-spec-033-v123"><b>32.宇宙衛星早期検知＆海藻消火 SPEC-033 V12.3</b></a> ｜ 
+    <a href="#33-生体防潮オイスターリーフ--深海海溝調停--沿岸海洋生態共生プロトコル-biogenic-oyster-living-breakwaters--coastal-marine-symbiosis-level-2--canonical-spec-034">33.生体防潮オイスターリーフ</a> ｜ 
+    <a href="#34-都市風道コリドー--常温voc光触媒分解--大気ナノプラスチック量子静電回収プロトコル-urban-ventilation-corridor-ambient-voc-photocatalysis--nano-plastic-capture-level-2--canonical-spec-035">34.都市風道＆ナノプラ量子回収</a><br>
+    <a href="#35-完全生体自律知能jin-os-living-silicon-極限11大物理ハードウェア垂直統合-biomorphic-20w-autonomous-ai-core-spatial-dataflow-autonomic-fabric-optogenetic-synaptic-modulation--extreme-hardware-synthesis-level-3--canonical-annex-spec-027028">35.完全生体自律知能Living Silicon</a> ｜ 
+    <a href="#36-地球システム統合連鎖--複合災害遮断プロトコル-earth-system-multi-hazard-harmonization--geo-circuit-breaker-protocol-v20-level-3--canonical-spec-036"><b>36.地球複合災害遮断 SPEC-036 V2.0</b></a> ｜ 
+    <a href="#37-人間主権型フィジカルai--匠暗黙知リザーバ進化マージプロトコル-human-sovereign-physical-ai--artisan-tacit-knowledge-reservoir-evolutionary-merge-protocol-level-3--canonical-spec-037">37.人間主権フィジカルAI SPEC-037</a> ｜ 
+    <a href="#38-天然キラル生体触媒--不斉合成統合フレームワーク-natural-chiral-bio-catalytic-asymmetric-autocatalysis--sub-nm-quantum-chiral-sensing-framework-level-2--canonical-spec-038">38.天然キラル生体触媒 SPEC-038</a> ｜ 
+    <a href="#39-閉鎖宇宙環境完全自律循環生命維持アーキテクチャ-autonomous-cosmic-closed-loop-eclss--habitat-architecture-level-2--canonical-jin-doc-2026-space">39.閉鎖宇宙ECLSS JIN-DOC-SPACE</a> ｜ 
+    <a href="#40-ヘリウム励起微量元素相互作用--igs多重散乱逆解析3d元素組成スキャナータグ不要深部救命-helium-coupled-elemental-interaction-sub-surface-igs-inverse-scattering-tomography--tagless-deep-rubble-rescue-protocol-level-3--canonical-spec-039"><b>40.元素透視＆タグ不要救命 SPEC-039</b></a> ｜ 
     <a href="#41-暗所菌類共生型-閉鎖生態系アーキテクチャ-myco-heterotrophic-dark-layer-architecture-level-2--canonical-spec-040"><b>41.暗所菌類共生・閉鎖生態系 SPEC-040</b></a>
   </p>
 </div>
@@ -311,7 +311,7 @@ Energy, Environment & Autonomous Water Matrix
   - 現場打ち新コンクリ（SPEC-022）: 半径20km小型分散プラント・プラスチックフリー防錆・公道アンカー越境禁止
   - 地下消火水利直結（SPEC-012）: 地下プレキャストRC調整池（1,000〜10,000m³+）から消防専用スタンドパイプ直結
   - 防犯・道路保全（SPEC-011）: 72時間以内復旧直営LED防犯灯、IGS非破壊凶器検知、交番3〜5分臨場
-- **連携仕様書**: [docs/SPEC-040_MYCO_HETEROTROPHIC_DARK_LAYER.md](./docs/SPEC-040_MYCO_HETEROTROPHIC_DARK_LAYER.md) / [docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md](./docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md) / [docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md) / [docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md) / [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) / [docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) / [docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md) / [docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) / [docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md) / [docs/SPEC-012_SOVEREIGN_URPARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URPARK_DISASTER_REFUGE_PROTOCOL.md) / [docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)
+- **連携仕様書**: [docs/SPEC-040_MYCO_HETEROTROPHIC_DARK_LAYER.md](./docs/SPEC-040_MYCO_HETEROTROPHIC_DARK_LAYER.md) / [docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md](./docs/SPEC-039_HELIUM_COUPLED_IGS_ELEMENTAL_TOMOGRAPHY_AND_TAGLESS_RESCUE_PROTOCOL.md) / [docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md](./docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md) / [docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md](./docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md) / [whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](./whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) / [docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md](./docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md) / [docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md](./docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md) / [docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md](./docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md) / [docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md](./docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md) / [docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md](./docs/SPEC-012_SOVEREIGN_URBAN_PARK_DISASTER_REFUGE_PROTOCOL.md) / [docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md](./docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md) / [docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md](./docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)
 
 ---
 
@@ -740,7 +740,7 @@ Watershed Decontamination, Atmospheric Purification & Planetary Living Defense
   - SCWG熱加水分解条件: 反応温度 **450〜600℃** / 反応圧力 **25〜30 MPa**（外部化石燃料ゼロ・下水バイオガス自己給熱）
   - 最終固定形態: 蛍石（CaF2）結晶沈殿回収（セメント混和材・光学ガラス原料へ100%マテリアルリサイクル）
   - 市民水脈主権: 水道水源PFAS汚染の行政隠蔽を許さず、市民主権検査とオンサイト無害化を不可侵義務化
-- **連携仕様書**: [docs/SPEC-031_IN_SITU_PFAS_WATERSHED_REMEDIATION_PROTOCOL.md](./docs/SPEC-031_IN_SITU_PFAS_WATERSHED_REMEDIATION_PROTOCOL.md) / [docs/SPEC-001_DISSOLVED_OXYGEN_NET_POSITIVE_RIVER_REVITALIZATION.md](./docs/SPEC-001_DISSOLVED_OXYGEN_NET_POSITIVE_RIVER_REVITALIZATION.md) / [docs/SPEC-002_FAULT_TOLERANT_WASH_RING_NETWORK.md](./docs/SPEC-002_FAULT_TOLERANT_WASH_RING_NETWORK.md)
+- **連携仕様書**: [docs/SPEC-031_IN_SITU_PFAS_ELECTRO_BIOREMEDIATION_PROTOCOL.md](./docs/SPEC-031_IN_SITU_PFAS_ELECTRO_BIOREMEDIATION_PROTOCOL.md) / [docs/JIN-SPEC-ECO-001.md](./docs/JIN-SPEC-ECO-001.md) / [docs/JIN-SPEC-WASH-002.md](./docs/JIN-SPEC-WASH-002.md)
 
 ---
 
